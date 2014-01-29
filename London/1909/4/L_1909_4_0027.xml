@@ -18,8 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. H</Text>
+      <Title>Gr.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>7266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Honer</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,21 +162,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Leonard</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salmon</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steele</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muntz</Key>
-      <Text>., C. L. E. (Capt.)</Text>
+      <Text>, C. L. E. (Capt.)</Text>
       <PageNumber>8013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>,'Sub-Lieut. B. C. (retired list)</Text>
+      <Text>'Sub-Lieut. B. C. (retired list)</Text>
       <PageNumber>7404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>, CD...</Text>
+      <Text>CD...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazell</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>. W. .. .. .. ..</Text>
+      <Text>W. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1475,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J ;</Text>
+      <Forenames>J</Forenames>
+      <Text>;</Text>
       <PageNumber>8240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigers</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,7 +1559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, J ' .. Chisholm, H. .. .. O'humley, T. .. .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>' .. Chisholm, H. .. .. O'humley, T. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8241</PageNumber>
     </MainItem>
   </ItemGroup>

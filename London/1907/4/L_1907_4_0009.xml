@@ -62,9 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trummler</Key>
-      <Title>Capt.</Title>
-      <Forenames>Or</Forenames>
-      <Text>., Hon. Commander, Royal Tictorian Order</Text>
+      <Title>Capt. Or., Hon.</Title>
+      <Forenames>Com-</Forenames>
+      <Text>mander, Royal Tictorian Order</Text>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walraven</Key>
-      <Text>, O, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Forenames>O</Forenames>
+      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
       <PageNumber>6743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,14 +139,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wessel</Key>
-      <Text>, &amp;., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>&amp;., Hon. Fourth Class, Royal Victorian Order</Text>
       <PageNumber>6743</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>, Duke of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonham-Cartisr</Key>
-      <Text>, Capt. C, DeputyAsst. Adjt. and Qrmr.-Gen</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, DeputyAsst. Adjt. and Qrmr.-Gen</Text>
       <PageNumber>8607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Close</Key>
-      <Forenames>Lieiit</Forenames>
-      <Text>.-Col. F. M., Chief Instr. in. Gunnery</Text>
+      <Title>Lieiit.</Title>
+      <Text>-Col. F. M., Chief Instr. in. Gunnery</Text>
       <PageNumber>8440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +444,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Col. Sir C, Bart., Brig.Gen</Text>
+      <Title>Col. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart., Brig.Gen</Text>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +752,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Toogood</Key>
-      <Text>, Capt. C, Recruiting Staff Officer (Class II)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Recruiting Staff Officer (Class II)</Text>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Hon. M. St. A. T. (Lieut.)</Text>
+      <Text>John, Hon. M. St. A. T. (Lieut.)</Text>
       <PageNumber>8690</PageNumber>
     </MainItem>
   </ItemGroup>

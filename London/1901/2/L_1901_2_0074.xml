@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, DA. H. (Lieut.)</Text>
+      <Text>DA. H. (Lieut.)</Text>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +224,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,8 +389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. S. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. S. H. (resigned)</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +449,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, Capt. F,R. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F</Forenames>
+      <Text>,R. (resigned)</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,8 +981,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigmore</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt,.A. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt,.A. W. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1191,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>8414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1232,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walls</Key>
-      <Text>, Qrmr. (Hon. Maj.) T. C. (resigned)</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>T. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,8 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eddowes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. P. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. P. A. (resigned)</Text>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>

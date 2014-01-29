@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodham</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>, Capt.' E. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Text>' E. (seconded) ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayldon</Key>
-      <Text>, if. J. (Lieut.)</Text>
+      <Text>if. J. (Lieut.)</Text>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, 1). O. (Lieut.)</Text>
+      <Text>1). O. (Lieut.)</Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>, .R. (Sub-Lieut.)</Text>
+      <Text>.R. (Sub-Lieut.)</Text>
       <PageNumber>5784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Forenames>Lie</Forenames>
-      <Text>.it. D. (retired list)</Text>
+      <Title>Lie .</Title>
+      <Text>it. D. (retired list)</Text>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>,Paymaster GJ (retired list)</Text>
+      <Text>Paymaster GJ (retired list)</Text>
       <PageNumber>6423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryse</Key>
-      <Forenames>Sub-</Forenames>
-      <Text>.-aeut. J. (retired list)</Text>
+      <Title>Sub-.</Title>
+      <Text>-aeut. J. (retired list)</Text>
       <PageNumber>6360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, fciub-Lieut. C. A. (retired list)</Text>
+      <Text>fciub-Lieut. C. A. (retired list)</Text>
       <PageNumber>5690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,14 +875,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake-Brocl</Key>
-      <Text>.man, L. A. (2nd Lieut.)</Text>
+      <Text>man, L. A. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eady</Key>
-      <Text>, Maj. I?. W. E. (Recruiting Staff Officer, Boyal Marines, Southampton District)</Text>
+      <Title>Maj.</Title>
+      <Forenames>I</Forenames>
+      <Text>?. W. E. (Recruiting Staff Officer, Boyal Marines, Southampton District)</Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>, 0. -A. C. (2nd Lieut.) .. ..</Text>
+      <Text>0. -A. C. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sohreiher</Key>
-      <Text>.A T.(Capb.)</Text>
+      <Text>A T.(Capb.)</Text>
       <PageNumber>6020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,10 +951,13 @@
       <PageNumber>4613</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Abstainers</Key>
+      <Key>
+        <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
+        <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>A. Abstainers</Forenames>
       <Text>and General 'Insurance Company, alteration of Memorandum of Association.. .. ..'S</Text>
       <PageNumber>057</PageNumber>
     </MainItem>
@@ -1018,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Auctions</Key>
-      <Text>,-Sales of Estates by, under Orders of the Court of Chancery : Aberavon, High-street, freehold business premises (Holloway v. Morgan)</Text>
+      <Text>-Sales of Estates by, under Orders of the Court of Chancery : Aberavon, High-street, freehold business premises (Holloway v. Morgan)</Text>
       <PageNumber>6522</PageNumber>
     </MainItem>
     <SubItem>

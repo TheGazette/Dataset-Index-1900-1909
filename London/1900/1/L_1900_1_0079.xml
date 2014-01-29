@@ -4,7 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falmouth</Key>
-      <Text>Viscount .. ' .. ..</Text>
+      <Title>Viscount .</Title>
+      <Text>. ' .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,9 +77,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. A</Text>
+      <Title>Lieut.-Col. Gr.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falmouth</Key>
-      <Text>Viscount .. .. ..</Text>
+      <Title>Viscount .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnegie</Key>
-      <Text>Lord .. .. .. ..</Text>
+      <Title>Lord .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynes</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaplin</Key>
-      <Forenames>Eric</Forenames>
+      <Title>Eric .</Title>
       <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,8 +300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matheson</Key>
-      <Forenames>Duncan</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Duncan .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludlow</Key>
-      <Forenames>Baron</Forenames>
+      <Title>Baron .</Title>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +501,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation) . ., ..</Text>
+      <Title>(cancellation)</Title>
+      <Text>. ., ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phelps</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paplllon</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lauder</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Locke</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,14 +1332,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sims</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sowerby</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

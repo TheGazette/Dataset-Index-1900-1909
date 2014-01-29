@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's Leinster Regiment (Royal Canadians). Bergne.R. B. (Lieut.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's Leinster Regiment (Royal Canadians). Bergne.R. B. (Lieut.)</Text>
       <PageNumber>1017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crocker</Key>
-      <Text>Capt. and Brev.-Maj. G. D. (seconded) .. .. .. .. --—</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. G. D. (seconded) .. .. .. .. --—</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,8 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Maj.)</Text>
+      <Title>Gr. (Maj.)</Title>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,8 +240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. H. T. (half-pay) ..</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. H. T. (half-pay) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edis</Key>
-      <Text>Capt. G-. M. A (temporary halfpay)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. M. A (temporary halfpay)</Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +403,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenner</Key>
-      <Text>Maj. and ' Brev.-Lieut.-Col. A. V. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>and ' Brev.-Lieut.-Col. A. V. (retired)</Text>
       <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Preseott-Roberts</Key>
-      <Text>P; A. (2nd Lieut.)</Text>
+      <Forenames>P</Forenames>
+      <Text>; A. (2nd Lieut.)</Text>
       <PageNumber>181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>Lieut.-Col. and Brev.-Col. J. W. A. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. J. W. A. (half-pay)</Text>
       <PageNumber>1017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,12 +968,11 @@
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Royal</Key>
-      <Forenames>Warrant</Forenames>
-      <Text>amending the designations and honorary rank of the various grades of commissioned officers</Text>
+      <Key>Walton</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(Capt.) ___ ___ ___ ___ Officers of the Indian Army. Promotions. Royal Warrant amending the designations and honorary rank of the various grades of commissioned officers</Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1040,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>Sir R!, Bart...'</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>!, Bart...'</Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Synge</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1335,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalmahoy</Key>
-      <Text>(correction) .,</Text>
+      <Title>(correction)</Title>
+      <Text>.,</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritohard</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>

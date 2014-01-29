@@ -673,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braye</Key>
-      <Text>Lieut.-Col. and Hon. Col. Lord (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (resigned)</Title>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +715,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,16 +730,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Radford</Key>
-      <Text>R fl. (Instr. of Musketry)</Text>
+      <Forenames>R</Forenames>
+      <Text>fl. (Instr. of Musketry)</Text>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. P. (resigned)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Capt. W. P. (resigned)</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +748,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +915,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexandra</Key>
-      <Text>Princess of Wales's Own {Yorkshire Regiment). Bovill, W.J. (2nd Lieut.) .. '</Text>
+      <Title>Princess</Title>
+      <Text>of Wales's Own {Yorkshire Regiment). Bovill, W.J. (2nd Lieut.) .. '</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,10 +1090,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Kerans</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barrett</Key>
+      <Text>' Capt, E. J. M. (antedated)</Text>
+      <PageNumber>1874</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,6 +1139,23 @@
       <Forenames>O. D.</Forenames>
       <Text>'(resigned)</Text>
       <PageNumber>333</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bromley</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>1874</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hamilton</Key>
+      <Forenames>M. J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1210,24 +1244,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Cork</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. W. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. W. (super.)</Text>
       <PageNumber>1251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. (super.) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. (super.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nuttall</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. P. (super.), .. '</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. P. (super.), .. '</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>Capt. and Instr. of Musketry S. A. C. (vacates appointment)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry S. A. C. (vacates appointment)</Text>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,6 +1295,15 @@
       <Forenames>C. F.</Forenames>
       <Text>.H..(retired)</Text>
       <PageNumber>1364</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shortt</Key>
+      <Title>Capt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>de S. (retired)</Text>
+      <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

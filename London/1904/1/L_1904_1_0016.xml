@@ -195,7 +195,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.),</Text>
+      <Title>(Capt.)</Title>
+      <Text>,</Text>
       <PageNumber>1540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +296,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grepe</Key>
-      <Text>Capt.. A. W. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. A. W. (seconded)</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,8 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunner</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.-Col. E. (half-pay)</Text>
+      <Title>Brev.</Title>
+      <Text>-Col. E. (half-pay)</Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +679,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj. . and Instr. in Gunnery)</Text>
+      <Title>(Adj. . and Instr. in Gunnery)</Title>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +688,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +790,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Massie</Key>
-      <Text>Capt. j. H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>j. H. (seconded)</Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Text>M, C. (Maj.)</Text>
+      <Forenames>M</Forenames>
+      <Text>, C. (Maj.)</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +1733,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salvesbh</Key>
-      <Text>Maj.' C. E. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>' C. E. (retired)</Text>
       <PageNumber>261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>J: C. I. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: C. I. (Lieut.)</Text>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>, G-. S. C. (Lieut.)</Text>
+      <Text>G-. S. C. (Lieut.)</Text>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,8 @@
       <Key>
         <KeyDitto>__</KeyDitto>
       </Key>
-      <Text>(retired pay) .. . —</Text>
+      <Title>(retired pay)</Title>
+      <Text>.. . —</Text>
       <PageNumber>2778</PageNumber>
     </MainItem>
     <SubItem>
@@ -744,7 +745,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>, A, I. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, I. (2nd Lieut.)</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +941,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Philipps</Key>
-      <Text>, Capt. and Instr. of Artillery G. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Artillery G. (resigned)</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>, Maj, and Hon. Lieut.-Col. J. G. (resigned)</Text>
+      <Title>Maj</Title>
+      <Text>, and Hon. Lieut.-Col. J. G. (resigned)</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -13,7 +13,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>9660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut) .. ..</Text>
+      <Title>(Lieut)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawling</Key>
-      <Text>.iC. H. (2nd Lieut.) .. ..</Text>
+      <Text>iC. H. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +196,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>, T, M. S. (Maj.)</Text>
+      <Forenames>T</Forenames>
+      <Text>, M. S. (Maj.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Linlithgow</Key>
-      <Text>, Marquis of (2nd Lieut.).</Text>
+      <Title>Marquis</Title>
+      <Text>of (2nd Lieut.).</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +615,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateman-Hanburv</Key>
-      <Text>, Hon. C S. M. (Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>C</Forenames>
+      <Text>S. M. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +653,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,14 +723,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>9293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hustings</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>7646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +747,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>9293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>(King's Own Royal Regiment), King, H.M. the, Colonel-in-Chief</Text>
+      <Title>(King's Own Royal Regiment), King</Title>
+      <Text>, H.M. the, Colonel-in-Chief</Text>
       <PageNumber>8161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Annaly</Key>
-      <Text>. Lord (Hon. Col.)</Text>
+      <Text>Lord (Hon. Col.)</Text>
       <PageNumber>8280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,8 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl (Hon. Col.)</Title>
       <PageNumber>8280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +882,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned) .. .. .. ..</Text>
+      <Title>(resigned)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,8 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>9184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +966,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) ...</Text>
+      <Title>(Maj.)</Title>
+      <Text>...</Text>
       <PageNumber>___ ___ —</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,8 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belper</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>9181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1136,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camoys</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,8 +1201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>9947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Battine</Key>
-      <Text>, R, St. C. (Adj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, St. C. (Adj.)</Text>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1252,8 @@
       <Key>
         <KeyDitto>___ —— ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

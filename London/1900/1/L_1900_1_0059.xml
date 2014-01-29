@@ -208,7 +208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aherdare</Key>
-      <Text>Lord (Hon. Lieut-Col.)</Text>
+      <Title>Lord (Hon. Lieut-Col.)</Title>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,6 +250,14 @@
       <Forenames>S. A.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>2512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gaskell</Key>
+      <Forenames>Lieut</Forenames>
+      <Text>, and Instr. of Musketry | F. H. (super.)</Text>
+      <PageNumber>2348</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -633,7 +641,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathailan</Key>
-      <Text>Viscount (Capt.) .. ..</Text>
+      <Title>Viscount (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1014,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut)</Text>
+      <Title>(Lieut)</Title>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1307,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1420,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>B, H. (2nd Lieut.) Hi</Text>
+      <Forenames>B</Forenames>
+      <Text>, H. (2nd Lieut.) Hi</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1563,7 +1573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paske</Key>
-      <Text>Capt. ana Instr. of Musketry G. F. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>ana Instr. of Musketry G. F. (seconded)</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1668,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut)</Text>
+      <Title>(Lieut)</Title>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,7 +1683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>Capt. Viscount (seconded)</Text>
+      <Title>Capt. Viscount (seconded)</Title>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,7 +1700,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>

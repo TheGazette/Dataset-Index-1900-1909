@@ -67,7 +67,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briscoe</Key>
-      <Text>, Capt. and Brev.-Maj. H. A. W. (retired):</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. H. A. W. (retired):</Text>
       <PageNumber>7100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +164,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>8646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gresham</Key>
-      <Text>, II. E. (Hon. Maj.)</Text>
+      <Text>II. E. (Hon. Maj.)</Text>
       <PageNumber>8908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,8 +625,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookes</Key>
-      <Forenames>Cii</Forenames>
-      <Text>.pt. and Hon. Maj. G. O. (resigned)</Text>
+      <Title>Cii.</Title>
+      <Text>pt. and Hon. Maj. G. O. (resigned)</Text>
       <PageNumber>7428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +685,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoyland</Key>
-      <Text>, 0. E. (Lieut.)</Text>
+      <Text>0. E. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,8 +980,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. Col., and Hon. Surg.-Col. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>Lieut. Col., and Hon. Surg.-Col. G. (resigned)</Text>
       <PageNumber>9092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,8 +1206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergus</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. F. (resigned)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,15 +4,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1929</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tacohi</Key>
-      <Forenames>Or</Forenames>
-      <Text>. .. .. .. ..</Text>
+      <Title>Or.</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +81,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosthwaite</Key>
-      <Text>, 2nd Lieut. BT. T. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>BT. T. (resigned)</Text>
       <PageNumber>2005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +124,15 @@
       <Key>Monck</Key>
       <Title>Hon. Or.</Title>
       <Forenames>S. S.</Forenames>
-      <Text>(2nd Lieut.) ibid. ' Rutter, E. M. (2nd Lieut.)</Text>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rutter</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +278,7 @@
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>' DEVONSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>DEVONSHIRE</SubCategoryTitle>
   <SubSectionTitle>{Royal North Devon Hussars.) Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -292,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>, QTOT. and Hon. Lieut. Or. (resigned)</Text>
+      <Text>QTOT. and Hon. Lieut. Or. (resigned)</Text>
       <PageNumber>660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>(Qrinr. and Hon. Lieut.), O. H. (resigned)</Text>
+      <Title>(Qrinr. and Hon. Lieut.)</Title>
+      <Text>, O. H. (resigned)</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +517,6 @@
       <PageNumber>968</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -520,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewson</Key>
-      <Text>, 2nd Lieut, L. L. (resigned)</Text>
+      <Text>2nd Lieut, L. L. (resigned)</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +539,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation) .. .. ,,</Text>
+      <Title>(cancellation)</Title>
+      <Text>.. .. ,,</Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>

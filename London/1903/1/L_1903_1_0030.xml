@@ -53,7 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Text>, Capt. and' Hon. Maj. B. H. (resigned) .. .. '</Text>
+      <Title>Capt.</Title>
+      <Text>and' Hon. Maj. B. H. (resigned) .. .. '</Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meyler</Key>
-      <Text>, Lieut.H. Ml (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>H. Ml (resigned)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Philips</Key>
-      <Text>, 'J. C. (2nd Lieut.)</Text>
+      <Text>'J. C. (2nd Lieut.)</Text>
       <PageNumber>1506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>,-Surg-.-Capt. G. W. H. (resigned)</Text>
+      <Text>-Surg-.-Capt. G. W. H. (resigned)</Text>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cathcart</Key>
-      <Text>,, A. E. .(Capt.)</Text>
+      <Text>, A. E. .(Capt.)</Text>
       <PageNumber>1132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +445,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Huth</Key>
-      <Text>, Lieut. A,.,H. (resigned), ...</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A</Forenames>
+      <Text>,.,H. (resigned), ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt-Barlow</Key>
-      <Text>, ' 2nd Lieut. E. A. (resigned) :</Text>
+      <Text>' 2nd Lieut. E. A. (resigned) :</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Text>, H-. (Capt.)</Text>
+      <Text>H-. (Capt.)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lysons</Key>
-      <Text>,. Capt. and Hon. Maj.. D. C. W. (resigned)</Text>
+      <Text>. Capt. and Hon. Maj.. D. C. W. (resigned)</Text>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckett-Steuart</Key>
-      <Text>, Capt.. and Hon. Maj. C. E. H. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. and Hon. Maj. C. E. H. (resigned)</Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>, Maj.' G. E. J. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>' G. E. J. (resigned)</Text>
       <PageNumber>312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, '2nd Lieut. G. (temporary half-pay)</Text>
+      <Text>'2nd Lieut. G. (temporary half-pay)</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lupton</Key>
-      <Text>,.G. (Hon. Capt.)</Text>
+      <Text>.G. (Hon. Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +953,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, 2nd Lieut. G; D. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>G</Forenames>
+      <Text>; D. (seconded)</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Forenames>Supe</Forenames>
-      <Text>.\ Capt.E (cancellation)</Text>
+      <Title>Supe.</Title>
+      <Text>\ Capt.E (cancellation)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balcarres</Key>
-      <Text>, Capt. Lord (resigned)</Text>
+      <Title>Capt. Lord (resigned)</Title>
       <PageNumber>115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stott</Key>
-      <Text>, Capt. and. Hon. Maj. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>and. Hon. Maj. J. (resigned)</Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eaton</Key>
-      <Text>, G: H. (Lieut.)..</Text>
+      <Forenames>G</Forenames>
+      <Text>: H. (Lieut.)..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furniss</Key>
-      <Text>, Capt. and . Hon. .Maj. A; (resigned) '</Text>
+      <Title>Capt.</Title>
+      <Text>and . Hon. .Maj. A; (resigned) '</Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbigging</Key>
-      <Text>, VV. P. E.' (Adj.) ..</Text>
+      <Text>VV. P. E.' (Adj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>,,A. N. (2nd Lieut.)</Text>
+      <Text>,A. N. (2nd Lieut.)</Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>

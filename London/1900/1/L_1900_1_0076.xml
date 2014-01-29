@@ -150,7 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albemarle</Key>
-      <Text>Lieut.-Col. and Hon. Col. Earl of (super.)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Earl</Title>
+      <Text>of (super.)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,9 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (super.)</Text>
+      <Title>2nd Lieut. Gr. (super.)</Title>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>J, A. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, A. (2nd Lieut.)</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,8 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. W. St. V. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. W. St. V. (super.)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. J. (resigned)</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,8 +987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut, M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut, M. (resigned)</Text>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1168,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,15 +1183,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Text>R, E. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (2nd Lieut.)</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sleman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. R. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. R. (super.)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon H. S.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>H. S.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
@@ -1654,8 +1655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. \V. M</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. \V. M</Text>
       <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,8 +1817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lie-it. J. C. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lie-it. J. C. (resigned)</Text>
       <PageNumber>2510</PageNumber>
     </MainItem>
   </ItemGroup>

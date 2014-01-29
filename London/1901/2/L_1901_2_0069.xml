@@ -371,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chrystie</Key>
-      <Forenames>Or</Forenames>
+      <Title>Or.</Title>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connell</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>, IT. T</Text>
+      <Text>IT. T</Text>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgkinson</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +970,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, .. .. .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>, .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulseberg</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, \V. J. H</Text>
+      <Text>\V. J. H</Text>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McConaghey</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mears</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muscroft</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1500,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eardley-Wilmot</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1753,7 +1754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1886,7 +1887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridgeway</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>

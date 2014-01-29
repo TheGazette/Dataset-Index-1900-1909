@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tumour</Key>
-      <Text>, Viscount (2nd Lieut.) ..'</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
+      <Text>..'</Text>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +29,7 @@
       <Key>
         <KeyDitto>—. ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alton</Key>
-      <Text>,' W. H. (2nd Lieut.)</Text>
+      <Text>' W. H. (2nd Lieut.)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,8 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Super</Forenames>
-      <Text>. 2nd Lieut, (absorbed . into-the Establishment)</Text>
+      <Title>Super.</Title>
+      <Text>2nd Lieut, (absorbed . into-the Establishment)</Text>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>, Marquis of (Maj.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>,R. L. (Vet.-Lieut.)</Text>
+      <Text>R. L. (Vet.-Lieut.)</Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>, R, E. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (Capt.)</Text>
       <PageNumber>6786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>,.C. (Maj.)</Text>
+      <Text>.C. (Maj.)</Text>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +825,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>, C.H. (Maj.) .. .. ..</Text>
+      <Text>C.H. (Maj.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +891,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maurice</Key>
-      <Text>, Maj: J. M., 4th Battalion, the King's Own (Royal Lancaster Regiment) Barker, J., Capt. and Instructor of Musketry, 4th Battalion, the King's Own (Roval Lancaster Regiment) .. Harper, Capt. A. G. M. N., 4th Battalion, the King's Own (Royal Lancaster Regiment) .. .. .. .. Awdry, Lieut. R. F., 4th Battalion, the King's Own (Royal Lancaster Regiment) Baines, 2nd Lieut. E. H. M. T., 4th Battalion, the King's Own (Royal Lancaster Regiment) .. .. .. Foster, 2nd Lieut. C. W. R. M., 4th Battalion, the King's Own (Royal Lancaster Regiment) .. .. ., Robinson, 2nd Lieut. J. H., 4th Batta, lion, the Suffolk Regiment ... .. Russell,' Lieut. W.M., 4th Battalion, the Canieronians (Scottish Rifles) .. Williams, Capt. G., 4th Battalion, the South Staffordshire Regiment .. Lyon, Lieut. H., 3rd Battalion, the Prince of Wales's Volunteers (South Lancashire Regiment) .. '.. Bayley,' 2nd Lieut, C. H., 3rd Battalion, the Prince of Wales's Volunteers (South Lancashire Regiment) .. Cleminson, Capt, J. J. D., 5th Battalion, Princess Victoria's (Royal Irish Fusiliers)</Text>
+      <Title>Maj</Title>
+      <Text>: J. M., 4th Battalion, the King's Own (Royal Lancaster Regiment) Barker, J., Capt. and Instructor of Musketry, 4th Battalion, the King's Own (Roval Lancaster Regiment) .. Harper, Capt. A. G. M. N., 4th Battalion, the King's Own (Royal Lancaster Regiment) .. .. .. .. Awdry, Lieut. R. F., 4th Battalion, the King's Own (Royal Lancaster Regiment) Baines, 2nd Lieut. E. H. M. T., 4th Battalion, the King's Own (Royal Lancaster Regiment) .. .. .. Foster, 2nd Lieut. C. W. R. M., 4th Battalion, the King's Own (Royal Lancaster Regiment) .. .. ., Robinson, 2nd Lieut. J. H., 4th Batta, lion, the Suffolk Regiment ... .. Russell,' Lieut. W.M., 4th Battalion, the Canieronians (Scottish Rifles) .. Williams, Capt. G., 4th Battalion, the South Staffordshire Regiment .. Lyon, Lieut. H., 3rd Battalion, the Prince of Wales's Volunteers (South Lancashire Regiment) .. '.. Bayley,' 2nd Lieut, C. H., 3rd Battalion, the Prince of Wales's Volunteers (South Lancashire Regiment) .. Cleminson, Capt, J. J. D., 5th Battalion, Princess Victoria's (Royal Irish Fusiliers)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>

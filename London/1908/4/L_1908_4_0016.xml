@@ -89,8 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>If</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>If. (resigned)</Title>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,12 +100,43 @@
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Webster</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>8279</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wolseley</Key>
+      <Text>II. V. B</Text>
+      <PageNumber>7916</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubCategoryTitle>Regiments</SubCategoryTitle>
   <SectionTitle>1st Life Guards</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>Hall</Key>
+      <Forenames>Riding</Forenames>
+      <Text>Master and Hon. Maj. D. (retired pay)</Text>
+      <PageNumber>9944</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Monekton-Arundell</Key>
+      <Title>Hon.</Title>
+      <Forenames>G. V. A.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>8279</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Somers</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>9944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsley</Key>
-      <Text>, Lord (2nd Lieut.) ..</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +188,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>. C. F. (Capt.)</Text>
+      <Text>C. F. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longstaffe</Key>
-      <Text>, j. L. (2nd Lieut.)</Text>
+      <Text>j. L. (2nd Lieut.)</Text>
       <PageNumber>9560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,12 +431,10 @@
       <PageNumber>7381</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>I 10th Dragoons (Hussars)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Forenames>Stewart</Forenames>
-      <Text>, G. C. (Lieut.)</Text>
+      <Text>10th Dragoons (Hussars). I Stewart, G. C. (Lieut.)</Text>
       <PageNumber>9133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bower</Key>
-      <Text>, 0. E. S. (Capt.) . '&lt;£</Text>
+      <Text>0. E. S. (Capt.) . '&lt;£</Text>
       <PageNumber>9183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +675,7 @@
       <Key>
         <KeyDitto>___ '. ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buzzar</Key>
-      <Text>.i, Capt. F. A. (seconded)</Text>
+      <Text>i, Capt. F. A. (seconded)</Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>

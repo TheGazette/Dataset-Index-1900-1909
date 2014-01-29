@@ -127,7 +127,6 @@
       <PageNumber>5285</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SubSectionTitle>Promotions</SubSectionTitle>
   <SubSectionTitle>Lieutenant-Colonels</SubSectionTitle>
   <ItemGroup>
@@ -291,7 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Text>, J, A. . ' . . .-. . . Cobban, C. L. .. .. . . . .</Text>
+      <Forenames>J</Forenames>
+      <Text>, A. . ' . . .-. . . Cobban, C. L. .. .. . . . .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flood</Key>
-      <Text>, U, J. M</Text>
+      <Forenames>U</Forenames>
+      <Text>, J. M</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +366,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>, E, G</Text>
+      <Forenames>E</Forenames>
+      <Text>, G</Text>
       <PageNumber>___ ___ ___ — ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Text>,. E. P. A</Text>
+      <Text>. E. P. A</Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, .H.</Text>
+      <Text>.H.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pott</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,14 +596,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Text>,.A. H. D ..</Text>
+      <Text>.A. H. D ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barstow</Key>
-      <Text>,.A. E... .. ..</Text>
+      <Text>.A. E... .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,22 +844,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>, Col. E</Text>
+      <Title>Col.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>6178</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meredith</Key>
-      <Text>, Col. J</Text>
+      <Title>Col.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stedman</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Sir E</Text>
+      <Title>Gen. Sir</Title>
+      <Forenames>E</Forenames>
       <PageNumber>6178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawley</Key>
-      <Text>, Maj. E</Text>
+      <Title>Maj.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1036,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Text>, Capt. T,</Text>
+      <Title>Capt.</Title>
+      <Forenames>T</Forenames>
+      <Text>,</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1072,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charteris</Key>
-      <Text>, Capt. J</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DCruz</Key>
-      <Text>,.A. ,,</Text>
+      <Text>.A. ,,</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,5 +1331,13 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>'Indian Army Departments!' &lt; Commissaries. , , .</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Collins</Key>
+      <Title>Or.</Title>
+      <Text>..' ... / :;</Text>
+      <PageNumber>5471</PageNumber>
+    </MainItem>
+  </ItemGroup>
 </Index>
 

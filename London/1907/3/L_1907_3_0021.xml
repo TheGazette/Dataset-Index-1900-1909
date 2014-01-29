@@ -172,7 +172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briscoe</Key>
-      <Text>, Lieut. G-. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. S. (seconded)</Text>
       <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +380,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>, Capt. H; B. (removed)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>; B. (removed)</Text>
       <PageNumber>6451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fea</Key>
-      <Text>,ron, A. T. (Lieut.) .. ..</Text>
+      <Text>ron, A. T. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pardhy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. K. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. K. M. (resigned)</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1043,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>

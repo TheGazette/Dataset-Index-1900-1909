@@ -130,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>Capt. Earl of (seconded)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +946,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>E,(Hon. Maj.) .. ..</Text>
+      <Forenames>E</Forenames>
+      <Text>,(Hon. Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huntingdon</Key>
-      <Text>Maj. Earl of (resigned)</Text>
+      <Title>Maj. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,7 +1651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennismore</Key>
-      <Text>Capt. Viscount (seconded)</Text>
+      <Title>Capt. Viscount (seconded)</Title>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,7 +1852,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>

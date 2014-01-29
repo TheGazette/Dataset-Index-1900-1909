@@ -96,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>, 3. A. (Lieut.)</Text>
+      <Text>3. A. (Lieut.)</Text>
       <PageNumber>7470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,8 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moran</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. Gr. (struck off the strength)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. Gr. (struck off the strength)</Text>
       <PageNumber>9566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilley</Key>
-      <Text>, Maj. PT. H. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>PT. H. (resigned)</Text>
       <PageNumber>7389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>,.Lieut. F. J. (resigned)</Text>
+      <Text>.Lieut. F. J. (resigned)</Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>,-H.E. P. (Capt.)</Text>
+      <Text>-H.E. P. (Capt.)</Text>
       <PageNumber>8029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainpthill</Key>
-      <Text>, Lord (Lieut.-Col.)</Text>
+      <Title>Lord (Lieut.-Col.)</Title>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,8 +529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patch</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. H. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. H. L. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennet</Key>
-      <Text>, R, S. D. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. D. (Lieut.)</Text>
       <PageNumber>7642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>. H. L. (Capt.)</Text>
+      <Text>H. L. (Capt.)</Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, Qrmr. andHon. Lieut. A. J. (temporary half-pay)</Text>
+      <Title>Qrmr.</Title>
+      <Text>andHon. Lieut. A. J. (temporary half-pay)</Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +847,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,8 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. L. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Actg. . Chaplain Rev.. R. L. (resigned)</Text>
+      <Title>Actg.</Title>
+      <Text>. Chaplain Rev.. R. L. (resigned)</Text>
       <PageNumber>8550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,8 +1281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritchard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. L. (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

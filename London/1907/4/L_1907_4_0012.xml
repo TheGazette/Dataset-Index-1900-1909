@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenwick</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Brevet Col. H. T. (half-pay)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Brevet Col. H. T. (half-pay)</Text>
       <PageNumber>6746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woraley</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>6668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +77,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bae</Key>
-      <Text>, 2hd Lieut. A. C. Resigned) -'</Text>
+      <Text>2hd Lieut. A. C. Resigned) -'</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, Capt. £. B. (half-pay)</Text>
+      <Title>Capt.</Title>
+      <Text>£. B. (half-pay)</Text>
       <PageNumber>7298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seeker</Key>
-      <Text>. V. H. (Lieut.)</Text>
+      <Text>V. H. (Lieut.)</Text>
       <PageNumber>7683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +550,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byron</Key>
-      <Text>, Capt. (Secretary)</Text>
+      <Title>Capt. (Secretary)</Title>
       <PageNumber>8689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,15 +874,32 @@
       <Key>Fitzwilliam</Key>
       <Title>Lieut.</Title>
       <Forenames>J. K.L.</Forenames>
-      <Text>(seconded) 7408 . Gainher, Riding Master and Hon. Lieut. E. W. (retired)</Text>
+      <Text>(seconded)</Text>
+      <PageNumber>7408</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gainher</Key>
+      <Forenames>Riding</Forenames>
+      <Text>Master and Hon. Lieut. E. W. (retired)</Text>
       <PageNumber>7683</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillson</Key>
-      <Text>. G. (Maj.)</Text>
+      <Text>G. (Maj.)</Text>
       <PageNumber>7683</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Greathed</Key>
+      <Title>Maj.</Title>
+      <Forenames>B. N.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1014,7 +1032,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, Lieut. IT. B. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>IT. B. (seconded)</Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, h. D. (seconded)</Text>
+      <Text>h. D. (seconded)</Text>
       <PageNumber>7298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>7898</PageNumber>
     </MainItem>
   </ItemGroup>

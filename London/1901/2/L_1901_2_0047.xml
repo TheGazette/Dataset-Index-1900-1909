@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eustace</Key>
-      <Forenames>Snrg</Forenames>
-      <Text>.-Lieut. M. J. (retired)</Text>
+      <Title>Snrg.</Title>
+      <Text>-Lieut. M. J. (retired)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>, 0. G. (2nd Lieut.) Macnaughton-Jones, Surg.-Lieut. H. M</Text>
+      <Text>0. G. (2nd Lieut.) Macnaughton-Jones, Surg.-Lieut. H. M</Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,8 +228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. B. F. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. B. F. (retired)</Text>
       <PageNumber>9068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,12 +333,11 @@
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (Volunteers)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Anderson</Key>
-      <Forenames>A. H.</Forenames>
-      <Text>(Capt.)</Text>
+      <Key>Hey</Key>
+      <Forenames>D.</Forenames>
+      <Text>(Lieut.) SUBMARINE MINERS (Volunteers). Clyde Division, Anderson, A. H. (Capt.)</Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, 2nd Lieut: W., jun. (resigned)</Text>
+      <Text>2nd Lieut: W., jun. (resigned)</Text>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,14 +464,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>, Col. Lord (appointed to Com* mand)</Text>
+      <Title>Col. Lord (appointed to Com* mand)</Title>
       <PageNumber>4785</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heriot</Key>
-      <Text>, Maj .-Gen. M. A. H. J. (resigns Command)</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. M. A. H. J. (resigns Command)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belhaven</Key>
-      <Text>, Master of (2nd Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acheson</Key>
-      <Text>, Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>8917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pakenbam</Key>
-      <Text>, H, J. H. (2nd Lient.) ..</Text>
+      <Forenames>H</Forenames>
+      <Text>, J. H. (2nd Lient.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +764,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beevor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. C. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. C. (seconded)</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardross</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +789,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Lord (antedated)</Text>
+      <Title>Lieut. Lord (antedated)</Title>
       <PageNumber>8089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalhousie</Key>
-      <Text>, Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falconer</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +871,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Earl of (correction)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (correction)</Text>
       <PageNumber>8917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oppenheim</Key>
-      <Text>, E: W. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: W. (Lieut.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +943,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Text>, Master of (Capt.)</Text>
+      <Title>Master</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>5670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1293,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

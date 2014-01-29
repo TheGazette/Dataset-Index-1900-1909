@@ -4,7 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>CrosBman</Key>
-      <Text>, Capt. G-. L. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. L. (seconded)</Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +60,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>, Lieut.-Col. and Brevet Col. H, E. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>H</Forenames>
+      <Text>, E. (half-pay)</Text>
       <PageNumber>1318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owens</Key>
-      <Text>, 'Maj. E. L. (retired pay)</Text>
+      <Text>'Maj. E. L. (retired pay)</Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>NewtonKing</Key>
-      <Text>. F. J. (Hon. Lieut.-Col.)</Text>
+      <Text>F. J. (Hon. Lieut.-Col.)</Text>
       <PageNumber>570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Text>, 0, E. (Lieut.)</Text>
+      <Text>0, E. (Lieut.)</Text>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>

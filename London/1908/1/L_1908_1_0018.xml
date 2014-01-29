@@ -79,7 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulteney</Key>
-      <Text>, Lieut.-Col.jand Brevet Col. W. P. (halt-pay) .. . -</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.jand Brevet Col. W. P. (halt-pay) .. . -</Text>
       <PageNumber>140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Text>, 2nd Lieut A. H. B. (resigned)</Text>
+      <Text>2nd Lieut A. H. B. (resigned)</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxmantown</Key>
-      <Text>, Maj. Lord (resigned) ..</Text>
+      <Title>Maj. Lord (resigned)</Title>
+      <Text>..</Text>
       <PageNumber>ibid,.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>,.J. W. (Capt.)</Text>
+      <Text>.J. W. (Capt.)</Text>
       <PageNumber>1052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harland</Key>
-      <Text>, Capt. and Hon. Maj. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. (resigned)</Title>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Counsell</Key>
-      <Text>, Capt. II. T. (resigned) ..</Text>
+      <Title>Capt.</Title>
+      <Text>II. T. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sayer</Key>
-      <Text>, 2nd Lieut. JS. B. (temporary half pay)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>JS. B. (temporary half pay)</Text>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slacke</Key>
-      <Text>. R. C. (Capt.)</Text>
+      <Text>R. C. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +963,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwood</Key>
-      <Text>, J; F. (2nd Lieut.) ..</Text>
+      <Forenames>J</Forenames>
+      <Text>; F. (2nd Lieut.) ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,6 +996,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Rawlinson</Key>
+      <Forenames>L. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>896</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Steele-Perkins</Key>
       <Forenames>C.</Forenames>
       <Text>b. (2nd Lieut.) ..</Text>
@@ -1002,7 +1015,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1078,16 @@
       <Key>Chalton</Key>
       <Title>Lieut.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>(seconded) .. ibid. Dashwood, Lieut.-Col. and Brevet Col. E. W. (half-pay)</Text>
+      <Text>(seconded) ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dashwood</Key>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,8 +1139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.H.M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.H.M. (resigned)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>

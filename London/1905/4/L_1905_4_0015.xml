@@ -2,6 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="015" pageID="https://www.thegazette.co.uk/id/London/index/year/1905/volume/4/page/015" pagePDF="https://www.thegazette.co.uk/London/index/year/1905/volume/4/page/015" pageRDF="https://www.thegazette.co.uk/London/index/year/1905/volume/4/page/015?view=linked-data" type="index" volume="4" year="1905">
   <ItemGroup>
     <MainItem>
+      <Key>Warner</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>. (retired)</Text>
+      <PageNumber>8900</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Watson</Key>
       <Forenames>Lieut-</Forenames>
       <Text>Col. and Bret. Col. R. S. (correction) .. [</Text>
@@ -174,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Skirving</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luscombe</Key>
-      <Text>, A P. .. .. ..</Text>
+      <Forenames>A</Forenames>
+      <Text>P. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. A</Text>
+      <Title>Gr.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>8902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryrie</Key>
-      <Forenames>Or</Forenames>
-      <Text>. de L. .. .. ..</Text>
+      <Title>Or.</Title>
+      <Text>de L. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adrian</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basche</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>8901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brace</Key>
-      <Text>, CF</Text>
+      <Text>CF</Text>
       <PageNumber>8901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cherry</Key>
-      <Text>, 0. C</Text>
+      <Text>0. C</Text>
       <PageNumber>8902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,15 +724,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Birrell</Key>
-      <Text>,. Lieut.-Col. A... .. ..</Text>
+      <Text>. Lieut.-Col. A... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C. .. .. .. ——</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C. .. .. .. ——</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,8 +759,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. Q. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. Q. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gossage</Key>
-      <Text>, Lieut.-CI. and Hon. Col. W.W. .. .. .. .. —-</Text>
+      <Title>Lieut.</Title>
+      <Text>-CI. and Hon. Col. W.W. .. .. .. .. —-</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,15 +819,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. W... .. ——</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. W... .. ——</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hepburne-Scott</Key>
-      <Text>, Maj. and Hon. Lieut..Col. Hon. W. G</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>.Col. Hon. W. G</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,8 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. M. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. M. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +870,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Massingham</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. P</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. P</Text>
       <PageNumber>9179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,16 +949,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. B. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. B. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. A</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. A</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1032,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Copinger</Key>
-      <Text>, M.M. A. (resigned)</Text>
+      <Text>M.M. A. (resigned)</Text>
       <PageNumber>9088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1077,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7100</PageNumber>
     </MainItem>
   </ItemGroup>

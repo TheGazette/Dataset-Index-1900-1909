@@ -21,7 +21,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>,.J. C. (Maj.)</Text>
+      <Text>.J. C. (Maj.)</Text>
       <PageNumber>9329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,6 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SubSectionTitle>Promotions</SubSectionTitle>
   <SubSectionTitle>Colonel of Regiment</SubSectionTitle>
   <SubSectionTitle>97th -Deccan Infantry</SubSectionTitle>
@@ -134,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barratt</Key>
-      <Text>.W. C (correction)</Text>
+      <Text>W. C (correction)</Text>
       <PageNumber>7358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prendergast</Key>
-      <Text>, C G</Text>
+      <Forenames>C</Forenames>
+      <Text>G</Text>
       <PageNumber>9680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mears</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>8109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Airy</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashfield</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boxwell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>, Y</Text>
+      <Forenames>Y</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +915,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___ —</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Latham</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,14 +988,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Text>, IS. A</Text>
+      <Text>IS. A</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearse</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacey</Key>
-      <Text>.W. R. B</Text>
+      <Text>W. R. B</Text>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>8109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Percy-Smith</Key>
-      <Text>, Y</Text>
+      <Forenames>Y</Forenames>
       <PageNumber>7358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arundell</Key>
-      <Text>. E. T</Text>
+      <Text>E. T</Text>
       <PageNumber>7358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,21 +1590,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel</Key>
-      <Text>, Col. VV. G</Text>
+      <Title>Col.</Title>
+      <Text>VV. G</Text>
       <PageNumber>8110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eead</Key>
-      <Text>, Col. H</Text>
+      <Title>Col.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>7358</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Text>, Col. G</Text>
+      <Title>Col.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>9681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,14 +1615,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Champkin</Key>
-      <Text>, C (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9681</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chesney</Key>
-      <Text>, C C. (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>C. (2nd Lieut.)</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>

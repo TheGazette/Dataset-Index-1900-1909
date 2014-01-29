@@ -414,7 +414,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>Col. (Temporary Maj.-Gen.) G., Maj.-Gen</Text>
+      <Title>Col. (Temporary Maj.-Gen.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>, Maj.-Gen</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,14 +442,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Heseltine</Key>
-      <Text>Maj. C, extra Aide-de-Camp</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, extra Aide-de-Camp</Text>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoskyns</Key>
-      <Text>Lieut.-Col. and Brev. Col. C, Col. on the Staff for Royal Engineers, and Col</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Col. on the Staff for Royal Engineers, and Col</Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +571,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +648,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>Col. (Temporary Maj.-Gen.) Sir G. H., Maj-Gen. on the Staff to command the Royal Artillery, 1st Army Corps</Text>
+      <Title>Col. (Temporary Maj.-Gen.) Sir</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>, Maj-Gen. on the Staff to command the Royal Artillery, 1st Army Corps</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +836,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Proctor</Key>
-      <Text>Hon. Capt. and Paymaster J. J. B., Deputy-Assist. Adj-Gen</Text>
+      <Title>Hon. Capt.</Title>
+      <Text>and Paymaster J. J. B., Deputy-Assist. Adj-Gen</Text>
       <PageNumber>5964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +884,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +900,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Text>Col. (Temporary Maj-Gen.) W. T., Maj.-Gen</Text>
+      <Title>Col. (Temporary Maj-Gen.)</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>, Maj.-Gen</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +937,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) .. .. . _ 70^</Text>
+      <Title>(correction)</Title>
+      <Text>.. .. . _ 70^</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,16 +954,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Vet</Forenames>
-      <Text>. Lieut. Col. H., Director-Gen. Army Vet. Dept. ..'</Text>
+      <Title>Vet.</Title>
+      <Text>Lieut. Col. H., Director-Gen. Army Vet. Dept. ..'</Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Col. H. (correction)</Text>
+      <Title>Vet.</Title>
+      <Text>-Col. H. (correction)</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>

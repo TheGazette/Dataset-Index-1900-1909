@@ -83,7 +83,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ . . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. and Hon. Maj.)</Text>
+      <Title>(Capt. and Hon. Maj.)</Title>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolmer</Key>
-      <Text>Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodyatt</Key>
-      <Text>G. E. S. (Capt.)</Text>
+      <Text>. G. E. S. (Capt.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterford</Key>
-      <Text>Marquis of (Lieut.-Col. and Hon. Col.) .. .. ..</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. and Hon. Col.) .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +745,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noel</Key>
-      <Text>Hon. R, E. (2nd. Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>R</Forenames>
+      <Text>, E. (2nd. Lieut.)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sillery</Key>
-      <Text>Maj. CCA</Text>
+      <Title>Maj.</Title>
+      <Text>CCA</Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1517,7 @@
       <Key>
         <KeyDitto>—.—: ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,7 +1574,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>Capt. E '</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
+      <Text>'</Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bally</Key>
-      <Text>C F. (Maj.)</Text>
+      <Forenames>C</Forenames>
+      <Text>F. (Maj.)</Text>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1763,14 +1770,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>C B. (Lieut.) -</Text>
+      <Forenames>C</Forenames>
+      <Text>B. (Lieut.) -</Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beamahd</Key>
-      <Text>L^ H. (Qrmr. and Hon. Lieut.) .,</Text>
+      <Forenames>L</Forenames>
+      <Text>^ H. (Qrmr. and Hon. Lieut.) .,</Text>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>

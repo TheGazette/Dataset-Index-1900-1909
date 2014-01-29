@@ -132,7 +132,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maicdonald</Key>
-      <Text>Lieut. Hon. R: I. (resigned)</Text>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>R</Forenames>
+      <Text>: I. (resigned)</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Lieut.-Col. and Brer. Col. A. H. (half-pay)</Text>
+      <Text>. Lieut.-Col. and Brer. Col. A. H. (half-pay)</Text>
       <PageNumber>951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Text>Capt. and Hon!. Maj. J. F. (resigned) .. .. .. '</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon!. Maj. J. F. (resigned) .. .. .. '</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +706,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +815,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loscombe</Key>
-      <Text>Lieut.-Col. and Brev.-Col., A. R. (retired)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col., A. R. (retired)</Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>

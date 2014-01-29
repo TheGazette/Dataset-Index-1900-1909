@@ -291,7 +291,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +532,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,8 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilruth</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. R. (resigned)</Text>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Liout-Col. J. H. (ceases to belong to the Army Medical Reserve of Officers)</Text>
+      <Title>Surg.</Title>
+      <Text>-Liout-Col. J. H. (ceases to belong to the Army Medical Reserve of Officers)</Text>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +792,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1128,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1266,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,8 +1309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bostock</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. A. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. A. (retired)</Text>
       <PageNumber>6739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,8 +1341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duck</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Col. F. (retiredpay)</Text>
+      <Title>Vet.</Title>
+      <Text>-Col. F. (retiredpay)</Text>
       <PageNumber>8688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,8 +1357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grainger</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. J. K. (retired pay)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. J. K. (retired pay)</Text>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,8 +1399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. C. M. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. C. M. (resigned)</Text>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,16 +1416,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. E. R. C. (Professor)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. E. R. C. (Professor)</Text>
       <PageNumber>6684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. E. E. (Professor)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. E. E. (Professor)</Text>
       <PageNumber>6080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,7 +1786,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6739</PageNumber>
     </MainItem>
   </ItemGroup>

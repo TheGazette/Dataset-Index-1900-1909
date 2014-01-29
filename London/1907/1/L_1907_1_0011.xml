@@ -452,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binning</Key>
-      <Text>, Lieut.-Col. and Brevet Col., Lord (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col., Lord (retired)</Title>
       <PageNumber>1577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,15 +637,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>Qriar</Forenames>
-      <Text>. and Hon. Lieut., G. (removed)</Text>
+      <Title>Qriar. and Hon. Lieut.</Title>
+      <Text>, G. (removed)</Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dundonald</Key>
-      <Text>, Earl of (Lieut.-Gen.) ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Gen.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erroll</Key>
-      <Text>, Col., Earl of (retired)</Text>
+      <Title>Col., Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelaart</Key>
-      <Forenames>Lieuli</Forenames>
-      <Text>.-Col. and Brevet Col. G. T. (retired)</Text>
+      <Title>Lieuli.</Title>
+      <Text>-Col. and Brevet Col. G. T. (retired)</Text>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1456,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,8 +1638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Averill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C.. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1755,8 +1757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepburn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

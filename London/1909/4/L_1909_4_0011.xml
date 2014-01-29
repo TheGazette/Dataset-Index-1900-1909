@@ -13,7 +13,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +41,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>, Qrmr. and Hon. .Capt. G. S. (retired pay)</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>.Capt. G. S. (retired pay)</Text>
       <PageNumber>8668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +109,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,14 +195,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lushington</Key>
-      <Text>. E. C. H. (Capt.)</Text>
+      <Text>E. C. H. (Capt.)</Text>
       <PageNumber>9767</PageNumber>
       <PageNumber>9233</PageNumber>
     </MainItem>
@@ -216,7 +221,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, O. C. (2nd Lieut.)</Text>
+      <Text>John, O. C. (2nd Lieut.)</Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +287,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>( Lieut.) .. ..</Text>
+      <Title>( Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Place</Key>
-      <Text>, Capt. CO</Text>
+      <Title>Capt.</Title>
+      <Text>CO</Text>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blanford</Key>
-      <Text>, .Maj. W. G., Chief Instr</Text>
+      <Text>.Maj. W. G., Chief Instr</Text>
       <PageNumber>7764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>, .G. B. (Maj.) .. .. ..</Text>
+      <Text>.G. B. (Maj.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, Lieut.-Col.G.D. (Commander)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.G.D. (Commander)</Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,8 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donovan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. (retired)</Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +906,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>. C. I. (Lieut.-Col.)</Text>
+      <Text>C. I. (Lieut.-Col.)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1039,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addington</Key>
-      <Text>, lion. H. W. (Col.) ..</Text>
+      <Text>lion. H. W. (Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Text>.Y. T. (Col.)</Text>
+      <Text>Y. T. (Col.)</Text>
       <PageNumber>8352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stisted</Key>
-      <Text>, C H. (Col.) ... .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>H. (Col.) ... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1327,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, W: W. (Col.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: W. (Col.)</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braithwaite</Key>
-      <Text>,-W. P. (Col.) .. -..</Text>
+      <Text>-W. P. (Col.) .. -..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butier</Key>
-      <Text>, Capt. VV. J. C. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. J. C. (retired)</Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ch</Key>
-      <Text>.dk, A. J. (Hon. Capt.)</Text>
+      <Text>dk, A. J. (Hon. Capt.)</Text>
       <PageNumber>8555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchward</Key>
-      <Text>,.P. R. S. (Col.) .. .. P76S Cookson, G. A. (Col.) .'</Text>
+      <Text>.P. R. S. (Col.) .. .. P76S Cookson, G. A. (Col.) .'</Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1511,6 @@
       <Forenames>M. H.</Forenames>
       <Text>(local Capt.) ., ,</Text>
       <PageNumber>9234</PageNumber>
-      <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>

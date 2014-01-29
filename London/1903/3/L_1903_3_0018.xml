@@ -525,7 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>J L. (.Capt.) ..</Text>
+      <Forenames>J</Forenames>
+      <Text>L. (.Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strover</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. IT. W. M. (resigned and 2nd Lieut.)</Text>
+      <Title>Surg. Lieut.</Title>
+      <Text>IT. W. M. (resigned and 2nd Lieut.)</Text>
       <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +800,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>5601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. S. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. S. J. (resigned)</Text>
       <PageNumber>4356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +975,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogge</Key>
-      <Text>J; H. H. (Lieut.-Col. and to command)</Text>
+      <Forenames>J</Forenames>
+      <Text>; H. H. (Lieut.-Col. and to command)</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>

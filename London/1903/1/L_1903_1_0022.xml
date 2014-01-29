@@ -53,7 +53,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Rev. R, B. (Acting Chap.) ..</Text>
+      <Title>Rev.</Title>
+      <Forenames>R</Forenames>
+      <Text>, B. (Acting Chap.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullis</Key>
-      <Text>, 2nd Lieut, N. L. (resigned)</Text>
+      <Text>2nd Lieut, N. L. (resigned)</Text>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parnell</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gr. (2nd Lieut.)</Title>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +294,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egleston</Key>
-      <Text>, T: B. M. (2nd Lieut.)</Text>
+      <Forenames>T</Forenames>
+      <Text>: B. M. (2nd Lieut.)</Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Text>, O'B. H. (Capt.) .. ..</Text>
+      <Forenames>O</Forenames>
+      <Text>'B. H. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, 2nd Lieut, A. G. (resigned)</Text>
+      <Text>2nd Lieut, A. G. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

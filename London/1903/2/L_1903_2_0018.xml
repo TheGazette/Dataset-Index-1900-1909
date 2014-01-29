@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conran</Key>
-      <Text>W. D.B. (Lieut.)</Text>
+      <Text>.W. D.B. (Lieut.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>Lieut.-G-en. Sir J. B., Col. Comdt. .'</Text>
+      <Title>Lieut.</Title>
+      <Text>-G-en. Sir J. B., Col. Comdt. .'</Text>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>A. I. (Hon. Lieut.)</Text>
+      <Text>. A. I. (Hon. Lieut.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Castle</Key>
-      <Text>Capt. and Hon. Maj: M.B. . (resigned)</Text>
+      <Title>Capt. and Hon. Maj</Title>
+      <Text>: M.B. . (resigned)</Text>
       <PageNumber>2530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brady-Browne</Key>
-      <Text>T. H. (Lieut.)</Text>
+      <Text>. T. H. (Lieut.)</Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>W: C. (Capt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: C. (Capt.)</Text>
       <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +731,8 @@
       <Key>
         <KeyDitto>___ -—. ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry) ..</Text>
+      <Title>(Instr. of Musketry)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +919,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -130,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Honorary</Key>
-      <Text>Captain: BowerB, J. .. .. .. ..</Text>
+      <Title>Captain</Title>
+      <Text>: BowerB, J. .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallick</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

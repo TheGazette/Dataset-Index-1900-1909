@@ -130,14 +130,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Butteiworth</Key>
-      <Text>, S , and Sons, notice of winding up</Text>
+      <Forenames>S</Forenames>
+      <Text>, and Sons, notice of winding up</Text>
       <PageNumber>2519</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cabins</Key>
-      <Text>(1901), reduction of capital</Text>
+      <Title>(1901)</Title>
+      <Text>, reduction of capital</Text>
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,8 +259,28 @@
       <PageNumber>4470</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Granr, v. Grant, Smith v. Grant, salt:</Text>
+      <PageNumber>4469</PageNumber>
+    </SubItem>
+    <SubItem>
       <Text>Heahorn v Bruce, &amp;c, creditors</Text>
       <PageNumber>ibid.</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>' tlooley, &amp;c, v. Case, &amp;c, creditor,</Text>
+      <PageNumber>3894</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>! Jones v. Watkins, sale</Text>
+      <PageNumber>2951</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>' Kite v. Quick, sale</Text>
+      <PageNumber>4388</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>' Lambert v. Lambert (creditors)</Text>
+      <PageNumber>2952</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Leidig, &amp;c. v. Leidig, &amp;c, creditors</Text>

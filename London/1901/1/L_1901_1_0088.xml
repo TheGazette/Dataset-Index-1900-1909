@@ -112,8 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duberly</Key>
-      <Forenames>Or</Forenames>
-      <Text>. CLieut.)</Text>
+      <Title>Or.</Title>
+      <Text>CLieut.)</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, G, (Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, (Lieut.)</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>, F, L. H.(Capt;)</Text>
+      <Forenames>F</Forenames>
+      <Text>, L. H.(Capt;)</Text>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>,C. (Lieut.)</Text>
+      <Text>C. (Lieut.)</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +549,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. R-.-ff. (fO.onded)</Text>
+      <Title>Capt.</Title>
+      <Text>R-.-ff. (fO.onded)</Text>
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>, H;R.H. the Duke of, Colonel-in. Chief</Text>
+      <Forenames>H</Forenames>
+      <Text>;R.H. the Duke of, Colonel-in. Chief</Text>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,14 +924,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>, G; F. (Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>; F. (Lieut.)</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, JA. R; (Sub-Lieut.) .. .;</Text>
+      <Text>JA. R; (Sub-Lieut.) .. .;</Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>, ff.J</Text>
+      <Text>ff.J</Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travis</Key>
-      <Text>, . .. ... .. ;</Text>
+      <Text>. .. ... .. ;</Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1278,6 @@
       <PageNumber>394</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Advance</Key>
@@ -1364,7 +1368,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Albion</Key>
-      <Text>(Burton-on-Trent) Brewery, meeting of debenture holders</Text>
+      <Title>(Burton-on-Trent)</Title>
+      <Forenames>Brewery</Forenames>
+      <Text>, meeting of debenture holders</Text>
       <PageNumber>1169</PageNumber>
     </MainItem>
   </ItemGroup>

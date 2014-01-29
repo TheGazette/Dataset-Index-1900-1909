@@ -113,7 +113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Honorary</Key>
-      <Text>Major: Ezechiel, J. .. .. ..</Text>
+      <Title>Major</Title>
+      <Text>: Ezechiel, J. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Ideut. W. G. (resigned and Hon. Vet.-Lieut.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Ideut. W. G. (resigned and Hon. Vet.-Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>L G. (2nd Lieut.) .. ..</Text>
+      <Forenames>L</Forenames>
+      <Text>G. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +480,15 @@
     <MainItem>
       <Key>Houghton</Key>
       <Forenames>H. L.</Forenames>
-      <Text>(2nd Lieut.) .. .. ibid. ' Henderson, G. (2nd Lieut.) .. ..</Text>
+      <Text>(2nd Lieut.) .. ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Henderson</Key>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___ .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +897,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>2nd Lieut. BL C. (cashiered)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>BL C. (cashiered)</Text>
       <PageNumber>8680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1015,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1040,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bally</Key>
-      <Text>Col. (Temporary Maj.-Gen.) J. F., Maj.-Gen. on the Staff to command the Royal Artillery at Gibraltar</Text>
+      <Title>Col. (Temporary Maj.-Gen.)</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>, Maj.-Gen. on the Staff to command the Royal Artillery at Gibraltar</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blood</Key>
-      <Text>Maj.-Gen. (local Lieut.-Gen.) Sir B., Lieut.-Gen</Text>
+      <Title>Maj.-Gen. (local Lieut.-Gen.) Sir</Title>
+      <Forenames>B.</Forenames>
+      <Text>, Lieut.-Gen</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>

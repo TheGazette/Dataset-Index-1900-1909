@@ -237,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronton</Key>
-      <Text>, Capt. W(leaves Regiment)</Text>
+      <Title>Capt.</Title>
+      <Text>W(leaves Regiment)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aubertin</Key>
-      <Text>, P, (Maj.)</Text>
+      <Forenames>P</Forenames>
+      <Text>, (Maj.)</Text>
       <PageNumber>2528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Field-Marshal Earl (retains his position as Col.-Comdt.)</Text>
+      <Title>Field-Marshal Earl (retains his position as Col.-Comdt.)</Title>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,6 +1520,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Despard</Key>
+      <Forenames>W. H. C.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickinson</Key>
       <Forenames>W. H. E.</Forenames>
       <Text>de B. (Lieut.)</Text>
@@ -1695,6 +1705,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Farran</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2778</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fergusson</Key>
       <Forenames>V. M.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1737,7 +1755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>, the Hon. &lt;D. A. (Lieut.)</Text>
+      <Title>the Hon.</Title>
+      <Text>&lt;D. A. (Lieut.)</Text>
       <PageNumber>2291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1866,7 +1885,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3285</PageNumber>
     </MainItem>
   </ItemGroup>

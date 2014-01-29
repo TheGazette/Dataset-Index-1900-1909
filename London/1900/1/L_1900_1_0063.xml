@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brie</Key>
-      <Text>Capt. and Instr. of Musketry, C, (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry, C, (seconded)</Text>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,9 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>Maj. and Hon. Lieut.-Col.</Title>
-      <Forenames>Ot</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. Ot. (seconded)</Title>
       <PageNumber>2508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +193,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,8 +208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Forenames>Ot</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Ot. (2nd Lieut.)</Title>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +234,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbert</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. (2nd Lieut, super.)</Text>
+      <Title>Gt. (2nd Lieut, super.)</Title>
       <PageNumber>1008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +781,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>1259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>2nd Lieut. Lord (seconded)</Text>
+      <Title>2nd Lieut. Lord (seconded)</Title>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1114,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>2203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pape</Key>
-      <Text>H: E. (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: E. (2nd Lieut.)</Text>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Text>E, O. (2nd Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, O. (2nd Lieut.)</Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1527,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Folkestone</Key>
-      <Text>Viscount (temporary Capt. )</Text>
+      <Title>Viscount (temporary Capt. )</Title>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1834,7 +1833,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1933,6 +1932,14 @@
       <Forenames>C. A.</Forenames>
       <Text>(2nd Lieut.) .. Ardoine, J. (2nd Lieut.)</Text>
       <PageNumber>2762</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bamford</Key>
+      <Forenames>P.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

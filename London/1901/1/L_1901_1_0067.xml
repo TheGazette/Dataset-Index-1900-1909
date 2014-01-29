@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maiden</Key>
-      <Text>, Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,8 +248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. W. (resigned)</Text>
       <PageNumber>1660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +291,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +401,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +469,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ :—</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +683,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1002,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, R, H. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. (Lieut.)</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetley</Key>
-      <Text>, Capt. and Instr. of Musketry J. G. W. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. G. W. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

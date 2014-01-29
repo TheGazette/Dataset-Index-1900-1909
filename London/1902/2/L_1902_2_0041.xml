@@ -716,7 +716,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,14 +843,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned and Hon. Lieut.)</Text>
+      <Title>(resigned and Hon. Lieut.)</Title>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>Temporary Maj. FitzJ. (resigned) .. .. * .. -</Text>
+      <Title>Temporary Maj.</Title>
+      <Text>FitzJ. (resigned) .. .. * .. -</Text>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +987,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lieut. P: S. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>P</Forenames>
+      <Text>: S. (resigned)</Text>
       <PageNumber>6028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1382,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. \V. (resigned and Hon. Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>\V. (resigned and Hon. Capt.)</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>

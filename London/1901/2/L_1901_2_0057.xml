@@ -283,7 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of, Col.-inChief</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of, Col.-inChief</Text>
       <PageNumber>8982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacker</Key>
-      <Text>, 2nd Lieut, E. H. (seconded)</Text>
+      <Text>2nd Lieut, E. H. (seconded)</Text>
       <PageNumber>6174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts-Jones</Key>
-      <Text>, Lieut. IK. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>IK. (resigned)</Text>
       <PageNumber>7654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +639,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>, Capt. S: F. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>S</Forenames>
+      <Text>: F. (seconded)</Text>
       <PageNumber>6850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +728,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, .Capt. M. F. (resigned)</Text>
+      <Text>.Capt. M. F. (resigned)</Text>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,8 +896,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. (cancellation)</Text>
       <PageNumber>7399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +939,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>9068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1075,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, Capt. and Brev. Maj. A, B. (seconded)</Text>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>A</Forenames>
+      <Text>, B. (seconded)</Text>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,8 +1251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grange</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. LO. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. LO. (resigned)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>,. J. (2nd Lieut.)</Text>
+      <Text>. J. (2nd Lieut.)</Text>
       <PageNumber>5876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1534,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated) '</Text>
+      <Title>(antedated)</Title>
+      <Text>'</Text>
       <PageNumber>9065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1617,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leverson</Key>
-      <Text>, Capt. H: A. (seconded)XI ,</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>: A. (seconded)XI ,</Text>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>

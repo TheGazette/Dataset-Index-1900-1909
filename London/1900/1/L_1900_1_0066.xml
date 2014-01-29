@@ -1431,8 +1431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. P. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. P. B. (resigned)</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>Capt. and Hon. Maj. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. (resigned)</Title>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1792,8 +1792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. B. W. (resigned and Capt.) .. ., .,</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. B. W. (resigned and Capt.) .. ., .,</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1908,7 +1908,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotter</Key>
-      <Text>2nd Lieut. R, B. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, B. (seconded)</Text>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>

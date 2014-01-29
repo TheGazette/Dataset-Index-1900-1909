@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonogb</Key>
-      <Text>, 2nd Lieut, J. J. (correction)</Text>
+      <Text>2nd Lieut, J. J. (correction)</Text>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poston</Key>
-      <Text>, \V. J. L. (Lieut.)</Text>
+      <Text>\V. J. L. (Lieut.)</Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisley</Key>
-      <Text>, 0. G. (2ndLieut.)</Text>
+      <Text>0. G. (2ndLieut.)</Text>
       <PageNumber>5811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,8 +596,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manche</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. L. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. L. (retired pay)</Text>
       <PageNumber>8089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +702,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carwithen</Key>
-      <Text>, 2nd Lieut, S. (correction)</Text>
+      <Text>2nd Lieut, S. (correction)</Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>, II. R. (Maj.)</Text>
+      <Text>II. R. (Maj.)</Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,14 +1282,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(permitted to retain rank, &amp;c.)</Text>
+      <Title>(permitted to retain rank, &amp;c.)</Title>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>, JL D. (Capt.)</Text>
+      <Text>JL D. (Capt.)</Text>
       <PageNumber>4572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1404,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Divisional Adj.) McGhee, A. S. P. (Capt.)</Text>
+      <Title>(Divisional Adj.)</Title>
+      <Text>McGhee, A. S. P. (Capt.)</Text>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1438,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>

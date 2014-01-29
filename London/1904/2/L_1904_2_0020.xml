@@ -34,8 +34,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Ma</Forenames>
-      <Text>.j. S. Gr. V. (resigned) ..</Text>
+      <Title>Ma.</Title>
+      <Text>j. S. Gr. V. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(instr. of Artillery)</Text>
+      <Title>(instr. of Artillery)</Title>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,8 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. L. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>B, B. (Maj.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, B. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,8 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chubb</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. L. (resigned and Hon. Surg.-Capt.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. L. (resigned and Hon. Surg.-Capt.)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,8 +930,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt, G. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt, G. P. (resigned)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,8 +1016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. C. (resigned)</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1034,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid...</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -71,7 +71,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>Marquis of (Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>W. H. S. (2nd Lieut.)</Text>
+      <Text>.W. H. S. (2nd Lieut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scudamore</Key>
-      <Text>E. W. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>. E. W. (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seafield</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +306,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, K. (Lieut.-Col.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, K. (Lieut.-Col.)</Text>
       <PageNumber>5537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +404,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>G: (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: (Capt.)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smartt</Key>
-      <Text>J. P. (Capt. and Hon. Maj.)</Text>
+      <Text>. J. P. (Capt. and Hon. Maj.)</Text>
       <PageNumber>5322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>L. O. (2nd Lieut.)</Text>
+      <Text>.L. O. (2nd Lieut.)</Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spiller</Key>
-      <Text>L. W. )Capt, and Hon. Maj.)</Text>
+      <Text>.L. W. )Capt, and Hon. Maj.)</Text>
       <PageNumber>5537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Titley</Key>
-      <Text>A, G. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, G. (2nd Lieut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tolleraache</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompkins</Key>
-      <Text>A. C. (Maj. and Hon. Lieut.-Col.)</Text>
+      <Text>. A. C. (Maj. and Hon. Lieut.-Col.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Text>H. M. (Capt.)</Text>
+      <Text>.H. M. (Capt.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valletort</Key>
-      <Text>Viscount (Lieut.-Col.)</Text>
+      <Title>Viscount (Lieut.-Col.)</Title>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1510,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vane</Key>
-      <Text>Hon..H. C. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Text>.H. C. (Capt.)</Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,7 +1602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vincent</Key>
-      <Text>W. (Capt.)</Text>
+      <Text>. W. (Capt.)</Text>
       <PageNumber>6523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1980,7 +1986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>C. M. (Capt.)</Text>
+      <Text>. C. M. (Capt.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>

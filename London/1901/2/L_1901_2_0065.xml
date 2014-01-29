@@ -72,7 +72,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, Lieut. GK.. (resigned)'</Text>
+      <Title>Lieut.</Title>
+      <Text>GK.. (resigned)'</Text>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>,' J. S. (2nd Lieut;)</Text>
+      <Text>' J. S. (2nd Lieut;)</Text>
       <PageNumber>8984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,14 +104,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>, 2nd Lieut, C. (seconded)</Text>
+      <Text>2nd Lieut, C. (seconded)</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rbgerson</Key>
-      <Text>, Capt. and Instr. of Musketry W. E. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry W. E. (resigned)</Text>
       <PageNumber>8644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>,,W. S. .(Adjt,)</Text>
+      <Text>,W. S. .(Adjt,)</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenwick</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J: C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J: C. (resigned)</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pall</Key>
-      <Text>,J. (Capt.)</Text>
+      <Text>J. (Capt.)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>, .P. (Capt,)</Text>
+      <Text>.P. (Capt,)</Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thackeray</Key>
-      <Text>,.Fi S. (2nd Lieut.)</Text>
+      <Text>.Fi S. (2nd Lieut.)</Text>
       <PageNumber>8566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDohald</Key>
-      <Text>, '2nd Lieut. R: F. N: (seconded) .. .,</Text>
+      <Text>'2nd Lieut. R: F. N: (seconded) .. .,</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>, J: (Hon. Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: (Hon. Maj.)</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterhouse</Key>
-      <Text>, C: F. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>: F. (Capt.)</Text>
       <PageNumber>8918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sworder</Key>
-      <Text>, F: R; F. (Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: R; F. (Lieut.)</Text>
       <PageNumber>4954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +999,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Text>, Capt. and Hon. Maj. J, C. (resigned)'</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>J</Forenames>
+      <Text>, C. (resigned)'</Text>
       <PageNumber>6877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thairi</Key>
-      <Text>, A; J. R: (Hon. M aj.)'</Text>
+      <Forenames>A</Forenames>
+      <Text>; J. R: (Hon. M aj.)'</Text>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1219,15 @@
     <MainItem>
       <Key>Hunter</Key>
       <Forenames>J. Y.</Forenames>
-      <Text>(2nd Lieut.) 8647 . Shaw, J. (Capt.)</Text>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8647</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shaw</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellar</Key>
-      <Text>, T, A. (Surg.-Capt.) '</Text>
+      <Forenames>T</Forenames>
+      <Text>, A. (Surg.-Capt.) '</Text>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Queen's Own (Camerohllighlandcrs), Anderson, F. C (2nd Lieut.)</Text>
+      <Title>Queen</Title>
+      <Text>'s Own (Camerohllighlandcrs), Anderson, F. C (2nd Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>, .Hon. A. H. (Adjt.),</Text>
+      <Text>.Hon. A. H. (Adjt.),</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -70,7 +70,7 @@
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. NORTHUMBERLAND</SubCategoryTitle>
+  <SubCategoryTitle>NORTHUMBERLAND</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Blackett</Key>
@@ -377,8 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southwell</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>2980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,9 +607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomory</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. K. (resigned) .. .. .. ..</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Capt. J. K. (resigned) .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>Marquis of (Lieut.-Col. and to command)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>2981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,8 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettifer</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. T. V. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. T. V. (resigned)</Text>
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>2nd Lieut. Lord (seconded)</Text>
+      <Title>2nd Lieut. Lord (seconded)</Title>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimthorpe</Key>
-      <Text>Maj. and Hon. Lieut.Col. Lord (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.Col. Lord (resigned)</Title>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,22 +883,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton-Campbell</Key>
-      <Text>Lieut.-Col W. K.</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col W. K.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kelburae</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. .. .. ..</Text>
+      <Title>Visct.</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>FitzPatrick</Key>
-      <Text>W ,L</Text>
+      <Forenames>W</Forenames>
+      <Text>,L</Text>
       <PageNumber>2433</PageNumber>
     </MainItem>
   </ItemGroup>

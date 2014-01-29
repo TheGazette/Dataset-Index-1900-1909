@@ -66,8 +66,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moon</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. G. (resigned)</Text>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>Capt. and Brev.-Maj. B. T. (seconded)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. B. T. (seconded)</Text>
       <PageNumber>871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +287,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Millar</Key>
-      <Text>Maj. T;-(resigned) .. ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>T</Forenames>
+      <Text>;-(resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>L</Key>
-      <Text>eathart, Lieut. J. G. (resigned)</Text>
+      <Text>.eathart, Lieut. J. G. (resigned)</Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cok</Key>
-      <Text>St. J. A. (Maj.) .. .. .'</Text>
+      <Text>.St. J. A. (Maj.) .. .. .'</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Text>Lieut.-Col and Brev. Col. H. J. S. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col and Brev. Col. H. J. S. (half-pay)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>Capt. G. F. (resigned)</Text>
+      <Text>. Capt. G. F. (resigned)</Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>

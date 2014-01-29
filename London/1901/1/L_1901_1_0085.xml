@@ -112,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collet</Key>
-      <Text>, jun., 2nd Lieut. H., lst (Hertfordshire) Volunteer Battalion, the Bedfordshire Regiment</Text>
+      <Text>jun., 2nd Lieut. H., lst (Hertfordshire) Volunteer Battalion, the Bedfordshire Regiment</Text>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>, jun., 2nd Lieut, J., 2nd Volunteer Battalion, the King's Own (Royal Lancaster Regiment) .. .. ..</Text>
+      <Text>jun., 2nd Lieut, J., 2nd Volunteer Battalion, the King's Own (Royal Lancaster Regiment) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, jun., 2nd Lieut. N. I., lst Volunteer Battalion, the Northumberland Fusiliers</Text>
+      <Text>jun., 2nd Lieut. N. I., lst Volunteer Battalion, the Northumberland Fusiliers</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>, jun., Capt. J., 4th Volunteer Battalion, the Durham Light Infantry ..</Text>
+      <Text>jun., Capt. J., 4th Volunteer Battalion, the Durham Light Infantry ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foulds</Key>
-      <Text>, 2hd Lieut. S., 2nd (Renfrew, shire) Volunteer Battalion Princess Louise's (Argyll and Sutherland Highlanders)</Text>
+      <Text>2hd Lieut. S., 2nd (Renfrew, shire) Volunteer Battalion Princess Louise's (Argyll and Sutherland Highlanders)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +456,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, ,J. A</Text>
+      <Text>,J. A</Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +588,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Text>, Sir C, Bart</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart</Text>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,15 +645,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
-    <SectionTitle>
-      <Text>Devonshire</Text>
-    </SectionTitle>
+    <SectionTitle>Devonshire</SectionTitle>
     <SubItem>
+      <Text>Devonshire.</Text>
       <PageNumber>233</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Firth</Key>
+      <Forenames>F. H</Forenames>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
   </ItemGroup>
   <SectionTitle>Edinburgh or Midlothian</SectionTitle>
   <ItemGroup>
@@ -679,6 +687,13 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mayhew</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>2300</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
   <SectionTitle>Gloucestershire</SectionTitle>
   <ItemGroup>
@@ -692,7 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darnley</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,8 +817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Forenames>Hugh</Forenames>
-      <Text>..</Text>
+      <Title>Hugh .</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,8 +894,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tankerville</Key>
-      <Forenames>Right</Forenames>
-      <Text>. Hon. Earl of ..</Text>
+      <Title>Right. Hon. Earl</Title>
+      <Text>of ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

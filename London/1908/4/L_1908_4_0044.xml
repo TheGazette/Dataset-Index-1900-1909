@@ -511,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilton</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>8547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +560,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellesmere</Key>
-      <Text>Earl of (Hon: Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon: Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>8172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douthwaite</Key>
-      <Text>. W. B. (Lieut.) .. ..</Text>
+      <Text>W. B. (Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1431,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1664,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) Peverell, T. H., jun. (2nd Lieut.) .. Raimes, A. L. (2nd Lieut.)</Text>
+      <Title>(Capt.)</Title>
+      <Forenames>Peverell</Forenames>
+      <Text>, T. H., jun. (2nd Lieut.) .. Raimes, A. L. (2nd Lieut.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,7 +1705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkas</Key>
-      <Text>, F; G. (2nd Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>; G. (2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

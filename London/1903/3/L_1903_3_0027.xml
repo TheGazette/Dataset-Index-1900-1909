@@ -218,8 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leresehe</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Gr. (Lieut.)</Title>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,8 +242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heywood</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. C. (resigned and Lieut.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. C. (resigned and Lieut.)</Text>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +564,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) ..</Text>
+      <Title>(correction)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodgers</Key>
-      <Text>Maj. and Hon. .Lieut.-Col. J. (resigned)</Text>
+      <Title>Maj. and Hon.</Title>
+      <Text>.Lieut.-Col. J. (resigned)</Text>
       <PageNumber>5543</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -179,7 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>Capt. and Instr. of Musketry P. R. (resinned) .. .. . *</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. R. (resinned) .. .. . *</Text>
       <PageNumber>8201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +430,9 @@
   <ItemGroup>
     <MainItem>
       <Key>TJnderhill</Key>
-      <Text>2nd Lieut. R, S. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, S. (resigned)</Text>
       <PageNumber>8202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainsbottouv-Tsherwood</Key>
-      <Text>Lieut.-Col. and Hon.-Col. C. E. (retired)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>-Col. C. E. (retired)</Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>Lieut. DA. H. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>DA. H. (antedated)</Text>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>

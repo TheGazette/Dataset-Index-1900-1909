@@ -34,7 +34,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, Qrmr.andHon.Capt. c. &gt;' (retired)..-..^i:-.. . ;. . '.v</Text>
+      <Title>Qrmr.</Title>
+      <Text>andHon.Capt. c. &gt;' (retired)..-..^i:-.. . ;. . '.v</Text>
       <PageNumber>8668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halls</Key>
-      <Text>.S. V..(2nd,Lieut.)</Text>
+      <Text>S. V..(2nd,Lieut.)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompson</Key>
-      <Text>, Capt. and Brevet Maj. | Hi Wi (retired) ' '-..: .-. '</Text>
+      <Title>Capt. and Brevet Maj.</Title>
+      <Text>| Hi Wi (retired) ' '-..: .-. '</Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kell</Key>
-      <Text>, Capt. y.Gt, W. (retired) :</Text>
+      <Title>Capt.</Title>
+      <Text>y.Gt, W. (retired) :</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage-Armstrong</Key>
-      <Text>,iF. S. N. (Capt.).,</Text>
+      <Text>iF. S. N. (Capt.).,</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,28 +218,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenhill</Key>
-      <Text>,,Lieut..H.M. '{resigned) ,</Text>
+      <Text>,Lieut..H.M. '{resigned) ,</Text>
       <PageNumber>9593</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Partridge</Key>
-      <Text>, R! E. (Lieut.)' '</Text>
+      <Forenames>R</Forenames>
+      <Text>! E. (Lieut.)' '</Text>
       <PageNumber>9767</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>,J-. M. (Lieut.) .. ,.\</Text>
+      <Text>J-. M. (Lieut.) .. ,.\</Text>
       <PageNumber>9416</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>, W: L.; (2nd Lieut.) V</Text>
+      <Forenames>W</Forenames>
+      <Text>: L.; (2nd Lieut.) V</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadfield</Key>
-      <Text>,' W. J. M: (2nd Lieut.) ' ..'</Text>
+      <Text>' W. J. M: (2nd Lieut.) ' ..'</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>, 2nd Lieut.. F. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. F. C. (resigned)</Text>
       <PageNumber>9593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther</Key>
-      <Text>,R.-E. (2nd Lieut.)</Text>
+      <Text>R.-E. (2nd Lieut.)</Text>
       <PageNumber>9416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>, SI D (2nd Lieut.)..-\V</Text>
+      <Text>SI D (2nd Lieut.)..-\V</Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Text>, Lieut..B. C. (seconded).. ..j</Text>
+      <Title>Lieut.</Title>
+      <Text>.B. C. (seconded).. ..j</Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,14 +493,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Squires</Key>
-      <Text>, R; D. (2nd Lieut.) .. a</Text>
+      <Forenames>R</Forenames>
+      <Text>; D. (2nd Lieut.) .. a</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Youngs</Key>
-      <Text>R?B:(Lieut.)-' '</Text>
+      <Forenames>R</Forenames>
+      <Text>?B:(Lieut.)-' '</Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,14 +518,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchward</Key>
-      <Text>,. Lieut -Col...,and Brevet Col. P. R. S. (half-paylist; ,.</Text>
+      <Text>. Lieut -Col...,and Brevet Col. P. R. S. (half-paylist; ,.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cowdell</Key>
-      <Text>, A: F:&gt; (2hd Lieut.) :. ~</Text>
+      <Forenames>A</Forenames>
+      <Text>: F:&gt; (2hd Lieut.) :. ~</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkin</Key>
-      <Text>,' H. D. (Lieut.)</Text>
+      <Text>' H. D. (Lieut.)</Text>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,15 +622,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, SirF. V.L., Bart.(Capt.)'</Text>
+      <Text>SirF. V.L., Bart.(Capt.)'</Text>
       <PageNumber>8936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stacker</Key>
-      <Forenames>St</Forenames>
-      <Text>..J. C. (2nd Lieut.)</Text>
+      <Title>St.</Title>
+      <Text>.J. C. (2nd Lieut.)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, Qrmr. and Hon. Maj.~, T. .(retired) .. ' .... , ...</Text>
+      <Title>Qrmr. and Hon. Maj.</Title>
+      <Text>~, T. .(retired) .. ' .... , ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooper</Key>
-      <Text>, j. C. (Capt.) .. ..' ..</Text>
+      <Text>j. C. (Capt.) .. ..' ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>.W. .E: (2nd Eieiit:)</Text>
+      <Text>W. .E: (2nd Eieiit:)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lightfoot</Key>
-      <Text>.L.' J. (2nd Lieut.) '</Text>
+      <Text>L.' J. (2nd Lieut.) '</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Lie ut.F. H. (resigned)</Text>
+      <Text>Lie ut.F. H. (resigned)</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Text>, 3. A.F. (2nd Lieut.)</Text>
+      <Text>3. A.F. (2nd Lieut.)</Text>
       <PageNumber>9767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,21 +892,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Sotham</Key>
-      <Text>, Lieut. E,Gj.(seconded)...,/.:;</Text>
+      <Title>Lieut.</Title>
+      <Forenames>E</Forenames>
+      <Text>,Gj.(seconded)...,/.:;</Text>
       <PageNumber>8668</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's (North Staffordshire Regiment).' Bridges, Lieut. H. C, (seconded)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's (North Staffordshire Regiment).' Bridges, Lieut. H. C, (seconded)</Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>, C: A. Gv (Lieut!)</Text>
+      <Forenames>C</Forenames>
+      <Text>: A. Gv (Lieut!)</Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Text>.H. S. (Lieut.)'</Text>
+      <Text>H. S. (Lieut.)'</Text>
       <PageNumber>7851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowans</Key>
-      <Text>, E; A.(Lieut..-Col:) .. ..</Text>
+      <Forenames>E</Forenames>
+      <Text>; A.(Lieut..-Col:) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
     <SubItem>

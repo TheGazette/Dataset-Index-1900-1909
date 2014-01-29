@@ -40,7 +40,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>, W; S. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>; S. (Lieut.)</Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,8 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. (resigned)</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atter</Key>
-      <Text>, 2nd Lieut, C. (resigned)..,</Text>
+      <Text>2nd Lieut, C. (resigned)..,</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +867,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +895,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1137,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(permitted to retain rank, &amp;c.)</Text>
+      <Title>(permitted to retain rank, &amp;c.)</Title>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>,.F. A. (2nd Lieut.)</Text>
+      <Text>.F. A. (2nd Lieut.)</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pretty</Key>
-      <Text>,. A. (Capt.)</Text>
+      <Text>. A. (Capt.)</Text>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -219,8 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fegan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. A. (resigned)</Text>
       <PageNumber>5135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,8 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>6243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's (Shropshire Light Infantry). Bowen, A. P. (Lieut.)</Text>
+      <Title>King</Title>
+      <Text>'s (Shropshire Light Infantry). Bowen, A. P. (Lieut.)</Text>
       <PageNumber>6181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferd</Key>
-      <Text>W. W. (2nd Lieut..)</Text>
+      <Text>.W. W. (2nd Lieut..)</Text>
       <PageNumber>5872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,8 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farr</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. (resigned)</Text>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,8 +992,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Madge</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>5344</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beales</Key>
+      <Forenames>W. L.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>4644</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Brown</Key>
-      <Text>F. S. (Capt.)</Text>
+      <Text>. F. S. (Capt.)</Text>
       <PageNumber>6243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1096,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's (North Slajford— shire Regiment). Carlyon, L. K. (Maj.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's (North Slajford— shire Regiment). Carlyon, L. K. (Maj.)</Text>
       <PageNumber>6014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burdett</Key>
-      <Text>Capt.. A. B. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Text>. A. B. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

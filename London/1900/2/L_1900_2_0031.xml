@@ -17,14 +17,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hext</Key>
-      <Text>.C.W</Text>
+      <Text>C.W</Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>.H</Text>
+      <Text>H</Text>
       <PageNumber>5177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McAlester</Key>
-      <Text>, C G. S</Text>
+      <Forenames>C</Forenames>
+      <Text>G. S</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,8 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Forenames>Or</Forenames>
-      <Text>. .. .. .. .. ..</Text>
+      <Title>Or.</Title>
+      <Text>.. .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grindle</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,14 +474,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Treffry</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wellby</Key>
-      <Text>.E. V</Text>
+      <Text>E. V</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +675,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +698,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clinch</Key>
-      <Text>. H. W. (Capt.)</Text>
+      <Text>H. W. (Capt.)</Text>
       <PageNumber>8216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +821,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +838,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +855,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +872,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +890,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +915,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,6 +997,14 @@
       <Forenames>W. H. P.</Forenames>
       <Text>(transferred on probation)</Text>
       <PageNumber>5894</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Leland</Key>
+      <Forenames>F. W. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6555</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1243,7 +1253,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

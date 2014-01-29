@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blanford</Key>
-      <Text>, W! G. (Maj.)</Text>
+      <Forenames>W</Forenames>
+      <Text>! G. (Maj.)</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewart</Key>
-      <Text>, Capt. (!. N. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>(!. N. (seconded)</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes-Sadler</Key>
-      <Text>, .T. (Capt.) .. ..</Text>
+      <Text>.T. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marr</Key>
-      <Text>, Qrmr. and lion. Lieut. O. (retired)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and lion. Lieut. O. (retired)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Valder</Key>
-      <Text>, Qrmr. and lion. Lieut. C. H. (retired)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and lion. Lieut. C. H. (retired)</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +845,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>..Lieut.-Col. and Hon. Surg.-Col. E. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>.Lieut.-Col. and Hon. Surg.-Col. E. J. (resigned)</Text>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,8 +911,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. and Hon. Vet.Maj. A. (resigned) ..</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. and Hon. Vet.Maj. A. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +974,7 @@
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Devonshire and Somersetshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1067,7 +1071,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wayeott</Key>
-      <Text>, R, (resigned)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (resigned)</Text>
       <PageNumber>6877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1274,7 +1279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercromby</Key>
-      <Text>, SirG. W., Bart. (Lieut.)</Text>
+      <Text>SirG. W., Bart. (Lieut.)</Text>
       <PageNumber>6448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamis</Key>
-      <Text>, Lieut. Lord (resigned) ..</Text>
+      <Title>Lieut. Lord (resigned)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>March</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -71,21 +71,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Belfield</Key>
-      <Text>. Miss I., League of Mercy ..</Text>
+      <Text>Miss I., League of Mercy ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Betton-Foster</Key>
-      <Text>, Miss, League of M ercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of M ercy</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Text>. Capt. E. E., Fourth Class, Royal Victorian Order</Text>
+      <Text>Capt. E. E., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chancellor</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,14 +291,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>, Miss, League of Mercy ..</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davenport</Key>
-      <Text>, Mrs., League of Mercy ..</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +324,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>, Earl of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>4981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elgin</Key>
-      <Text>, Earl of, Chairman of Churches (Scotland) Commission</Text>
+      <Title>Earl</Title>
+      <Text>of, Chairman of Churches (Scotland) Commission</Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Text>, Sir fct. B., a Privy Councillor</Text>
+      <Title>Sir</Title>
+      <Text>fct. B., a Privy Councillor</Text>
       <PageNumber>4775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fontorbe</Key>
-      <Text>, Capt.. V. E., Companion, St. Michael and St. George,</Text>
+      <Title>Capt.</Title>
+      <Text>. V. E., Companion, St. Michael and St. George,</Text>
       <PageNumber>5531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,8 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir B., Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. Sir B., Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamble</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,8 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl, GovernorGeneral and Commander-in-Chief of Canada</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>, GovernorGeneral and Commander-in-Chief of Canada</Text>
       <PageNumber>5297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,14 +662,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Gye</Key>
-      <Text>, 'Capt. H. F., Fourth Class, Royal Victorian Order</Text>
+      <Text>'Capt. H. F., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>5063</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harington</Key>
-      <Text>, Miss, Lady President, League of Mercy</Text>
+      <Title>Miss, Lady</Title>
+      <Forenames>President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +784,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ilodson</Key>
-      <Text>, Mrs., Lady President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +801,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holcroft</Key>
-      <Text>, C, created a Baronet</Text>
+      <Forenames>C</Forenames>
+      <Text>, created a Baronet</Text>
       <PageNumber>4981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilkelly</Key>
-      <Text>, ' Surg.-Lieut.-Col. C. R., House Governor and Medical Superintendent of Osborne</Text>
+      <Text>' Surg.-Lieut.-Col. C. R., House Governor and Medical Superintendent of Osborne</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurie</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lefevre</Key>
-      <Text>, Capt. &lt;&gt;. M. C,Companion, St. Michael and St. George</Text>
+      <Title>Capt.</Title>
+      <Text>&lt;&gt;. M. C,Companion, St. Michael and St. George</Text>
       <PageNumber>5531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1091,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>. J. W. P. M., Ordinary Member of the Council of the Governor of Bombay</Text>
+      <Text>J. W. P. M., Ordinary Member of the Council of the Governor of Bombay</Text>
       <PageNumber>5547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacNiell</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mather</Key>
-      <Text>, Mrs., League of Mercy,</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy,</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,8 +1176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord, Member of the Royal Patriotic Fund Corporation</Text>
+      <Title>Gen. Lord</Title>
+      <Text>, Member of the Royal Patriotic Fund Corporation</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>

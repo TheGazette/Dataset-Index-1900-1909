@@ -19,8 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Capt. and Hon. Maj.)</Text>
+      <Title>Or. (Capt. and Hon. Maj.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +144,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr. and Hon. Maj.)</Text>
+      <Title>(Qrmr. and Hon. Maj.)</Title>
       <PageNumber>9376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +188,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +283,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, R, T. H. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, T. H. (Lieut.)</Text>
       <PageNumber>7762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +423,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +432,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. Conrad. P. S. (2nd Lieut.) Coruford, E. G. (Cipt.) Dallin, T. (Lieut.)</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. Conrad. P. S. (2nd Lieut.) Coruford, E. G. (Cipt.) Dallin, T. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +546,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>8173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +756,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +792,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +811,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1008,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1033,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies-Cooke</Key>
-      <Text>. P. T. (Maj.) ..</Text>
+      <Text>P. T. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1155,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. T; (seconded)</Text>
+      <Title>Maj.</Title>
+      <Forenames>T</Forenames>
+      <Text>; (seconded)</Text>
       <PageNumber>9660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1315,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>8409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Maiir, R. H. (Capt.) .. ...</Text>
+      <Text>Maiir, R. H. (Capt.) .. ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,7 +1539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>, Lord (Super. Capt.) .. ..</Text>
+      <Title>Lord (Super. Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1614,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,7 +1639,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,7 +1755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynford</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -56,8 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. P. C. B., General Staff Officer, 3rd Grade</Text>
+      <Title>Ca.</Title>
+      <Text>pt. P. C. B., General Staff Officer, 3rd Grade</Text>
       <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, dpt. H. S., Deputy Asst. Adj. and Qrmr.-Gen. .-</Text>
+      <Text>dpt. H. S., Deputy Asst. Adj. and Qrmr.-Gen. .-</Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeth</Key>
-      <Text>, Capt.. C. J. D. (2nd Asst. Supt. of Experiments)</Text>
+      <Title>Capt.</Title>
+      <Text>. C. J. D. (2nd Asst. Supt. of Experiments)</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bogers</Key>
-      <Text>. CP. (Inspector of Works and Hon. Capt.)</Text>
+      <Text>CP. (Inspector of Works and Hon. Capt.)</Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clanwilliam</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,22 +256,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranworth</Key>
-      <Text>, Lord (Lieut.) .. .,</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>.. .,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crossley</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Sir S. B., Bart. (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Et.</Title>
+      <Text>Hon. Sir S. B., Bart. (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>4708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>DalbjyCapt</Key>
-      <Text>. H. E. (cancellation)</Text>
+      <Text>H. E. (cancellation)</Text>
       <PageNumber>3204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +337,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanson</Key>
-      <Text>, Capt. C E. B. (correction)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>E. B. (correction)</Text>
       <PageNumber>3204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelly</Key>
-      <Text>,C. H. E. (Maj. and Hon. Lieut.-Col.).. .. .. ..</Text>
+      <Text>C. H. E. (Maj. and Hon. Lieut.-Col.).. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche-Kelly</Key>
-      <Text>,. B. (Maj. and Hon. Lieut.-Col.) .. ..' .. ..</Text>
+      <Text>. B. (Maj. and Hon. Lieut.-Col.) .. ..' .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wioklow</Key>
-      <Text>, Capt. Earl of (resigned)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>, T\ W. (Lieut.)</Text>
+      <Forenames>T</Forenames>
+      <Text>\ W. (Lieut.)</Text>
       <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarver</Key>
-      <Text>,. .Capt. W. K. (Assistant Instructor) ... ..</Text>
+      <Text>. .Capt. W. K. (Assistant Instructor) ... ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Text>.Lieut. W. H. S. (seconded)</Text>
+      <Text>Lieut. W. H. S. (seconded)</Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haynes</Key>
-      <Text>,.A. (Lieut.-Col.)</Text>
+      <Text>.A. (Lieut.-Col.)</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>, ±1. M. (Col.)</Text>
+      <Text>±1. M. (Col.)</Text>
       <PageNumber>4573</PageNumber>
     </MainItem>
   </ItemGroup>

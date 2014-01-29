@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>J). B. W. (2ndLieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>). B. W. (2ndLieut.)</Text>
       <PageNumber>2508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1049,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>W/L. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>/L. (Lieut.)</Text>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,8 +1245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. A. (resigned)</Text>
       <PageNumber>2513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1775,7 +1777,7 @@
       <Key>
         <KeyDitto>___ ___ .. ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,7 +1826,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thackeray</Key>
-      <Text>Lieut.-Col.-Comdt.and Hon. ';. Col. J. W. (resigned);</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-Comdt.and Hon. ';. Col. J. W. (resigned);</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>

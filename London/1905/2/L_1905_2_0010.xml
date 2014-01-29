@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shrewsbury</Key>
-      <Text>, &amp;c, District, Official Receiver: Cariss, F</Text>
+      <Text>&amp;c, District, Official Receiver: Cariss, F</Text>
       <PageNumber>2888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somersetshire</Key>
-      <Text>, affected area declared in</Text>
+      <Text>affected area declared in</Text>
       <PageNumber>3254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +302,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Tendring</Key>
-      <Text>, notice of meeting to appoint Commissioners of Income Tax</Text>
+      <Key>T</Key>
+      <Text>. Tendring, notice of meeting to appoint Commissioners of Income Tax</Text>
       <PageNumber>2976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torquay</Key>
-      <Text>, borough of, Regulation proposed ' under the Motor Car Act, 1903</Text>
+      <Text>borough of, Regulation proposed ' under the Motor Car Act, 1903</Text>
       <PageNumber>3175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of : Appointment: Surgeon in Ordinary : Rigby, Dr. H. M</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of : Appointment: Surgeon in Ordinary : Rigby, Dr. H. M</Text>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolwich</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon J. C. Leeke</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>J. C. Leeke</Forenames>
       <Text>appointed to be Bishop Suffragan of</Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
@@ -695,7 +696,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Swine-Fever) Order of 1905</Text>
+      <Title>(Swine-Fever)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1905</Text>
       <PageNumber>2720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hook</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C</Forenames>
       <Text>, appointed to be Bishop Suffragan of Kingston-onThameB .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -792,8 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeke</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon J. C</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>J. C</Forenames>
       <Text>, appointed to be Bishop Suffragan of Woolwich</Text>
       <PageNumber>___</PageNumber>
     </MainItem>

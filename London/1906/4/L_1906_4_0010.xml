@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>Commander, C. E. F. C, Fourth Class, Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Text>, C. E. F. C, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>7553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>C, a King's Counsel</Text>
+      <Forenames>C</Forenames>
+      <Text>, a King's Counsel</Text>
       <PageNumber>7217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Hunter</Key>
-      <Text>C, created a Baronet</Text>
+      <Forenames>C</Forenames>
+      <Text>, created a Baronet</Text>
       <PageNumber>8299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keinble</Key>
-      <Text>Lieut. H. L., Fifth Class, Royal Victorian Order</Text>
+      <Text>. Lieut. H. L., Fifth Class, Royal Victorian Order</Text>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,8 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilmorey</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, Anight of Grace, St. John of Jerusalem</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, Anight of Grace, St. John of Jerusalem</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +315,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Krag</Key>
-      <Text>Capt. H, Hon., Fourth Class, Royal Victorian Order</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>, Hon., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>7722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,9 +648,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridgeway</Key>
-      <Title>Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir (J.) W., Knight Grand Cross of the Bath</Text>
+      <Title>Col. Rt. Hon. Sir (J.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, Knight Grand Cross of the Bath</Text>
       <PageNumber>7551</PageNumber>
       <PageNumber>7722</PageNumber>
     </MainItem>
@@ -680,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romilly</Key>
-      <Text>Col. F. W., Commander, Royal Victorian Order</Text>
+      <Text>. Col. F. W., Commander, Royal Victorian Order</Text>
       <PageNumber>7553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,8 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selborne</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, Governor and Commander-in-Chief of the Transvaal</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, Governor and Commander-in-Chief of the Transvaal</Text>
       <PageNumber>8968</PageNumber>
     </MainItem>
   </ItemGroup>

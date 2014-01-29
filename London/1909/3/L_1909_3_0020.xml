@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saltuun</Key>
-      <Text>, Master of (2nd Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,14 +28,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Saurin</Key>
-      <Text>,,Capt. W. M. (resigned)</Text>
+      <Text>,Capt. W. M. (resigned)</Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>,, A. M. (2nd Lieut.)</Text>
+      <Text>, A. M. (2nd Lieut.)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,14 +84,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stansfeld</Key>
-      <Text>, 2nd Lieut A. W. (resigned)</Text>
+      <Text>2nd Lieut A. W. (resigned)</Text>
       <PageNumber>5284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stomm</Key>
-      <Text>, „W. J. (Capt.)</Text>
+      <Text>„W. J. (Capt.)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>,.H. R. (Lieut.)</Text>
+      <Text>.H. R. (Lieut.)</Text>
       <PageNumber>5385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, G-. W. (Lieut.)</Text>
+      <Text>G-. W. (Lieut.)</Text>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>,.R. J. (Lieut.)</Text>
+      <Text>.R. J. (Lieut.)</Text>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winn</Key>
-      <Text>, A(Lieut.)</Text>
+      <Text>A(Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wicklow</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +650,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>7048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +692,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>, K: E. (2nd Lieut.)</Text>
+      <Forenames>K</Forenames>
+      <Text>: E. (2nd Lieut.)</Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leechnian</Key>
-      <Text>, C.B. (2nd Lieut.)</Text>
+      <Text>C.B. (2nd Lieut.)</Text>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>,. H. S. E. (2nd Lieut.)</Text>
+      <Text>. H. S. E. (2nd Lieut.)</Text>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,15 +1059,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>6380</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon R.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>R.</Forenames>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,23 +1090,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Ormsby</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E. R.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E. R.</Forenames>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Text>, Rev.S. G... -</Text>
+      <Title>Rev.</Title>
+      <Text>S. G... -</Text>
       <PageNumber>7124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rawnsley</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon H. D.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. D.</Forenames>
       <PageNumber>5886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,8 +1121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southwell</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon H. K.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. K.</Forenames>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickersteth</Key>
-      <Text>, Rev.' S</Text>
+      <Title>Rev.</Title>
+      <Text>' S</Text>
       <PageNumber>6666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,8 +1170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakeney</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon R.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>R.</Forenames>
       <Text>'</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
@@ -1279,8 +1284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,15 +1448,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Irens</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon W. E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>W. E.</Forenames>
       <PageNumber>5386</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>,-Rev. S. R</Text>
+      <Text>-Rev. S. R</Text>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>,Rev. Prebendary H. A</Text>
+      <Text>Rev. Prebendary H. A</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,15 +1529,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, Rev.. J. R</Text>
+      <Title>Rev.</Title>
+      <Text>. J. R</Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon S. J. W.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>S. J. W.</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>5386</PageNumber>
       <PageNumber>5388</PageNumber>
     </MainItem>
@@ -1580,7 +1587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adler</Key>
-      <Text>, Rev. M</Text>
+      <Title>Rev.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1645,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rarker</Key>
-      <Text>, Rev. J: W. H</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
+      <Text>: W. H</Text>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1687,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation) ,</Text>
+      <Title>(cancellation)</Title>
+      <Text>,</Text>
       <PageNumber>6666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1692,7 +1703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>, -Rev. J. A. G. '</Text>
+      <Text>-Rev. J. A. G. '</Text>
       <PageNumber>6362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,7 +1842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>, Rev.-A. P</Text>
+      <Title>Rev.</Title>
+      <Text>-A. P</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>

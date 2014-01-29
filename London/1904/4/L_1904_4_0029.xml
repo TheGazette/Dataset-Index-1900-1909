@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendall</Key>
-      <Text>,-H. G. (Sub-Lieut.)</Text>
+      <Text>-H. G. (Sub-Lieut.)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,7 @@
       <Key>
         <KeyDitto>___ .. ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,11 +458,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Still</Key>
-      <Text>, R, (Sub-Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (Sub-Lieut.)</Text>
       <PageNumber>8290</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agricultural</Key>
@@ -514,8 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appahkran</Key>
-      <Forenames>Consolidated-</Forenames>
-      <Text>.' Mines, notice of winding up</Text>
+      <Title>Consolidated-.</Title>
+      <Text>' Mines, notice of winding up</Text>
       <PageNumber>7298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +625,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>, Private.and; Joint Stock: ' Savings BanksKand Post Office Savings Banks, return .of amounts received from, and paid.into,!for. the four weeks, ending^: ... 15th October, 1904 .'</Text>
+      <Title>Private.</Title>
+      <Text>and; Joint Stock: ' Savings BanksKand Post Office Savings Banks, return .of amounts received from, and paid.into,!for. the four weeks, ending^: ... 15th October, 1904 .'</Text>
       <PageNumber>6660</PageNumber>
     </MainItem>
     <SubItem>

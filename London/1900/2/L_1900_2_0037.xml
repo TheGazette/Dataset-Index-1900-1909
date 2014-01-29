@@ -365,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Text>, 2nd Lieut, W. V. D. (seconded)</Text>
+      <Text>2nd Lieut, W. V. D. (seconded)</Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milman</Key>
-      <Text>, 6. B. E. (ind Lieut.)</Text>
+      <Text>6. B. E. (ind Lieut.)</Text>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothwell</Key>
-      <Text>, R S. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>S. (2nd Lieut.)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +888,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>8757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,8 +1129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Das</Key>
-      <Forenames>Isr</Forenames>
-      <Text>. (Jemadar)</Text>
+      <Title>Isr. (Jemadar)</Title>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1146,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1353,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,7 +1613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>, Maj. '&amp;. S. M. (antedated) ..</Text>
+      <Title>Maj.</Title>
+      <Text>'&amp;. S. M. (antedated) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,7 +1741,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1775,7 +1776,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>

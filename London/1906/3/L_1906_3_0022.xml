@@ -143,7 +143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardisty</Key>
-      <Text>Maj: W. F. J. (retired pav)</Text>
+      <Title>Maj</Title>
+      <Text>: W. F. J. (retired pav)</Text>
       <PageNumber>4808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leman</Key>
-      <Text>J: F. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: F. (2nd Lieut.)</Text>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,9 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrows</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Lieut. Or. (resigned)</Title>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterston</Key>
-      <Text>D. (Capt.)..'</Text>
+      <Text>.D. (Capt.)..'</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ommahney</Key>
-      <Text>Capt.. F. F. (cancellation)</Text>
+      <Title>Capt.</Title>
+      <Text>. F. F. (cancellation)</Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +676,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. :. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. :. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,14 +772,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Text>F. G. (2nd Lieut.) .. ..</Text>
+      <Text>. F. G. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Hill Capt. A. A. (seconded)</Text>
+      <Text>. Hill Capt. A. A. (seconded)</Text>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>W. de L. (Capt.)</Text>
+      <Text>. W. de L. (Capt.)</Text>
       <PageNumber>6181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolmer</Key>
-      <Text>Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>5134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1201,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

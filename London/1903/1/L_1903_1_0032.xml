@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>, II. N. (Capt.)</Text>
+      <Text>II. N. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rocbe</Key>
-      <Text>,\W. W. (2nd Lieut.)</Text>
+      <Text>\W. W. (2nd Lieut.)</Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tighe</Key>
-      <Text>,-Lieut.P. H. J. (resigned)</Text>
+      <Text>-Lieut.P. H. J. (resigned)</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,14 +487,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>, Capt. K: B. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>K</Forenames>
+      <Text>: B. (retired)</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>, Capt. 'S. E. (retired pav)</Text>
+      <Title>Capt.</Title>
+      <Text>'S. E. (retired pav)</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montrose</Key>
-      <Text>, Col. Duke of (resigned)</Text>
+      <Title>Col. Duke</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coats</Key>
-      <Text>, 3. (Lieut.)</Text>
+      <Text>3. (Lieut.)</Text>
       <PageNumber>1700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Castlerosse</Key>
-      <Text>, Lieut.-Col. Viscount (retired and Hon. Col.)</Text>
+      <Title>Lieut.-Col. Viscount (retired and Hon. Col.)</Title>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,9 +1127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenmare</Key>
-      <Title>Hon. Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (resigned)</Text>
+      <Title>Hon. Col. Rt. Hon. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>

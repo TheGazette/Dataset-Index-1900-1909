@@ -34,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,14 +73,15 @@
   <ItemGroup>
     <MainItem>
       <Key>FroudeVS</Key>
-      <Text>. B. (Lieut.)</Text>
+      <Text>B. (Lieut.)</Text>
       <PageNumber>9766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leeds</Key>
-      <Text>, Duke of (Hon. Commander)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Commander)</Text>
       <PageNumber>7565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Modin</Key>
-      <Text>,' C. O. F. (Sub-Lieut.)</Text>
+      <Text>' C. O. F. (Sub-Lieut.)</Text>
       <PageNumber>8667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,11 +167,10 @@
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Addressograph</Key>
-      <Text>, notice of winding-up</Text>
+      <Text>notice of winding-up</Text>
       <PageNumber>7876</PageNumber>
     </MainItem>
   </ItemGroup>

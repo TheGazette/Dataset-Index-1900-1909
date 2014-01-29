@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitham</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,14 +126,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Staff</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,9 +214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lord</Key>
-      <Title>Assist.</Title>
-      <Forenames>Com</Forenames>
-      <Text>. (antedated),. ..</Text>
+      <Title>Assist. Com. (antedated)</Title>
+      <Text>,. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,8 +263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Naismith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. . Lieut. Col. W. J. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>. Lieut. Col. W. J. (seconded)</Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,8 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. D. (resigned)</Text>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +307,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,8 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattullo</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. A. (resigned)</Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,8 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. M. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. M. (super.)</Text>
       <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eicardo</Key>
-      <Text>Maj. and Hon. Lieut.-Col. (seconded)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. (seconded)</Title>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesham</Key>
-      <Text>Lieut.-Col. and Hon. Col. Lord (seconded)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (seconded)</Title>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>Duke of (Lieut.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,8 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. G. (resigned)</Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +805,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +822,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +839,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addington</Key>
-      <Text>Lieut.-Col. and Hon. Col. Lord (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (resigned)</Title>
       <PageNumber>295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookfleld</Key>
-      <Text>Lieut.-Col. and Hon. Col. (seconded)</Text>
+      <Title>Lieut.-Col. and Hon. Col. (seconded)</Title>
       <PageNumber>1528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk-Bretton</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -46,7 +46,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, (Lieut.-Col. and Hon. Col.) M. D. (retired)</Text>
+      <Title>(Lieut.-Col. and Hon. Col.)</Title>
+      <Forenames>M. D.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>8878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +71,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicol</Key>
-      <Text>, R„J. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>„J. (Lieut.)</Text>
       <PageNumber>8443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,8 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strang</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (resigned) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>.C. H. B. (2nd Lieut.)</Text>
+      <Text>C. H. B. (2nd Lieut.)</Text>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orpen-Palmer</Key>
-      <Text>, G de M. H. (Lieut.)..</Text>
+      <Forenames>G</Forenames>
+      <Text>de M. H. (Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +297,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,14 +433,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Henniker</Key>
-      <Text>, Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>8778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Text>, Lieut.-Col. and BreveMDol. A. E. (half-pay) .. .. ..</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and BreveMDol. A. E. (half-pay) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +537,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +640,6 @@
       <PageNumber>6578</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
@@ -719,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, dA. C. .. .. ..</Text>
+      <Text>dA. C. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>,CM. .. .. .. ..</Text>
+      <Text>CM. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +974,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>, J). C</Text>
+      <Forenames>J</Forenames>
+      <Text>). C</Text>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amesbury</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>8785</PageNumber>
     </MainItem>
   </ItemGroup>

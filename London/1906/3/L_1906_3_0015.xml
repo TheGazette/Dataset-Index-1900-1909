@@ -100,7 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>Maj. A. C. .. .. ..</Text>
+      <Text>.Maj. A. C. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +167,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Text>Qrmr. (Hon. Maj.) D. ..</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>D.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,22 +266,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>Maj. and Hon. Lieut. Coi. H. K. ;.' .. .. ... G</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>Coi. H. K. ;.' .. .. ... G</Text>
       <PageNumber>015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.' Lieut.-Col. D. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.' Lieut.-Col. D. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>Maj. aud Hon. Lieut.-Col. R.J</Text>
+      <Title>Maj.</Title>
+      <Text>aud Hon. Lieut.-Col. R.J</Text>
       <PageNumber>6016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blew</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>M. S</Text>
+      <Text>. M. S</Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +550,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owston</Key>
-      <Text>L. V. (Lieut.)</Text>
+      <Text>. L. V. (Lieut.)</Text>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmpatrick</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>5870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,8 +1164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowle</Key>
-      <Forenames>Heut</Forenames>
-      <Text>.-Col. and Brevet Col. J. (half-pay)</Text>
+      <Title>Heut.</Title>
+      <Text>-Col. and Brevet Col. J. (half-pay)</Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>

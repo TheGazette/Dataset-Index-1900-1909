@@ -431,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Text>Sir O'M. (Lieut.-Gen.)</Text>
+      <Title>Sir</Title>
+      <Forenames>O</Forenames>
+      <Text>'M. (Lieut.-Gen.)</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +622,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired) .. .. .. ..</Text>
+      <Title>(retired)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +675,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,8 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. L. D. (Hon. Surgeon to the King)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. L. D. (Hon. Surgeon to the King)</Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCurdy</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayre</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,21 +1268,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Text>Marquis of (Lieut.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Castlereagh</Key>
-      <Text>Capt. Viscount (seconded)</Text>
+      <Title>Capt. Viscount (seconded)</Title>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>871</PageNumber>
     </MainItem>
   </ItemGroup>

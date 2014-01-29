@@ -431,6 +431,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Brown</Key>
+      <Forenames>H. R. S.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2504</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fox-Male</Key>
       <Forenames>W. C. E. T.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -671,7 +679,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,15 +812,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. (resigned)</Text>
       <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>Capt. and Instr. of Musketry P. M. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. M. (resigned)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,8 +1246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batterbury</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. L. (resigned)</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>

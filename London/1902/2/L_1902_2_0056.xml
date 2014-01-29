@@ -449,7 +449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laverton</Key>
-      <Text>R, M. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. (2nd Lieut.)</Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +515,8 @@
       <Key>
         <KeyDitto>— ___ ___ ——</KeyDitto>
       </Key>
-      <Text>(Lieut.): . .. .,</Text>
+      <Title>(Lieut.)</Title>
+      <Text>: . .. .,</Text>
       <PageNumber>8594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +693,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1042,7 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(Licut.-Col. and to command)</Text>
+      <Title>(Licut.-Col. and to command)</Title>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,9 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen</Key>
-      <Title>Capt.</Title>
-      <Forenames>St</Forenames>
-      <Text>.. J. C. (resigned)</Text>
+      <Title>Capt. St.</Title>
+      <Text>. J. C. (resigned)</Text>
       <PageNumber>8845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>K: (Lieut.) .. ' .. ..</Text>
+      <Forenames>K</Forenames>
+      <Text>: (Lieut.) .. ' .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,8 +1144,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.il. F. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>il. F. (antedated)</Text>
       <PageNumber>6738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1189,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>6738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1222,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,14 +1568,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>Capt. D, R. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>D</Forenames>
+      <Text>, R. (seconded)</Text>
       <PageNumber>8512</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paulson</Key>
-      <Text>P: Z. (Lieiit.)</Text>
+      <Forenames>P</Forenames>
+      <Text>: Z. (Lieiit.)</Text>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>

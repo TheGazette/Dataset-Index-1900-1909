@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henley</Key>
-      <Text>, 0. P. (Adj.)</Text>
+      <Text>0. P. (Adj.)</Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>, Maj. and Hon. Lieut.-Col.O.M. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Col.O.M. (resigned)</Text>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,8 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holoroft</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. F. L. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. F. L. S. (resigned)</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +133,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>. Maj. and Hon. Lieut.Col. CD. (seconded)</Text>
+      <Title>Super. Maj. and Hon. Lieut.Col.</Title>
+      <Text>CD. (seconded)</Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, 8. S. (Hoir. Maj.)</Text>
+      <Text>8. S. (Hoir. Maj.)</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,12 +246,11 @@
       <PageNumber>4525</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (NORTH OF)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>, 8. J. (2nd Lieut.)</Text>
+      <Text>8. J. (2nd Lieut.)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +287,6 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -385,7 +384,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Surg.-Col.)</Text>
+      <Title>(Hon. Surg.-Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +393,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. D. (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kesteeven</Key>
-      <Text>, Lord (Lieut.-Col. and to command)</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarborough</Key>
-      <Text>, Lieut.-Col. and Hon. Col., Earl of (retired) .. ..</Text>
+      <Title>Lieut.-Col. and Hon. Col., Earl</Title>
+      <Text>of (retired) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,9 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Borwick</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned) .. ibidMathews, W. C. (2nd Lieut.)</Text>
+      <Title>2nd Lieut. Or. (resigned)</Title>
+      <Text>.. ibidMathews, W. C. (2nd Lieut.)</Text>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +590,7 @@
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>LOTHIANS &amp; BERWICKSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>BERWICKSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
@@ -616,14 +615,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>, Maj. Bt. Hon. Lord (resigned)</Text>
+      <Title>Maj. Bt. Hon. Lord (resigned)</Title>
       <PageNumber>6608</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>.G. (Vet-Lieut.)</Text>
+      <Text>G. (Vet-Lieut.)</Text>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +698,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manning</Key>
-      <Text>, 0. S. (Capt.)</Text>
+      <Text>0. S. (Capt.)</Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>

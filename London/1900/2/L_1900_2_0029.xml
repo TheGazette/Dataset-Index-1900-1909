@@ -228,7 +228,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopton</Key>
-      <Text>, Maj. (temporary Lieut.-Col.) J. D. (Chief Inspector)</Text>
+      <Title>Maj. (temporary Lieut.-Col.)</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(Chief Inspector)</Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,14 +529,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(permitted to retain rank, &amp;c.)</Text>
+      <Title>(permitted to retain rank, &amp;c.)</Title>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berkeley</Key>
-      <Text>, Maj.-Oen. F. G. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Text>-Oen. F. G. (retired pay)</Text>
       <PageNumber>4589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Lord (temporary Lieut.)</Text>
+      <Title>Lord (temporary Lieut.)</Title>
       <PageNumber>5262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +697,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Brig.-Gen. in Northern China)</Text>
+      <Title>Brig.-Gen.</Title>
+      <Text>in Northern China)</Text>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +890,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Text>, Col. O'M. (local rank of Maj.Gen. in China)</Text>
+      <Title>Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>'M. (local rank of Maj.Gen. in China)</Text>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Text>, Col. Viscount (half-pay)</Text>
+      <Title>Col. Viscount (half-pay)</Title>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1157,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaselee</Key>
-      <Text>, Col. (Brig.-Gen.) Sir A. (local rank of Lieut.-Gen. whilst commanding the China Expeditionary Force)</Text>
+      <Title>Col. (Brig.-Gen.) Sir</Title>
+      <Forenames>A.</Forenames>
+      <Text>(local rank of Lieut.-Gen. whilst commanding the China Expeditionary Force)</Text>
       <PageNumber>4277</PageNumber>
     </MainItem>
   </ItemGroup>

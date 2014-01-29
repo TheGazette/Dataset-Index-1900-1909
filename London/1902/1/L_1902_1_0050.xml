@@ -125,7 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weatherhead</Key>
-      <Text>Capt. and lion. Maj. C. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>and lion. Maj. C. (resigned)</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,14 +361,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>Lieut..Col. and Hon. Col. J. R. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. and Hon. Col. J. R. (retired)</Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godman</Key>
-      <Text>Capt. and Hon. Maj. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. (resigned)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>Maj. and Hon. Lieut.-Col. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. (resigned)</Title>
       <PageNumber>721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phelps</Key>
-      <Text>Capt. and Instr. of Musketry P. P. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. P. (resigned)</Text>
       <PageNumber>1041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,7 +1408,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>

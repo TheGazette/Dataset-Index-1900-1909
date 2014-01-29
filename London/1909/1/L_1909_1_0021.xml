@@ -109,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>2nd Lieut. ¥. Gr. W. (cancellation)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>¥. Gr. W. (cancellation)</Text>
       <PageNumber>399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,14 +127,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Averill</Key>
-      <Text>C. (Lieut.-Col.)</Text>
+      <Text>. C. (Lieut.-Col.)</Text>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,15 +577,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramwell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. H. R. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. H. R. (cancellation)</Text>
       <PageNumber>1483</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brimacoin</Key>
-      <Text>be, R. W. (Capt.)</Text>
+      <Text>.be, R. W. (Capt.)</Text>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +833,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H^B. (Maj.)</Text>
+      <Forenames>H</Forenames>
+      <Text>^B. (Maj.)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,8 +905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cromie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (cancellation)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1071,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Text>W. (Lieut.-Col.)</Text>
+      <Text>. W. (Lieut.-Col.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1301,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1327,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,8 +1445,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. S. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. S. (cancellation)</Text>
       <PageNumber>2353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1551,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) .. ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1614,7 @@
       <Key>
         <KeyDitto>___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1673,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,7 +1848,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1900,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1934,8 +1939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McQueen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. M. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. M. (cancellation)</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>

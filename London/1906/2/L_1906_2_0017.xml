@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Text>Capt. G-. J. (removed-on age-limit)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. J. (removed-on age-limit)</Text>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +502,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,9 +609,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowke</Key>
-      <Title>Maj. and Brev.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. H. Instr.) '</Text>
+      <Title>Maj. and Brev. Lt.-Col.</Title>
+      <Forenames>G. H. Instr</Forenames>
+      <Text>.) '</Text>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,8 +1292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Draper</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. (removed on age limit) .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. (removed on age limit) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,8 +1332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomory</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. K. (resigned)</Text>
       <PageNumber>4154</PageNumber>
     </MainItem>
   </ItemGroup>

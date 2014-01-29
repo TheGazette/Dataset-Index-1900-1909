@@ -127,11 +127,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Weigall</Key>
-      <Text>,' Maj. G. E. (retired)</Text>
+      <Text>' Maj. G. E. (retired)</Text>
       <PageNumber>26</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Whitley, Qrmr. and Hon. Capt. W. T</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Whitley</Key>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>(retired pay)</Text>
+      <PageNumber>580</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkins</Key>
@@ -374,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, C. W. R. (Lieut.-Col.)</Text>
+      <Text>John, C. W. R. (Lieut.-Col.)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>,.J. (2nd Lieut.) .. ..</Text>
+      <Text>.J. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,8 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>HickB</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Gr. (Lieut.)</Title>
       <PageNumber>943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1003,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranna</Key>
-      <Text>, Qrmr... and Hon. Capt. J. (resigned)</Text>
+      <Title>Qrmr.</Title>
+      <Text>.. and Hon. Capt. J. (resigned)</Text>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -127,7 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schneider</Key>
-      <Text>, Capt.' C. V., Acting Military Attache and Oriental Secretary to H.M.'s Legation at Teheran</Text>
+      <Title>Capt.</Title>
+      <Text>' C. V., Acting Military Attache and Oriental Secretary to H.M.'s Legation at Teheran</Text>
       <PageNumber>81</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,14 +189,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Seelingmuller</Key>
-      <Text>, Herr, Royal Victorian Order, Honorary, Fifth Class</Text>
+      <Title>Herr</Title>
+      <Text>, Royal Victorian Order, Honorary, Fifth Class</Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Selborne</Key>
-      <Text>, Earl of, First Lord of the Admiralty</Text>
+      <Title>Earl</Title>
+      <Text>of, First Lord of the Admiralty</Text>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shand</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +333,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Rev. C, Royal Victdriah Order, Fourth Class</Text>
+      <Title>Rev.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victdriah Order, Fourth Class</Text>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +353,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Coi. W. A., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Coi. W. A., Companion of the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>, Earl, Keeper of the Privy Seal of H.R.H. the Duke of Cornwall and York</Text>
+      <Title>Earl</Title>
+      <Text>, Keeper of the Privy Seal of H.R.H. the Duke of Cornwall and York</Text>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,14 +465,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanford</Key>
-      <Text>, Lieut.-Col.W., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.W., Companion of the Bath</Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>, Col. Lord, Companion of the Bath</Text>
+      <Title>Col. Lord</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffield</Key>
-      <Text>, Lord, Lord in Waiting to His Majesty</Text>
+      <Title>Lord, Lord</Title>
+      <Text>in Waiting to His Majesty</Text>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,15 +621,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lady, Lady of the Bedchamber to Queen Alexandra</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of the Bedchamber to Queen Alexandra</Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Supple</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. J. F., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. J. F., Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +684,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teck</Key>
-      <Text>, H.S.H. Duke of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>H.S.H. Duke</Title>
+      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tivey</Key>
-      <Text>,-Capt. E., Distinguished Service Order .. ...... . ;. I</Text>
+      <Text>-Capt. E., Distinguished Service Order .. ...... . ;. I</Text>
       <PageNumber>2103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Treble</Key>
-      <Text>,. Lieut.-Col. G. W., Companion of St. Michael and St. George</Text>
+      <Text>. Lieut.-Col. G. W., Companion of St. Michael and St. George</Text>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +900,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, Lieut.-R. E. W., Victoria Cross</Text>
+      <Title>Lieut.</Title>
+      <Text>-R. E. W., Victoria Cross</Text>
       <PageNumber>2775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Forenames>Koiigh</Forenames>
-      <Text>.net, Capt. E. B.-, Companion of St. Michael and St. George</Text>
+      <Title>Koiigh.</Title>
+      <Text>net, Capt. E. B.-, Companion of St. Michael and St. George</Text>
       <PageNumber>2695</PageNumber>
     </MainItem>
   </ItemGroup>

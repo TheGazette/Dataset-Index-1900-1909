@@ -13,15 +13,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Oockroft</Key>
-      <Text>, 2nd Lieut. C (resigned) ..</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. B. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. B. T. (resigned)</Text>
       <PageNumber>8650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,8 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spottiswoode</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. and Hon. Maj. A. G. {resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. and Hon. Maj. A. G. {resigned)</Text>
       <PageNumber>8650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,8 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. W. O'F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. W. O'F. (resigned)</Text>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,8 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. J. (resigned)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,14 +272,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Clowes</Key>
-      <Text>, G, C, K. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, C, K. (Capt.)</Text>
       <PageNumber>9093</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, Capt. .(jr. N(resigned)..</Text>
+      <Title>Capt.</Title>
+      <Text>.(jr. N(resigned)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>, : Surg.-Lieut.-Col. and Hon. Surg.-Col. F. W. (resigned)</Text>
+      <Text>: Surg.-Lieut.-Col. and Hon. Surg.-Col. F. W. (resigned)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill-Trevor</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.Hon. A.E.(resigned)</Text>
+      <Title>Lieut.Hon.</Title>
+      <Text>A.E.(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's Own Royal Regiment, Norfolk Imperial Yeomanry '</Text>
+      <Title>King</Title>
+      <Text>'s Own Royal Regiment, Norfolk Imperial Yeomanry '</Text>
       <PageNumber>9175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,9 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Title>Super. Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. G. H. (resigned),</Text>
+      <Title>Super. Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. G. H. (resigned),</Text>
       <PageNumber>6</PageNumber>
       <PageNumber>708</PageNumber>
     </MainItem>
@@ -770,14 +774,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, Earl of (Lieut.-Col. and to command)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>, Col., Marquis of (retired)</Text>
+      <Title>Col., Marquis</Title>
+      <Text>of (retired)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +792,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>8648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +995,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taggart</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

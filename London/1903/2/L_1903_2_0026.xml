@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. M. (resigned . and Lieut.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. M. (resigned . and Lieut.)</Text>
       <PageNumber>358</PageNumber>
       <PageNumber>3</PageNumber>
     </MainItem>
@@ -352,7 +352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallins</Key>
-      <Text>F W. (Capt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>W. (Capt.)</Text>
       <PageNumber>2990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,17 +895,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Town</Key>
-      <Title>Capt.</Title>
-      <Forenames>Instr</Forenames>
-      <Text>. of Musketry W. N. (resigned)-</Text>
+      <Title>Capt. Instr.</Title>
+      <Text>of Musketry W. N. (resigned)-</Text>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. (resigned)</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>

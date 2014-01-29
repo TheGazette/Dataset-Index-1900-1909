@@ -63,7 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, 1. T. (Lieut.-Col.)</Text>
+      <Text>1. T. (Lieut.-Col.)</Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,15 +595,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>, C; H. (Col.)</Text>
+      <Forenames>C</Forenames>
+      <Text>; H. (Col.)</Text>
       <PageNumber>4652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Appleton</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Brevet Col. H. (retired)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Brevet Col. H. (retired)</Text>
       <PageNumber>2568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +803,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Text>, Sir O'M. (Gen.)</Text>
+      <Title>Sir</Title>
+      <Forenames>O</Forenames>
+      <Text>'M. (Gen.)</Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fell</Key>
-      <Text>, Lieut.-Co). and Brevet Col. R. B. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Co). and Brevet Col. R. B. (retired)</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel</Key>
-      <Text>, Lieut.-Col. and Brevet CoL G. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet</Title>
+      <Text>CoL G. (retired)</Text>
       <PageNumber>4325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,6 +1268,14 @@
       <Forenames>W. J. H.</Forenames>
       <Text>(Hon. Capt.)</Text>
       <PageNumber>2671</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Norman</Key>
+      <Title>Qrmr. and Hon. Maj</Title>
+      <Text>, R. P. (retired pay)</Text>
+      <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1629,7 +1642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harley</Key>
-      <Text>, I ,</Text>
+      <Forenames>I</Forenames>
+      <Text>,</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,7 +1695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevile</Key>
-      <Text>, RL. .. ... .. ..</Text>
+      <Text>RL. .. ... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1704,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>

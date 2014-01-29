@@ -143,7 +143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>, Qrmr. and Hon. Capt. G-. (retired pay) .-</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Text>G-. (retired pay) .-</Text>
       <PageNumber>6294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +196,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —— ___</KeyDitto>
       </Key>
-      <Text>(cancellation) .. Hughes,A. J. (Qrmr. and Hon. Lieut.)</Text>
+      <Title>(cancellation)</Title>
+      <Text>.. Hughes,A. J. (Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,8 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Snell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. S. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. S. H. (resigned)</Text>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, A: L. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: L. (Lieut.)</Text>
       <PageNumber>7147</PageNumber>
       <PageNumber>___</PageNumber>
     </MainItem>
@@ -1446,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>,-T. S. (Lieut.)</Text>
+      <Text>-T. S. (Lieut.)</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1502,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,21 +1671,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, A; V. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>; V. (2nd Lieut.)</Text>
       <PageNumber>447</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roddy</Key>
-      <Text>, Lieut. ~E. L. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>~E. L. (seconded)</Text>
       <PageNumber>8641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shawe-Taylor</Key>
-      <Text>, 'Capt. J. (retired)</Text>
+      <Text>'Capt. J. (retired)</Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turton</Key>
-      <Text>,* Capt. R. D. (Boconded) '</Text>
+      <Text>* Capt. R. D. (Boconded) '</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,7 +1721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Text>, ij.D; (2nd Lieut.) 8412.. Matterspn, C. A. K. (2nd Lieut.)</Text>
+      <Text>ij.D; (2nd Lieut.) 8412.. Matterspn, C. A. K. (2nd Lieut.)</Text>
       <PageNumber>6876</PageNumber>
     </MainItem>
   </ItemGroup>

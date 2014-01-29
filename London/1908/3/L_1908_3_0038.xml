@@ -116,7 +116,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>R, (Lieut.-Col. and Hon Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (Lieut.-Col. and Hon Col.)</Text>
       <PageNumber>6530</PageNumber>
     </MainItem>
   </ItemGroup>

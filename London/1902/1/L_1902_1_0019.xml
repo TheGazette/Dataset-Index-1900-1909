@@ -63,7 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Honorary</Key>
-      <Text>Colonel: Wools-Sampson, A</Text>
+      <Title>Colonel</Title>
+      <Text>: Wools-Sampson, A</Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>Earl of (Hon. Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Maj.)</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +825,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brinton</Key>
-      <Text>Capt. O W., Temporary Brig. Maj</Text>
+      <Title>Capt.</Title>
+      <Forenames>O</Forenames>
+      <Text>W., Temporary Brig. Maj</Text>
       <PageNumber>3092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +880,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +981,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>Maj. and Brev. Lieut.-Col.T. D., Deputy-Assist. Adj.-Gen</Text>
+      <Title>Maj. and Brev. Lieut.</Title>
+      <Text>-Col.T. D., Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>3092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,9 +1016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Granet</Key>
-      <Title>Maj. and Brev.</Title>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. E. J., Deputy-Assist. Adj.-Gen. at Head-Quarters</Text>
+      <Title>Maj. and Brev. Lient.</Title>
+      <Text>-Col. E. J., Deputy-Assist. Adj.-Gen. at Head-Quarters</Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Text>Lieut.^Col. and Hon. Col. Vise., Aide-de-Camp to Field-Marshal EarlBoberts</Text>
+      <Title>Lieut.</Title>
+      <Text>^Col. and Hon. Col. Vise., Aide-de-Camp to Field-Marshal EarlBoberts</Text>
       <PageNumber>2937</PageNumber>
     </MainItem>
   </ItemGroup>

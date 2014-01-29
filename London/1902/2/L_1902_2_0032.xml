@@ -406,7 +406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gale</Key>
-      <Text>Capt.and Brev. Maj. H. R.</Text>
+      <Title>Capt.</Title>
+      <Text>and Brev. Maj. H. R.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,21 +422,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Green-Wilkinson</Key>
-      <Text>Capt. and Brev. Maj. L F-</Text>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>L</Forenames>
+      <Text>F-</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Text>Capt.' R. W!</Text>
+      <Title>Capt.</Title>
+      <Text>' R. W!</Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Higgirison</Key>
-      <Text>Capt. CP</Text>
+      <Title>Capt.</Title>
+      <Text>CP</Text>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMicking</Key>
-      <Text>Capt. H</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,8 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj: N. C. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj: N. C. (correction)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

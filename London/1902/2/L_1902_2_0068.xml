@@ -300,7 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCloy</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +332,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Text>H.E. H</Text>
+      <Title>H.E.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rider</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Messervy</Key>
-      <Text>C de F.</Text>
+      <Forenames>C</Forenames>
+      <Text>de F.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +864,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Text>W ___ Russell, C. E</Text>
+      <Forenames>W</Forenames>
+      <Text>___ Russell, C. E</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1214,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,14 +1282,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferbrache</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,7 +1459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>W '</Text>
+      <Forenames>W</Forenames>
+      <Text>'</Text>
       <PageNumber>8510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1630,7 +1634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8679</PageNumber>
     </MainItem>
   </ItemGroup>

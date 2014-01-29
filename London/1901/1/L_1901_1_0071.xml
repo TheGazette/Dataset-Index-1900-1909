@@ -217,8 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morison</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. E. (resigned)</Text>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>, tt. M. (Lieut.)</Text>
+      <Text>tt. M. (Lieut.)</Text>
       <PageNumber>313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,8 +1031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McLellan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. N. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. N. (resigned)</Text>
       <PageNumber>1858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1080,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>, 2nd Lieut, J. D. (resigned)</Text>
+      <Text>2nd Lieut, J. D. (resigned)</Text>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>, II. S. (Lieut.)</Text>
+      <Text>II. S. (Lieut.)</Text>
       <PageNumber>2120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,6 +1297,14 @@
       <Forenames>K. G.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>2292</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chamley</Key>
+      <Forenames>C. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3882</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1424,8 +1432,27 @@
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ — ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ — ___ ___</KeyDitto>
+      </Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>3035</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>K. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>89</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1457,7 +1484,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lieut. ., . C. J. (cancellation)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>., . C. J. (cancellation)</Text>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1494,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,6 +1505,14 @@
       <Forenames>F. J.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>1230</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McCutcheon</Key>
+      <Forenames>T.</Forenames>
+      <Text>(2nd Lieut.) .. .,</Text>
+      <PageNumber>8038</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1548,7 +1584,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2440</PageNumber>
       <PageNumber>2859</PageNumber>
     </MainItem>
@@ -1589,7 +1625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>, 2nd Lieut, G. P. D. (removed)</Text>
+      <Text>2nd Lieut, G. P. D. (removed)</Text>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -160,7 +160,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwickshire</Key>
-      <Text>(Swine-Fever) Order of 1908</Text>
+      <Title>(Swine-Fever)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1908</Text>
       <PageNumber>3492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellingborough</Key>
-      <Text>, notice of meeting to . f~ * appoint Commissioners of Income Tax ..'</Text>
+      <Text>notice of meeting to . f~ * appoint Commissioners of Income Tax ..'</Text>
       <PageNumber>2669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigmore</Key>
-      <Text>, notice of meeting to appoint Commissioners of Income Tax ..'</Text>
+      <Text>notice of meeting to appoint Commissioners of Income Tax ..'</Text>
       <PageNumber>3888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiltshire</Key>
-      <Text>, infected area declared in</Text>
+      <Text>infected area declared in</Text>
       <PageNumber>3493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcestershire</Key>
-      <Text>(Parasitic Mange), Order of 1908</Text>
+      <Title>(Parasitic Mange)</Title>
+      <Text>, Order of 1908</Text>
       <PageNumber>3893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Text>(Swine Fever), Order of 1908</Text>
+      <Title>(Swine Fever)</Title>
+      <Text>, Order of 1908</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +406,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(West Riding) (SwineFever) Order of 1908</Text>
+      <Title>(West Riding) (SwineFever)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1908</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercorn</Key>
-      <Text>, Duke of, Ensign in the Royal Company of Archers</Text>
+      <Title>Duke</Title>
+      <Text>of, Ensign in the Royal Company of Archers</Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +530,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackland</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adlerstrahle</Key>
-      <Text>, Capt.. A. E. T., Hon. Fourth Class, Boyal Victorian Order</Text>
+      <Title>Capt.</Title>
+      <Text>. A. E. T., Hon. Fourth Class, Boyal Victorian Order</Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Annis</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,6 +688,14 @@
       <Forenames>N. I.</Forenames>
       <Text>, Hon. Fifth Class, Boyal Victorian Order</Text>
       <PageNumber>4403</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ball</Key>
+      <Forenames>J. D.</Forenames>
+      <Text>, Companion of the Imperial Service Order</Text>
+      <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -783,7 +802,16 @@
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. J.</Forenames>
+      <Text>,j Vice-President, League of Mercy</Text>
+      <PageNumber>4649</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bertie</Key>

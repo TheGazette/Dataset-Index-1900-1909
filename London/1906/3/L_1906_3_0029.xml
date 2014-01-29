@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Forenames>Hussars</Forenames>
-      <Text>. (Alexandra, Princess of Wales's Own.) Imperial Yeomanry. Lawson, D. (2hd Lieut.)</Text>
+      <Title>Hussars. (Alexandra, Princess of Wales's Own.)</Title>
+      <Forenames>Imperial Yeomanry</Forenames>
+      <Text>. Lawson, D. (2hd Lieut.)</Text>
       <PageNumber>5873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,8 +132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Tet</Forenames>
-      <Text>.-Maj. E. C. (resigned)</Text>
+      <Title>Tet.</Title>
+      <Text>-Maj. E. C. (resigned)</Text>
       <PageNumber>5661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>Saint, P. (2nd Lieut.)</Text>
+      <Text>.Saint, P. (2nd Lieut.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denison</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockman</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faviell</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Key</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Makin</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, A. B</Text>
+      <Text>. John, A. B</Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swithinbank</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherell</Key>
-      <Text>L. A</Text>
+      <Text>. L. A</Text>
       <PageNumber>5131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hackney</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>H. M... ... ... ..</Text>
+      <Text>.H. M... ... ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maguire</Key>
-      <Text>O. H. K. .. ,. ..</Text>
+      <Text>. O. H. K. .. ,. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cocks</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ilitf</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,7 +1462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>E. G</Text>
+      <Text>. E. G</Text>
       <PageNumber>5515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spalding</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5515</PageNumber>
     </MainItem>
   </ItemGroup>

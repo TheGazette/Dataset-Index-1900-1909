@@ -172,7 +172,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>,J. D. (Lieut.) '</Text>
+      <Text>J. D. (Lieut.) '</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +745,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliott</Key>
-      <Text>, R, H. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. (Lieut.)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +901,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1282,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>, Hon. B: J. (Adj.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>B</Forenames>
+      <Text>: J. (Adj.)</Text>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>. A. J. (Capt.)</Text>
+      <Text>A. J. (Capt.)</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>. W. F. (2nd Lieut.)</Text>
+      <Text>W. F. (2nd Lieut.)</Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1539,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation) ..</Text>
+      <Title>(cancellation)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, 2nd Lieut; D. B. (seconded)</Text>
+      <Text>2nd Lieut; D. B. (seconded)</Text>
       <PageNumber>2017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1911,7 +1915,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H: S. (Lieut.-Col.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: S. (Lieut.-Col.)</Text>
       <PageNumber>2017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,7 +1986,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rickard</Key>
-      <Text>, Capt. F: M. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F</Forenames>
+      <Text>: M. (seconded)</Text>
       <PageNumber>2017</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -96,22 +96,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Pochiu</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. W</Text>
+      <Title>Gr.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>1949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chelsea</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount</Title>
       <PageNumber>946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>Gr</Forenames>
+      <Title>Gr.</Title>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,8 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stair</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,6 +277,14 @@
       <Forenames>W. H. B.</Forenames>
       <Text>.. Retired List. Bigge, H. C. -,</Text>
       <PageNumber>941</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Olive</Key>
+      <Forenames>W. Staff-Captains</Forenames>
+      <Text>. . Roberts, F</Text>
+      <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -822,7 +830,6 @@
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Cabe, E. J</SubCategoryTitle>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
 </Index>

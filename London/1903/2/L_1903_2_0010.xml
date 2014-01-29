@@ -169,7 +169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>C T., Companion of St. Michael and St. George</Text>
+      <Forenames>C</Forenames>
+      <Text>T., Companion of St. Michael and St. George</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +187,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Text>Col. O'M., Knight Com' mander of the Bath</Text>
+      <Title>Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>'M., Knight Com' mander of the Bath</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>dAbruzzi</Key>
-      <Text>H.R.H. the Duke of, Hon. Knight Grand Cross, Royal Victo'. rian Order .. .. .. ..</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, Hon. Knight Grand Cross, Royal Victo'. rian Order .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +222,8 @@
       <Key>
         <KeyDitto>-'</KeyDitto>
       </Key>
-      <Text>Commander, Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Text>, Royal Victorian Order</Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>DAlessandro</Key>
-      <Text>Capt. XJ., Royal Victorian Order, Hon. Fourth Class</Text>
+      <Title>Capt.</Title>
+      <Text>XJ., Royal Victorian Order, Hon. Fourth Class</Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davenport</Key>
-      <Text>C, Esquire, St. John of Jerusalem</Text>
+      <Forenames>C</Forenames>
+      <Text>, Esquire, St. John of Jerusalem</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>C, Order of Mercy</Text>
+      <Forenames>C</Forenames>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doinvile</Key>
-      <Text>Admiral Sir 0. E., Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Admiral Sir</Title>
+      <Text>0. E., Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,8 +417,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ma</Forenames>
-      <Text>.j. M. W., Companion of tile Indian Empire</Text>
+      <Title>Ma.</Title>
+      <Text>j. M. W., Companion of tile Indian Empire</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edridge</Key>
-      <Text>Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,8 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evatt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. G. J. H., Companion of the Bath .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. G. J. H., Companion of the Bath .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,14 +560,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>Lord, Order of Mercy</Text>
+      <Title>Lord</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farrar</Key>
-      <Text>Sir &amp;., Member of the Legislative Council of the Transvaal</Text>
+      <Title>Sir</Title>
+      <Text>&amp;., Member of the Legislative Council of the Transvaal</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman-Thomas</Key>
-      <Text>Hon. Mrs., Order of Mercy</Text>
+      <Title>Hon. Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,16 +735,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Title>Lieut.-Col. and Col.</Title>
-      <Forenames>Viset</Forenames>
-      <Text>., Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Col. Viset.</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gandy</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Genoa</Key>
-      <Text>H.R.H. tile Duke of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>H.R.H.</Title>
+      <Text>tile Duke of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +809,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbey</Key>
-      <Text>Mrs. iST., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>iST., Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +834,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godson</Key>
-      <Text>C, Order of Mercy</Text>
+      <Forenames>C</Forenames>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +945,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Text>Hon. C, Commander, Royal Victorian Order</Text>
+      <Title>Hon.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Commander, Royal Victorian Order</Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>

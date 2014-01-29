@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Lord, H.M.'s High Commissioner to the General Assembly of the Cburchof Scotland</Text>
+      <Title>Et. Hon. Lord</Title>
+      <Text>, H.M.'s High Commissioner to the General Assembly of the Cburchof Scotland</Text>
       <PageNumber>2648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,14 +44,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Laidlaw</Key>
-      <Text>, .T., H.M.'s Consul at Port-. land, U.S.A</Text>
+      <Text>.T., H.M.'s Consul at Port-. land, U.S.A</Text>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lambton</Key>
-      <Text>, Lieut.-Cbl.Hon. W., Fourth Class, Eoyal Victorian Order</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cbl.Hon. W., Fourth Class, Eoyal Victorian Order</Text>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lankester</Key>
-      <Text>,. Prof. E. E., Knight Commander of the Bath.. .. ..</Text>
+      <Text>. Prof. E. E., Knight Commander of the Bath.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>,. L. C, Puisne Judge of the High Court of Judicature at Madras</Text>
+      <Text>. L. C, Puisne Judge of the High Court of Judicature at Madras</Text>
       <PageNumber>3437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pehang</Key>
-      <Text>, the Tungku Besar of, Hon. Companion of St. Michael and St. George</Text>
+      <Text>the Tungku Besar of, Hon. Companion of St. Michael and St. George</Text>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +785,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>, Duchess of, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Duchess</Title>
+      <Text>of, Lady of Grace, St. John of Jerusalem</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sehneider</Key>
-      <Text>, Dr. . J. E. J., Hon. Companion of the Indian Empire</Text>
+      <Title>Dr.</Title>
+      <Text>. J. E. J., Hon. Companion of the Indian Empire</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1034,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaughnessy</Key>
-      <Text>, Sir T G., Knight Commander, Royal Victorian Order</Text>
+      <Title>Sir</Title>
+      <Forenames>T</Forenames>
+      <Text>G., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>

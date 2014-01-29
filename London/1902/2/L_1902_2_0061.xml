@@ -38,7 +38,7 @@
       <Key>
         <KeyDitto>___ . ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +308,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>6654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +462,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +595,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Jemadar)</Text>
+      <Title>(Jemadar)</Title>
       <PageNumber>5533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +608,6 @@
       <PageNumber>7016</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Colonels</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -850,7 +849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thuillier</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>H: T. H.</Text>
+      <Forenames>H</Forenames>
+      <Text>: T. H.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butterfield</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7245</PageNumber>
     </MainItem>
   </ItemGroup>

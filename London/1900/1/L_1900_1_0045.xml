@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Encombe</Key>
-      <Text>Lieut. Viscount (seconded)</Text>
+      <Title>Lieut. Viscount (seconded)</Title>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Text>Capt. and Instr. of Musketry H. F. Du C. (seconded) .. ..</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. F. Du C. (seconded) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beatty</Key>
-      <Text>R G. (2nd-Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>G. (2nd-Lieut.)</Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,15 +1555,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>Capt. and Instr. of Musketry A. D. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry A. D. (super.)</Text>
       <PageNumber>2348</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. L. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. L. (super.)</Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,6 +1596,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Innes</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Jervis</Key>
       <Title>Lieut.-Col. Comdt.</Title>
       <Forenames>W. S.</Forenames>
@@ -1613,8 +1624,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. H. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. H. (super.)</Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orton</Key>
-      <Text>J, (Surg.-Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, (Surg.-Lieut.)</Text>
       <PageNumber>2927</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -149,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, W. A. E. (Lieut.-Col.)</Text>
+      <Text>Clair, W. A. E. (Lieut.-Col.)</Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation cancelled)</Text>
+      <Title>(cancellation cancelled)</Title>
       <PageNumber>8757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1004,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,7 +1328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans-Gwynne</Key>
-      <Text>, 2nd Lieut, (correction)</Text>
+      <Text>2nd Lieut, (correction)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Text>, R, C. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. (Lieut.)</Text>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>

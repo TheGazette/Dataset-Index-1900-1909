@@ -157,8 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. O. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. O. T. (resigned)</Text>
       <PageNumber>3333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aylesford</Key>
-      <Text>, Hon. Col. Earl of (resigned)</Text>
+      <Title>Hon. Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +441,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +474,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curme</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D. (resigned)</Text>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,8 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. P. (resigned and Hon. Surg.-Col.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. P. (resigned and Hon. Surg.-Col.)</Text>
       <PageNumber>3161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1227,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>

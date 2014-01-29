@@ -993,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewin</Key>
-      <Text>Capt.-R. N. S. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>-R. N. S. (retired)</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Childs</Key>
-      <Text>Lieut.-.Col. and Hon.. Col. B. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-.Col. and Hon.. Col. B. (resigned)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>Rev.. J. W. (Acting. Chap.)</Text>
+      <Title>Rev.</Title>
+      <Text>. J. W. (Acting. Chap.)</Text>
       <PageNumber>2589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgcome</Key>
-      <Text>Acting ,Chap. .Rev. G. S. (resigned) .. ,... .. ...</Text>
+      <Title>Acting ,Chap.</Title>
+      <Text>.Rev. G. S. (resigned) .. ,... .. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>jVormAn</Key>
-      <Text>J, (Tnstr, of Musketr^</Text>
+      <Forenames>J</Forenames>
+      <Text>, (Tnstr, of Musketr^</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>

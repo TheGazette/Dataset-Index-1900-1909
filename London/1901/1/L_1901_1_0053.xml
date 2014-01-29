@@ -29,8 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Second in Command and temporary Maj.) .. -</Text>
+      <Title>Or. (Second in Command and temporary Maj.)</Title>
+      <Text>.. -</Text>
       <PageNumber>1938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,8 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby-Green</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +133,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Second in Command and temporary Maj.)</Text>
+      <Title>(Second in Command and temporary Maj.)</Title>
       <PageNumber>2619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +275,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>4185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,14 +517,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of (resigned)</Text>
+      <Title>Duke</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norreys</Key>
-      <Text>, Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>1148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +691,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj. and temporary) Capt.)</Text>
+      <Title>(Adj. and temporary) Capt.</Title>
+      <Text>)</Text>
       <PageNumber>3380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +821,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sowler</Key>
-      <Text>, F*. (Capt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>*. (Capt.)</Text>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stannus</Key>
-      <Text>, Capt.. T. R. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. T. R. (resigned)</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>

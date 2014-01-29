@@ -49,7 +49,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Comdt. and temporary Lieut.-Col.)</Text>
+      <Title>(Comdt. and temporary Lieut.-Col.)</Title>
       <PageNumber>6170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +67,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>(resigns as Second in Command) ..</Text>
+      <Title>(resigns as Second in Command)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +167,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>,.Temporary Lieut.-Col. F. G. (resigned) ,</Text>
+      <Text>.Temporary Lieut.-Col. F. G. (resigned) ,</Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +332,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,14 +375,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brighouse</Key>
-      <Text>, s! (Lieut.)</Text>
+      <Text>s! (Lieut.)</Text>
       <PageNumber>8716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +608,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carden</Key>
-      <Text>, Capt. H C. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>C. (resigned)</Text>
       <PageNumber>5589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamberlin</Key>
-      <Text>, F-G-(Lieut.) .. .-</Text>
+      <Text>F-G-(Lieut.) .. .-</Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +722,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +749,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +827,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +964,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +982,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cory</Key>
-      <Text>,. Capt. E. J. (resigned) 64S</Text>
+      <Text>. Capt. E. J. (resigned) 64S</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1022,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crossley</Key>
-      <Text>, Temporary Lieut.-CoL Sir S., Bart, (resigned)</Text>
+      <Title>Temporary Lieut.</Title>
+      <Text>-CoL Sir S., Bart, (resigned)</Text>
       <PageNumber>4402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,7 +1219,7 @@
       <Key>
         <KeyDitto>___ ___ — ___ ..</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1283,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Comdt. and temporary Lieut.-Col.)' .. . . .. ,</Text>
+      <Title>(Comdt. and temporary Lieut.-Col.)</Title>
+      <Text>' .. . . .. ,</Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,14 +1440,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Doxat</Key>
-      <Text>, Lieut. AC. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>AC. (resigned)</Text>
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1685,7 +1691,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1719,7 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewing</Key>
-      <Text>,Capt. J. E. (resigns as Adj.)</Text>
+      <Text>Capt. J. E. (resigns as Adj.)</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1822,7 +1828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>, Lieut. Earl of (resigned)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>5689</PageNumber>
     </MainItem>
   </ItemGroup>

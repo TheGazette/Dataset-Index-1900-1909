@@ -13,7 +13,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gr. (2nd Lieut.)</Title>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +278,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +453,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +855,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +981,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,7 +1407,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,6 +1466,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hirst</Key>
+      <Forenames>B. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>436</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Illingworth</Key>
       <Forenames>W. L.</Forenames>
       <Text>(2nd Lieut.) ..</Text>
@@ -1495,7 +1502,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1511,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1541,7 +1548,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,6 +1704,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Orde</Key>
+      <Title>Capt.</Title>
+      <Forenames>L. H.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>288</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Poole</Key>
       <Title>Lieut.</Title>
       <Forenames>F. G.</Forenames>
@@ -1751,6 +1767,14 @@
       <Forenames>H. E. P.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>288</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilberforce</Key>
+      <Forenames>W. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -632,8 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of (LieutCol, and Hon. Col.)</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of (LieutCol, and Hon. Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Text>Lord (Lieut.-Col. and Hon. Coi.)</Text>
+      <Title>Lord (Lieut.-Col. and Hon. Coi.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>C. Gr. (Maj.) .. . . .. —^</Text>
+      <Text>. C. Gr. (Maj.) .. . . .. —^</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>(retired) .. .. .. ..</Text>
+      <Title>(retired)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chelmsford</Key>
-      <Text>Lord (Super. Capt.)</Text>
+      <Title>Lord (Super. Capt.)</Title>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1257,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>

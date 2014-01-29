@@ -774,7 +774,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banaster</Key>
-      <Text>Capt. and Instr. of Musketry G. (resigned, and Hon, Maj.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry G. (resigned, and Hon, Maj.)</Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1159,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>

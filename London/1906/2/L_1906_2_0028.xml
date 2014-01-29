@@ -64,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>Lord, (2nd Lieut.)</Text>
+      <Title>Lord, (2nd Lieut.)</Title>
       <PageNumber>3468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +374,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Key</Key>
-      <Text>(2nd Lieut.) S. W. (cancellation)</Text>
+      <Title>(2nd Lieut.)</Title>
+      <Forenames>S. W.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>Col., Duke of Richmond and Gordon (resigned) .. .. ..</Text>
+      <Title>Col., Duke</Title>
+      <Text>of Richmond and Gordon (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,8 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. F. (resigned)</Text>
       <PageNumber>4153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Text>Lord (Hon.-Col.) .. ..</Text>
+      <Title>Lord (Hon.-Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +786,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +851,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ '.—</KeyDitto>
       </Key>
-      <Text>(Capt.) .. .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1210,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.^G. F. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>^G. F. (antedated)</Text>
       <PageNumber>3846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1392,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

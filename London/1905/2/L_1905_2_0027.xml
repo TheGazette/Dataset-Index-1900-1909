@@ -505,7 +505,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Text>, 2nd Lieut. C (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. N. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. N. (resigned)</Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mactaggart</Key>
-      <Text>,J. N. (Maj.) .. ..</Text>
+      <Text>J. N. (Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,14 +797,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Carment</Key>
-      <Text>, A, G. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, G. (Lieut.)</Text>
       <PageNumber>8333</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, J,.(2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>,.(2nd Lieut.)</Text>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1093,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>, Sir F, W., Bart. (Hon. Lieut.Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>F</Forenames>
+      <Text>, W., Bart. (Hon. Lieut.Col.)</Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cairns</Key>
-      <Text>, Maj. Earl (resigned and Hon. Lieut.-Col.)</Text>
+      <Title>Maj. Earl (resigned and Hon. Lieut.-Col.)</Title>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evelegh</Key>
-      <Text>, Lieut.-Col. and-Brev. Col. F.J. (retired) .. .-</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and-Brev. Col. F.J. (retired) .. .-</Text>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>,-Capt. C. R. I. (antedated)</Text>
+      <Text>-Capt. C. R. I. (antedated)</Text>
       <PageNumber>3426</PageNumber>
     </MainItem>
   </ItemGroup>

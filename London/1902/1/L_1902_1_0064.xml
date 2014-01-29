@@ -99,7 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftesbury</Key>
-      <Text>Earl of (Lieut.-Col. and to command)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>1736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterford</Key>
-      <Text>Marquis of (Lieut.-Col. and to command)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +143,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. Marquis of (seconded)</Text>
+      <Title>Lieut.-Col. Marquis</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>2865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,22 +200,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Teynham</Key>
-      <Text>Lord (Lieut.)..</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. P. (resigned)</Text>
       <PageNumber>720</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tylden</Key>
-      <Text>R, J. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, J. (Maj.)</Text>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,14 +241,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunglass</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Text>B (Capt,)</Text>
+      <Forenames>B</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,8 +376,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Ker</Key>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>II. A (resigned)</Text>
+      <PageNumber>4123</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Knox</Key>
-      <Text>Capt. und Hon. Maj. R. A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>und Hon. Maj. R. A. (resigned)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddoch</Key>
-      <Text>D, S. (Capt.)</Text>
+      <Forenames>D</Forenames>
+      <Text>, S. (Capt.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,14 +756,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lathom</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sefton</Key>
-      <Text>Earl of (Super. Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Super. Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,8 +807,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacques</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. T. (resigned)</Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batcliff</Key>
-      <Text>R, H. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. (Capt.)</Text>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>R, R. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, R. (Capt.)</Text>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,8 +1276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C. H.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C. H.</Forenames>
       <Text>(Hon. Chap,</Text>
       <PageNumber>1043</PageNumber>
     </MainItem>

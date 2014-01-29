@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="036" pageID="https://www.thegazette.co.uk/id/London/index/year/1903/volume/2/page/036" pagePDF="https://www.thegazette.co.uk/London/index/year/1903/volume/2/page/036" pageRDF="https://www.thegazette.co.uk/London/index/year/1903/volume/2/page/036?view=linked-data" type="index" volume="2" year="1903">
-  <SubCategoryTitle>. . SCOTTISH HORSE</SubCategoryTitle>
+  <SubCategoryTitle>SCOTTISH HORSE</SubCategoryTitle>
   <SubCategoryTitle>SHROPSHIRE</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Berwick</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,8 +42,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. G. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. G. D. (resigned)</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mander</Key>
-      <Text>Maj. C T</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>3370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Altham</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1032,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>W,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>2229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callaghan</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2524</PageNumber>
     </MainItem>
   </ItemGroup>

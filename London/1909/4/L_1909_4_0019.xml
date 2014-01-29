@@ -210,8 +210,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Millar</Key>
-      <Forenames>Eev</Forenames>
-      <Text>. G,</Text>
+      <Title>Eev.</Title>
+      <Forenames>G</Forenames>
+      <Text>,</Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Asaph, Et. Eev. Lord Bi shop of</Text>
+      <Text>Asaph, Et. Eev. Lord Bi shop of</Text>
       <PageNumber>7270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Eev</Forenames>
-      <Text>. J</Text>
+      <Title>Eev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Glen</Key>
-      <Text>, (Lieut.-Col. and Hon, Col.) A. (resigned)</Text>
+      <Title>(Lieut.-Col. and Hon, Col.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>7852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrot</Key>
-      <Text>. E. (Capt.)</Text>
+      <Text>E. (Capt.)</Text>
       <PageNumber>7270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,8 +818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scully</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. and Hon. Maj T. V. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. and Hon. Maj T. V. (resigned)</Text>
       <PageNumber>8937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackley</Key>
-      <Text>, Viscount (Hon. Col.)</Text>
+      <Title>Viscount (Hon. Col.)</Title>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +917,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,8 +1356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. L. T. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. L. T. (cancellation)</Text>
       <PageNumber>8108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, H A. (Capt.) .. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>A. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1414,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,16 +1455,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.Col. B. L. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Surg.</Title>
+      <Text>Col. B. L. (resigned)</Text>
       <PageNumber>8556</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spurgin</Key>
-      <Text>. P. B. (Lieut.)</Text>
+      <Text>P. B. (Lieut.)</Text>
       <PageNumber>9331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,8 +1528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. F. S. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. F. S. (resigned)</Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1546,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1576,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,14 +1873,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, W. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. (2nd Lieut.)</Text>
       <PageNumber>9329</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gaskain</Key>
-      <Text>,.W. D. (Capt.)</Text>
+      <Text>.W. D. (Capt.)</Text>
       <PageNumber>7852</PageNumber>
     </MainItem>
   </ItemGroup>

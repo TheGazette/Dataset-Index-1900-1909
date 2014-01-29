@@ -31,9 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Capt. and Hon. Maj. Or. (retired)</Title>
       <PageNumber>3928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +177,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>(resigned) .. . . . . . . Chew, A. C. (Adj.) .. .,</Text>
+      <Title>(resigned)</Title>
+      <Text>.. . . . . . . Chew, A. C. (Adj.) .. .,</Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +187,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,8 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ere</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. F. B. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. F. B. (resigned)</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,8 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. C. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. C. R. (resigned)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +523,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +701,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut-Col.)</Text>
+      <Title>(Hon. Lieut-Col.)</Title>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +738,8 @@
       <Key>
         <KeyDitto>___ -.—— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon Maj. C.CE. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon Maj. C.CE. (seconded)</Text>
       <PageNumber>1942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raglan</Key>
-      <Text>, Lord (Lieut.-Col. and to command)</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +784,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +876,16 @@
       <PageNumber>3926</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>G. R. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1854</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
@@ -1037,8 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Eev</Forenames>
-      <Text>. G(Acting Chap.)</Text>
+      <Title>Eev.</Title>
+      <Text>G(Acting Chap.)</Text>
       <PageNumber>2297</PageNumber>
     </MainItem>
   </ItemGroup>

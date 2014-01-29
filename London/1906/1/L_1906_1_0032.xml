@@ -103,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeke</Key>
-      <Text>W. H. .. .... .. ..</Text>
+      <Text>.W. H. .. .... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Facey</Key>
-      <Text>S. H. . .. '</Text>
+      <Text>.S. H. . .. '</Text>
       <PageNumber>2163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +425,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,14 +495,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDermott</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,14 +622,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamblon</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamblin</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blumberg</Key>
-      <Text>H.E. (Maj.)</Text>
+      <Title>H.E. (Maj.)</Title>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +840,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Assist</Forenames>
-      <Text>.-Paymr. E. (retired list)</Text>
+      <Title>Assist.</Title>
+      <Text>-Paymr. E. (retired list)</Text>
       <PageNumber>382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,8 +1434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord Viscount (Lieut.)</Text>
+      <Title>Rt. Hon. Lord Viscount (Lieut.)</Title>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>

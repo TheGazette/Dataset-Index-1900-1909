@@ -139,8 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capl. J. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capl. J. F. (resigned)</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,8 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C. V.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C. V.</Forenames>
       <Text>(Acting Chap.)</Text>
       <PageNumber>3719</PageNumber>
     </MainItem>
@@ -770,7 +770,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. G-. J. (correction)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. J. (correction)</Text>
       <PageNumber>3715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton</Key>
-      <Text>R, A. (Surg.-Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. (Surg.-Maj.)</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Text>R, S. (*2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. (*2nd Lieut.)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -223,7 +223,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) .. .. .. ..</Text>
+      <Title>(correction)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,6 +383,14 @@
       <Forenames>A. J.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bivis</Key>
+      <Forenames>T. C. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1119,7 +1128,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1161,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Ord. Officer, 4th Class)</Text>
+      <Title>(Ord. Officer, 4th Class)</Title>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>

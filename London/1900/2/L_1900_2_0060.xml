@@ -448,7 +448,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +564,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>6033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +814,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +882,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +914,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2ndLieut.)T.D. (seconded)</Text>
+      <Title>(2ndLieut.)</Title>
+      <Text>T.D. (seconded)</Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,8 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.-Col. L. G. (half-pay)</Text>
+      <Title>Brev.</Title>
+      <Text>-Col. L. G. (half-pay)</Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1362,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyre</Key>
-      <Text>, Lieut. R, G. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, G. (seconded)</Text>
       <PageNumber>4277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burleigh</Key>
-      <Text>, Master of (2nd Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>

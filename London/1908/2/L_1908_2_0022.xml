@@ -26,8 +26,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour-Mead</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. A; .. ..</Text>
+      <Title>Gr.</Title>
+      <Forenames>A</Forenames>
+      <Text>; .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sword</Key>
-      <Text>,. R. S. S</Text>
+      <Text>. R. S. S</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,14 +241,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>, Lord (2nd Lieut.) .. ..</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ibbetson</Key>
-      <Text>, 2nd Lieut.. C. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. C. C. (resigned)</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Text>, Capt. VV. C. H. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. C. H. (retired)</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +471,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,16 +525,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (resigned)</Text>
       <PageNumber>2758</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pole</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieuh. L. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieuh. L. W. (resigned)</Text>
       <PageNumber>3398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>,. E. I. M. (Capt.)</Text>
+      <Text>. E. I. M. (Capt.)</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +830,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1072,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. A. (resigned)</Text>
       <PageNumber>2758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>,, Hon. A. C. S. (Capt.)</Text>
+      <Text>, Hon. A. C. S. (Capt.)</Text>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>

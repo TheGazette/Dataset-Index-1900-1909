@@ -36,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>R D. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>D. (Lieut.)</Text>
       <PageNumber>819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,8 +60,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. W. (resigned)</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +70,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,10 +101,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Mackenzie</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>2510</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Bain</Key>
       <Forenames>L. G.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3756</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cluff</Key>
+      <Forenames>F. W.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -169,8 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. (resigned)</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C. H.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C. H.</Forenames>
       <Text>(Acting j Chap.)</Text>
       <PageNumber>2081</PageNumber>
     </MainItem>
@@ -857,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>Maj. and Hon. Lieut.-Col. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. (resigned)</Title>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>

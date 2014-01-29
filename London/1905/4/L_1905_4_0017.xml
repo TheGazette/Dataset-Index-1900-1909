@@ -395,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>, R*. F. G. (Maj.) .. ..</Text>
+      <Forenames>R</Forenames>
+      <Text>*. F. G. (Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +832,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothes</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,8 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,8 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skryme</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. R. (resigned)</Text>
       <PageNumber>9321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,8 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. (resigned) Mead, H. G. (Lieut.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. (resigned) Mead, H. G. (Lieut.)</Text>
       <PageNumber>6934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,8 +1236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. S. (resigned)</Text>
       <PageNumber>6934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,7 +1287,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1340,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8648</PageNumber>
     </MainItem>
   </ItemGroup>

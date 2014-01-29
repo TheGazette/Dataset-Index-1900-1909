@@ -405,8 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swanson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +529,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutcheson</Key>
-      <Text>R, B. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. (2nd Lieut.)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1166,17 @@
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. J.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>2219</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
@@ -1212,6 +1223,15 @@
   <SubSectionTitle>Channel Islands Militia</SubSectionTitle>
   <SubSectionTitle>. Royal Militia of the Island of Jersey</SubSectionTitle>
   <SubSectionTitle>1st Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gough</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>, Hon. Col</Text>
+      <PageNumber>2218</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Light Infantry</SubSectionTitle>
   <SubSectionTitle>1st Battalion</SubSectionTitle>
   <ItemGroup>

@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>W. C.</Text>
+      <Text>. W. C.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steen</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,16 +313,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>INDIAN CIVIL VETERINARY</CategoryTitle>
   <SubSectionTitle>Veterinary LieutenantColonel</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>Vet</Forenames>
-      <Text>. Lieut.-Col.R. (Inspecting Vet. Officer)</Text>
+      <Title>Vet. Lieut.</Title>
+      <Text>-Col.R. (Inspecting Vet. Officer)</Text>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joslen</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raffin</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2995</PageNumber>
       <PageNumber>4100</PageNumber>
     </MainItem>
@@ -469,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callow</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gale</Key>
-      <Text>A ' ..</Text>
+      <Forenames>A</Forenames>
+      <Text>' ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>Maj. II. St. G</Text>
+      <Title>Maj.</Title>
+      <Text>II. St. G</Text>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>Hon. W! R. W. (Maj.).. ..</Text>
+      <Title>Hon.</Title>
+      <Forenames>W</Forenames>
+      <Text>! R. W. (Maj.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +736,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cree</Key>
-      <Text>Hon. ,Chap. Rev. J. A. (resigned)</Text>
+      <Title>Hon. ,Chap. Rev.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +935,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,8 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. M. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. M. R. (resigned)</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +996,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebrington</Key>
-      <Text>Lieut.-Col. and Hon. Col.. Visct. (Aide-de-Camp to the King)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>. Visct. (Aide-de-Camp to the King)</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>

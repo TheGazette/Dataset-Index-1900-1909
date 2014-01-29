@@ -175,8 +175,33 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8112</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Panton</Key>
+      <Forenames>W. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8643</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tremearne</Key>
+      <Forenames>R. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>7049</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Webster</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -192,7 +217,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +307,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowell</Key>
-      <Text>,.E. J. E. (2nd Lieut.) .. . ,</Text>
+      <Text>.E. J. E. (2nd Lieut.) .. . ,</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1049,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, Qrmr. (Hon. Maj.) G. H. (resigned) .. .. .. ..</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(resigned) .. .. .. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleetwood</Key>
-      <Text>, Brig.-Surg. Lieut.-Col. W.J. (resigned)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg. Lieut.-Col. W.J. (resigned)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1253,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8641</PageNumber>
     </MainItem>
   </ItemGroup>

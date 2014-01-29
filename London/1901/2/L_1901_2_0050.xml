@@ -76,7 +76,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>,' Lieut. H. F. (resigned)</Text>
+      <Text>' Lieut. H. F. (resigned)</Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +347,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +471,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>4572</PageNumber>
       <PageNumber>9064</PageNumber>
     </MainItem>
@@ -541,7 +541,7 @@
       <Key>
         <KeyDitto>_ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +591,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +703,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>6849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +748,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +878,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>9064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1030,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>8839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,9 +1062,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1295,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1322,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1376,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Qrmr. and Temporary Lieut. C, (correction) .. .,</Text>
+      <Title>Qrmr. and Temporary Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, (correction) .. .,</Text>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,7 +1487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sondes</Key>
-      <Text>, Lieut. Earl (resigned)</Text>
+      <Title>Lieut. Earl (resigned)</Title>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1673,7 +1674,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>9064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1897,7 +1898,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Machine Gun Commander)</Text>
+      <Title>(Machine Gun Commander)</Title>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>

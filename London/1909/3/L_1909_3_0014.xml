@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="014" pageID="https://www.thegazette.co.uk/id/London/index/year/1909/volume/3/page/014" pagePDF="https://www.thegazette.co.uk/London/index/year/1909/volume/3/page/014" pageRDF="https://www.thegazette.co.uk/London/index/year/1909/volume/3/page/014?view=linked-data" type="index" volume="3" year="1909">
-  <SubCategoryTitle>Regiments</SubCategoryTitle>
   <SubSectionTitle>lst Life Guards</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Gifford</Key>
-      <Text>, Lieut. Earl of (resigned)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerard</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>5284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterhouse</Key>
-      <Text>,' A. W. (2nd Lieut.)</Text>
+      <Text>' A. W. (2nd Lieut.)</Text>
       <PageNumber>6875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>, Marquis of (2nd Lieut.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>5284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Babington</Key>
-      <Text>, ' Col.. Hon., Maj.-Gen. J. M., Col '</Text>
+      <Text>' Col.. Hon., Maj.-Gen. J. M., Col '</Text>
       <PageNumber>6748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>,-Maj.-Uen. P. T. Col. Comdt</Text>
+      <Text>-Maj.-Uen. P. T. Col. Comdt</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elwes</Key>
-      <Text>,.Maj. W. V. J. C. (retired)</Text>
+      <Text>.Maj. W. V. J. C. (retired)</Text>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, Capt. JSf. M. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>JSf. M. (seconded)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King-Harman</Key>
-      <Text>,' L. H. (2hd Lieut.)</Text>
+      <Text>' L. H. (2hd Lieut.)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>, Qrmr. .and Hon. Lieut. J. AV. (Retired pay)</Text>
+      <Title>Qrmr.</Title>
+      <Text>.and Hon. Lieut. J. AV. (Retired pay)</Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, AV. L. Y. (Capt.)</Text>
+      <Text>AV. L. Y. (Capt.)</Text>
       <PageNumber>6875</PageNumber>
     </MainItem>
   </ItemGroup>

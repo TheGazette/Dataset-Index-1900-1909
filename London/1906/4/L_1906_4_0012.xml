@@ -72,15 +72,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>Hon. Capt. I). (rnspr., 1st Clais).. .. .. .. ..</Text>
+      <Title>Hon. Capt.</Title>
+      <Forenames>I</Forenames>
+      <Text>). (rnspr., 1st Clais).. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rudd</Key>
-      <Forenames>Inspr</Forenames>
-      <Text>. of Ordnance Machinery, 1st Glass, and Hon. Capt. fl. (retired pay)</Text>
+      <Title>Inspr.</Title>
+      <Text>of Ordnance Machinery, 1st Glass, and Hon. Capt. fl. (retired pay)</Text>
       <PageNumber>6720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>8973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +278,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(removed on age limit)</Text>
+      <Title>(removed on age limit)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,8 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clery</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. J. A. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. J. A. (retired pay)</Text>
       <PageNumber>8973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ternan</Key>
-      <Text>Capt. R, R. B. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, R. B. (retired)</Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cecil</Key>
-      <Text>Lord K. H. (Col.)</Text>
+      <Text>. Lord K. H. (Col.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ci</Key>
-      <Text>re, H. C. (Col.)</Text>
+      <Text>.re, H. C. (Col.)</Text>
       <PageNumber>7219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +835,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helvar</Key>
-      <Text>A; B. (Col.)</Text>
+      <Forenames>A</Forenames>
+      <Text>; B. (Col.)</Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, G. F. W. (Col.) ..</Text>
+      <Text>. John, G. F. W. (Col.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,9 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheylesmore</Key>
-      <Title>Maj</Title>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord (retired pay)</Text>
+      <Title>Maj-Gen. Lord (retired pay)</Title>
       <PageNumber>8730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>, Sir E. L. (Lieut.-Geu.)</Text>
+      <Text>., Sir E. L. (Lieut.-Geu.)</Text>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>

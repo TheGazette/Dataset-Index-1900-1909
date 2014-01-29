@@ -12,7 +12,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Vet. Capt.) ..</Text>
+      <Title>(Vet. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryde</Key>
-      <Text>,-D. M. (Capt.)</Text>
+      <Text>-D. M. (Capt.)</Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +223,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Vet. Capt.) Symington, T. (Maj.)</Text>
+      <Title>(Vet. Capt.)</Title>
+      <Forenames>Symington</Forenames>
+      <Text>, T. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +327,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +395,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) .. .</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>.. .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>. A. (2nd Lieut.)</Text>
+      <Text>A. (2nd Lieut.)</Text>
       <PageNumber>3391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Maj.-Glen. Sir C, Bart. (Hon. Col.)</Text>
+      <Title>Maj.</Title>
+      <Text>-Glen. Sir C, Bart. (Hon. Col.)</Text>
       <PageNumber>3044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +600,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,14 +625,15 @@
       <Key>
         <KeyDitto>___ ___ , ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, A: M. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: M. (2nd Lieut.)</Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearse</Key>
-      <Text>.-H. F. (Capt. and Hon. Maj.)</Text>
+      <Text>-H. F. (Capt. and Hon. Maj.)</Text>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>,' W. tl. R. (Transport Officer and Hon. Lieut.)</Text>
+      <Text>' W. tl. R. (Transport Officer and Hon. Lieut.)</Text>
       <PageNumber>3875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,9 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.Col. J. K. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Surg.</Title>
+      <Text>Col. J. K. (resigned)</Text>
       <PageNumber>490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>, G-. J. (Capt.)</Text>
+      <Text>G-. J. (Capt.)</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beau</Key>
-      <Text>, 0. E. (Capt.)</Text>
+      <Text>0. E. (Capt.)</Text>
       <PageNumber>4166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BoxalLJ</Key>
-      <Text>. (Hon. Capt.) Brown, R. R. (Lieut.-Col. and Hon. Surg.-Col.)</Text>
+      <Text>(Hon. Capt.) Brown, R. R. (Lieut.-Col. and Hon. Surg.-Col.)</Text>
       <PageNumber>4285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>. G. (Capt.)</Text>
+      <Text>G. (Capt.)</Text>
       <PageNumber>4166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgs</Key>
-      <Text>,.F. W.. (Lieut.)</Text>
+      <Text>.F. W.. (Lieut.)</Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lander</Key>
-      <Text>, 0. L. (Capt.),</Text>
+      <Text>0. L. (Capt.),</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,7 +1848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>. W. M. (Maj.)</Text>
+      <Text>W. M. (Maj.)</Text>
       <PageNumber>4867</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -41,7 +41,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arrol</Key>
-      <Text>A, T. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, T. (Lieut.)</Text>
       <PageNumber>2849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moynan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R.M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R.M. (resigned)</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +216,7 @@
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. GLOUCESTERSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>GLOUCESTERSHIRE</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -284,8 +285,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Revill</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. W. C. B. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. W. C. B. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +298,6 @@
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -424,7 +424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Xeynham</Key>
-      <Text>Lord (Capt.) .. ..</Text>
+      <Title>Lord (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,8 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. H. (resignei d)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. H. (resignei d)</Text>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +929,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1036,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldmeadow</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. L. J. H. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. L. J. H. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>J. E. (Lieut.)</Text>
+      <Text>. J. E. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2237</PageNumber>
     </MainItem>
   </ItemGroup>

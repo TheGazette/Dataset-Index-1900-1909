@@ -56,7 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilson</Key>
-      <Text>, C J. L. (Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>J. L. (Lieut.)</Text>
       <PageNumber>4588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +296,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. B, P. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Forenames>B</Forenames>
+      <Text>, P. (antedated)</Text>
       <PageNumber>4588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eickman</Key>
-      <Text>, R, B. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. (2nd Lieut.)</Text>
       <PageNumber>5768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>, fl. A. ((apt.)</Text>
+      <Text>fl. A. ((apt.)</Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,8 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrench</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. E. M. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Col. E. M. (retired)</Text>
       <PageNumber>5770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,8 +793,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. S. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. S. A. (resigned)</Text>
       <PageNumber>4131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, 2nd Lieut.H. L. (correction)</Text>
+      <Text>2nd Lieut.H. L. (correction)</Text>
       <PageNumber>6033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,8 +1053,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt, A. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt, A. G. (resigned)</Text>
       <PageNumber>4794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trennor</Key>
-      <Text>, 2nd Leut. T. S. (resigned)</Text>
+      <Text>2nd Leut. T. S. (resigned)</Text>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>, iv. L. (Lieut.).. .. ..</Text>
+      <Text>iv. L. (Lieut.).. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fegan</Key>
-      <Text>,. Surg.-Lieut. J. H. C. (resigned)</Text>
+      <Text>. Surg.-Lieut. J. H. C. (resigned)</Text>
       <PageNumber>___ ___ —</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, T, L. (Lieut.)</Text>
+      <Forenames>T</Forenames>
+      <Text>, L. (Lieut.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

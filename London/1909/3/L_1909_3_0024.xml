@@ -128,7 +128,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instructor of Musketry)</Text>
+      <Title>(Instructor of Musketry)</Title>
       <PageNumber>7201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +603,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibbert</Key>
-      <Text>, Capt. and Hon. Maj.. P. J. (super.)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>. P. J. (super.)</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
   </ItemGroup>

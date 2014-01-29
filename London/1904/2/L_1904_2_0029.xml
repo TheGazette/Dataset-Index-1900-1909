@@ -211,8 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut.-Col. (resigned and Hon. Surg.-Col.)</Text>
+      <Title>Surg. Lieut.-Col. (resigned and Hon. Surg.-Col.)</Title>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stock</Key>
-      <Text>S 2nd Lieut. J. E. K. uper. (resigned)</Text>
+      <Forenames>S</Forenames>
+      <Text>2nd Lieut. J. E. K. uper. (resigned)</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lathy</Key>
-      <Text>Maj. and Instr. of Musketry M.' F. (resigned)</Text>
+      <Title>Maj. and Instr.</Title>
+      <Text>of Musketry M.' F. (resigned)</Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +480,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, N. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, N. (Lieut.)</Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +505,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>2nd Lieut. J, G. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>, G. (seconded)</Text>
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,8 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gooch</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. R. F. K. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. R. F. K. (resigned)</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,8 +863,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. K. G. (antedated)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. K. G. (antedated)</Text>
       <PageNumber>3554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +907,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2842</PageNumber>
     </MainItem>
   </ItemGroup>

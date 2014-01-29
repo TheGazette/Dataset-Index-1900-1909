@@ -164,7 +164,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,17 +254,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. W. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. S. (resigned)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Maj. S. (resigned)</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +308,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,8 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D. D. (resigned)</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +379,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Liardet</Key>
-      <Text>,-C. F. (Capt.)</Text>
+      <Text>-C. F. (Capt.)</Text>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +647,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, Maj. and Hon Lieut.-Col. W. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>and Hon Lieut.-Col. W. (resigned)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,8 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopper</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. R. (resigned and Hon. Surg.-Col.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. R. (resigned and Hon. Surg.-Col.)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Text>, Capt. £, A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>£, A. (resigned)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1102,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

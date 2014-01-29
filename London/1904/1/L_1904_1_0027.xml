@@ -243,7 +243,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Conyngham</Key>
-      <Text>Marquis (Lieut.) .. Ill Hodding, 2nd Lieut. C. F. (resigned)</Text>
+      <Title>Marquis (Lieut.)</Title>
+      <Text>.. Ill Hodding, 2nd Lieut. C. F. (resigned)</Text>
       <PageNumber>1445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,8 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. H. (resigned)</Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +550,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. C. J. (resigned) &gt;</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. C. J. (resigned) &gt;</Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's (North Stafordshire Regiment). Peyton, Lieut.-Gen. and Hon. Gen. C. F. (Col.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's (North Stafordshire Regiment). Peyton, Lieut.-Gen. and Hon. Gen. C. F. (Col.)</Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitcheson</Key>
-      <Text>Capt. and Instr. of Musketry G. A. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry G. A. (resigned)</Text>
       <PageNumber>1624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +890,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +983,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>Lieut. ~N. S. A. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>~N. S. A. (resigned)</Text>
       <PageNumber>1252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Xiarvey</Key>
-      <Text>J!. yjr. y^uu uicu:,; .. I . A O Ramshaw, J. M. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>!. yjr. y^uu uicu:,; .. I . A O Ramshaw, J. M. (2nd Lieut.)</Text>
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>

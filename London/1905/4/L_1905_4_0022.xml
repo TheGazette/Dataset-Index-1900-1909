@@ -91,7 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mostyn</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +370,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. E; R.' (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>E</Forenames>
+      <Text>; R.' (retired pay)</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +403,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macfarlane</Key>
-      <Text>, T). A. (Lieut.-Col.)</Text>
+      <Forenames>T</Forenames>
+      <Text>). A. (Lieut.-Col.)</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallerstein</Key>
-      <Text>, Lieut.-Col. and Brev.Col. F. E. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>Col. F. E. (half-pay)</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, Lieut.-Col. and Brev.-Col. S. G. (retired)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. S. G. (retired)</Text>
       <PageNumber>6778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,8 +958,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Houghton</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon E. J.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>E. J.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>8905</PageNumber>
     </MainItem>
@@ -1150,7 +1155,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

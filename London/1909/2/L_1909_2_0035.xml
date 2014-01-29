@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. George, G. S. W</Text>
+      <Text>George, G. S. W</Text>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, Capt. G</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Capt. R. S</Text>
+      <Text>John, Capt. R. S</Text>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>, G-. O Indian Civil Veterinary Department. Division. Baldrey, F. S. H. (Maj.)</Text>
+      <Text>G-. O Indian Civil Veterinary Department. Division. Baldrey, F. S. H. (Maj.)</Text>
       <PageNumber>3660</PageNumber>
     </MainItem>
     <SubItem>
@@ -619,35 +620,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmett</Key>
-      <Text>,_W. H</Text>
+      <Text>_W. H</Text>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goddard</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rule</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Billing</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,8 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. R</Text>
+      <Title>Gr.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,14 +756,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,21 +777,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,8 +813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazelton</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. C. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. W. C. (resigned)</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>

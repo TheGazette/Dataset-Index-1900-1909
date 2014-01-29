@@ -576,8 +576,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.rLieut. T. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>rLieut. T. S. (resigned)</Text>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selfe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. R. (resigned)</Text>
       <PageNumber>8342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +726,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>A R,(Hon. Maj.)</Text>
+      <Forenames>A</Forenames>
+      <Text>R,(Hon. Maj.)</Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,10 +1067,18 @@
   <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>Gauntlett</Key>
+      <Forenames>V. C.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>8340</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

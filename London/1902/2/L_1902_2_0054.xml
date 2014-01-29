@@ -60,7 +60,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballingall</Key>
-      <Text>B, M. (2nd Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, M. (2nd Lieut.)</Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +730,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,8 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mowat</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. I), (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. I), (super.)</Text>
       <PageNumber>645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Uranston</Key>
-      <Text>Capt.. H. P. G. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. H. P. G. (resigned)</Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>

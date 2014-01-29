@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portsmouth</Key>
-      <Text>, Earl of, Ecclesiastical Commissioner for England</Text>
+      <Title>Earl</Title>
+      <Text>of, Ecclesiastical Commissioner for England</Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,14 +88,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Renault</Key>
-      <Text>, h. Hon. Knight Grand Cross J. of St. Michael and St. George</Text>
+      <Text>h. Hon. Knight Grand Cross J. of St. Michael and St. George</Text>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>, &amp;., a King's Counsel</Text>
+      <Text>&amp;., a King's Counsel</Text>
       <PageNumber>4060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronan</Key>
-      <Text>. S., a King's Counsel</Text>
+      <Text>S., a King's Counsel</Text>
       <PageNumber>4060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>, Marquis of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Text>of, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sankey</Key>
-      <Text>, J,, a King's Counsel</Text>
+      <Forenames>J</Forenames>
+      <Text>,, a King's Counsel</Text>
       <PageNumber>4060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,8 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E.</Forenames>
       <Text>, Domestic Chaplain to His Majesty</Text>
       <PageNumber>4853</PageNumber>
     </MainItem>
@@ -314,7 +317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Text>, Maj -Gen. Hon. Sir F. W., Knight Commander, Royal Victorian Order..'</Text>
+      <Title>Maj</Title>
+      <Text>-Gen. Hon. Sir F. W., Knight Commander, Royal Victorian Order..'</Text>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>,W. G., Companion of the Bath</Text>
+      <Text>W. G., Companion of the Bath</Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>,-J. H., Fourth Class, Royal Victorian Order</Text>
+      <Text>-J. H., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>, Lieut.-Col. and Hon. Col</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,8 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. H. R., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. H. R., Companion of the Bath</Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams-Druminond</Key>
-      <Text>, Lieut.-Col. and lion. Col. Sir J. IL, Bart., Companion of the Bath</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and lion. Col. Sir J. IL, Bart., Companion of the Bath</Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +861,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Maj.-Gen. Sir O, Bart., Inspector of. Infantry</Text>
+      <Title>Maj.-Gen. Sir</Title>
+      <Forenames>O</Forenames>
+      <Text>, Bart., Inspector of. Infantry</Text>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Text>,. . Lieut.-Col. F. S., Asst. Director at Headquarters</Text>
+      <Text>. . Lieut.-Col. F. S., Asst. Director at Headquarters</Text>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>

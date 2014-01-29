@@ -517,7 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Lieut. O. C. ^seconded)</Text>
+      <Text>. John, Lieut. O. C. ^seconded)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>Hon. Col. Duke of (re' signed)</Text>
+      <Title>Hon. Col. Duke</Title>
+      <Text>of (re' signed)</Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,8 +578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. N. (struck off the strength) .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. N. (struck off the strength) .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Text>Capt. Duke of Cresigned)</Text>
+      <Title>Capt. Duke</Title>
+      <Text>of Cresigned)</Text>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooch</Key>
-      <Text>Maj, C. E. H. (retired pay)</Text>
+      <Title>Maj</Title>
+      <Text>, C. E. H. (retired pay)</Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>Hon. 'Col. Rt. Hon. Earl of (resigned) '.. '</Text>
+      <Title>Hon.</Title>
+      <Text>'Col. Rt. Hon. Earl of (resigned) '.. '</Text>
       <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>

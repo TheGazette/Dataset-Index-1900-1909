@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Knighted</Forenames>
+      <Title>Knighted .</Title>
       <PageNumber>1124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +177,7 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Forenames>Empire</Forenames>
+      <Title>Empire .</Title>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holzmann</Key>
-      <Text>. Sir M., Knight Commander of the Bath</Text>
+      <Text>Sir M., Knight Commander of the Bath</Text>
       <PageNumber>2359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,8 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, H.M.'s High-Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, H.M.'s High-Commissioner to the General Assembly of the Church of Scotland</Text>
       <PageNumber>1315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,8 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. R., Knight of Grace, St. John of Jerusalem ,,</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. R., Knight of Grace, St. John of Jerusalem ,,</Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macleod</Key>
-      <Text>, Maj.J. N., Companion, Indian Empire ' .. ...,</Text>
+      <Title>Maj.</Title>
+      <Text>J. N., Companion, Indian Empire ' .. ...,</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maugham</Key>
-      <Text>, 0: ;F., H.M.'s Consul at Lourenco Marques ,. .-</Text>
+      <Text>0: ;F., H.M.'s Consul at Lourenco Marques ,. .-</Text>
       <PageNumber>1203</PageNumber>
       <PageNumber>1315</PageNumber>
     </MainItem>
@@ -369,7 +370,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Text>, C, Unofficial Member of the Legislative Council of the Nyasaland Protectorate</Text>
+      <Forenames>C</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of the Nyasaland Protectorate</Text>
       <PageNumber>2463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,14 +482,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Rajgarh</Key>
-      <Text>(Bhopal), H.H. Raja of, Knight Commander, Indian Empire</Text>
+      <Title>(Bhopal), H.H.</Title>
+      <Forenames>Raja</Forenames>
+      <Text>of, Knight Commander, Indian Empire</Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rampur</Key>
-      <Text>, Hon. Maj. H.H. the Bahadur of, Knight Grand Commander, Indian Empire .. ..</Text>
+      <Title>Hon. Maj. H.H.</Title>
+      <Text>the Bahadur of, Knight Grand Commander, Indian Empire .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. F. E., a King's Counsel</Text>
+      <Text>F. E., a King's Counsel</Text>
       <PageNumber>1047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,6 +709,7 @@
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS,</CategoryTitle>
   <SubSectionTitle>Unattached List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -924,14 +930,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheepshanks</Key>
-      <Text>, R: H. (2nd Lieut.) . .. Spencer, L. (2nd Lieut.) .. . . Strover, E. J. (2nd Lieut.) .. Teunant, C. A. M. (2nd Lieut.) Tranchell, H. G: (2nd Lieut.) Wetherall, F. G. B. (2nd Lieut.) ..</Text>
+      <Forenames>R</Forenames>
+      <Text>: H. (2nd Lieut.) . .. Spencer, L. (2nd Lieut.) .. . . Strover, E. J. (2nd Lieut.) .. Teunant, C. A. M. (2nd Lieut.) Tranchell, H. G: (2nd Lieut.) Wetherall, F. G. B. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, H-.R. (2nd Lieut.) ..</Text>
+      <Text>H-.R. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Capt. Lord, Aide-de-Camp to Gen. Sir 3. D. P. French</Text>
+      <Title>Capt. Lord</Title>
+      <Text>, Aide-de-Camp to Gen. Sir 3. D. P. French</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

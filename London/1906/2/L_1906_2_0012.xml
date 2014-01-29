@@ -421,7 +421,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Swine Fever) Order of 1906</Text>
+      <Title>(Swine Fever)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1906</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,8 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colebrooke</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. lion. Lord, H.M.'s. High Commissioner to the General Assembly of the Church of Scotland --</Text>
+      <Title>Rt.</Title>
+      <Text>lion. Lord, H.M.'s. High Commissioner to the General Assembly of the Church of Scotland --</Text>
       <PageNumber>3164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,15 +588,16 @@
   <ItemGroup>
     <MainItem>
       <Key>AUchin</Key>
-      <Text>T», Official Trustee of Charitable Funds</Text>
+      <Forenames>T</Forenames>
+      <Text>», Official Trustee of Charitable Funds</Text>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. II. S., Knight Commander of the Bath</Text>
+      <Title>Gen.</Title>
+      <Text>II. S., Knight Commander of the Bath</Text>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +735,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnier</Key>
-      <Text>E T., Royal Victorian Order, Hon. Fifth Class</Text>
+      <Forenames>E</Forenames>
+      <Text>T., Royal Victorian Order, Hon. Fifth Class</Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +820,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Text>Lieut.-Col. E, E., Commander, St. Mich»el and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>E</Forenames>
+      <Text>, E., Commander, St. Mich»el and St. George</Text>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +866,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. SvRoyal Victorian Order, Fourth Class</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>SvRoyal Victorian Order, Fourth Class</Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>

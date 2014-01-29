@@ -231,8 +231,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Forenames>Or</Forenames>
-      <Text>. W; (Lieut.)</Text>
+      <Title>Or.</Title>
+      <Forenames>W</Forenames>
+      <Text>; (Lieut.)</Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +406,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Text>W, (Capt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>7021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CowanyJ</Key>
-      <Text>M. (Maj.)</Text>
+      <Text>. M. (Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CrippsyW</Key>
-      <Text>H. (Lieut.-Col.)</Text>
+      <Text>. H. (Lieut.-Col.)</Text>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>J; (Lieut.-Col.)</Text>
+      <Forenames>J</Forenames>
+      <Text>; (Lieut.-Col.)</Text>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +749,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgeworth</Key>
-      <Text>F; H. (Capt.) ,.</Text>
+      <Forenames>F</Forenames>
+      <Text>; H. (Capt.) ,.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>J. (Lieut..Col.)</Text>
+      <Text>. J. (Lieut..Col.)</Text>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliday</Key>
-      <Text>R, T. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, T. (Maj.)</Text>
       <PageNumber>5138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2008,7 +2013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>A (Lieut.-Col.)</Text>
+      <Forenames>A</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2075,7 +2081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKerron</Key>
-      <Text>R. G. (Maj.)</Text>
+      <Text>. R. G. (Maj.)</Text>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>

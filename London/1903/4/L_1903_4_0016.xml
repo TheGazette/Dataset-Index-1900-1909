@@ -75,14 +75,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>Maj .-Gen. T. (Coll</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. T. (Coll</Text>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Astley</Key>
-      <Text>Hon. j. J. (2nd Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Text>j. J. (2nd Lieut.)</Text>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawley</Key>
-      <Text>J: S. (Adj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: S. (Adj.)</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>K: L. (2nd Lieut.)</Text>
+      <Forenames>K</Forenames>
+      <Text>: L. (2nd Lieut.)</Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +808,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,7 +1618,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>

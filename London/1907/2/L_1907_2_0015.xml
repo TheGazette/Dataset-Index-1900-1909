@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. C. W. (retired</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. C. W. (retired</Text>
       <PageNumber>2814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortis</Key>
-      <Text>. H. E. (Maj.)</Text>
+      <Text>H. E. (Maj.)</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>, Rev. R</Text>
+      <Title>Rev.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) .. ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +775,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundonald</Key>
-      <Text>, Lieut.-Gen. Earl of (retired pay)</Text>
+      <Title>Lieut.-Gen. Earl</Title>
+      <Text>of (retired pay)</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +820,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>. C. E. (Maj.-Gen.)</Text>
+      <Text>C. E. (Maj.-Gen.)</Text>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Text>. H. F. fCol.)</Text>
+      <Text>H. F. fCol.)</Text>
       <PageNumber>4174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery-Campbell</Key>
-      <Text>, Lieut.-Col. and Brevet Col. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. (retired)</Title>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1323,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Col.)</Text>
+      <Title>(Col.)</Title>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Col. J. L. C. (half-pay)</Text>
+      <Text>Clair, Col. J. L. C. (half-pay)</Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,6 +1494,14 @@
       <Forenames>H. F. D.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>3531</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thornton</Key>
+      <Forenames>S. V.</Forenames>
+      <Text>(Brevet Col.)</Text>
+      <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1570,8 +1582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. A</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. A</Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. W</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>

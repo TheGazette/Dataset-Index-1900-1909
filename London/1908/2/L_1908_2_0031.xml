@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, G-. L. (Capt.) .. ..</Text>
+      <Text>G-. L. (Capt.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +779,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +969,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyfe</Key>
-      <Text>, W (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

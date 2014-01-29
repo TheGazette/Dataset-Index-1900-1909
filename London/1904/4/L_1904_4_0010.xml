@@ -160,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>, Lieut.-Col. and Brev. Col., Col. on the-Staff, and Col</Text>
+      <Title>Lieut.-Col. and Brev. Col., Col.</Title>
+      <Text>on the-Staff, and Col</Text>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +195,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Olivant</Key>
-      <Text>, Capt. J: S., Staff Gapt. at Head-Quarters</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>: S., Staff Gapt. at Head-Quarters</Text>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrott</Key>
-      <Text>, Lieut.-Col. and Brev. Col. ' T., Col. on the Staff for Royal Artillery (temporary)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>' T., Col. on the Staff for Royal Artillery (temporary)</Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,14 +264,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Lieut.-Col.andBrev. Col. H. A., Col. on the Staff for Royal Artillery</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.andBrev. Col. H. A., Col. on the Staff for Royal Artillery</Text>
       <PageNumber>7944</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sill</Key>
-      <Text>, Lieut.-Col. and Brev. Col., Col. on the Staff for Royal Engineers, and Col</Text>
+      <Title>Lieut.-Col. and Brev. Col., Col.</Title>
+      <Text>on the Staff for Royal Engineers, and Col</Text>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>, .Maj. A., Assist. Director of Transport</Text>
+      <Text>.Maj. A., Assist. Director of Transport</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +563,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +637,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +687,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adjt.)</Text>
+      <Title>(Adjt.)</Title>
       <PageNumber>7368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,8 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Calhvell</Key>
-      <Forenames>Lteufc</Forenames>
-      <Text>.-Col.iind Brev. Lieut.Col. A. IT. (Chief Instructor)</Text>
+      <Title>Lteufc.</Title>
+      <Text>-Col.iind Brev. Lieut.Col. A. IT. (Chief Instructor)</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,8 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Battersby</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Coi. T. P. (Ordnance Officer, 1st Class, and Col.) '</Text>
+      <Title>Lient.</Title>
+      <Text>-Coi. T. P. (Ordnance Officer, 1st Class, and Col.) '</Text>
       <PageNumber>7369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,8 +999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwood</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Lieut.-Col. (retired)</Text>
+      <Title>Brev. Lieut.-Col. (retired)</Title>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>, Qrmr. and, Hon. Capt: G. (retired)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and, Hon. Capt: G. (retired)</Text>
       <PageNumber>8561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>,.Lieut.-Col. H..E. (retired)</Text>
+      <Text>.Lieut.-Col. H..E. (retired)</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1219,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -123,8 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmullan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. N. (resigned and 2nd Lieut, super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. N. (resigned and 2nd Lieut, super.)</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>Maj. Earl of (seconded)</Text>
+      <Title>Maj. Earl</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,9 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lubbock</Key>
-      <Title>Lient.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (seconded).. ..</Text>
+      <Title>Lient. Or. (seconded)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Text>E B. (2nd Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>B. (2nd Lieut.)</Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jullford</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>1717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +378,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sondes</Key>
-      <Text>Capt. and Hon. Maj. Earl (seconded) .. .. .. ..</Text>
+      <Title>Capt. and Hon. Maj. Earl (seconded)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teynham</Key>
-      <Text>Lord (2nd Lieut.) .. ,.</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.. ,.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Budden</Key>
-      <Text>Capt. and Hon. Maj. TS. -O. (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>TS. -O. (resigned)</Text>
       <PageNumber>2511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1039,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corte</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. A. (resigned)</Text>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,8 +1482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. B. (resigned)</Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1509,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>

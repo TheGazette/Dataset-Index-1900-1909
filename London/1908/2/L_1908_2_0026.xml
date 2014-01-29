@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>, 0. W. (Maj.)</Text>
+      <Text>0. W. (Maj.)</Text>
       <PageNumber>2568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +374,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(ante Jated)</Text>
+      <Title>(ante Jated)</Title>
       <PageNumber>3395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>ActingChaplain</Forenames>
+      <Title>Acting</Title>
+      <Forenames>Chaplain</Forenames>
       <Text>Rev. C. T. (resigned),</Text>
       <PageNumber>3399</PageNumber>
     </MainItem>
@@ -497,8 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +569,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. il. J. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>il. J. (seconded)</Text>
       <PageNumber>4651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,8 +778,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parham</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. M. (resigned)</Text>
       <PageNumber>3486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +923,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. H. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. H. W. (resigned)</Text>
       <PageNumber>3486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, VV. E. (2nd Lieut.)</Text>
+      <Text>VV. E. (2nd Lieut.)</Text>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>, 2nd Lient. A. M. (resigned)</Text>
+      <Text>2nd Lient. A. M. (resigned)</Text>
       <PageNumber>26</PageNumber>
       <PageNumber>72</PageNumber>
     </MainItem>

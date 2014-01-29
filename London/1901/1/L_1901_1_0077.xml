@@ -15,8 +15,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. T. A. (resigned) ,</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. T. A. (resigned) ,</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,8 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ricardo</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Maj. and Hon. Lieut.Col G. C. (absorbed into Establishment)</Text>
+      <Title>Super. Maj. and Hon. Lieut.</Title>
+      <Text>Col G. C. (absorbed into Establishment)</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,8 +440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. (resigned)</Text>
       <PageNumber>4101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,8 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hough</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. H. (resigned with rank of Surg.-Maj.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. H. (resigned with rank of Surg.-Maj.)</Text>
       <PageNumber>4101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,15 +684,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lieut.. L. A. do V. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. L. A. do V. (resigned)</Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goodwyn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. (resigned)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +779,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(permitted to wear uniform)</Text>
+      <Title>(permitted to wear uniform)</Title>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,9 +809,8 @@
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>,</KeyDitto>
-  </SubCategoryTitle>
+  <KeyDitto>,</KeyDitto>
+  <SubCategoryTitle>DUMBARTONSHIRE</SubCategoryTitle>
   <SectionTitle>Rifle Volunteers.</SectionTitle>
   <SectionTitle>Corps, lst</SectionTitle>
   <ItemGroup>
@@ -824,7 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, Brig.-Surg.-Lieut.-Col. P. P. (resigned)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. P. P. (resigned)</Text>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +899,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>, Qrmr. (Hon. Maj.) G. D. (resigned)</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +947,7 @@
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>1ST FIFESHIRE</SubCategoryTitle>
+  <SubCategoryTitle>ST FIFESHIRE</SubCategoryTitle>
   <SectionTitle>Light Horse</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -968,7 +971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>, 2nd Lieut! E. (resigned) ..</Text>
+      <Text>2nd Lieut! E. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,9 +1065,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coupen</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. and Hon. . Col. T., jun. (resigned)</Text>
+      <Title>Lieut.-Col. Comdt. and Hon.</Title>
+      <Text>. Col. T., jun. (resigned)</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart-Sandeman</Key>
-      <Text>, Qrmr. (Hon. Maj.) P. (resigned) .. .. .. ..</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>P.</Forenames>
+      <Text>(resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

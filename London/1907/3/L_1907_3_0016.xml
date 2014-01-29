@@ -161,7 +161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibbetson</Key>
-      <Text>,.Lieut. G. B. (resigned)</Text>
+      <Text>.Lieut. G. B. (resigned)</Text>
       <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>,. A. H, (Capt.)</Text>
+      <Text>. A. H, (Capt.)</Text>
       <PageNumber>6292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heron-Maxwell</Key>
-      <Text>, Maj. and Hon. Lieut.. Col. W. H. S. (retired)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>. Col. W. H. S. (retired)</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>, J, (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Lieut. E. A. (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Lieut. E. A. (resigned)</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +526,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +602,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawkes</Key>
-      <Text>, Rev. B; (Acting Chaplain)</Text>
+      <Title>Rev.</Title>
+      <Forenames>B</Forenames>
+      <Text>; (Acting Chaplain)</Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +946,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Text>, Lieut.. G. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. G. C. (resigned)</Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, Maj. .and Hon. Lieut.-Cbl. D. (resigned) , ibid. , Wright, Capt. J. L. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>.and Hon. Lieut.-Cbl. D. (resigned) , ibid. , Wright, Capt. J. L. (resigned)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>

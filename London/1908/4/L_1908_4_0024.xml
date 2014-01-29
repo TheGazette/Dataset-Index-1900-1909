@@ -180,7 +180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huck</Key>
-      <Text>, 2nd Lieut. J</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>7929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meister</Key>
-      <Text>, Lieut. G.C. ..</Text>
+      <Title>Lieut.</Title>
+      <Text>G.C. ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>, Capt. A?,P</Text>
+      <Title>Capt.</Title>
+      <Forenames>A</Forenames>
+      <Text>?,P</Text>
       <PageNumber>7390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +274,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boberts</Key>
-      <Text>,Lieut. E; E. ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>E</Forenames>
+      <Text>; E. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole-Hamilton</Key>
-      <Text>, (Lieut.-Col. and Hon. . Col. A. E. (resigned) '</Text>
+      <Text>(Lieut.-Col. and Hon. . Col. A. E. (resigned) '</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunraven</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Et. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +657,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Sir H, (Hon. Col.)</Text>
+      <Title>Gen. Sir</Title>
+      <Forenames>H</Forenames>
+      <Text>, (Hon. Col.)</Text>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inchiquin</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Iveagh</Key>
-      <Text>, Viscount (Hon. Col.)</Text>
+      <Title>Viscount (Hon. Col.)</Title>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lifford</Key>
-      <Text>, Viscount (Hon. Col.)</Text>
+      <Title>Viscount (Hon. Col.)</Title>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,14 +777,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eendlesham</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Field-Marshal Bt. Hon. Earl (Hon. Col.)</Text>
+      <Title>Field-Marshal Bt. Hon. Earl (Hon. Col.)</Title>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,8 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffleld</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Et. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bandou</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothes</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1091,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredegar</Key>
-      <Text>, Viscount (Hon. Capt.)</Text>
+      <Title>Viscount (Hon. Capt.)</Title>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1099,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abingdon</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,22 +1159,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Duke of (Hon. Col.)</Text>
+      <Title>Et. Hon. Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Athol</Key>
-      <Text>, Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aylesford</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>9034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,8 +1524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlemont</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,7 +1586,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Text>, Capt. and Hon. M»j. J. (resigned) .. .. .. ..</Text>
+      <Title>Capt. and Hon.</Title>
+      <Forenames>M</Forenames>
+      <Text>»j. J. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curling</Key>
-      <Text>, C: N. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>: N. (Capt.)</Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncombe</Key>
-      <Text>. G. A. (Hon. Col.)</Text>
+      <Text>G. A. (Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deedes</Key>
-      <Text>.H. W. (Lieut.)</Text>
+      <Text>H. W. (Lieut.)</Text>
       <PageNumber>9756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Enniskillen</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairtlough</Key>
-      <Text>.F; H. (Hon. Col.)</Text>
+      <Text>F; H. (Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,8 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaudy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. W. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. W. (super.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Travis</Key>
-      <Text>, Capt. .T. M. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>.T. M. (resigned)</Text>
       <PageNumber>968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,15 +289,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullan</Key>
-      <Text>, Capt. W(resigned) .. ..</Text>
+      <Title>Capt.</Title>
+      <Text>W(resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>1393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,15 +322,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Davwell</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Text>, -H. W. (Capt.)</Text>
+      <Text>-H. W. (Capt.)</Text>
       <PageNumber>1466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryce</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. V. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. V. (resigned)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. E. J. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. E. J. (super.)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Way</Key>
-      <Text>H. B. (Lieut.)</Text>
+      <Text>. H. B. (Lieut.)</Text>
       <PageNumber>5533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>C. W. (Maj. and Hon. Lieut.Col.)</Text>
+      <Text>. C. W. (Maj. and Hon. Lieut.Col.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,8 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunynghame</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. de. W. (Capt.)</Text>
+      <Title>Gr.</Title>
+      <Text>de. W. (Capt.)</Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,9 +573,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jervis</Key>
-      <Title>Hon.</Title>
-      <Forenames>St</Forenames>
-      <Text>. I,. H. (Maj.)</Text>
+      <Title>Hon. St.</Title>
+      <Forenames>I</Forenames>
+      <Text>,. H. (Maj.)</Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea-Smith</Key>
-      <Text>F. D. W. (Capt.)</Text>
+      <Text>. F. D. W. (Capt.)</Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ampthill</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>6535</PageNumber>
     </MainItem>
   </ItemGroup>

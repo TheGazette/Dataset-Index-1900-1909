@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>,-T. (Hon. Lieut.)</Text>
+      <Text>-T. (Hon. Lieut.)</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>, .L G. (Capt.)</Text>
+      <Text>.L G. (Capt.)</Text>
       <PageNumber>1507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +644,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roch</Key>
-      <Text>, Capt. G, P. (resigned).. .. Ill Clare. .George, P. R. (2nd Lieut.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
+      <Text>, P. (resigned).. .. Ill Clare. .George, P. R. (2nd Lieut.)</Text>
       <PageNumber>1858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Avonmore</Key>
-      <Text>, Capt. Viscount (resigned)</Text>
+      <Title>Capt. Viscount (resigned)</Title>
       <PageNumber>111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,9 +904,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton-Gwatkin</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>., Rev. W. H. T. (resigned)</Text>
+      <Title>Acting Chap., Rev.</Title>
+      <Forenames>W. H. T.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +948,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, Qrmr. and Hon. Capt. J, (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>, (resigned)</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>,. Rev. R. H. (Acting Chap.)</Text>
+      <Text>. Rev. R. H. (Acting Chap.)</Text>
       <PageNumber>1507</PageNumber>
     </MainItem>
   </ItemGroup>

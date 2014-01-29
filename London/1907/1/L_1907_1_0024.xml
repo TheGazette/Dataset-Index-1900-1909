@@ -17,6 +17,14 @@
       <PageNumber>746</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Young</Key>
+      <Forenames>S. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1579</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>3rd!; Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -78,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darroeh</Key>
-      <Text>, ]&gt;. (Adj.)</Text>
+      <Text>]&gt;. (Adj.)</Text>
       <PageNumber>570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sands</Key>
-      <Text>, . Gapt. and Hon. Maj. J. (resigned) .. .. .. ..</Text>
+      <Text>. Gapt. and Hon. Maj. J. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullis</Key>
-      <Text>, K, R. (2nd Lieut.)</Text>
+      <Forenames>K</Forenames>
+      <Text>, R. (2nd Lieut.)</Text>
       <PageNumber>39</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Text>, JSL. J. (Hon. Maj.) . ..</Text>
+      <Text>JSL. J. (Hon. Maj.) . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +393,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Viscount (retired)</Text>
+      <Title>Maj. Viscount (retired)</Title>
       <PageNumber>828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemball</Key>
-      <Text>, C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>1928</PageNumber>
     </MainItem>
   </ItemGroup>

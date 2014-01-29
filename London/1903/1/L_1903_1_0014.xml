@@ -26,7 +26,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewat</Key>
-      <Text>, Lieut.-Col. and Brev. CoI.O. T. W. (retired) .. , '.... '..'</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>CoI.O. T. W. (retired) .. , '.... '..'</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, Capt. W: D. (local rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W</Forenames>
+      <Text>: D. (local rank of Capt.)</Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maurice</Key>
-      <Text>, Maj.-Gen! Sir J. F.. (retired</Text>
+      <Title>Maj.</Title>
+      <Text>-Gen! Sir J. F.. (retired</Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +265,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Lieut, with Militia)</Text>
+      <Title>(local rank of Lieut, with Militia)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,10 +301,11 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Lieut</Text>
-      <PageNumber>110</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>110</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
       <Key>Nickerson</Key>
@@ -352,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawson</Key>
-      <Text>,.J. (Hon. Lieut.-Col )</Text>
+      <Text>.J. (Hon. Lieut.-Col )</Text>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Text>, Lieut.-Col. and Brov. Col. . A. R. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brov. Col.</Title>
+      <Text>. A. R. (half-pay)</Text>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +470,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Text>, Maj.-G-en. T. B. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Text>-G-en. T. B. (retired pay)</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +669,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ventris</Key>
-      <Text>, Col. F: (half-pay)</Text>
+      <Title>Col.</Title>
+      <Forenames>F</Forenames>
+      <Text>: (half-pay)</Text>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, Lieut.-Col. and Brev.. Col. R. S. (retired pay)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>. Col. R. S. (retired pay)</Text>
       <PageNumber>110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther-Thomson</Key>
-      <Text>, 'C. F: St. C. (Lieut.-Col.)</Text>
+      <Text>'C. F: St. C. (Lieut.-Col.)</Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1006,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>

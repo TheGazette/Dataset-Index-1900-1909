@@ -109,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, J7(Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>7(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BelLC</Key>
-      <Text>.F. (Lieut.-Col. and to command)</Text>
+      <Text>F. (Lieut.-Col. and to command)</Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albemarle</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1046,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>, c! H. (Capt.)</Text>
+      <Text>c! H. (Capt.)</Text>
       <PageNumber>4488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Text>, 0. M^y. (Lieut.).. ..</Text>
+      <Text>0. M^y. (Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,7 +1285,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cridland</Key>
-      <Text>, .Capt. H. E. (resigned)</Text>
+      <Text>.Capt. H. E. (resigned)</Text>
       <PageNumber>6695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1594,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,8 +1702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawssett</Key>
-      <Forenames>Burg</Forenames>
-      <Text>.-Lieat.-Col. F., jun. (retired)</Text>
+      <Title>Burg.</Title>
+      <Text>-Lieat.-Col. F., jun. (retired)</Text>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -56,8 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. (resigned)</Text>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +103,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. S. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. S. (correction)</Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helmsley</Key>
-      <Text>, Viscount (Capt.) .. ..</Text>
+      <Title>Viscount (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,16 +293,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashwin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. H. (resigned)</Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Garnock</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Visct. (Capt.)</Title>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carleton</Key>
-      <Text>, Hon.' D. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Text>' D. (Capt.)</Text>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morpeth</Key>
-      <Forenames>Viset</Forenames>
+      <Title>Viset.</Title>
       <PageNumber>3427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brander-Dunbar</Key>
-      <Text>, Capt. J</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charrington</Key>
-      <Text>, E; .. .. ..</Text>
+      <Forenames>E</Forenames>
+      <Text>; .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

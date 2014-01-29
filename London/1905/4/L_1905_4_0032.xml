@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foden</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>9009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paddon</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +463,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,8 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountmorres</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Viscount (Sub-Lieut.)</Text>
+      <Title>Rt. Hon. Viscount (Sub-Lieut.)</Title>
       <PageNumber>8738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1148,6 @@
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Accrington</Key>

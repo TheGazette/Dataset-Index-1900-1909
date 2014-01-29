@@ -262,7 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, Lieut.. J. H. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. J. H. (resigned)</Text>
       <PageNumber>4390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Streatfeild</Key>
-      <Text>, H! (Hon. Col.) .. '</Text>
+      <Forenames>H</Forenames>
+      <Text>! (Hon. Col.) .. '</Text>
       <PageNumber>3232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1268,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry) ..</Text>
+      <Title>(Instr. of Musketry)</Title>
+      <Text>..</Text>
       <PageNumber>ibid,.</PageNumber>
     </MainItem>
   </ItemGroup>

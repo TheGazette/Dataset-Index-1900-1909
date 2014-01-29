@@ -13,7 +13,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,8 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finoastle</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Maj.)</Text>
+      <Title>Visct. (Maj.)</Title>
       <PageNumber>7943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nieolls</Key>
-      <Text>, Maj.-General O. H. A., Col. Commandant</Text>
+      <Title>Maj.</Title>
+      <Text>-General O. H. A., Col. Commandant</Text>
       <PageNumber>8793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>, R, C. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. (Maj.)</Text>
       <PageNumber>8559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>, 2ndLieut. A. W. (resignei d)</Text>
+      <Text>2ndLieut. A. W. (resignei d)</Text>
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Despard</Key>
-      <Text>, W: H. C. (Adjt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: H. C. (Adjt.)</Text>
       <PageNumber>8559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +570,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,8 +817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tylden</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. VV. (half-pay)</Text>
+      <Title>Brev. Col.</Title>
+      <Text>VV. (half-pay)</Text>
       <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +920,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adjt.)</Text>
+      <Title>(Adjt.)</Title>
       <PageNumber>7368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1061,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, Capt. P: (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>P</Forenames>
+      <Text>: (retired)</Text>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rynd</Key>
-      <Text>, Capt.. F. F. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. F. F. (seconded)</Text>
       <PageNumber>7367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1500,6 @@
       <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>EOYAL ENGINEERS.</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Acworth</Key>
@@ -1722,7 +1726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinde</Key>
-      <Text>,' W. H. (Lieut.-Col.)</Text>
+      <Text>' W. H. (Lieut.-Col.)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>

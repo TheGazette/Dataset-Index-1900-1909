@@ -478,7 +478,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frewer</Key>
-      <Text>Capt. b\ W. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>b\ W. (resigned)</Text>
       <PageNumber>721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>Lieut. H.E. (antedated)</Text>
+      <Title>Lieut. H.E. (antedated)</Title>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>T: L. D. (Hon. Lieut.)</Text>
+      <Forenames>T</Forenames>
+      <Text>: L. D. (Hon. Lieut.)</Text>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>

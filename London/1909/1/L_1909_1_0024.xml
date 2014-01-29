@@ -129,7 +129,7 @@
       <Key>
         <KeyDitto>___ ___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +790,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McNaughton</Key>
-      <Text>I). L. (2nd Lieut.)</Text>
+      <Forenames>I</Forenames>
+      <Text>). L. (2nd Lieut.)</Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. W. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>Lieut. W. G. (resigned)</Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>

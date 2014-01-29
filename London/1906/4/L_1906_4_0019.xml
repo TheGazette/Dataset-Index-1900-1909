@@ -70,8 +70,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. F. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. F. (seconded)</Text>
       <PageNumber>7631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,14 +242,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Abinger</Key>
-      <Text>Lord (Hon. Maj.)</Text>
+      <Title>Lord (Hon. Maj.)</Title>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ampthill</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clanchy</Key>
-      <Text>Qrmr. and. Hon. Capt. F. (retired pay)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and. Hon. Capt. F. (retired pay)</Text>
       <PageNumber>7370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pe</Key>
-      <Text>l, L. (Adj.)</Text>
+      <Text>.l, L. (Adj.)</Text>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gladstone</Key>
-      <Text>S. P. (2nd Lieut,)</Text>
+      <Text>. S. P. (2nd Lieut,)</Text>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,8 +650,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. F. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. F. (retired)</Text>
       <PageNumber>8975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifton</Key>
-      <Text>C C. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>C. (Capt.)</Text>
       <PageNumber>7218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>J. (Hon. Capt.)</Text>
+      <Text>. J. (Hon. Capt.)</Text>
       <PageNumber>7373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1099,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Becker</Key>
-      <Text>Lieut.-Col. and Brovet Col. C. T. (half-pay)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Brovet Col. C. T. (half-pay)</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elder</Key>
-      <Text>D. L. (2nd Lieut.)</Text>
+      <Text>.D. L. (2nd Lieut.)</Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>

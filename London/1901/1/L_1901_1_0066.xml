@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Panton</Key>
-      <Text>, Capt. and Instr. of Musketry D. W. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry D. W. (seconded)</Text>
       <PageNumber>1771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,8 +128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodfall</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,8 +170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. (retired)</Text>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wavell</Key>
-      <Text>, A P. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>P. (2nd Lieut.)</Text>
       <PageNumber>3130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,8 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macfee</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (resigned)</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1293,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. R, E. (correction)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, E. (correction)</Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1304,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(date of promotion)</Text>
+      <Title>(date of promotion)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,7 +1313,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>, Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1650,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1683,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,7 +1740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crocker</Key>
-      <Text>, 2nd Lieut, H. E. (seconded)</Text>
+      <Text>2nd Lieut, H. E. (seconded)</Text>
       <PageNumber>2439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,7 +1927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitmore</Key>
-      <Text>, F, M. (2nd Lieut)</Text>
+      <Forenames>F</Forenames>
+      <Text>, M. (2nd Lieut)</Text>
       <PageNumber>84</PageNumber>
     </MainItem>
   </ItemGroup>

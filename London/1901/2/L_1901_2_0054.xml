@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, A, E. M, (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, E. M, (Lieut.)</Text>
       <PageNumber>5670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>, 1). B. (Capt,) .. ..'</Text>
+      <Text>1). B. (Capt,) .. ..'</Text>
       <PageNumber>8984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, 3. C. (2nd Lieut.)</Text>
+      <Text>3. C. (2nd Lieut.)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. W. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. W. A. (resigned)</Text>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>,. W. S. (Hon. Capt.)</Text>
+      <Text>. W. S. (Hon. Capt.)</Text>
       <PageNumber>5878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>, R, F. (Hon. Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, F. (Hon. Maj.)</Text>
       <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloster</Key>
-      <Text>,. Capt. G. M. (seconded)</Text>
+      <Text>. Capt. G. M. (seconded)</Text>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atty</Key>
-      <Text>, W, B. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, B. (Lieut.)</Text>
       <PageNumber>5878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1359,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,7 +1503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, F: (Surg.-Capt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: (Surg.-Capt.)</Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,8 +1647,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. L. E. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. L. E. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

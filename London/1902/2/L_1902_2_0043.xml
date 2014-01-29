@@ -65,7 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>Temporary Lieut..Col. G. F. (relinquishes Command of Battalion)</Text>
+      <Title>Temporary Lieut.</Title>
+      <Text>.Col. G. F. (relinquishes Command of Battalion)</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,9 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monerieffe</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned) ..</Text>
+      <Title>Lieut. Or. (resigned)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,9 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Title>Lieut. Or.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut. Or. Or. (resigned and Hon. Lieut.)</Title>
       <PageNumber>6805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,9 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. B. (resigned and Hon. Lieut.)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. B. (resigned and Hon. Lieut.)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +178,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned and Hon. Lieut.)</Text>
+      <Title>(resigned and Hon. Lieut.)</Title>
       <PageNumber>6344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +427,7 @@
       <Key>
         <KeyDitto>— !</KeyDitto>
       </Key>
-      <Text>(relinquishes . command)</Text>
+      <Title>(relinquishes . command)</Title>
       <PageNumber>6343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +871,7 @@
       <Key>
         <KeyDitto>___ ___ -—.. ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +916,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(notice as to removal is cancelled)</Text>
+      <Title>(notice as to removal is cancelled)</Title>
       <PageNumber>6022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,11 +1042,20 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned and Hon. Lieut.)</Text>
+      <Title>(resigned and Hon. Lieut.)</Title>
       <PageNumber>6344</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>I</Forenames>
+      <Text>E. F. T. (resigned and Hon. Lieut.)</Text>
+      <PageNumber>6275</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1156,7 +1162,7 @@
       <Key>
         <KeyDitto>___ _ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>6650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1180,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction).</Text>
+      <Title>(correction)</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1216,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Segrave</Key>
-      <Text>Maj. O'N. (resigned and Hon. Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>O</Forenames>
+      <Text>'N. (resigned and Hon. Maj.)</Text>
       <PageNumber>6344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,9 +1325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skelton</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. C. F. H. (resigned and Hon. Vet.-Lieut.)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. C. F. H. (resigned and Hon. Vet.-Lieut.)</Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>

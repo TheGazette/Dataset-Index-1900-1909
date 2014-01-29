@@ -13,14 +13,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliston</Key>
-      <Text>, Brig.-Surg. Lieut.-Col. G. S. (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg. Lieut.-Col. G. S. (seconded)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>RanBome</Key>
-      <Text>, Capt. 'C. W. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>'C. W. (resigned)</Text>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AllfrejyH</Key>
-      <Text>. I. R. (Capt.)</Text>
+      <Text>I. R. (Capt.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Gr. (Lieut.)</Title>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolff</Key>
-      <Text>, .C. H. (2nd Lieut.)</Text>
+      <Text>.C. H. (2nd Lieut.)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
-      <Text>. Capt. H. B. C. (retired)</Text>
+      <Text>Capt. H. B. C. (retired)</Text>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>,.C. C. (2nd Lieut.)</Text>
+      <Text>.C. C. (2nd Lieut.)</Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>.F. S. (Lieut.) .</Text>
+      <Text>F. S. (Lieut.) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bogle</Key>
-      <Text>,.Capt. B. W. (seconded)</Text>
+      <Text>.Capt. B. W. (seconded)</Text>
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair-Ford,. B. St. C. (Maj.) ..</Text>
+      <Text>Clair-Ford,. B. St. C. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunkerly</Key>
-      <Text>, Capt. acd-Hon. Maj. C. W. (resigned) .. ; ;</Text>
+      <Title>Capt.</Title>
+      <Text>acd-Hon. Maj. C. W. (resigned) .. ; ;</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,8 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. E. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. E. B. (resigned)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,14 +766,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clover</Key>
-      <Text>,' W. C. (Qrmr. and-Hon. Lieut.) .. ;. .. ... '</Text>
+      <Text>' W. C. (Qrmr. and-Hon. Lieut.) .. ;. .. ... '</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>CrokerJH</Key>
-      <Text>. L.(Maj.)</Text>
+      <Text>L.(Maj.)</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +977,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Segrave</Key>
-      <Text>, O'N. (Lieut.) ..' ..</Text>
+      <Forenames>O</Forenames>
+      <Text>'N. (Lieut.) ..' ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +987,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. O'N. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>O</Forenames>
+      <Text>'N. (antedated)</Text>
       <PageNumber>5982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1012,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigors</Key>
-      <Text>,' Maj. C. F. (temporary halfpay)</Text>
+      <Text>' Maj. C. F. (temporary halfpay)</Text>
       <PageNumber>6133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welch</Key>
-      <Text>, 'Capt. M. H. E. '(seconded)</Text>
+      <Text>'Capt. M. H. E. '(seconded)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaques</Key>
-      <Text>.R. H. W. (Lieut.) .. ..</Text>
+      <Text>R. H. W. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harden</Key>
-      <Text>,. Capt. J. E. (seconded)</Text>
+      <Text>. Capt. J. E. (seconded)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Text>,.R. D. (Lieut.)</Text>
+      <Text>.R. D. (Lieut.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>.j. G. C. (Lieut.)</Text>
+      <Text>j. G. C. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

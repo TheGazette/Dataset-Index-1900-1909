@@ -428,7 +428,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +565,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,16 +831,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Penny</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. W. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. W. W. (resigned)</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,16 +865,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. D. (resigned)</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. B. (resigned)</Text>
       <PageNumber>7243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. (resigned)</Text>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Queen's Own (Boyal West Kent Regiment)</Text>
+      <Title>Queen</Title>
+      <Text>'s Own (Boyal West Kent Regiment)</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Text>Maj. and Hon. Lieut.-Col. VV. K. (resigned) .. .. ..</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>VV. K. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's (Shropshire Light Infantry). Bailey, J. H. (Capt.)</Text>
+      <Title>King</Title>
+      <Text>'s (Shropshire Light Infantry). Bailey, J. H. (Capt.)</Text>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulsey</Key>
-      <Text>Capt. and Hon. Maj. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. (resigned)</Title>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Text>P: A. (Capt.)</Text>
+      <Forenames>P</Forenames>
+      <Text>: A. (Capt.)</Text>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +981,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. LCD. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>LCD. (retired)</Text>
       <PageNumber>2842</PageNumber>
     </MainItem>
   </ItemGroup>

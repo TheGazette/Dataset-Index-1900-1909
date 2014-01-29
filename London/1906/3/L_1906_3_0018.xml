@@ -467,7 +467,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. and Hon. Lieut.-Col. A, (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>A</Forenames>
+      <Text>, (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>J. P. (Lieut.-Col. and to command)</Text>
+      <Text>. J. P. (Lieut.-Col. and to command)</Text>
       <PageNumber>5134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,8 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gourley</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. H. (resigned)</Text>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +873,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>2nd Lieut. R, G. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, G. C. (resigned)</Text>
       <PageNumber>6321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanhope</Key>
-      <Text>Lieut. Earl (seconded)</Text>
+      <Title>Lieut. Earl (seconded)</Title>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +969,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitz-Wygram</Key>
-      <Text>2nd Lieut. SirF. L. F., Bart, (correction)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>SirF. L. F., Bart, (correction)</Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>

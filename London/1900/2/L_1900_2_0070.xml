@@ -91,7 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jollye</Key>
-      <Text>, G-. H. (2nd Lieut.)</Text>
+      <Text>G-. H. (2nd Lieut.)</Text>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lushington</Key>
-      <Text>, G-. W. (Lieut.) .. ..</Text>
+      <Text>G-. W. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Text>, G-. S. (Lieut.)</Text>
+      <Text>G-. S. (Lieut.)</Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,14 +1138,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Colbourne</Key>
-      <Text>, G\ R. (Paymaster)</Text>
+      <Forenames>G</Forenames>
+      <Text>\ R. (Paymaster)</Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, A: O. (Staff Paymaster) ..</Text>
+      <Forenames>A</Forenames>
+      <Text>: O. (Staff Paymaster) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>IlopcrafI</Key>
-      <Text>. W. D. (Sub-Lieut.)</Text>
+      <Text>W. D. (Sub-Lieut.)</Text>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1883,7 +1885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Magowan</Key>
-      <Text>, R, (Assist. Paymaster)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (Assist. Paymaster)</Text>
       <PageNumber>8214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1954,8 +1957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Gr. (Lieut.)</Title>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2017,7 +2019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, G-. (Pavmaster) .. .. ..</Text>
+      <Text>G-. (Pavmaster) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>Capt. J). B. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>). B. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,8 +23,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. S. (resigned)</Text>
       <PageNumber>7036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratte</Key>
-      <Text>2nd Lieut.. W. S.-(resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. W. S.-(resigned)</Text>
       <PageNumber>6865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>E, B. (2nd Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, B. (2nd Lieut.)</Text>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +220,14 @@
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>J Retired List</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>J</Key>
+      <Forenames>Retired List</Forenames>
+      <Text>. ! Thomson, F. W. (correction)</Text>
+      <PageNumber>5735</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>Majors</SectionTitle>
   <SubSectionTitle>Captains</SubSectionTitle>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
@@ -341,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DanielLH</Key>
-      <Text>J</Text>
+      <Text>. J</Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farqnhareon</Key>
-      <Text>C; W. .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>; W. .. .. ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,14 +414,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Minchinton</Key>
-      <Text>H: D</Text>
+      <Forenames>H</Forenames>
+      <Text>: D</Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Munfon</Key>
-      <Text>V. R ibid!. Ifethersole, J. .. .. .. ..</Text>
+      <Text>.V. R ibid!. Ifethersole, J. .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, G. S. W</Text>
+      <Text>. George, G. S. W</Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,14 +510,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Garstin</Key>
-      <Text>Col. &amp;. L</Text>
+      <Title>Col.</Title>
+      <Text>&amp;. L</Text>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lean</Key>
-      <Text>Lieut.-Col.W/. W. .. ..</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.W/. W. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

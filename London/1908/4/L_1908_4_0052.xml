@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>9191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>, Col. G</Text>
+      <Title>Col.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>8046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>. J. B. .. .. .. ..</Text>
+      <Text>J. B. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,13 +462,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Khan</Key>
-      <Forenames>Wali-ud-din</Forenames>
-      <Text>.. S</Text>
+      <Title>Wali-ud-din .</Title>
+      <Text>. S</Text>
       <PageNumber>046</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>Indian Subordinate Medical Department</SectionTitle>
   <SectionTitle>Senior Assistant Surgeons</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bedell</Key>
+      <Forenames>F. F.</Forenames>
+      <PageNumber>7561</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chiodetti</Key>
@@ -493,7 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillmon</Key>
-      <Text>. J. C...</Text>
+      <Text>J. C...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheverton</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>9472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pipe</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkland</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>9191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,11 +692,9 @@
   <SectionTitle>Rifle Volunteers</SectionTitle>
   <SectionTitle>Corps, lst</SectionTitle>
   <SubCategoryTitle>KING'S COLONIALS</SubCategoryTitle>
-  <SubCategoryTitle>IRELAND (NORTH AND SOUTH OF)</SubCategoryTitle>
+  <SubCategoryTitle>SOUTH OF)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
-  <SubCategoryTitle>IRELAND (NORTH OF)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <SubCategoryTitle>LANARKSHIRE</SubCategoryTitle>
   <SectionTitle>Imperial, Yeomanry</SectionTitle>
   <SubCategoryTitle>LONDON</SubCategoryTitle>

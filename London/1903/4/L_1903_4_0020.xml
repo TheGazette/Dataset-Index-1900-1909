@@ -252,7 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dukes</Key>
-      <Text>Brig.-Surg. Lieut.-Col. C. (resigned, Hon. Surg.-Col.)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg. Lieut.-Col. C. (resigned, Hon. Surg.-Col.)</Text>
       <PageNumber>8341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +704,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,8 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMuIlen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt, J. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt, J. (retired)</Text>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1247,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newsum</Key>
-      <Text>Capt. and Instr. of Musketry H. E. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. E. (resigned)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,8 +1283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. S. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. S. H. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>

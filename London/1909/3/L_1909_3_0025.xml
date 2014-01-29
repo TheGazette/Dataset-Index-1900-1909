@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eawcus</Key>
-      <Text>, G-. E. (Capt.)</Text>
+      <Text>G-. E. (Capt.)</Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, IN. C. (Capt.)</Text>
+      <Text>IN. C. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,8 +640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chawner</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. (resigned)</Text>
       <PageNumber>6451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,8 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaudrey</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. (resigned)</Text>
       <PageNumber>7124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,8 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Et. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>5910</PageNumber>
     </MainItem>
   </ItemGroup>

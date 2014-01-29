@@ -31,14 +31,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleby</Key>
-      <Text>, Capt. G-. P. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. P. (retired)</Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cranks</Key>
-      <Text>,2nd' Lieut. W. G. M. (resigned) '</Text>
+      <Text>2nd' Lieut. W. G. M. (resigned) '</Text>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Text>, . Capt. H. M. (temporary half-pay)</Text>
+      <Text>. Capt. H. M. (temporary half-pay)</Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +403,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beasley</Key>
-      <Text>.T. C. P. (Capt.)</Text>
+      <Text>T. C. P. (Capt.)</Text>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,8 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McAlhster-Hewlings</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. F. (resignedj</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. F. (resignedj</Text>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sahunan</Key>
-      <Text>, Lieut., G. H. (resigned)-' „</Text>
+      <Title>Lieut.</Title>
+      <Text>, G. H. (resigned)-' „</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +770,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggett</Key>
-      <Text>,' A. H. (Capt.)</Text>
+      <Text>' A. H. (Capt.)</Text>
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,8 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. (super.)</Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchin</Key>
-      <Text>,C. E. (Capt.)</Text>
+      <Text>C. E. (Capt.)</Text>
       <PageNumber>4174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1254,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, Capt. F; G. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F</Forenames>
+      <Text>; G. (retired)</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,8 +1334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. D. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. D. J. (resigned)</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>

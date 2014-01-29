@@ -108,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boupell</Key>
-      <Text>, Maj&lt; E. P. S. (resigned)</Text>
+      <Title>Maj</Title>
+      <Text>&lt; E. P. S. (resigned)</Text>
       <PageNumber>3158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +134,7 @@
       <PageNumber>3330</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Bedfordshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -375,7 +376,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ... ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +502,7 @@
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>.SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Mersey Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -626,7 +628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Text>, 2nd Lieut. Viscount (resigned)</Text>
+      <Title>2nd Lieut. Viscount (resigned)</Title>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +672,6 @@
       <PageNumber>4032</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>COLDSTREAM GUA.RDS</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
@@ -827,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamis</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>

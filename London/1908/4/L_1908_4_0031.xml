@@ -105,7 +105,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Challinor</Key>
-      <Text>, VV. F. (Maj.)</Text>
+      <Text>VV. F. (Maj.)</Text>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +137,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +254,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corhett</Key>
-      <Text>., Y. (Capt.)</Text>
+      <Text>, Y. (Capt.)</Text>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Co</Key>
-      <Text>.-grave, A. (Surg.-Maj.)</Text>
+      <Text>-grave, A. (Surg.-Maj.)</Text>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davey</Key>
-      <Text>,-J. M. (Maj.)</Text>
+      <Text>-J. M. (Maj.)</Text>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>, YV. C. (Hon. Col.)</Text>
+      <Text>YV. C. (Hon. Col.)</Text>
       <PageNumber>9374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +507,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +549,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>9469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +724,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. ibid. \ Jelf, R. H. (Hon! Col.)</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. ibid. \ Jelf, R. H. (Hon! Col.)</Text>
       <PageNumber>9294</PageNumber>
     </MainItem>
   </ItemGroup>

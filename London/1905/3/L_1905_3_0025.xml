@@ -492,8 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curme</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D. (correction)</Text>
       <PageNumber>4810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothes</Key>
-      <Text>, 2nd Lieut. Earl of (resigned)</Text>
+      <Title>2nd Lieut. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>6476</PageNumber>
     </MainItem>
   </ItemGroup>

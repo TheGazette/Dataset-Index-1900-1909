@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, BT. E. (Lieut.)</Text>
+      <Text>BT. E. (Lieut.)</Text>
       <PageNumber>2548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +344,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut-Super.)</Text>
+      <Title>(2nd Lieut-Super.)</Title>
       <PageNumber>3330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. J. M. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. J. M. (resigned)</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +669,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovell</Key>
-      <Text>, Capt. W(resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>W(resigned)</Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>,. 2nd Lieut. M. H. S. (seconded)</Text>
+      <Text>. 2nd Lieut. M. H. S. (seconded)</Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,8 +702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>ABhby</Key>
-      <Forenames>Supy</Forenames>
-      <Text>.-Lieut. D. (resigned)</Text>
+      <Title>Supy.</Title>
+      <Text>-Lieut. D. (resigned)</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuck</Key>
-      <Text>, Capt. and Hon, Maj. C. C. (resigned) .. .. .. ..</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon, Maj. C. C. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owens</Key>
-      <Text>,. D. J. (Q.rmr. and Hon.Lieut.)</Text>
+      <Text>. D. J. (Q.rmr. and Hon.Lieut.)</Text>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1093,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windham</Key>
-      <Text>, Capt. *A. (resigned and Hon. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Text>*A. (resigned and Hon. Maj.)</Text>
       <PageNumber>4393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,8 +1102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkner</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. G. (Super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. G. (Super.)</Text>
       <PageNumber>4395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,8 +1212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. F. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

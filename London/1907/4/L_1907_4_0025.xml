@@ -119,7 +119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Text>, Capt. Hon. H</Text>
+      <Title>Capt. Hon.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,14 +150,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Darbiahire</Key>
-      <Text>. Lieut.-Col. C. H</Text>
+      <Text>Lieut.-Col. C. H</Text>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pollitt</Key>
-      <Text>, Col. Sir W</Text>
+      <Title>Col. Sir</Title>
+      <Forenames>W</Forenames>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inverelyde</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord ..</Text>
+      <Title>Rt. Hon. Lord .</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyne</Key>
-      <Text>. W. O</Text>
+      <Text>W. O</Text>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheater</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ready</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6577</PageNumber>
       <PageNumber>8607</PageNumber>
     </MainItem>
@@ -707,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferbracbe</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>9105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leycester</Key>
-      <Text>. W. R. .. .. ..</Text>
+      <Text>W. R. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pound</Key>
-      <Text>. R. R. J</Text>
+      <Text>R. R. J</Text>
       <PageNumber>8982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>,. M. P</Text>
+      <Text>. M. P</Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ussher</Key>
-      <Text>.R</Text>
+      <Text>R</Text>
       <PageNumber>9105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>, O: C .. ' ..</Text>
+      <Forenames>O</Forenames>
+      <Text>: C .. ' ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -272,8 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. j. (resigned)</Text>
+      <Title>Super. Capt.</Title>
+      <Text>j. (resigned)</Text>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +331,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>3474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1020,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>. W. G. S. (2nd Lieut.)</Text>
+      <Text>W. G. S. (2nd Lieut.)</Text>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zouche</Key>
-      <Text>, Lord (Hon. Maj.)</Text>
+      <Title>Lord (Hon. Maj.)</Title>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornblower</Key>
-      <Text>. T. B. (Capt.) .. ..</Text>
+      <Text>T. B. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

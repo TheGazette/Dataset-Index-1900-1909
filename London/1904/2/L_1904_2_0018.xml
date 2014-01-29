@@ -13,8 +13,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Visct. (Capt.)</Title>
       <PageNumber>2479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +54,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +190,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +199,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Lieut. W: T. (cancellation)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W</Forenames>
+      <Text>: T. (cancellation)</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>2nd Lieut. VV. P. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>VV. P. (resigned)</Text>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>R, N. V. (2nd Lieut,)</Text>
+      <Forenames>R</Forenames>
+      <Text>, N. V. (2nd Lieut,)</Text>
       <PageNumber>3552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1153,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sonkey</Key>
-      <Text>Maj. C C (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>C (retired)</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>Capt.(i. A. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>(i. A. (seconded)</Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1202,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>C G. (Maj.)</Text>
+      <Forenames>C</Forenames>
+      <Text>G. (Maj.)</Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>

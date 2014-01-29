@@ -431,8 +431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkley</Key>
-      <Forenames>Qrrar</Forenames>
-      <Text>.nd Hon. Lieut. I). (antedated)</Text>
+      <Title>Qrrar.</Title>
+      <Text>nd Hon. Lieut. I). (antedated)</Text>
       <PageNumber>4588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +530,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(removed)</Text>
+      <Title>(removed)</Title>
       <PageNumber>5768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,9 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. and Hon. Col. Earl of (resigned)</Text>
+      <Title>Lieut.-Col. Comdt. and Hon. Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>5180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +645,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +885,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +902,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4794</PageNumber>
     </MainItem>
   </ItemGroup>

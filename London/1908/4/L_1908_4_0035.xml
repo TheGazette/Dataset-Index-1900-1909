@@ -222,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>, A, C. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, C. (Lieut.)</Text>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulding</Key>
-      <Text>. T. (Lieut.)</Text>
+      <Text>T. (Lieut.)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +563,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheffield</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1011,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1161,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1250,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. A. (Lieut.) ..</Text>
+      <Text>A. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,8 +1744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosebery</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1864,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>

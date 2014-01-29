@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schletter</Key>
-      <Text>Lieut.-CoL P. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-CoL P. (half-pay)</Text>
       <PageNumber>1016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,8 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armour</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon S. C.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>S. C.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>1623</PageNumber>
     </MainItem>
@@ -126,8 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielding-Ould</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. (resigned) .. .;</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. (resigned) .. .;</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,8 +204,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ .—</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj.C. 'J, (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj.C. 'J, (correction)</Text>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Text>F, J). (Capt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>, J). (Capt.)</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +662,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,8 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +799,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>

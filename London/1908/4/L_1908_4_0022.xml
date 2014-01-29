@@ -116,8 +116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. P. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. P. A. (resigned)</Text>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,9 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Title>Hon.</Title>
-      <Forenames>Assist</Forenames>
-      <Text>.-Surg. D. (resigned)</Text>
+      <Title>Hon. Assist.</Title>
+      <Text>-Surg. D. (resigned)</Text>
       <PageNumber>8046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +632,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fegan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. A. (resigned)..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. A. (resigned)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,9 +1252,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. F. R. W. (resigned) .. ..</Text>
+      <Title>Maj. and Hon. Lient.</Title>
+      <Text>-Col. F. R. W. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,8 +1261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. K. A. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. K. A. (retired)</Text>
       <PageNumber>7473</PageNumber>
     </MainItem>
   </ItemGroup>

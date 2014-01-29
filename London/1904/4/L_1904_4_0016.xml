@@ -148,7 +148,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guernsey</Key>
-      <Text>, Lord (Lieut:) '</Text>
+      <Title>Lord (Lieut:)</Title>
+      <Text>'</Text>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Romanes</Key>
-      <Text>, J: G. P. (Lieut.) .. .;</Text>
+      <Forenames>J</Forenames>
+      <Text>: G. P. (Lieut.) .. .;</Text>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. H. (resigned)</Text>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>, 2ndLieut. Hon. J. M. (resigned) .. .. ,</Text>
+      <Text>2ndLieut. Hon. J. M. (resigned) .. .. ,</Text>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,8 +735,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Licut. C. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Licut. C. M. (resigned)</Text>
       <PageNumber>6727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +803,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carleton</Key>
-      <Text>, Capt. and Brev. Maj. F, M. (seconded) .. .. ..'</Text>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>F</Forenames>
+      <Text>, M. (seconded) .. .. ..'</Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparenborg</Key>
-      <Text>, H-. R. (Lieut.)</Text>
+      <Text>H-. R. (Lieut.)</Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +976,15 @@
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>(Adj.)</Title>
+      <PageNumber>8640</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gower</Key>
@@ -1000,8 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Forenames>Lieur</Forenames>
-      <Text>.. R. M. R. (antedated)</Text>
+      <Title>Lieur.</Title>
+      <Text>. R. M. R. (antedated)</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,6 +1078,14 @@
       <Forenames>E. E.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>6651</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilson</Key>
+      <Forenames>A. E. J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6585</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>xith Battalion</SubSectionTitle>
@@ -1228,7 +1249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>, G: (2nd Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>

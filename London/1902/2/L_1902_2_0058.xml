@@ -217,7 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowie</Key>
-      <Text>Brig. Surg. Lieut. Col. D. (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>Surg. Lieut. Col. D. (seconded)</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>5337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1010,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>Maj. and Brev. Lieut.-Col (retired)</Text>
+      <Title>Maj. and Brev. Lieut.</Title>
+      <Text>-Col (retired)</Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1086,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Text>Qrmr. and Hon. Capt. J, (retired)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>, (retired)</Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>

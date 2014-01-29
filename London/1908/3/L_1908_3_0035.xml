@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>E. T. (Maj.)</Text>
+      <Text>.E. T. (Maj.)</Text>
       <PageNumber>7021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +259,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Capt.) Morrison, J. T. J. (Maj.)</Text>
+      <Title>Or. (Capt.)</Title>
+      <Forenames>Morrison</Forenames>
+      <Text>, J. T. J. (Maj.)</Text>
       <PageNumber>7021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Maj.)</Text>
+      <Title>Or. (Maj.)</Title>
       <PageNumber>7021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +761,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. and Maj.) ibid. Lockhart, W. M. (Capt.)</Text>
+      <Title>(Capt. and Maj.)</Title>
+      <Text>ibid. Lockhart, W. M. (Capt.)</Text>
       <PageNumber>6226</PageNumber>
     </MainItem>
   </ItemGroup>

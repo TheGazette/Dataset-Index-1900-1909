@@ -23,7 +23,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Text>, 0. (2nd Lieut.)</Text>
+      <Text>0. (2nd Lieut.)</Text>
       <PageNumber>4615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,8 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. S. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. S. L. (resigned)</Text>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roe</Key>
-      <Text>, 0. P. (Capt.)</Text>
+      <Text>0. P. (Capt.)</Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +270,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spaight</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. W. (resigned)</Text>
       <PageNumber>6098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickerstoth</Key>
-      <Text>, Lieut. E,. M. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>E</Forenames>
+      <Text>,. M. (resigned)</Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +439,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>, ------(Maj.) Thornton, C. F. (Capt.)</Text>
+      <Text>------(Maj.) Thornton, C. F. (Capt.)</Text>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,8 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Renshaw</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. A. K. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. A. K. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,8 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollitt</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. and Hon. Col. J. W. (retired)</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. and Hon. Col. J. W. (retired)</Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,8 +1106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollok</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. R. (Super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. R. (Super.)</Text>
       <PageNumber>6023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Hon. C. H.M. (Capt.)</Text>
+      <Text>Clair, Hon. C. H.M. (Capt.)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>

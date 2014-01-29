@@ -14,8 +14,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. L. G. (super.) Hid. Middlemiss, W. J. F. (2nd Lieut.) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. L. G. (super.) Hid. Middlemiss, W. J. F. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCullagh</Key>
-      <Text>, Brig.-Surg. Lieut.-Col. T. A. (resigned and Hon. rank of Surg.-Col.)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg. Lieut.-Col. T. A. (resigned and Hon. rank of Surg.-Col.)</Text>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>, 2nd Lieut, (seconded) ..</Text>
+      <Text>2nd Lieut, (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +159,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,8 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. G. (resigned)</Text>
       <PageNumber>4564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhind</Key>
-      <Text>. J. (Capt.)</Text>
+      <Text>J. (Capt.)</Text>
       <PageNumber>4763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +927,7 @@
       <Key>
         <KeyDitto>___ ___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut -Col.)</Text>
+      <Title>(Hon. Lieut -Col.)</Title>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1014,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,8 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowle</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. H. W. H. (seconded)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. H. W. H. (seconded)</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>

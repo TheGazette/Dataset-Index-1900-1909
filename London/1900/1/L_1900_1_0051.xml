@@ -220,7 +220,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +262,8 @@
       <Key>
         <KeyDitto>___ : ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F: G. O. (Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: G. O. (Lieut.)</Text>
       <PageNumber>1175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,14 +452,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3411</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ewart</Key>
-      <Text>Capt. E-W. T. (super.)</Text>
+      <Title>Capt.</Title>
+      <Text>E-W. T. (super.)</Text>
       <PageNumber>1529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +639,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +648,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +665,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +692,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.).-</Text>
+      <Title>(Capt.)</Title>
+      <Text>.-</Text>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +718,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>1077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +735,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1011,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1099,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1315,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1416,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,7 +1425,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1465,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,7 +1625,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ..</KeyDitto>
       </Key>
-      <Text>(retention of rank, &amp;c.)</Text>
+      <Title>(retention of rank, &amp;c.)</Title>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,7 +1690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosmead</Key>
-      <Text>Lord (Maj.) .-. '</Text>
+      <Title>Lord (Maj.)</Title>
+      <Text>.-. '</Text>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1696,7 +1700,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Lord (seconded)</Text>
+      <Title>Maj. Lord (seconded)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,7 +1758,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,14 +1871,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>J, N. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, N. (2nd Lieut.)</Text>
       <PageNumber>2352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Capt. and. Hon. J. T. (super.)</Text>
+      <Title>Capt.</Title>
+      <Text>and. Hon. J. T. (super.)</Text>
       <PageNumber>2348</PageNumber>
     </MainItem>
   </ItemGroup>

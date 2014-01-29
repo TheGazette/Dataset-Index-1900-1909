@@ -115,7 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, Hon. apt. A. D. (Inspector of Mechanical Transport, 2nd Class)</Text>
+      <Title>Hon.</Title>
+      <Text>apt. A. D. (Inspector of Mechanical Transport, 2nd Class)</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +354,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ordnance</Key>
-      <Forenames>College</Forenames>
-      <Text>. O Leahy, Maj. H. G. (Chief Instr.)</Text>
+      <Title>College.</Title>
+      <Forenames>O</Forenames>
+      <Text>Leahy, Maj. H. G. (Chief Instr.)</Text>
       <PageNumber>8689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sylvester</Key>
-      <Text>. Lieut.-Col. G. H. (retired)</Text>
+      <Text>Lieut.-Col. G. H. (retired)</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,14 +763,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. C. G. R. (Capt.)</Text>
+      <Text>C. G. R. (Capt.)</Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thackwell</Key>
-      <Text>, Lieut.-Col. £. L. R. (Chief Paymaster and Col.)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>£. L. R. (Chief Paymaster and Col.)</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrard</Key>
-      <Text>.S. G. (Col.)</Text>
+      <Text>S. G. (Col.)</Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>

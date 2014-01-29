@@ -292,8 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McBryde</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. (resigned)</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,8 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donald</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt, A. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt, A. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +481,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>, Qrmr. (Capt.) A., jun. (resigned) .. .. .. ... ..</Text>
+      <Title>Qrmr. (Capt.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, jun. (resigned) .. .. .. ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +659,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moyes</Key>
-      <Text>, Lieut.-Col. and (Hon. Col. A. T. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and (Hon. Col. A. T. (retired)</Text>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bergne</Key>
-      <Text>, R, B. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. (2nd Lieut.)</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>, B, E. (2nd Lieut.) .. ..</Text>
+      <Forenames>B</Forenames>
+      <Text>, E. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,6 +1472,14 @@
   <SectionTitle>The Royal Dublin Fusiliers</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>Bromilow</Key>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1768</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Chapman</Key>
       <Title>Capt.</Title>
       <Forenames>A. J.</Forenames>
@@ -1854,6 +1867,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Dawnay</Key>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>3463</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dumaresq</Key>
       <Forenames>H. W.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1893,7 +1915,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1230</PageNumber>
     </MainItem>
     <SubItem>

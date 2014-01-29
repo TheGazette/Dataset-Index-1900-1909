@@ -176,7 +176,16 @@
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. O. M.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1734</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hardcastle</Key>
@@ -254,7 +263,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Cul.)</Text>
+      <Title>(Lieut.-Cul.)</Title>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +292,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ . ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +444,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .</Text>
+      <Title>(Capt.)</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hirst</Key>
-      <Text>Lieut. VV. A. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>VV. A. (resigned and Hon. Lieut.)</Text>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +823,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>Capt. Earl of (to command and temporary Lieut.-Col.)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (to command and temporary Lieut.-Col.)</Text>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1224,8 @@
       <Key>
         <KeyDitto>___ .</KeyDitto>
       </Key>
-      <Text>Earl of (temporary Lieut.-Col. and to command, antedated)</Text>
+      <Title>Earl</Title>
+      <Text>of (temporary Lieut.-Col. and to command, antedated)</Text>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1388,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. II. R. (resigned) .. LO'Jf) M.-Doimell, \V. F. (Hon.-Lieut.)</Text>
+      <Title>Capt.</Title>
+      <Text>II. R. (resigned) .. LO'Jf) M.-Doimell, \V. F. (Hon.-Lieut.)</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,8 +1491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Capt,) .. ..</Text>
+      <Title>Visct. (Hon. Capt,)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1554,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1038</PageNumber>
     </MainItem>
   </ItemGroup>

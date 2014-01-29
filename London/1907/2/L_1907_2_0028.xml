@@ -88,14 +88,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, CM. .;</Text>
+      <Text>CM. .;</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaye</Key>
-      <Text>.C</Text>
+      <Text>C</Text>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allardice</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>, CP... .. .. ..</Text>
+      <Text>CP... .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardew</Key>
-      <Text>. H. S</Text>
+      <Text>H. S</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>,.J. L. .. .. .. ..</Text>
+      <Text>.J. L. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,14 +1043,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulloy</Key>
-      <Text>, ST. F. C. .. .. ..</Text>
+      <Text>ST. F. C. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mullaly</Key>
-      <Text>, CM. .. . .. ..</Text>
+      <Text>CM. .. . .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,8 +1421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Forenames>Or</Forenames>
-      <Text>. A</Text>
+      <Title>Or.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>434</PageNumber>
     </MainItem>
   </ItemGroup>

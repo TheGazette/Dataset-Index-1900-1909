@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacques</Key>
-      <Text>, Lieut. G-. P. R. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. P. R. (resigned and Hon. Lieut.)</Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mnddison</Key>
-      <Text>, Lieut. II. C. (resigned and . Hon. Lieut.).. .. .. .. ibid. .Mann, Lieut, Or. D. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. C. (resigned and . Hon. Lieut.).. .. .. .. ibid. .Mann, Lieut, Or. D. (resigned)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,14 +248,15 @@
   <ItemGroup>
     <MainItem>
       <Key>iMedlieott</Key>
-      <Text>, .Lieut. H. E. (resigned)</Text>
+      <Text>.Lieut. H. E. (resigned)</Text>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, Lieut. G-. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. (resigned and Hon. Lieut.)</Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunn</Key>
-      <Text>, Temporary 'Lieut.-Col. M. H. '(resigns command)</Text>
+      <Title>Temporary</Title>
+      <Text>'Lieut.-Col. M. H. '(resigns command)</Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +702,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>, Lieut. R, A. (resigned;</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, A. (resigned;</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +749,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1054,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1080,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beeman</Key>
-      <Text>, 2nd Lieut. I). &gt;W. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>I</Forenames>
+      <Text>). &gt;W. (seconded)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MeMickipg</Key>
-      <Text>, II. (Capt.)</Text>
+      <Text>II. (Capt.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1166,15 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>(seconded) ..' 307 ' Piatt, A. C. (Capt.) .. ,</Text>
+      <Text>(seconded) ..'</Text>
+      <PageNumber>307</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Piatt</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(Capt.) .. ,</Text>
       <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1219,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. R(antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>R(antedated)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,14 +1269,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Crerar</Key>
-      <Text>, .T. (Capt.) ''</Text>
+      <Text>.T. (Capt.) ''</Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Flett</Key>
-      <Text>,; Capt. R. J. R. (resigned)'</Text>
+      <Text>; Capt. R. J. R. (resigned)'</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>

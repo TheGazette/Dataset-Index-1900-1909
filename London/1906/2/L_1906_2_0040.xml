@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastment</Key>
-      <Text>A; G. .. ..</Text>
+      <Forenames>A</Forenames>
+      <Text>; G. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>B, M</Text>
+      <Forenames>B</Forenames>
+      <Text>, M</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +487,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Havles</Key>
-      <Text>T,</Text>
+      <Forenames>T</Forenames>
+      <Text>,</Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1339,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,8 +1395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Sub</Forenames>
-      <Text>.-Lieut. A. J. (retired list)</Text>
+      <Title>Sub.</Title>
+      <Text>-Lieut. A. J. (retired list)</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>

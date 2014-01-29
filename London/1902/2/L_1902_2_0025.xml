@@ -134,7 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Staff</Key>
-      <Text>Captain: Hutchinson, Capt. W. A</Text>
+      <Title>Captain</Title>
+      <Text>: Hutchinson, Capt. W. A</Text>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>7537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +583,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>Earl of Stowe (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of Stowe (2nd Lieut.)</Text>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +790,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +826,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(half-pay)</Text>
+      <Title>(half-pay)</Title>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +906,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>6413</PageNumber>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1067,7 +1068,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1205,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>6113</PageNumber>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1255,7 +1257,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>6413</PageNumber>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1279,8 +1281,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McComb</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brev. Col. R. B. (retired pay)</Text>
+      <Title>Lt.-Col. and Brev. Col.</Title>
+      <Forenames>R. B.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Qrmr. and Hon. Lieut.E. (half-pay)</Text>
+      <Title>Qrmr. and Hon. Lieut.</Title>
+      <Text>E. (half-pay)</Text>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>

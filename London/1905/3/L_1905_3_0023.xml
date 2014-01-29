@@ -163,8 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bone</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. W. (resigned)</Text>
       <PageNumber>5379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Segrave</Key>
-      <Text>, O'N. (Lieut.)</Text>
+      <Forenames>O</Forenames>
+      <Text>'N. (Lieut.)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklyn</Key>
-      <Text>. H. E. (2nd Lieut.)</Text>
+      <Text>H. E. (2nd Lieut.)</Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>. G. A. (Capt.)</Text>
+      <Text>G. A. (Capt.)</Text>
       <PageNumber>4632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. II. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>II. (resigned)</Text>
       <PageNumber>5066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Su</Key>
-      <Text>.ith, Lieut.-Col. and Hon. Col. T.J. (retired)</Text>
+      <Text>ith, Lieut.-Col. and Hon. Col. T.J. (retired)</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1043,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Engleheart</Key>
-      <Text>, Maj. £. L. (temporary half-pay) '</Text>
+      <Title>Maj.</Title>
+      <Text>£. L. (temporary half-pay) '</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1084,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>, Maj. R, S. (retired) ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>R</Forenames>
+      <Text>, S. (retired) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

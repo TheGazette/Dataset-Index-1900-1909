@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunn</Key>
-      <Text>, W-</Text>
+      <Text>W-</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Text>.C.E</Text>
+      <Text>C.E</Text>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,8 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockey</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. H</Text>
+      <Title>Gr.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chearnley</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eddis</Key>
-      <Text>, 0. J. F</Text>
+      <Text>0. J. F</Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray-Browne</Key>
-      <Forenames>Or</Forenames>
+      <Title>Or.</Title>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson-Glasgow</Key>
-      <Text>, K: '.. . -</Text>
+      <Forenames>K</Forenames>
+      <Text>: '.. . -</Text>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>.G</Text>
+      <Text>G</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glading</Key>
-      <Text>.T. .. .. ' '</Text>
+      <Text>T. .. .. ' '</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, CC</Text>
+      <Text>CC</Text>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +658,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A '</Text>
+      <Forenames>A</Forenames>
+      <Text>'</Text>
       <PageNumber>892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whalley</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliday</Key>
-      <Text>, Capt. . and Brevet Maj. L. S. T. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. and Brevet Maj. L. S. T. (seconded)</Text>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Regnart</Key>
-      <Text>, Capt.C. fl. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>C. fl. (seconded)</Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetley</Key>
-      <Text>.A. S. (Capt.)</Text>
+      <Text>A. S. (Capt.)</Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,7 +1443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>, R:S. (Sub-Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>:S. (Sub-Lieut.)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>

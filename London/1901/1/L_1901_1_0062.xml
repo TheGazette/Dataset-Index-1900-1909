@@ -311,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Text>,.E. S. St. B. (Maj.)</Text>
+      <Text>.E. S. St. B. (Maj.)</Text>
       <PageNumber>1771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trump</Key>
-      <Text>,,F. J. (Lieut.)</Text>
+      <Text>,F. J. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groves</Key>
-      <Text>,' Surg.-Lieut. H. C. (resigned)</Text>
+      <Text>' Surg.-Lieut. H. C. (resigned)</Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, EC J. (2nd Lieut.)</Text>
+      <Text>EC J. (2nd Lieut.)</Text>
       <PageNumber>4252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,8 +838,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibb</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. R. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. R. S. (resigned)</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +921,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. T. (resigned)</Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1068,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>, II. F. H. (Capt.)</Text>
+      <Text>II. F. H. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,8 +1175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. B. (resigned)</Text>
       <PageNumber>1356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,7 +1529,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>3034</PageNumber>
     </MainItem>
   </ItemGroup>

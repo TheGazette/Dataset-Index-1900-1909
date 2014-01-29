@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlumnev</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stavordale</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,8 +682,17 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ !</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Conway-Gordon</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -771,7 +780,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +830,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +914,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +956,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H A. (Capt.) .. .,</Text>
+      <Forenames>H</Forenames>
+      <Text>A. (Capt.) .. .,</Text>
       <PageNumber>3384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1014,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1197,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1256,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.).. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1274,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1294,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>

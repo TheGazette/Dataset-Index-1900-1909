@@ -68,9 +68,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McG-regor</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>., Rev. A. O. (resigned) '</Text>
+      <Title>Acting Chap., Rev.</Title>
+      <Forenames>A. O.</Forenames>
+      <Text>(resigned) '</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Leger, Lieut.-Col. St. J. J. (retired)</Text>
+      <Text>Leger, Lieut.-Col. St. J. J. (retired)</Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>, 2nd Lieut. G-. S. (re-* signed)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>G-. S. (re-* signed)</Text>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +382,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patton-Bethune</Key>
-      <Text>, Maj. ' D. E. B. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>' D. E. B. (retired)</Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +683,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of (Hon. Col.) -</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.) -</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>, C: R, 1/ (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>: R, 1/ (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,14 +894,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5844</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Text>, Lieut. A.E. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>A.E. (seconded)</Text>
       <PageNumber>4677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>,&lt;H. V.</Text>
+      <Text>&lt;H. V.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Text>, C: I.</Text>
+      <Forenames>C</Forenames>
+      <Text>: I.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Text>, ,H. T. ..</Text>
+      <Text>,H. T. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Light</Key>
-      <Text>,.R. H. ..</Text>
+      <Text>.R. H. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

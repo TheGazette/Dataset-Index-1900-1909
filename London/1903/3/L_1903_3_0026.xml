@@ -492,7 +492,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Symonds-Tayler</Key>
-      <Text>R, H. T. (Hon. Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. T. (Hon. Maj.)</Text>
       <PageNumber>4355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +630,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>Capt. Rev. R, B. (resigned)</Text>
+      <Title>Capt. Rev.</Title>
+      <Forenames>R</Forenames>
+      <Text>, B. (resigned)</Text>
       <PageNumber>5077</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -57,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Text>, 2nd Lieut, S. M. (cancellation)</Text>
+      <Text>2nd Lieut, S. M. (cancellation)</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carver</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. (resigned)</Title>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +228,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>, Brig. Surg. Lieut. Col. J. (super.)</Text>
+      <Title>Brig.</Title>
+      <Text>Surg. Lieut. Col. J. (super.)</Text>
       <PageNumber>3408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +876,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgkinson</Key>
-      <Text>, II. S. B. (Lieut.-Col.)</Text>
+      <Text>II. S. B. (Lieut.-Col.)</Text>
       <PageNumber>1852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Text>, 1. (Lieut.)</Text>
+      <Text>1. (Lieut.)</Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,14 +1250,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Challinor</Key>
-      <Text>, W! F. (2nd Lieut.) .,</Text>
+      <Forenames>W</Forenames>
+      <Text>! F. (2nd Lieut.) .,</Text>
       <PageNumber>1774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Text>, Capt. j. H. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>j. H. (resigned)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,8 +1581,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lieiit</Forenames>
-      <Text>.-Col. and Hon. Col. J. G. (resigned) .. .. .. .,</Text>
+      <Title>Lieiit.</Title>
+      <Text>-Col. and Hon. Col. J. G. (resigned) .. .. .. .,</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,14 +1591,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wolrige</Key>
-      <Text>, 2nd Lieut, L. W. (seconded)</Text>
+      <Text>2nd Lieut, L. W. (seconded)</Text>
       <PageNumber>4101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,6 +1659,14 @@
       <Forenames>R. M.</Forenames>
       <Text>(Lieut.) U Johnson, E. A. (Lieut.-Col. Comdt.)</Text>
       <PageNumber>4103</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stoddart</Key>
+      <Forenames>C. J.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
+      <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>The Durham Light Infantry.</SectionTitle>

@@ -60,12 +60,15 @@
     <SubItem>
       <Text>
         <PageNumber>___ ___ ___ ___</PageNumber>
+        <PageNumber>___ ___</PageNumber>
       </Text>
-      <PageNumber>___ ___</PageNumber>
+      <PageNumber>1427</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>British Bank of Commerce .. ___ ___ | British Linen Bank .. ..</Text>
-      <PageNumber>___ ___</PageNumber>
+      <Text>
+        <PageNumber>___ ___</PageNumber>
+      </Text>
+      <PageNumber>1428</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
@@ -341,7 +344,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Caementium</Key>
-      <Text>(Parent) Company, notice of winding-up</Text>
+      <Title>(Parent)</Title>
+      <Forenames>Company</Forenames>
+      <Text>, notice of winding-up</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,6 +397,7 @@
     <SubItem>
       <Text>
         <PageNumber>ibid.</PageNumber>
+        <CategoryTitle>Capital and Counties Bank, &amp;c,</CategoryTitle>
       </Text>
       <PageNumber>1996</PageNumber>
     </SubItem>

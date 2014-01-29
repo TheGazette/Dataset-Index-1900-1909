@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemans</Key>
-      <Text>, Q-. W</Text>
+      <Text>Q-. W</Text>
       <PageNumber>6</PageNumber>
       <PageNumber>1158</PageNumber>
     </MainItem>
@@ -111,7 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, Lieut.-Col. J</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lydiard</Key>
-      <Text>, Lieut.-Col. A</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +224,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +367,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>2116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Condon</Key>
-      <Text>, de V. .,</Text>
+      <Text>de V. .,</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pierce</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calli</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>

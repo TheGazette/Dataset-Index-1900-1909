@@ -19,8 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford</Key>
-      <Forenames>Lie</Forenames>
-      <Text>.it. N. C. (resigned)</Text>
+      <Title>Lie.</Title>
+      <Text>it. N. C. (resigned)</Text>
       <PageNumber>5097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackley</Key>
-      <Text>, Viscount (Hon. Maj.)</Text>
+      <Title>Viscount (Hon. Maj.)</Title>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>. J. W. (Capt.)</Text>
+      <Text>J. W. (Capt.)</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Polwarth</Key>
-      <Text>, Maj. Hon. the Master of (Hon. Lieut.-Col.) .. .. ..</Text>
+      <Title>Maj. Hon.</Title>
+      <Text>the Master of (Hon. Lieut.-Col.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Q</Key>
-      <Text>.uill, B. C. (Lieut.)</Text>
+      <Text>uill, B. C. (Lieut.)</Text>
       <PageNumber>4630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,9 +930,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. E. L. (resigned) ..</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. E. L. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>. Lieut. W. A. P. (resigned)</Text>
+      <Text>Lieut. W. A. P. (resigned)</Text>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batt</Key>
-      <Text>, Capt. &amp;. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>&amp;. C. (seconded)</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1083,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. VV. W. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>VV. W. (antedated)</Text>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>

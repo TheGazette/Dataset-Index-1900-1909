@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>, 0. (Lieut.)</Text>
+      <Text>0. (Lieut.)</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zimmermann</Key>
-      <Text>, .Capt. L. W. H. (cancellation)</Text>
+      <Text>.Capt. L. W. H. (cancellation)</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +284,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(antedated) .. ,</Text>
+      <Title>(antedated)</Title>
+      <Text>.. ,</Text>
       <PageNumber>3286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +986,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothwell</Key>
-      <Text>, IV A. (Surg.-Lieut.)</Text>
+      <Text>IV A. (Surg.-Lieut.)</Text>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Text>, J; (Capt.) .. '</Text>
+      <Forenames>J</Forenames>
+      <Text>; (Capt.) .. '</Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1358,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, Lieut.-Col. C E. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>E. (resigned)</Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frere</Key>
-      <Text>,.A. G. (2nd Lieut.)</Text>
+      <Text>.A. G. (2nd Lieut.)</Text>
       <PageNumber>4252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,7 +1597,16 @@
       <Key>Lloyd</Key>
       <Title>Capt. and Hon. Maj.</Title>
       <Forenames>E.</Forenames>
-      <Text>(resigned) 1942 . Lord, Capt. and Hon. Maj. C. H. (resigned) .... .. .. .. .. '</Text>
+      <Text>(resigned)</Text>
+      <PageNumber>1942</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lord</Key>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(resigned) .... .. .. .. .. '</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1639,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones-Parry</Key>
-      <Text>, (G. L. (Capt.)</Text>
+      <Text>(G. L. (Capt.)</Text>
       <PageNumber>3115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1747,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ —.—</KeyDitto>
       </Key>
-      <Text>(resigned) .,</Text>
+      <Title>(resigned)</Title>
+      <Text>.,</Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>

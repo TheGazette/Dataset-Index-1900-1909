@@ -112,7 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrington</Key>
-      <Text>, R, E. S. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. S. (Lieut.)</Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Text>, E. (Lieut.) -</Text>
+      <Text>E. (Lieut.) -</Text>
       <PageNumber>6254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Compton</Key>
-      <Text>, Capt. Lord A F. (resigned)</Text>
+      <Title>Capt. Lord</Title>
+      <Forenames>A</Forenames>
+      <Text>F. (resigned)</Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>6254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +510,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dugdale</Key>
-      <Text>, Capt. HC. (Socond in Command and temporary Major)</Text>
+      <Title>Capt.</Title>
+      <Text>HC. (Socond in Command and temporary Major)</Text>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowke</Key>
-      <Text>,.G. H. S. (Lieut.)</Text>
+      <Text>.G. H. S. (Lieut.)</Text>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +685,7 @@
       <Key>
         <KeyDitto>—— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(to command with temporary rank of Lieut.-Col.)</Text>
+      <Title>(to command with temporary rank of Lieut.-Col.)</Title>
       <PageNumber>7822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>, Capt. Earl of (ceases to belong to the Imperial Yeomanry on rejoining for regimental duty)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (ceases to belong to the Imperial Yeomanry on rejoining for regimental duty)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>. Lieut. Viscount (resigned)</Text>
+      <Text>Lieut. Viscount (resigned)</Text>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1139,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1229,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,9 +1342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Revill</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. C. B. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. W. C. B. (resigned)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,21 +1411,21 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Hill, Lieut. G. H. (resigned)</Text>
+      <Text>Hill, Lieut. G. H. (resigned)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Lieut. F. J. (resigned)'</Text>
+      <Text>John, Lieut. F. J. (resigned)'</Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Quintin, C. J. (Lieut.)</Text>
+      <Text>Quintin, C. J. (Lieut.)</Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,7 +1457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>, Temporary Maj. the Earl of (resigned)</Text>
+      <Title>Temporary Maj.</Title>
+      <Text>the Earl of (resigned)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,6 +1487,15 @@
       <Forenames>R. T. O.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>7822</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sherston</Key>
+      <Title>Capt.</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1539,7 +1553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spragge</Key>
-      <Text>, Temporary Lieut.-Col. (resigned) .. .. .. .. :</Text>
+      <Title>Temporary Lieut.-Col. (resigned)</Title>
+      <Text>.. .. .. .. :</Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sugden</Key>
-      <Text>, fi. E. (Lieut.)</Text>
+      <Text>fi. E. (Lieut.)</Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>

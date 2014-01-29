@@ -291,7 +291,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiltshire</Key>
-      <Text>(Swine-Fever) Order of 1906</Text>
+      <Title>(Swine-Fever)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1906</Text>
       <PageNumber>8649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bristol</Key>
-      <Text>Most Hon. Marchioness of,</Text>
+      <Text>. Most Hon. Marchioness of,</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,8 +680,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rt</Forenames>
-      <Text>..Hon. J. H. M., a King's Counsel</Text>
+      <Title>Rt.</Title>
+      <Text>.Hon. J. H. M., a King's Counsel</Text>
       <PageNumber>7217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +745,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>Col., Visct., Knight Commander, ^ Royal Victorian Order</Text>
+      <Title>Col., Visct.</Title>
+      <Text>, Knight Commander, ^ Royal Victorian Order</Text>
       <PageNumber>7552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Desborough</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>8617</PageNumber>
     </MainItem>
   </ItemGroup>

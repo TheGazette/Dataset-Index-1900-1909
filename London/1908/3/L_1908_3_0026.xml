@@ -198,7 +198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corsellis</Key>
-      <Text>M. H. (Capt.)</Text>
+      <Text>. M. H. (Capt.)</Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deakin</Key>
-      <Text>F. H. (Capt.)</Text>
+      <Text>.F. H. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>S. T. (2nd Lieut.)</Text>
+      <Text>. S. T. (2nd Lieut.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +654,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G: H. I. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: H. I. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Text>Capt. and Hon Maj. Sir H. G., Bart</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon Maj. Sir H. G., Bart</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1203,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.).</Text>
+      <Title>(Capt.)</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1807,7 +1810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>H C. (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>C. (2nd Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

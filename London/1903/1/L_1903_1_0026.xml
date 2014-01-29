@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyther</Key>
-      <Text>, G-. H. (Lieut.)</Text>
+      <Text>G-. H. (Lieut.)</Text>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +58,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meredith-Jones</Key>
-      <Text>, II. D. (Hon. Capt.)</Text>
+      <Text>II. D. (Hon. Capt.)</Text>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, 0. Be L. (Capt.)</Text>
+      <Text>0. Be L. (Capt.)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Praed</Key>
-      <Text>, 2nd Lieut. G-. A. M. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>G-. A. M. (seconded)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, Actg.-Chap. Rev. E. J. (resigned)</Text>
+      <Title>Actg.</Title>
+      <Text>-Chap. Rev. E. J. (resigned)</Text>
       <PageNumber>2066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,21 +324,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbertson</Key>
-      <Text>, J (Hon. Capt.),. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>(Hon. Capt.),. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Koe</Key>
-      <Text>,.A, S. (Capt.)</Text>
+      <Text>.A, S. (Capt.)</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bealtry</Key>
-      <Text>,-2nd Lieut. E.H. B. (resigned)</Text>
+      <Text>-2nd Lieut. E.H. B. (resigned)</Text>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,14 +375,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, Lieut. G, A. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G</Forenames>
+      <Text>, A. (resigned)</Text>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, Lieut. R, I. (resigned)-</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, I. (resigned)-</Text>
       <PageNumber>2066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Text>, J: M, (Instr. of Musketry)</Text>
+      <Forenames>J</Forenames>
+      <Text>: M, (Instr. of Musketry)</Text>
       <PageNumber>2066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langlands</Key>
-      <Text>, CaDt. A. W. (resigned)</Text>
+      <Text>CaDt. A. W. (resigned)</Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +818,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eerr</Key>
-      <Forenames>Gtfpt</Forenames>
-      <Text>. R: 'J. (resigned) .;</Text>
+      <Title>Gtfpt.</Title>
+      <Forenames>R</Forenames>
+      <Text>: 'J. (resigned) .;</Text>
       <PageNumber>1696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, Rev. EVT. (Acting Chap.)</Text>
+      <Title>Rev.</Title>
+      <Text>EVT. (Acting Chap.)</Text>
       <PageNumber>1136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +861,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooper</Key>
-      <Text>, Lieut. 'E. A. (resigned) ..</Text>
+      <Title>Lieut.</Title>
+      <Text>'E. A. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>, .Capt. C. H. (antedated)</Text>
+      <Text>.Capt. C. H. (antedated)</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>, Capt. de V. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>de V. (antedated)</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +954,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Adj.) .. .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,14 +1037,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, Capt. -F. M. E. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>-F. M. E. (antedated)</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kerans</Key>
-      <Text>,E. T. J. (2nd Lieut.)</Text>
+      <Text>E. T. J. (2nd Lieut.)</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1118,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweetman</Key>
-      <Text>, Capt. and Brevet -Maj. M. J. J.(seconded)</Text>
+      <Title>Capt. and Brevet</Title>
+      <Text>-Maj. M. J. J.(seconded)</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartlect</Key>
-      <Text>, Lieut.-Gol. and Hon. Col. H. S. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Gol. and Hon. Col. H. S. (resigned)</Text>
       <PageNumber>114</PageNumber>
     </MainItem>
   </ItemGroup>

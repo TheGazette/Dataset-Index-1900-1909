@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, 8. H. (Lieut.)</Text>
+      <Text>8. H. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +765,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +822,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +977,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +994,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,14 +1287,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Knipe</Key>
-      <Text>, 2nd Lieut, (correction)</Text>
+      <Text>2nd Lieut, (correction)</Text>
       <PageNumber>5768</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Text>, Capt. Duke of (resigned)</Text>
+      <Title>Capt. Duke</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>4791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>4279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1524,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>8629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1541,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.)</Text>
+      <Title>(Hon. Lieut.)</Title>
       <PageNumber>8629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>.iy, R. F. (2nd Lieut, super.)</Text>
+      <Text>iy, R. F. (2nd Lieut, super.)</Text>
       <PageNumber>4789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,7 +1701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>.N. D. (Maj.)</Text>
+      <Text>N. D. (Maj.)</Text>
       <PageNumber>8216</PageNumber>
     </MainItem>
   </ItemGroup>

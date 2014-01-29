@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's (North Staffordshire Regiment). Backhouse, H. (Capt.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's (North Staffordshire Regiment). Backhouse, H. (Capt.)</Text>
       <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. D. (Lieut.-Col.)</Text>
+      <Text>D. (Lieut.-Col.)</Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,9 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Title>Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. F. (resigned)</Text>
+      <Title>Hon. Surg.</Title>
+      <Text>-Maj. E. F. (resigned)</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +788,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodges</Key>
-      <Text>. Lieut, W. H</Text>
+      <Text>Lieut, W. H</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>

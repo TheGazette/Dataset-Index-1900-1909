@@ -17,7 +17,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +50,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Text>Master of (Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlumney</Key>
-      <Text>Capt. and Hon. Maj. Lord (seconded)</Text>
+      <Title>Capt. and Hon. Maj. Lord (seconded)</Title>
       <PageNumber>1715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Budd</Key>
-      <Text>Capt. and Instr. of Musketry A. J. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry A. J. (seconded)</Text>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>

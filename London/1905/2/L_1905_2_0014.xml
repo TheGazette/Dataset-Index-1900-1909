@@ -281,7 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roxburge</Key>
-      <Text>, Duke of (Lieut.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>3829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +457,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>, CO. (Lieut.)</Text>
+      <Text>CO. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +505,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +564,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +606,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,8 +1143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. Q. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. Q. (correction)</Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,8 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devane</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. F. (resigned)</Text>
       <PageNumber>4034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warrack</Key>
-      <Text>, j. S. (Surg.-Lieut.)</Text>
+      <Text>j. S. (Surg.-Lieut.)</Text>
       <PageNumber>4393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,8 +1249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. F. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. F. (retired pay)</Text>
       <PageNumber>4392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir E. (retired pay) .. .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. Sir E. (retired pay) .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, E: M. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: M. (Capt.)</Text>
       <PageNumber>2547</PageNumber>
     </MainItem>
   </ItemGroup>

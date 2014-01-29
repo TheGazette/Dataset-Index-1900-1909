@@ -68,13 +68,7 @@
       <PageNumber>9164</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Capital</Key>
-      <Text>and Counties Bank, alteration of Memorandum of Association</Text>
-      <PageNumber>8054</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Capital and Counties Bank, alteration</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Ohancery</Key>
@@ -102,8 +96,10 @@
       <PageNumber>8198</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>'Cruickshank v. Cruickshank, next of kin . '</Text>
-      <PageNumber>9549</PageNumber>
+      <Text>
+        <PageNumber>9549</PageNumber>
+      </Text>
+      <PageNumber>9283</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Drake v. Thompson, next of kin</Text>
@@ -154,7 +150,7 @@
       <PageNumber>9181</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>.Magee v. Magee, sale .. ,.</Text>
+      <Text>.Magee v. Magee, sale .. ,</Text>
       <PageNumber>8504</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -240,7 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: A. E. Syndicate</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: A. E. Syndicate</Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
     <SubItem>
@@ -312,7 +310,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: Altenkirchen</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: Altenkirchen</Text>
       <PageNumber>9537</PageNumber>
       <PageNumber>9807</PageNumber>
     </MainItem>
@@ -338,11 +338,13 @@
       <PageNumber>9713</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ ___ ___ ___ ___ Australian Agency Syndicate</Text>
-      <PageNumber>9372</PageNumber>
+      <Text>___ ___ Asiatic Syndicate</Text>
+      <PageNumber>7794</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ Egyptian Automatic Trading Company</Text>
+      <Text>
+        <PageNumber>9802</PageNumber>
+      </Text>
       <PageNumber>7346</PageNumber>
     </SubItem>
     <SubItem>

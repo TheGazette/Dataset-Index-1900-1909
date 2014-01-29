@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulterfield</Key>
-      <Text>, E Calty, T. C. £</Text>
+      <Forenames>E</Forenames>
+      <Text>Calty, T. C. £</Text>
       <PageNumber>095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>, G-. E. P</Text>
+      <Text>G-. E. P</Text>
       <PageNumber>5594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reinhold</Key>
-      <Text>, H.E. .. * .. Robertson, D. E</Text>
+      <Title>H.E.</Title>
+      <Text>.. * .. Robertson, D. E</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>, H;</Text>
+      <Forenames>H</Forenames>
+      <Text>;</Text>
       <PageNumber>5594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,14 +542,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>, CD. . .' .. Wheeler, G. C. .. ..</Text>
+      <Text>CD. . .' .. Wheeler, G. C. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>, G-JEI. .. ..</Text>
+      <Text>G-JEI. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smalley</Key>
-      <Text>, Maj.-Gen. F</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>F</Forenames>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +722,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, Lieut.-Col. O, Deputy-Assist. Adj.-Gen</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +877,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, Lieut.-Cpl. E., Military Secretary to the Government of Bombay</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cpl. E., Military Secretary to the Government of Bombay</Text>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Srnyth</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1055,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1197,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,14 +1310,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dolbv</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eates</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,6 +1408,7 @@
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>INDIAN CIVIL VETERINARY</CategoryTitle>
   <SubSectionTitle>Veterinary Majors</SubSectionTitle>
   <ItemGroup>
     <MainItem>

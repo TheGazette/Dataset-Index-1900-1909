@@ -23,7 +23,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Feilden</Key>
-      <Text>, Maj.-Oen. H. B. (Col.)</Text>
+      <Title>Maj.</Title>
+      <Text>-Oen. H. B. (Col.)</Text>
       <PageNumber>4559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +354,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tacon</Key>
-      <Text>, Lieut. .W. P. (resigned) '</Text>
+      <Title>Lieut.</Title>
+      <Text>.W. P. (resigned) '</Text>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,9 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>. Earl of (resigned)</Text>
+      <Title>Acting Chap. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +845,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(non. j&gt;iaj.) .. .. Wright, P. C. (Hon. Maj.)</Text>
+      <Title>(non. j&gt;iaj.)</Title>
+      <Text>.. .. Wright, P. C. (Hon. Maj.)</Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,8 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langrau</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. (resigned)</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>,-Lieut. G. M. (resigned)</Text>
+      <Text>-Lieut. G. M. (resigned)</Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,8 +1200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haydon</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. (resigned and Hon: Surg. Lieut.-Col.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. (resigned and Hon: Surg. Lieut.-Col.)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>, 2nd Lieut C. B. A. (resigned)</Text>
+      <Text>2nd Lieut C. B. A. (resigned)</Text>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>

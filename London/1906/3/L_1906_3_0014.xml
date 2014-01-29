@@ -885,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaeson</Key>
-      <Text>M. G. (Col.)</Text>
+      <Text>.M. G. (Col.)</Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +941,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>(Col.) E. A. K</Text>
+      <Title>(Col.)</Title>
+      <Forenames>E. A. K.</Forenames>
       <PageNumber>5870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1583,7 +1584,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>Lieut.-Col. and Bier. Col. G N. (retired)</Text>
+      <Title>Lieut.-Col. and Bier. Col.</Title>
+      <Forenames>G</Forenames>
+      <Text>N. (retired)</Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pole-Carew</Key>
-      <Text>Maj.-Gen. SirR. (retired . pay and Hon. Lieut.-Gen.)</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>SirR. (retired . pay and Hon. Lieut.-Gen.)</Text>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>

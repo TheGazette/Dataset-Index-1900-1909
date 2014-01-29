@@ -14,7 +14,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut..Col. W. A, one of H.M.'s Grentlemen-at-Arms</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. W. A, one of H.M.'s Grentlemen-at-Arms</Text>
       <PageNumber>4470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,8 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon T.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>T.</Forenames>
       <Text>, Chaplain in Ordinary to His Majesty .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -175,7 +176,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Rev. C, Chaplain in Ordinary to His Majesty</Text>
+      <Title>Rev.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Chaplain in Ordinary to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, Maj.-Gen. SirN.'S., Companion of the Bath</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>SirN.'S., Companion of the Bath</Text>
       <PageNumber>4915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonham</Key>
-      <Text>, Maj. C, Companion of St. Michael and St. George .. ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion of St. Michael and St. George .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Text>, C, Unofficial Member of the Legislative Council of the Straits Settlements</Text>
+      <Forenames>C</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of the Straits Settlements</Text>
       <PageNumber>9176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffield</Key>
-      <Text>, Lord, Lord in Waiting</Text>
+      <Title>Lord, Lord</Title>
+      <Text>in Waiting</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>, Mrs., Lady of Grace of St. John of Jerusalem</Text>
+      <Title>Mrs., Lady</Title>
+      <Text>of Grace of St. John of Jerusalem</Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,8 +704,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Valehtia</Key>
-      <Forenames>Visct</Forenames>
-      <Text>., Royal Victorian Order, Fourth Class</Text>
+      <Title>Visct.</Title>
+      <Text>, Royal Victorian Order, Fourth Class</Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,9 +724,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Col.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>., Companion of the Bath</Text>
+      <Title>Col. Visct.</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,23 +771,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Wacc</Key>
-      <Title>Rev.</Title>
-      <Forenames>Preb</Forenames>
-      <Text>., Hon. Chaplain to His Majesty .. .. .. ..-</Text>
+      <Title>Rev. Preb., Hon.</Title>
+      <Forenames>Chaplain</Forenames>
+      <Text>to His Majesty .. .. .. ..-</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waddell</Key>
-      <Text>, Lieut.-Col. t. A., Companion of the Indian Empire ;</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>t. A., Companion of the Indian Empire ;</Text>
       <PageNumber>4917</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waldegrave</Key>
-      <Text>, Earl, Captain of the Yeomen of the King's Guard</Text>
+      <Title>Earl, Captain</Title>
+      <Text>of the Yeomen of the King's Guard</Text>
       <PageNumber>4833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +804,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, Sir D, M., Knight Commander of the Royal Victorian Order</Text>
+      <Title>Sir</Title>
+      <Forenames>D</Forenames>
+      <Text>, M., Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +919,15 @@
     <MainItem>
       <Key>Wedellsborg</Key>
       <Forenames>Baron A. W.</Forenames>
-      <Text>, Hon. Commander of the Royal Victorian Order 6640 . Wedgwood, H., Lady of Grace of St. John of-Jerusalem</Text>
+      <Text>, Hon. Commander of the Royal Victorian Order</Text>
+      <PageNumber>6640</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wedgwood</Key>
+      <Forenames>H.</Forenames>
+      <Text>, Lady of Grace of St. John of-Jerusalem</Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenlock</Key>
-      <Text>, Lord, Lord of the Bedchamber to H.R.H. the Prince of Wales .,</Text>
+      <Title>Lord, Lord</Title>
+      <Text>of the Bedchamber to H.R.H. the Prince of Wales .,</Text>
       <PageNumber>7472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winchester</Key>
-      <Text>, BiBhop of, Clerk of the King's Closet</Text>
+      <Text>BiBhop of, Clerk of the King's Closet</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Text>, Lieut.-ColJ., Companion of the Order of the Indian Empire</Text>
+      <Title>Lieut.</Title>
+      <Text>-ColJ., Companion of the Order of the Indian Empire</Text>
       <PageNumber>7288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1140,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Commander of the Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Text>of the Royal Victorian Order</Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>

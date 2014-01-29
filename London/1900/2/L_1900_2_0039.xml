@@ -233,7 +233,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osborne</Key>
-      <Text>, DA. W. (2nd Lieut/)</Text>
+      <Text>DA. W. (2nd Lieut/)</Text>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,8 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Twigg</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-CoI. W. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-CoI. W. (retired)</Text>
       <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>, Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,8 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Younger</Key>
-      <Forenames>Instr</Forenames>
-      <Text>. of Artillery J. W. (resigned)</Text>
+      <Title>Instr.</Title>
+      <Text>of Artillery J. W. (resigned)</Text>
       <PageNumber>7826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +719,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +744,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +897,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(-Adj.)</Text>
+      <Title>(-Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,9 +1183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grane</Key>
-      <Title>Acting Chap.</Title>
-      <Forenames>Ber</Forenames>
-      <Text>. W, L. (resigned)</Text>
+      <Title>Acting Chap. Ber.</Title>
+      <Forenames>W</Forenames>
+      <Text>, L. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,8 +1460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Forenames>Snrg</Forenames>
-      <Text>.-Lieut.-Col. J. (resigned)</Text>
+      <Title>Snrg.</Title>
+      <Text>-Lieut.-Col. J. (resigned)</Text>
       <PageNumber>8380</PageNumber>
     </MainItem>
   </ItemGroup>

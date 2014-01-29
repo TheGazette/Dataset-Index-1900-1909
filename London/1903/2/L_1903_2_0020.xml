@@ -197,8 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. P. (resigned and Hon. Vet.-Maj.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. P. (resigned and Hon. Vet.-Maj.)</Text>
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>L. H: G. (Capt.)</Text>
+      <Text>. L. H: G. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Text>Capt. J. H. P. (resigned)</Text>
+      <Text>. Capt. J. H. P. (resigned)</Text>
       <PageNumber>2234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +428,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>Maj..Gen. D. A. (Hon. Col.)</Text>
+      <Title>Maj.</Title>
+      <Text>.Gen. D. A. (Hon. Col.)</Text>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>Super.-Capt. F. R. (resigned)</Text>
+      <Text>. Super.-Capt. F. R. (resigned)</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>G. (2nd Lieut.)</Text>
+      <Text>. G. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. S. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. S. (resigned)</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +877,7 @@
       <PageNumber>4017</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (Volunteers)</SubCategoryTitle>
+  <SubCategoryTitle>(Volunteers)</SubCategoryTitle>
   <SubSectionTitle>Clyde Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>

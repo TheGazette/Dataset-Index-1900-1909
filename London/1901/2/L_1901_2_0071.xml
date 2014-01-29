@@ -65,8 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. K</Text>
+      <Title>Gr.</Title>
+      <Forenames>K</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, 0. A. .. ,</Text>
+      <Text>0. A. .. ,</Text>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grevelink</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Gr. (retired)</Title>
       <PageNumber>8920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,23 +203,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>, (Deputy-Assist.-Com.) .. ——</Text>
+      <Title>(Deputy-Assist.-Com.)</Title>
+      <Text>.. ——</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. (Deputy-AsBist.-Com.).. .. , Leahy; Deputy-Corn. J. (correction)</Text>
+      <Title>Gt. (Deputy-AsBist.-Com.)</Title>
+      <Text>.. .. , Leahy; Deputy-Corn. J. (correction)</Text>
       <PageNumber>6490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Raffin</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Deputy-Assist.-Com.)</Text>
+      <Title>Gr. (Deputy-Assist.-Com.)</Title>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Gr. (Hon. Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. (retired)</Text>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lepper</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. H. G. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. H. G. (resigned)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, 2nd Lieut, W. H. (seconded)</Text>
+      <Text>2nd Lieut, W. H. (seconded)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +634,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +721,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Piercy</Key>
-      <Text>, B: H. (Capt.)</Text>
+      <Forenames>B</Forenames>
+      <Text>: H. (Capt.)</Text>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +956,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. C. (resigned)</Text>
       <PageNumber>5878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downshire</Key>
-      <Text>, Marquis of (Capt.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,14 +1081,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>,.W. S. (Lieut.) .... ..</Text>
+      <Text>.W. S. (Lieut.) .... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>,.Rev. Canon A. H. (Hon. Chap.)</Text>
+      <Text>.Rev. Canon A. H. (Hon. Chap.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1157,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(super. Capt.)</Text>
+      <Title>(super. Capt.)</Title>
       <PageNumber>9067</PageNumber>
     </MainItem>
   </ItemGroup>

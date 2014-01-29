@@ -79,7 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCalmont</Key>
-      <Text>Maj .-Gen. Sir H. (retired pay)</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Sir H. (retired pay)</Text>
       <PageNumber>6630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,23 +539,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Shann</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. F. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. F. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>Maj. and Hon. Lieut.-Col. A</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>7480</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>..Lieut.-Col. H. G</Text>
+      <Title>Surg.</Title>
+      <Text>.Lieut.-Col. H. G</Text>
       <PageNumber>7481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +588,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. D</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. D</Text>
       <PageNumber>7481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willey</Key>
-      <Text>Surg.-Maj. CH</Text>
+      <Text>.Surg.-Maj. CH</Text>
       <PageNumber>7480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +627,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teck</Key>
-      <Text>H.S.H. the Duke of (Maj.)</Text>
+      <Title>H.S.H.</Title>
+      <Text>the Duke of (Maj.)</Text>
       <PageNumber>8728</PageNumber>
     </MainItem>
   </ItemGroup>

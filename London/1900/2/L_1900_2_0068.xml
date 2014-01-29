@@ -30,7 +30,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarborough</Key>
-      <Text>, Earl of (Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.)</Text>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guilford</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +289,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eoxburghe</Key>
-      <Text>, Duke of</Text>
+      <Title>Duke</Title>
+      <Text>of</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winchester</Key>
-      <Text>, Marquis of</Text>
+      <Title>Marquis</Title>
+      <Text>of</Text>
       <PageNumber>6121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Way</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Granville</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +638,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halsey</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumsden</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biaithwaite</Key>
-      <Text>. L. W</Text>
+      <Text>L. W</Text>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,14 +1039,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dammers</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dasent</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newcombe</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bells</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,7 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Threlfell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -138,8 +138,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selborne</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. the Earl of, High Commissioner for South Africa, and Governor and Commander-in-Chief of the Transvaal and Orange River Colonies</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>the Earl of, High Commissioner for South Africa, and Governor and Commander-in-Chief of the Transvaal and Orange River Colonies</Text>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Villalobar</Key>
-      <Text>, Marquis of, Hon. Commander, Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Text>of, Hon. Commander, Royal Victorian Order</Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warre</Key>
-      <Text>,Rev. E., Companion of the Bath</Text>
+      <Text>Rev. E., Companion of the Bath</Text>
       <PageNumber>4549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,9 +643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Hon. Col. Rt. Hon. Lord</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>4549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +671,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Hon</Forenames>
-      <Text>.Commander, Royal Victorian Order (correction)</Text>
+      <Title>Hon.Commander</Title>
+      <Text>, Royal Victorian Order (correction)</Text>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,6 +702,7 @@
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS,</CategoryTitle>
   <SubSectionTitle>General in the Army</SubSectionTitle>
   <ItemGroup>
     <MainItem>

@@ -281,7 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>Lord, Chief Commissioner of Works and Public Buildings</Text>
+      <Title>Lord</Title>
+      <Text>, Chief Commissioner of Works and Public Buildings</Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,15 +307,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolseley</Key>
-      <Forenames>Visct</Forenames>
-      <Text>., Order of Merit</Text>
+      <Title>Visct.</Title>
+      <Text>, Order of Merit</Text>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wolverton</Key>
-      <Text>Lord, Vice-Chamberlain to H.M. the King's Household</Text>
+      <Title>Lord</Title>
+      <Text>, Vice-Chamberlain to H.M. the King's Household</Text>
       <PageNumber>7533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyndham</Key>
-      <Text>C:, Knighted</Text>
+      <Forenames>C</Forenames>
+      <Text>:, Knighted</Text>
       <PageNumber>7165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,6 +415,7 @@
       <PageNumber>7089</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS,</CategoryTitle>
   <SectionTitle>Army Promotions for Distinguished Conduct in the Field</SectionTitle>
   <ItemGroup>
     <MainItem>

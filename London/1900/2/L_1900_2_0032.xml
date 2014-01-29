@@ -345,14 +345,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Steele</Key>
-      <Text>,-W. L. (Lieut.)</Text>
+      <Text>-W. L. (Lieut.)</Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>, F: A. (Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: A. (Lieut.)</Text>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. W. J., ceases to belong to the Army Medical Reserve</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. W. J., ceases to belong to the Army Medical Reserve</Text>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,8 +475,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. K. (resigned)</Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,8 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollies</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Surg.-Maj.)</Text>
+      <Title>Or. (Surg.-Maj.)</Title>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,23 +522,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Massingham</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. .T.P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. .T.P. (resigned)</Text>
       <PageNumber>8760</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. E\ (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. E\ (resigned)</Text>
       <PageNumber>8306</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, G-. R. T. (Surg.-Lieut.-Col.)</Text>
+      <Text>G-. R. T. (Surg.-Lieut.-Col.)</Text>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,15 +587,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, G-. J. D. (Surg.-Lieut.)</Text>
+      <Text>G-. J. D. (Surg.-Lieut.)</Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jacob</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D. (retired)</Text>
       <PageNumber>4279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, Lieut.-Col. C</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +921,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>, Maj; J. J. '</Text>
+      <Title>Maj</Title>
+      <Text>; J. J. '</Text>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +995,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>, Capt. CP</Text>
+      <Title>Capt.</Title>
+      <Text>CP</Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1012,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ormsby</Key>
-      <Text>, Capt. T</Text>
+      <Title>Capt.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,15 +1053,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Gladstone</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. W. (retired pay)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. W. (retired pay)</Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>, 0. B. M. (Vet.-Capt.)</Text>
+      <Text>0. B. M. (Vet.-Capt.)</Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, Rev. M</Text>
+      <Title>Rev.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>8217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>. H. C. (Col.)</Text>
+      <Text>H. C. (Col.)</Text>
       <PageNumber>7825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,8 +1625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Col.)</Text>
+      <Title>Gr. (Col.)</Title>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>

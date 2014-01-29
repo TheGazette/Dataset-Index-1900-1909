@@ -554,9 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Title>Field-Marshal</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl (resigns Hon. Colonelcy)</Text>
+      <Title>Field-Marshal Rt. Hon. Earl (resigns Hon. Colonelcy)</Title>
       <PageNumber>2222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidlow</Key>
-      <Text>Jackson, 2nd Lieut. C. W. (resigned)</Text>
+      <Text>.Jackson, 2nd Lieut. C. W. (resigned)</Text>
       <PageNumber>400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darnley</Key>
-      <Text>Hon. Col. Earl of (resigned)</Text>
+      <Title>Hon. Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>Knox-Gore,W. A.C. (Lieut.)</Text>
+      <Text>.Knox-Gore,W. A.C. (Lieut.)</Text>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>

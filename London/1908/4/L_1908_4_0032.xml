@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McMullen</Key>
-      <Text>, 0/B. (Maj.)</Text>
+      <Text>0/B. (Maj.)</Text>
       <PageNumber>8167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +71,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +312,8 @@
       <Key>
         <KeyDitto>—. ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murchland</Key>
-      <Text>, C, junr. (Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, junr. (Lieut.)</Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +440,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) .. ' ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>.. ' ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,15 +484,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Nightingale</Key>
-      <Text>, i. (Surg.-Capt.)</Text>
+      <Text>i. (Surg.-Capt.)</Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,14 +515,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Northbourne</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>, Bt. Hon. Duke of (Hon. Col.)</Text>
+      <Title>Bt. Hon. Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Odam</Key>
-      <Text>. W. T. (Capt.)</Text>
+      <Text>W. T. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>. J. M. (2nd Lieut.)</Text>
+      <Text>J. M. (2nd Lieut.)</Text>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,14 +609,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>. E. E. (2nd Lieut.)</Text>
+      <Text>E. E. (2nd Lieut.)</Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pago</Key>
-      <Text>.S. H. (Caot.)</Text>
+      <Text>S. H. (Caot.)</Text>
       <PageNumber>7757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>, ,T. A. (Maj.)</Text>
+      <Text>,T. A. (Maj.)</Text>
       <PageNumber>9295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +773,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stradbroke</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +903,8 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) .. ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +923,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,7 +1290,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>9185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,8 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenloek</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Et. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1368,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,7 +1458,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9185</PageNumber>
     </MainItem>
   </ItemGroup>

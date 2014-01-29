@@ -62,7 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparre</Key>
-      <Text>, Lieut.-Oom. C. C. K., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Title>Lieut.</Title>
+      <Text>-Oom. C. C. K., Hon. Fourth Class, Royal Victorian Order</Text>
       <PageNumber>5390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +88,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Strauss</Key>
-      <Text>, Miss, Lady Vice-President, League of Meroy</Text>
+      <Title>Miss, Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Meroy</Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor-Restell</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ullmann</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +259,9 @@
   <ItemGroup>
     <MainItem>
       <Key>WSfen</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy . . .. . .</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy . . .. . .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zellner</Key>
-      <Text>, C, Hon. Fourth Class, Royal Victorian Order .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Fourth Class, Royal Victorian Order .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>, CoL H. L., temporary Brig.Gen</Text>
+      <Text>CoL H. L., temporary Brig.Gen</Text>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>. Col. W. F. L., Brig.-Gen. to command the Artillery of Divisions</Text>
+      <Text>Col. W. F. L., Brig.-Gen. to command the Artillery of Divisions</Text>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +927,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, Maj. C, Asst. Inspr. of Gymnasia</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Asst. Inspr. of Gymnasia</Text>
       <PageNumber>5690</PageNumber>
     </MainItem>
   </ItemGroup>

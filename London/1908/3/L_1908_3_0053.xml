@@ -195,14 +195,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerrison</Key>
-      <Text>R O. (Maj.) .. ..</Text>
+      <Forenames>R</Forenames>
+      <Text>O. (Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lvgon</Key>
-      <Text>Hon. H. (2nd Lieut.) ..</Text>
+      <Text>. Hon. H. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanker</Key>
-      <Text>S T. (Maj. and Hon. Lieut.Col.) .. .. ..</Text>
+      <Forenames>S</Forenames>
+      <Text>T. (Maj. and Hon. Lieut.Col.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leconfield</Key>
-      <Text>Lord (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Lord (Lieut.-Col. and Hon. Col.)</Title>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +549,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon. Col. Lord (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (retired)</Title>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk-Bretton</Key>
-      <Text>Lord (Capt.) .. ..</Text>
+      <Title>Lord (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +622,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterton</Key>
-      <Text>Earl (Capt.)</Text>
+      <Title>Earl (Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>Earl of (Lieut.-Col. and Hon. Col.) ..'</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and Hon. Col.) ..'</Text>
       <PageNumber>6527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarmouth</Key>
-      <Text>Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>Marquis of (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>7023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +833,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +876,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +945,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobhani</Key>
-      <Text>V iscount (Hon. Col.)</Text>
+      <Forenames>V</Forenames>
+      <Text>iscount (Hon. Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +970,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Maj.) ..</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Maj.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1045,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>Viscount (Super. 2nd Lieut.)</Text>
+      <Title>Viscount (Super. 2nd Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1106,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,15 +1133,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wenlock</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Lieut.-Col. and Hon. Col.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,9 +1149,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Rt. Hon. Lord (retired)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northland</Key>
-      <Text>Viscount (Capt.).. .</Text>
+      <Title>Viscount (Capt.)</Title>
+      <Text>.. .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deramore</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1392,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,14 +1415,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gutch</Key>
-      <Text>W. (Lieut.) .. ..</Text>
+      <Text>.W. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Helmsley</Key>
-      <Text>Viscount (Maj.)</Text>
+      <Title>Viscount (Maj.)</Title>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1447,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1497,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,9 +1513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Aide-de-Camp to His Majesty and rank of Col.)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Rt. Hon. Lord (Aide-de-Camp to His Majesty and rank of Col.)</Title>
       <PageNumber>5729</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -99,16 +99,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Tamsri</Key>
-      <Forenames>Adml</Forenames>
-      <Text>. C, Hon. Companion of St. Michael and St. George</Text>
+      <Title>Adml.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Companion of St. Michael and St. George</Text>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. T., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. T., Companion of the Bath</Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. F. W., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. F. W., Companion of the Bath</Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedmouth</Key>
-      <Text>, Lord, Brig., Eoyal Company of Archers</Text>
+      <Title>Lord, Brig.</Title>
+      <Text>, Eoyal Company of Archers</Text>
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Venning</Key>
-      <Text>, AE., Companion of the Imperial Service Order</Text>
+      <Text>AE., Companion of the Imperial Service Order</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilton</Key>
-      <Text>. E. C. C, H.M.'s Consul in China</Text>
+      <Text>E. C. C, H.M.'s Consul in China</Text>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolseley</Key>
-      <Text>, (Jen. Sir G. B., Knight Grand Cross of the Bath</Text>
+      <Text>(Jen. Sir G. B., Knight Grand Cross of the Bath</Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyllie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir W. H. C, Commander, Koyal Victorian Order</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>W. H. C</Forenames>
+      <Text>, Commander, Koyal Victorian Order</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zummo</Key>
-      <Text>, C, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
       <PageNumber>3191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonham-Carter</Key>
-      <Text>, Capt. C, Brig.-Maj</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Brig.-Maj</Text>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>, Viscount, Aide-de-Camp. (extra) to Sir H. J. Goold-Adams.. ..'</Text>
+      <Title>Viscount</Title>
+      <Text>, Aide-de-Camp. (extra) to Sir H. J. Goold-Adams.. ..'</Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +711,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>, Capt. and Brevet Maj., Deputy-Asst. Director at HeadQuarters</Text>
+      <Title>Capt. and Brevet Maj.</Title>
+      <Text>, Deputy-Asst. Director at HeadQuarters</Text>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,14 +807,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Isooke</Key>
-      <Text>, -Capt. -and Brevet Maj. H., Siatt Capt</Text>
+      <Text>-Capt. -and Brevet Maj. H., Siatt Capt</Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>,-Capt. W. H., Staff Capt. for Royal Artillery . ..' .. ..</Text>
+      <Text>-Capt. W. H., Staff Capt. for Royal Artillery . ..' .. ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

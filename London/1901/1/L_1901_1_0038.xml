@@ -124,7 +124,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundonald</Key>
-      <Text>, Col. Earl of (half-pay)</Text>
+      <Title>Col. Earl</Title>
+      <Text>of (half-pay)</Text>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +207,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(half-pay)</Text>
+      <Title>(half-pay)</Title>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +234,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired pay)</Text>
+      <Title>(retired pay)</Title>
       <PageNumber>2779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrar</Key>
-      <Text>, Capt. (local rank of Maj. in South Africa)</Text>
+      <Title>Capt. (local rank of Maj. in South Africa)</Title>
       <PageNumber>86</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +266,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Lieut.-Col. in West Africa)</Text>
+      <Title>(local rank of Lieut.-Col. in West Africa)</Title>
       <PageNumber>4097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>, 0. M. (temporary Capt.)</Text>
+      <Text>0. M. (temporary Capt.)</Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>(local rank of Maj. in South Africa)</Text>
+      <Title>(local rank of Maj. in South Africa)</Title>
       <PageNumber>1853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilmorey</Key>
-      <Text>, Earl of ( Aide-de-Camp Supernumerary to His MajeBty for His Yeomanry Force, and Colonel in the Yeomanry Force)</Text>
+      <Title>Earl</Title>
+      <Text>of ( Aide-de-Camp Supernumerary to His MajeBty for His Yeomanry Force, and Colonel in the Yeomanry Force)</Text>
       <PageNumber>1942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1104,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1113,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned) .. .. .. .. . ..</Text>
+      <Title>(resigned)</Title>
+      <Text>.. .. .. .. . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1243,15 @@
       <PageNumber>1853</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>(correction)</Title>
+      <PageNumber>2947</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Neilson</Key>

@@ -36,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leitrim</Key>
-      <Text>Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +400,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyndham</Key>
-      <Text>G! P. (Maj.)</Text>
+      <Forenames>G</Forenames>
+      <Text>! P. (Maj.)</Text>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>1711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,14 +979,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moorhouse</Key>
-      <Text>S: (2nd Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1177,7 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,9 +1693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battiscombe</Key>
-      <Title>Capt.</Title>
-      <Forenames>Chas</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Capt. Chas. (seconded)</Title>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>

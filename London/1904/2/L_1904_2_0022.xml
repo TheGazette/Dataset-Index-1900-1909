@@ -69,7 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawford</Key>
-      <Text>A: N. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: N. (Lieut.)</Text>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,8 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>CardelJ</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. £. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. £. S. (resigned)</Text>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +174,7 @@
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS .. (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>.. (VOLUNTEERS)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Barrie</Key>
@@ -416,8 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahon</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>3942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Text>Lieut.-Gen. Lord (Col.) .. '</Text>
+      <Title>Lieut.-Gen. Lord (Col.)</Title>
+      <Text>.. '</Text>
       <PageNumber>2837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>Lieut.-Col. and Brev.-Col. R.J. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. R.J. (half-pay)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,13 +804,14 @@
       <PageNumber>3710</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Line Battalions</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Forenames>Royal Scots</Forenames>
-      <Text>(Lothian Regiment). Eombulow-Pearse,.A. B. (Lieut.)</Text>
+      <Key>
+        <PageNumber>___ ___ ___ ___</PageNumber>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Line Battalions</Forenames>
+      <Text>. The Royal Scots (Lothian Regiment). Eombulow-Pearse,.A. B. (Lieut.)</Text>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>Qrmr. and Hon. . Capt. A. (resigned) ' .. .. .. -</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>. Capt. A. (resigned) ' .. .. .. -</Text>
       <PageNumber>2248</PageNumber>
     </MainItem>
   </ItemGroup>

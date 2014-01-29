@@ -366,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>,-Maj. Hon. M. B. C. (seconded)</Text>
+      <Text>-Maj. Hon. M. B. C. (seconded)</Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +782,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranworth</Key>
-      <Text>, Lord (Lieut.) .. ..</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eaglan</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Lord (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (resigned)</Title>
       <PageNumber>2851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callaghan</Key>
-      <Text>,:Gapt. F. G. (retired)</Text>
+      <Text>:Gapt. F. G. (retired)</Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>

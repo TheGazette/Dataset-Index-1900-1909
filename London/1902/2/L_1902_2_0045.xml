@@ -142,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>Capt. and Instr. of Musketry W. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry W. (resigned)</Text>
       <PageNumber>8445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +244,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +288,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(instr. of Musketry)</Text>
+      <Title>(instr. of Musketry)</Title>
       <PageNumber>5754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +575,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt)</Text>
+      <Title>(Capt)</Title>
       <PageNumber>8680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,8 +688,8 @@
       <Key>
         <KeyDitto>___ —. ___ :___ ___</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>.' Capt. H. St. C. (antedated) ..'</Text>
+      <Title>Super.</Title>
+      <Text>' Capt. H. St. C. (antedated) ..'</Text>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +782,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>Maj. and Hon. Lieut.-Col. (resigned) .. .. .. .. ..</Text>
+      <Title>Maj. and Hon. Lieut.-Col. (resigned)</Title>
+      <Text>.. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1045,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,6 +1319,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Marks</Key>
+      <Forenames>H. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7539</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Whiffen</Key>
       <Forenames>G. G.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1467,7 +1477,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lodwick</Key>
-      <Text>Lieut. J; T. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>; T. (antedated)</Text>
       <PageNumber>5099</PageNumber>
     </MainItem>
   </ItemGroup>

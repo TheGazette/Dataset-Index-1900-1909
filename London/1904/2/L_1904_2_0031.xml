@@ -200,8 +200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saville</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. G. (resigned and Hon. Surg.-Lieut.-Col.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. G. (resigned and Hon. Surg.-Lieut.-Col.)</Text>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales s (North Staffordshire Regiment). Bell-Kingsley, 2nd Lieut. E, L. F. (seconded)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales s (North Staffordshire Regiment). Bell-Kingsley, 2nd Lieut. E, L. F. (seconded)</Text>
       <PageNumber>2676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +676,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,8 +943,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livingstone</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. X. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. X. H. (resigned)</Text>
       <PageNumber>2249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,9 +1200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moffatt</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. D. (to command)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Maj. A. D. (to command)</Text>
       <PageNumber>3715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingle</Key>
-      <Text>Capt. and Instr. of Musketry H. M. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. M. (resigned)</Text>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>

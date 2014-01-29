@@ -86,7 +86,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>, J (Capt,)</Text>
+      <Forenames>J</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>, A cting Chap. Eev. E. B. (resigned)</Text>
+      <Forenames>A</Forenames>
+      <Text>cting Chap. Eev. E. B. (resigned)</Text>
       <PageNumber>8381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,14 +235,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Copland</Key>
-      <Text>. Capt. W. S. (seconded)</Text>
+      <Text>Capt. W. S. (seconded)</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>. C. A. (Lieut.)</Text>
+      <Text>C. A. (Lieut.)</Text>
       <PageNumber>4511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartwell</Key>
-      <Text>. B. C. D. A. (2nd Lieut.)</Text>
+      <Text>B. C. D. A. (2nd Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braye</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>8217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +805,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, E H. B. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>H. B. (Lieut.)</Text>
       <PageNumber>5167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,6 +996,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hope-Johnstone</Key>
+      <Forenames>J. Y.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5323</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Kirby</Key>
       <Forenames>J. T.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1012,7 +1023,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -36,9 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maeleod</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. J. R. (resigned)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Lieut. J. J. R. (resigned)</Text>
       <PageNumber>8026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,9 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridley</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>Yisct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Rt. Hon. Yisct. (Hon. Col.)</Title>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,17 +132,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Title>Col.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Col. Visct. (resigned)</Title>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Forenames>Viset</Forenames>
-      <Text>. (Hon. Col.) .. ..</Text>
+      <Title>Viset. (Hon. Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,8 +242,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. D. M. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. D. M. (cancellation)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>Marquis of (Lieut.-Col. and to command)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>Marquis of (Hon. Lieut-Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Lieut-Col.)</Text>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dormer</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>6857</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -773,8 +773,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.-Col. andBrevet Col. B. F. (temporary half-pay)</Text>
+      <Title>Lieut .</Title>
+      <Text>-Col. andBrevet Col. B. F. (temporary half-pay)</Text>
       <PageNumber>9292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1043,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, S_r T. E. L., Bart. (Capt.)</Text>
+      <Forenames>S</Forenames>
+      <Text>_r T. E. L., Bart. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1083,7 @@
       <PageNumber>9755</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SectionTitle>Electrical Engineers</SectionTitle>
   <SectionTitle>Severn Division</SectionTitle>
   <ItemGroup>
@@ -1290,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Machray</Key>
-      <Text>, Capt. and Hon. Maj. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. (resigned)</Title>
       <PageNumber>9189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,9 +1336,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. B. (resigned) .. ..</Text>
+      <Title>Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. B. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,7 +1400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, Capt.-Commandant and Hon. Maj. A. T. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>-Commandant and Hon. Maj. A. T. (resigned)</Text>
       <PageNumber>9471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,16 +1521,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. E. (resigned)</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. C. M. (resigned) .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. C. M. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

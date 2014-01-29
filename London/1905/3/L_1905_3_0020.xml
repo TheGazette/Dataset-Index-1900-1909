@@ -374,7 +374,7 @@
       <PageNumber>6062</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>KOYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Bedfordshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -389,7 +389,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +451,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(instr. of Musketry)</Text>
+      <Title>(instr. of Musketry)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +659,6 @@
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>2ND WEST RIDING OF YORKSHIRE (LEEDS)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
@@ -668,7 +667,7 @@
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Clyde Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -789,8 +788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gort</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +838,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. C. E. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. C. E. (retired)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, Lieut.-Col. Hon. J. T. (correction)</Text>
+      <Text>Aubyn, Lieut.-Col. Hon. J. T. (correction)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, Lieut.E. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>E. S. (seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guernsey</Key>
-      <Text>, Lieut. Lord (seconded)</Text>
+      <Title>Lieut. Lord (seconded)</Title>
       <PageNumber>6473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Text>, Capt. and Brev.-Maj. A. J. G. (seconded)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. A. J. G. (seconded)</Text>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>

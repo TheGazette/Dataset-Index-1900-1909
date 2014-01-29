@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stallard</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>9030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +33,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waite</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meggitt</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>9030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monreal</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Gr. (Capt.)</Title>
       <PageNumber>9560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>.Winder, F. F. (local rank of Lieut, with King's African Rifles)</Text>
+      <Text>Winder, F. F. (local rank of Lieut, with King's African Rifles)</Text>
       <PageNumber>9660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,6 +935,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Headlam</Key>
+      <Forenames>J. F. W.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>8701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Irvine</Key>
       <Forenames>J. L.</Forenames>
       <Text>(Col.)</Text>
@@ -1053,7 +1060,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>, Lieut.-Col. and Brevet Col. Hon. H.E.. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. Hon. H.E.</Title>
+      <Text>. (retired)</Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>, SirC. S. B. (Hon. Maj.-Gen.)</Text>
+      <Text>SirC. S. B. (Hon. Maj.-Gen.)</Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1256,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>8701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baines</Key>
-      <Text>, Private E</Text>
+      <Title>Private</Title>
+      <Forenames>E</Forenames>
       <PageNumber>8698</PageNumber>
     </MainItem>
   </ItemGroup>

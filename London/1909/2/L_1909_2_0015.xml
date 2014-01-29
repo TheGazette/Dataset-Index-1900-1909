@@ -3,22 +3,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanbury</Key>
-      <Text>, Maj. B</Text>
+      <Title>Maj.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>, Col. Earl of</Text>
+      <Title>Col. Earl</Title>
+      <Text>of</Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Col. Lord .. ..</Text>
+      <Title>Rt. Hon. Col. Lord .</Title>
+      <Text>. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heatii</Key>
-      <Text>. Lieut.-Col. and Hon. Col. A. H</Text>
+      <Text>Lieut.-Col. and Hon. Col. A. H</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +83,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>, Col. Bt. Hon. Marquis of..</Text>
+      <Title>Col. Bt. Hon. Marquis</Title>
+      <Text>of..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopwood</Key>
-      <Text>, Lieut.-Col. and Hon. Col. ' E. B. G</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>' E. B. G</Text>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>, Capt. Earl</Text>
+      <Title>Capt. Earl</Title>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,16 +178,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Keen</Key>
-      <Text>, Lieut.-Col. S</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>S</Forenames>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Col</Forenames>
-      <Text>.f. Lord .. .. .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>f. Lord .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,15 +243,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Llangattock</Key>
-      <Text>, Hon. Col. Lord</Text>
+      <Title>Hon. Col. Lord.</Title>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. D. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. D. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mactaggart</Key>
-      <Text>, Lieut.-Col. and Hon. Col. M</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +307,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Forenames>Vety</Forenames>
-      <Text>.-Maj. A. W</Text>
+      <Title>Vety.</Title>
+      <Text>-Maj. A. W</Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,8 +331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MorriB</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. and Hon. Surg.Maj. B. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. and Hon. Surg.Maj. B. J</Text>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,16 +356,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Naismith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. J</Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nesbitt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. B. G</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. B. G</Text>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>, Hon. Col. Lord</Text>
+      <Title>Hon. Col. Lord .</Title>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>, Maj. G</Text>
+      <Title>Maj.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eees</Key>
-      <Text>, Maj. A</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Royda</Key>
-      <Text>, Hon. Col. Sir CM</Text>
+      <Title>Hon. Col. Sir</Title>
+      <Text>CM</Text>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,14 +543,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Capt. and Hon. Lieut.-Col. F. J</Text>
+      <Text>John, Capt. and Hon. Lieut.-Col. F. J</Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scarborough</Key>
-      <Text>, Col. Earl of</Text>
+      <Title>Col. Earl</Title>
+      <Text>of</Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Capt.. and Hon. Maj. A</Text>
+      <Title>Capt.</Title>
+      <Text>. and Hon. Maj. A</Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shakerley</Key>
-      <Text>, Lieut.-Col. »nd Hon. Col. Sir W. G., Bart. .. .. ..</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>»nd Hon. Col. Sir W. G., Bart. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. Maj. and Hon. Lieut.-Col. A. H</Text>
+      <Text>Maj. and Hon. Lieut.-Col. A. H</Text>
       <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>, 2nd Lieut, and Hon. Capt. A. D</Text>
+      <Text>2nd Lieut, and Hon. Capt. A. D</Text>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,15 +744,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Viscount .. .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon. Col. Viscount .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vaudrey</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wandsworth</Key>
-      <Text>, Hon. Col. Lord</Text>
+      <Title>Hon. Col. Lord .</Title>
       <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whilelaw</Key>
-      <Text>, Maj. A</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. J. A. (resigned)</Text>
+      <Text>J. A. (resigned)</Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,14 +990,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Levay</Key>
-      <Text>, £. B</Text>
+      <Text>£. B</Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>, -E. C. E</Text>
+      <Text>-E. C. E</Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>jnueS-Ji-ei</Key>
-      <Text>, uym n.. x\. ^apfc.y .. udu(» 2nd Dragoon Guards. Klombies, 2nd Lieut. G. R. (resigned)</Text>
+      <Text>uym n.. x\. ^apfc.y .. udu(» 2nd Dragoon Guards. Klombies, 2nd Lieut. G. R. (resigned)</Text>
       <PageNumber>3043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Juler</Key>
-      <Text>.G. C. (Lieut.)</Text>
+      <Text>G. C. (Lieut.)</Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>

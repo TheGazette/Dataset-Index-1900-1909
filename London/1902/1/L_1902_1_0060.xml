@@ -315,7 +315,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>Capt. and Instr. of Musketry J. F. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. F. (seconded)</Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +696,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +730,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +914,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>2692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1417,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1667,6 @@
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Indian Army</SubCategoryTitle>
   <SubCategoryTitle>INDIAN STAFF CORPS</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
@@ -1777,7 +1777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>

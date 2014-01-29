@@ -52,8 +52,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir W. (retired</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. Sir W. (retired</Text>
       <PageNumber>8641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>, Q,rmr. J. (resigned)</Text>
+      <Forenames>Q</Forenames>
+      <Text>,rmr. J. (resigned)</Text>
       <PageNumber>7948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradshaw</Key>
-      <Text>, LJ. E. (Col.)</Text>
+      <Text>LJ. E. (Col.)</Text>
       <PageNumber>7028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1010,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Lieut.-Col. and Brev. Col. ,). C. L. (retired)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>,). C. L. (retired)</Text>
       <PageNumber>7945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,15 +1080,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Conder</Key>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>7028</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Conner</Key>
-      <Text>, Lieut.-Col. and Brev. Col. . W. D. (retired)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>. W. D. (retired)</Text>
       <PageNumber>8722</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Connors</Key>
-      <Text>, Qrmr. and Hon. Maj. (retired pay)</Text>
+      <Title>Qrmr. and Hon. Maj. (retired pay)</Title>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foley</Key>
-      <Text>, Lieut.-Col. and Brev. Col. . A. C. (retired)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>. A. C. (retired)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leyster</Key>
-      <Text>, 0. J. (Hon. Capt.)</Text>
+      <Text>0. J. (Hon. Capt.)</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1349,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>

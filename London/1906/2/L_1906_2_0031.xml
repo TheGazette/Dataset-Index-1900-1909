@@ -233,8 +233,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A.J. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A.J. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plant</Key>
-      <Text>Capt. G-. Or. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. Or. (resigned)</Text>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ditmas</Key>
-      <Text>F, I. L. (Capt.) .. ..</Text>
+      <Forenames>F</Forenames>
+      <Text>, I. L. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +672,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporaryCapt.)</Text>
+      <Title>(temporaryCapt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +890,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,8 +975,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (super.)</Text>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1261,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1550,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>

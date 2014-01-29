@@ -44,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heslop</Key>
-      <Text>, «T. W. B. (Capt. and Hon. Maj.)..</Text>
+      <Text>«T. W. B. (Capt. and Hon. Maj.)..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>, \V. M. (Surg.-Capt.)</Text>
+      <Text>\V. M. (Surg.-Capt.)</Text>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northbourne</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>8172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spain</Key>
-      <Text>, 0. (Capt.)</Text>
+      <Text>0. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>, Earl of (Hon. Col.)..</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,6 +661,14 @@
       <Forenames>A. J.</Forenames>
       <Text>(Capt.) .. .. ___ ___ ___ ___ I Grant, A. C. (Maj. and Hon. Lieut.Col.)</Text>
       <PageNumber>9470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Laing</Key>
+      <Forenames>A. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7386</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___</KeyDitto>

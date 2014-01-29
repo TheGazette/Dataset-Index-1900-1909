@@ -69,7 +69,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Staff Capt.)</Text>
+      <Title>(Staff Capt.)</Title>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ,</Text>
+      <Title>(Capt.)</Title>
+      <Text>,</Text>
       <PageNumber>1732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +576,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>Lieut. ,C. G. I. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>,C. G. I. (resigned and Hon. Lieut.)</Text>
       <PageNumber>2602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutbill</Key>
-      <Text>Lieut..C. A. (correction)</Text>
+      <Title>Lieut.</Title>
+      <Text>.C. A. (correction)</Text>
       <PageNumber>783</PageNumber>
       <PageNumber>2689</PageNumber>
     </MainItem>
@@ -757,7 +760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>Lord (Hon. Capt.)</Text>
+      <Title>Lord (Hon. Capt.)</Title>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>Lieut. .T. B. (correction)</Text>
+      <Title>Lieut.</Title>
+      <Text>.T. B. (correction)</Text>
       <PageNumber>2602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,9 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dungarvan</Key>
-      <Title>Maj.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned and Hon. Maj.)</Text>
+      <Title>Maj. Visct. (resigned and Hon. Maj.)</Title>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1017,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1084,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>Earl of (Hon. Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Maj.)</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,8 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fincastle</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (temporary Lieut-Col. and to.command)</Text>
+      <Title>Visct. (temporary Lieut-Col. and to.command)</Title>
       <PageNumber>453</PageNumber>
       <PageNumber>1731</PageNumber>
     </MainItem>
@@ -1310,7 +1312,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(to command and temporary Lieut.-Col.)</Text>
+      <Title>(to command and temporary Lieut.-Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,7 +1518,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1551,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>2690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1663,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,7 +1795,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1839,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1919,7 +1921,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H, P. (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>, P. (Lieut.)</Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1990,6 +1993,14 @@
       <Forenames>P. C.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>1119</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gresson</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

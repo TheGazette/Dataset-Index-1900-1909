@@ -51,8 +51,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Brig.-Surg. Lieut.Col. H. R. (resigned and Hon. Surg.-Col.)</Text>
+      <Title>Super. Brig.</Title>
+      <Text>-Surg. Lieut.Col. H. R. (resigned and Hon. Surg.-Col.)</Text>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +453,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. H. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. H. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dod</Key>
-      <Text>ls, A. P. A. (Lieut.)</Text>
+      <Text>.ls, A. P. A. (Lieut.)</Text>
       <PageNumber>2533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,8 +949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. S. (resigned)</Text>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,8 +1068,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (resigned)</Text>
       <PageNumber>4018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1111,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuyler</Key>
-      <Text>Capt. Sir C, Bart, (correction) .. ,. .. .. ——</Text>
+      <Title>Capt. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart, (correction) .. ,. .. .. ——</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,8 +1390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Forenames>Sup</Forenames>
-      <Text>.-Capt. W.' R: D. C. (removed)</Text>
+      <Title>Sup.</Title>
+      <Text>-Capt. W.' R: D. C. (removed)</Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>

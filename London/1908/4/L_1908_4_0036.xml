@@ -35,8 +35,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>9758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunluce</Key>
-      <Text>, Viscount, (2nd Lieut.) .„</Text>
+      <Title>Viscount, (2nd Lieut.)</Title>
+      <Text>.„</Text>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,8 +236,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. B. W. (re-</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. B. W. (re-</Text>
       <PageNumber>9185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porritt</Key>
-      <Text>.O. W. (Capt.)</Text>
+      <Text>O. W. (Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +469,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dryden</Key>
-      <Text>, TT. M. (Lieut.) .. .. ,</Text>
+      <Text>TT. M. (Lieut.) .. .. ,</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +628,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,8 @@
       <Key>
         <KeyDitto>___ ___ _ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.).. .. '..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. .. '..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1253,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quack</Key>
-      <Text>, H, H. K. (Lieut.) ..</Text>
+      <Forenames>H</Forenames>
+      <Text>, H. K. (Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1287,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,7 +1730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenmare</Key>
-      <Text>, Earl of (Hon. Col.) ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

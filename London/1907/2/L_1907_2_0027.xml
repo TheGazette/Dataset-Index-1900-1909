@@ -28,7 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>, X*. G. (2nd Lieut.)</Text>
+      <Forenames>X</Forenames>
+      <Text>*. G. (2nd Lieut.)</Text>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tee</Key>
-      <Text>, 0. C. (Lieut.)</Text>
+      <Text>0. C. (Lieut.)</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Forenames>Supy</Forenames>
-      <Text>.-Maj. and Hon. Lieut.Col. Hon. T. H. A. E. (retired)</Text>
+      <Title>Supy .</Title>
+      <Text>-Maj. and Hon. Lieut.Col. Hon. T. H. A. E. (retired)</Text>
       <PageNumber>2814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +470,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coats</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. W. (resigned)</Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +699,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +872,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenway</Key>
-      <Text>, 0. E. (Lieut.-Col. and to command)</Text>
+      <Text>0. E. (Lieut.-Col. and to command)</Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1038,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

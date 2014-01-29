@@ -93,7 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forth</Key>
-      <Text>, N, B. de L. (Lieut.)</Text>
+      <Forenames>N</Forenames>
+      <Text>, B. de L. (Lieut.)</Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>7652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +422,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmacott</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. H. W. (resigned and Capt.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. H. W. (resigned and Capt.)</Text>
       <PageNumber>7656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1073,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, Brig.-Surg.-Licut.-Col. H. M. (retired)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Licut.-Col. H. M. (retired)</Text>
       <PageNumber>8414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1179,9 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>Lieut. J: F. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>: F. (antedated)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1270,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated) ..</Text>
+      <Title>(antedated)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1484,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>6510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,8 +1642,8 @@
       <Key>
         <KeyDitto>___ ___ -.</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. JN.T. (antedated)</Text>
+      <Title>Super. Capt.</Title>
+      <Text>JN.T. (antedated)</Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>,' J. G. (2nd Lieut.)</Text>
+      <Text>' J. G. (2nd Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>

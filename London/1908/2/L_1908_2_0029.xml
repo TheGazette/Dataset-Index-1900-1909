@@ -435,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Text>, Major the Master of ..</Text>
+      <Title>Major</Title>
+      <Text>the Master of ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadwood</Key>
-      <Text>, Col. A</Text>
+      <Title>Col.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowle</Key>
-      <Text>, Col. J</Text>
+      <Title>Col.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>, B N. (temporary Col.) Ommaney, Col. A. E... . . .. Satterthwaite, E. (temporary Col.) .. Scarbrough, Earl of (temporary Col.) Sturges, Brevet Col. W. E Townley, Col. OR Trotter, Col. P. D ..</Text>
+      <Forenames>B</Forenames>
+      <Text>N. (temporary Col.) Ommaney, Col. A. E... . . .. Satterthwaite, E. (temporary Col.) .. Scarbrough, Earl of (temporary Col.) Sturges, Brevet Col. W. E Townley, Col. OR Trotter, Col. P. D ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. OS.</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>OS.</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,8 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hampden</Key>
-      <Title>Maj.</Title>
-      <Forenames>Visct</Forenames>
+      <Title>Maj. Visct.</Title>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1090,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>, Capt. CO</Text>
+      <Title>Capt.</Title>
+      <Text>CO</Text>
       <PageNumber>3317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Twynam</Key>
-      <Text>, Maj. II. M</Text>
+      <Title>Maj.</Title>
+      <Text>II. M</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1138,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, Maj. T</Text>
+      <Title>Maj.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,22 +1223,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>, Lieut.-Col. de B</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>de B</Text>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blandford</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. W</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. W</Text>
       <PageNumber>3396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>,' Surg.-Lieut.-Col. and Hon. Surg.-Col.A... .. .. ..</Text>
+      <Text>' Surg.-Lieut.-Col. and Hon. Surg.-Col.A... .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,40 +1254,40 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. G. S</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. G. S</Text>
       <PageNumber>___ ___ —— ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. P. G.</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. P. G.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harrisson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D</Text>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Liout.Col. and Hon. Surg.-Col. P. E</Text>
+      <Title>Surg.</Title>
+      <Text>-Liout.Col. and Hon. Surg.-Col. P. E</Text>
       <PageNumber>3396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacMunn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. C. A</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. C. A</Text>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,8 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. R</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. R</Text>
       <PageNumber>3396</PageNumber>
     </MainItem>
   </ItemGroup>

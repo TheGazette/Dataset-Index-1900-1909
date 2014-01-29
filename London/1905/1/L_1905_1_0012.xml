@@ -147,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. S. (ceases to belong to the A.M.B.)'</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. S. (ceases to belong to the A.M.B.)'</Text>
       <PageNumber>656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Faweett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. J. (Deputy Director-Gen.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. J. (Deputy Director-Gen.)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, F: H. (Staff Paymaster and Maj.) .. ..</Text>
+      <Forenames>F</Forenames>
+      <Text>: H. (Staff Paymaster and Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +507,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(Paymaster) ..</Text>
+      <Title>(Paymaster)</Title>
+      <Text>..</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotman</Key>
-      <Text>, Lieut.-Col. (retired pay)</Text>
+      <Title>Lieut.-Col. (retired pay)</Title>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainey</Key>
-      <Text>, ,T. W. (Lieut.) .. ..</Text>
+      <Text>,T. W. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunphy</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>. C. B. (Col.)</Text>
+      <Text>C. B. (Col.)</Text>
       <PageNumber>656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>. F. H. R. (Col.)</Text>
+      <Text>F. H. R. (Col.)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairbrother</Key>
-      <Text>. W. T. (Col.)</Text>
+      <Text>W. T. (Col.)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>. J. S. (Col.)</Text>
+      <Text>J. S. (Col.)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,14 +1437,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farnham</Key>
-      <Text>, Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MoClymont</Key>
-      <Text>, B; A. (local rank of Capt. in King's African Rifles)</Text>
+      <Forenames>B</Forenames>
+      <Text>; A. (local rank of Capt. in King's African Rifles)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -305,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Imbert-Terry</Key>
-      <Text>. A. F. A. (Capt.)</Text>
+      <Text>A. F. A. (Capt.)</Text>
       <PageNumber>3532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerry</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northland</Key>
-      <Text>, Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +646,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,6 +1043,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Robinson</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>(Inspr.)</Text>
+      <PageNumber>3439</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Scott</Key>
       <Forenames>R. K.</Forenames>
       <Text>(Ordnance Officer, 2nd Class, and Lieut.-Col.)</Text>
@@ -1177,9 +1187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ozanne</Key>
-      <Title>Asst.</Title>
-      <Forenames>Commissary</Forenames>
-      <Text>.-Gen. and Hon. Lieut.-Col. C. H. (retired)</Text>
+      <Title>Asst. Commissary.</Title>
+      <Text>-Gen. and Hon. Lieut.-Col. C. H. (retired)</Text>
       <PageNumber>2415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,8 +1364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (retired)</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>

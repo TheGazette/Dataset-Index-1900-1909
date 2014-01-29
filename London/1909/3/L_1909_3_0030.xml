@@ -34,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>,-W. A. ,</Text>
+      <Text>-W. A. ,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Breese</Key>
-      <Text>, CD..,. ., .. ..</Text>
+      <Text>CD..,. ., .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidge</Key>
-      <Text>, &amp;. S.:: .. .;</Text>
+      <Text>&amp;. S.:: .. .;</Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>,G. B. J. .;</Text>
+      <Text>G. B. J. .;</Text>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fishley</Key>
-      <Text>, R.D</Text>
+      <Text>R.D</Text>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barratt</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilde</Key>
-      <Text>, P M. C. (Capt.) .. ..</Text>
+      <Forenames>P</Forenames>
+      <Text>M. C. (Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Enman</Key>
-      <Text>, O(Sub-Lieut.)</Text>
+      <Text>O(Sub-Lieut.)</Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, ,C. W. (Asst. Paymaster)</Text>
+      <Text>,C. W. (Asst. Paymaster)</Text>
       <PageNumber>5540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,6 +1092,14 @@
       <Forenames>Sub-</Forenames>
       <Text>Lieut. R. M. (retired list)</Text>
       <PageNumber>6814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Melsom</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
+      <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1183,6 +1192,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Pierson</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(Senior Engineer)</Text>
+      <PageNumber>5383</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Rouffignac</Key>
       <Forenames>J.</Forenames>
       <Text>(Asst. Paymaster)</Text>
@@ -1240,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tronson</Key>
-      <Text>,' H. T.' (Retired Commander)</Text>
+      <Text>' H. T.' (Retired Commander)</Text>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>, (Maj. and Brevet Lieut.-Col. C. H. .(removed on age)</Text>
+      <Text>(Maj. and Brevet Lieut.-Col. C. H. .(removed on age)</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,7 +1383,6 @@
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>

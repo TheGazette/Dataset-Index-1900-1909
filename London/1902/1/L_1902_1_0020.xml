@@ -109,7 +109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>Col. (Temporary Brig..Gen) Sir H. A.^Brig.-Gen. on the Staff to command the Troops in Ceyon and Temporary Maj.Gen</Text>
+      <Title>Col. (Temporary Brig..Gen) Sir</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>^Brig.-Gen. on the Staff to command the Troops in Ceyon and Temporary Maj.Gen</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Text>Maj.-Gen. Sir' G. de C, Maj.Gen. to command the Troops in the Dublin District</Text>
+      <Title>Maj.-Gen. Sir</Title>
+      <Text>' G. de C, Maj.Gen. to command the Troops in the Dublin District</Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raper</Key>
-      <Text>Col. (Temporary Maj.-Gen.), Maj.-Gen. and to command the Infantry Brigade at Gibraltar</Text>
+      <Title>Col. (Temporary Maj.-Gen.), Maj.-Gen.</Title>
+      <Text>and to command the Infantry Brigade at Gibraltar</Text>
       <PageNumber>2692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>Lieut.-Col. andBrev. Col. H. M., Col. on the Staff in India .. .. -</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>andBrev. Col. H. M., Col. on the Staff in India .. .. -</Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +390,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +407,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colonel</Key>
-      <Text>(local rank): Morgan, Maj. and Brev. Lieut-Col. H. G</Text>
+      <Title>(local rank)</Title>
+      <Text>: Morgan, Maj. and Brev. Lieut-Col. H. G</Text>
       <PageNumber>3092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brigadier-General</Key>
-      <Text>(local rank) : Belfield, Col. H. E</Text>
+      <Title>(local rank)</Title>
+      <Text>: Belfield, Col. H. E</Text>
       <PageNumber>3092</PageNumber>
     </MainItem>
   </ItemGroup>

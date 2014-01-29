@@ -21,7 +21,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Text>, H-. F.(Maj.)'</Text>
+      <Text>H-. F.(Maj.)'</Text>
       <PageNumber>9767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Text>,,C. J. H.,(Capt.)</Text>
+      <Text>,C. J. H.,(Capt.)</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees-Spalding</Key>
-      <Text>, F! S. (2nd Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>! S. (2nd Lieut.)</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,21 +785,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulson</Key>
-      <Text>, Capt. B J. B. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>B</Forenames>
+      <Text>J. B. (retired)</Text>
       <PageNumber>9232</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>,' J. A. (Capt.) .. ' '.., '</Text>
+      <Text>' J. A. (Capt.) .. ' '.., '</Text>
       <PageNumber>8667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>, G:S. (2nd Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>:S. (2nd Lieut.)</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mactarla</Key>
-      <Text>.ne, Lieut.-Gol. and Brevet Col. D. A. (half-pay list) '.. '</Text>
+      <Text>ne, Lieut.-Gol. and Brevet Col. D. A. (half-pay list) '.. '</Text>
       <PageNumber>8247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellar</Key>
-      <Text>, VV. D. (Lieut.-Col.) v. ',</Text>
+      <Text>VV. D. (Lieut.-Col.) v. ',</Text>
       <PageNumber>8247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1072,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>,-Capt.C. (seconded)</Text>
+      <Text>-Capt.C. (seconded)</Text>
       <PageNumber>9416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, Qrmr. and Hon.' Capt.' W. Hi' * (retired) ' .. '...;</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>' Capt.' W. Hi' * (retired) ' .. '...;</Text>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Acworth</Key>
-      <Text>, L; R: (Maj.) '' '</Text>
+      <Forenames>L</Forenames>
+      <Text>; R: (Maj.) '' '</Text>
       <PageNumber>8015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>,.V. N. (Lieut,.),,.. '..,.' '...</Text>
+      <Text>.V. N. (Lieut,.),,.. '..,.' '...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jtiusbridger</Key>
-      <Text>.G.-S. W. (Lieut.) '</Text>
+      <Text>G.-S. W. (Lieut.) '</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, Lieut.-Col. and Brevet Col. .Sir J. P., Bart, (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Text>.Sir J. P., Bart, (retired)</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>

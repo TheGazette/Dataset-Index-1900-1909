@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. le C</Text>
+      <Title>Gr.</Title>
+      <Text>le C</Text>
       <PageNumber>131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,14 +274,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Aston</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2218</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Austen</Key>
-      <Text>E.J. .. .. .. ..</Text>
+      <Text>. E.J. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,15 +450,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelburn</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Viscount..</Text>
+      <Title>Rt. Hon. Viscount.</Title>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Loder-Svmonds</Key>
-      <Text>F. P</Text>
+      <Text>. F. P</Text>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Withers</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,14 +581,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>944</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>TJnwin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bake</Key>
-      <Text>O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey-Smith</Key>
-      <Text>J. E.</Text>
+      <Text>. J. E.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ussher</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hye</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clover</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hackett</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1573</PageNumber>
     </MainItem>
   </ItemGroup>

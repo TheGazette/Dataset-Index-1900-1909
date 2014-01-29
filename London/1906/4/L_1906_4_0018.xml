@@ -127,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosmead</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, R. (2ud Lieut.)</Text>
+      <Text>. John, R. (2ud Lieut.)</Text>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keller</Key>
-      <Text>.Lieut.-Col. and Hon. Col. A. L. (resigned)</Text>
+      <Text>. .Lieut.-Col. and Hon. Col. A. L. (resigned)</Text>
       <PageNumber>8975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +411,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whalley</Key>
-      <Text>J. L. (Lieut.)</Text>
+      <Text>.J. L. (Lieut.)</Text>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +586,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ibid. . -3rd Volunteer Battalion. Clarke, E. T. (Capt. super.) .-</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>ibid. . -3rd Volunteer Battalion. Clarke, E. T. (Capt. super.) .-</Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,8 +913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wagstaff</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. A. (resigned)</Text>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,8 +1019,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. G. (resigned)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>

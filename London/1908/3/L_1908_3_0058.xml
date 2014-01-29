@@ -10,9 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathew</Key>
-      <Title>Capt.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (super.) ..</Text>
+      <Title>Capt. Gr. (super.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>OrlebariE</Key>
-      <Text>H.(Brevet Lieut.-Col.)</Text>
+      <Text>. H.(Brevet Lieut.-Col.)</Text>
       <PageNumber>6939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casson</Key>
-      <Text>D. H. (Sub-Lieut:)</Text>
+      <Text>.D. H. (Sub-Lieut:)</Text>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>W. A. (Lieut.)</Text>
+      <Text>.W. A. (Lieut.)</Text>
       <PageNumber>6219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward</Key>
-      <Text>I: (Retired Commander)</Text>
+      <Forenames>I</Forenames>
+      <Text>: (Retired Commander)</Text>
       <PageNumber>6939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Renshaw</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. H,. (Sub-Lieut.)</Text>
+      <Title>Gr.</Title>
+      <Forenames>H</Forenames>
+      <Text>,. (Sub-Lieut.)</Text>
       <PageNumber>6450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +584,6 @@
       <PageNumber>6372</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aerolite</Key>

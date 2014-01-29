@@ -54,15 +54,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>Gt</Forenames>
-      <Text>..</Text>
+      <Title>Gt .</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mumford</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,8 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. J</Text>
+      <Title>Gr.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +160,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Batterbury</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calli</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mumford</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Forenames>Jellie</Forenames>
-      <Text>.. .. .,</Text>
+      <Title>Jellie.</Title>
+      <Text>. .. .,</Text>
       <PageNumber>4593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winkworth</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,16 +630,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebrington</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Col.)</Text>
+      <Title>Visct. (Col.)</Title>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. L, (2nd Lieut.)</Text>
+      <Title>Gt.</Title>
+      <Forenames>L</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,8 +824,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Maj.)</Text>
+      <Title>Visct. (Maj.)</Title>
       <PageNumber>4906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +847,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>Marquis of (Maj.) ..</Text>
+      <Title>Marquis</Title>
+      <Text>of (Maj.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +857,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Marquis of (correction) .. '</Text>
+      <Title>Maj. Marquis</Title>
+      <Text>of (correction) .. '</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +926,6 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1017,7 +1017,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howatt</Key>
-      <Text>J, (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>

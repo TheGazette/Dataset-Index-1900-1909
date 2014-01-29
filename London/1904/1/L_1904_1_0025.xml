@@ -57,8 +57,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. H. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,8 +138,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. (resigned)</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>C7 A. (Hon, Maj.)</Text>
+      <Forenames>C</Forenames>
+      <Text>7 A. (Hon, Maj.)</Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,14 +220,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Text>C: H. (Lieut.) ' ..'</Text>
+      <Forenames>C</Forenames>
+      <Text>: H. (Lieut.) ' ..'</Text>
       <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>Capt.' DO. B. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>' DO. B. (seconded)</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>Brig.-Surg. Lieut. Col. E. (resigned and Hon. Snrg.-Col.)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg. Lieut. Col. E. (resigned and Hon. Snrg.-Col.)</Text>
       <PageNumber>1448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>W; M. (Ma.j.)</Text>
+      <Forenames>W</Forenames>
+      <Text>; M. (Ma.j.)</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>Lieut..A.,P.A. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>.A.,P.A. (resigned)</Text>
       <PageNumber>1096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1060,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Lieut.-Col.C. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.C. (half-pay)</Text>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>

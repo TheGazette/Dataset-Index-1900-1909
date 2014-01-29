@@ -184,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Earl of (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>6933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +194,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilcher</Key>
-      <Text>, 2nd Lieut.,E. (resigned) ;</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>,E. (resigned) ;</Text>
       <PageNumber>8650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. M. (resigned)</Text>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +309,8 @@
       <Key>
         <KeyDitto>___ ! ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) i.;:'</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>i.;:'</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +642,6 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -858,8 +861,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tindal</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. S. (resigned)</Text>
       <PageNumber>8649</PageNumber>
     </MainItem>
   </ItemGroup>

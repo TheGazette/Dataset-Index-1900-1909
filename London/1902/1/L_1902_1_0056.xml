@@ -453,8 +453,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut, F. N. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut, F. N. (resigned)</Text>
       <PageNumber>1546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +614,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,13 +638,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hobart</Key>
+      <Forenames>G. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3179</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hodson</Key>
       <Forenames>H. V. R.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. V. R.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>229</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
@@ -652,6 +670,14 @@
       <Forenames>A. C.</Forenames>
       <Text>(temporary half-pay)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jackson</Key>
+      <Forenames>V. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>584</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -722,7 +748,18 @@
       <PageNumber>455</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>940</PageNumber>
+      <PageNumber>3014</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ruel</Key>
@@ -1116,7 +1153,7 @@
       <Key>
         <KeyDitto>___ '. ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Text>R, G. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. (2nd Lieut.)</Text>
       <PageNumber>2864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1256,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,8 +1689,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. K. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. K. E. (resigned)</Text>
       <PageNumber>1889</PageNumber>
     </MainItem>
   </ItemGroup>

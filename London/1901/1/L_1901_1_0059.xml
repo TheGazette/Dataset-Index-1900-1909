@@ -198,7 +198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kearsley</Key>
-      <Text>, Col.-Comdt. and Hon. Col. G. (retired)</Text>
+      <Title>Col.</Title>
+      <Text>-Comdt. and Hon. Col. G. (retired)</Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(precedence)</Text>
+      <Title>(precedence)</Title>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,8 +534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. T. (resigned)</Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +594,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +997,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, Col., Earl of (vacates Command and Hon. Col.)... .. .,</Text>
+      <Title>Col., Earl</Title>
+      <Text>of (vacates Command and Hon. Col.)... .. .,</Text>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>,'S. G. (2nd Lieut.)</Text>
+      <Text>'S. G. (2nd Lieut.)</Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>

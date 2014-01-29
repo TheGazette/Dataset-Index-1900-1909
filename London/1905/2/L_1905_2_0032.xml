@@ -25,14 +25,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Henslowe</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell-Lefroy</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tibbits</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>, 0-. H</Text>
+      <Text>0-. H</Text>
       <PageNumber>2545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beattie</Key>
-      <Text>,' K. A</Text>
+      <Text>' K. A</Text>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nash</Key>
-      <Text>, G: S. P</Text>
+      <Forenames>G</Forenames>
+      <Text>: S. P</Text>
       <PageNumber>2544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>, 8. P. B</Text>
+      <Text>8. P. B</Text>
       <PageNumber>2544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,9 +1038,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Title>Hon.</Title>
-      <Forenames>Guy</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Hon. Guy .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>2718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawken</Key>
-      <Text>, W; J</Text>
+      <Forenames>W</Forenames>
+      <Text>; J</Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkwright</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,14 +1348,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>,P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tooth</Key>
-      <Text>, 0. R</Text>
+      <Text>0. R</Text>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horniman</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -80,14 +80,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>,. R. C. (2nd Lieut.) ,</Text>
+      <Text>. R. C. (2nd Lieut.) ,</Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graham-Clarke</Key>
-      <Text>, A; (super. Capt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>; (super. Capt.)</Text>
       <PageNumber>1658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>, Capt.. and Hon. Maj. J. F. A. . (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. and Hon. Maj. J. F. A. . (seconded)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
-      <Text>, R,:C (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>,:C (2nd Lieut.)</Text>
       <PageNumber>2298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>, Earl of (Lieut-Col; and to com mand)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut-Col; and to com mand)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,8 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. A. (resigned)</Text>
       <PageNumber>163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Text>, A (Hon. Maj.) ..</Text>
+      <Forenames>A</Forenames>
+      <Text>(Hon. Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Camden</Key>
-      <Text>, Marquis of (super. Capt.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (super. Capt.)</Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +486,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(super. Maj.)</Text>
+      <Title>(super. Maj.)</Title>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Capt. and Hon. Maj: M. P. (resigned)</Text>
+      <Title>Capt. and Hon. Maj</Title>
+      <Text>: M. P. (resigned)</Text>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, Rev. i. (Acting Chap.)</Text>
+      <Title>Rev.</Title>
+      <Text>i. (Acting Chap.)</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +753,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>, W: (2nd Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>,. D. (Lieut.)</Text>
+      <Text>. D. (Lieut.)</Text>
       <PageNumber>2129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,15 +1020,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohan</Key>
-      <Text>,, ,W. M. (2nd Lieut.) . ...&gt;</Text>
+      <Text>, ,W. M. (2nd Lieut.) . ...&gt;</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. J. (resigned) .</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. J. (resigned) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1086,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briscoe</Key>
-      <Text>,. Qt. H. T. (2nd Lieut.)</Text>
+      <Text>. Qt. H. T. (2nd Lieut.)</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1112,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

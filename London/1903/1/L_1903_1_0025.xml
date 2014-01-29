@@ -34,9 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsham</Key>
-      <Title>Maj.</Title>
-      <Forenames>Viset</Forenames>
-      <Text>. (resigned and Hon. Lieut.-Col.)</Text>
+      <Title>Maj. Viset. (resigned and Hon. Lieut.-Col.)</Title>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>,' Maj. R. (cancellation)</Text>
+      <Text>' Maj. R. (cancellation)</Text>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,14 +509,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Moriarty</Key>
-      <Text>, Capt. II. G. S. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>II. G. S. (antedated)</Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>, Lieut. II. W. R. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. W. R. (seconded)</Text>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoslop</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W.J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W.J. (resigned)</Text>
       <PageNumber>1508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roose</Key>
-      <Text>, 2ud Lieut. F. O. J. (resigned)</Text>
+      <Text>2ud Lieut. F. O. J. (resigned)</Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heys-Thoinson</Key>
-      <Text>, 2nd Lieut, (correction)</Text>
+      <Text>2nd Lieut, (correction)</Text>
       <PageNumber>1506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chorlton</Key>
-      <Text>, II. E. (Lieut.)</Text>
+      <Text>II. E. (Lieut.)</Text>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,8 +937,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Renshaw</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. A. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. A. K. (resigned)</Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>

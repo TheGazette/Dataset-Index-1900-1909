@@ -685,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>D: G. (2nd Lieut.)</Text>
+      <Forenames>D</Forenames>
+      <Text>: G. (2nd Lieut.)</Text>
       <PageNumber>5601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,8 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehbuse</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. L. W. (resigned and 2nd Lieut.) .. ,</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. L. W. (resigned and 2nd Lieut.) .. ,</Text>
       <PageNumber>5790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1019,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,8 +1161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morpeth</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Capt.) '</Text>
+      <Title>Visct. (Capt.)</Title>
+      <Text>'</Text>
       <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>

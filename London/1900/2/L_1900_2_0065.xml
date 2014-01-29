@@ -325,7 +325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvy</Key>
-      <Text>, A, (Capt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wathen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. H. (resigned)</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,16 +608,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopetoun</Key>
-      <Title>Capt.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (resigned)</Text>
+      <Title>Capt. Rt. Hon. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>5768</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>, Lord (Capt.) .. ..</Text>
+      <Title>Lord (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,9 +937,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Title>Lieut. Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. . H. (resigned)</Text>
+      <Title>Lieut. Col. Comdt.</Title>
+      <Text>. H. (resigned)</Text>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,8 +1210,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Given</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. C. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. C. M. (resigned)</Text>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McClelland</Key>
-      <Text>, W; (Surg.-Capt.) .. ^</Text>
+      <Forenames>W</Forenames>
+      <Text>; (Surg.-Capt.) .. ^</Text>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>

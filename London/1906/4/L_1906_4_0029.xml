@@ -353,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>I,</Text>
+      <Forenames>I</Forenames>
+      <Text>,</Text>
       <PageNumber>7976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullineux</Key>
-      <Text>Rev. M C</Text>
+      <Text>. Rev. M C</Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glunicke</Key>
-      <Text>R, C. A. (Lieut.) .. ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. A. (Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hungerford</Key>
-      <Text>T. G. (Lieut.) .. .,</Text>
+      <Text>. T. G. (Lieut.) .. .,</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +799,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weut</Key>
-      <Text>U. S. D. (Lieut.) .. ..</Text>
+      <Text>. U. S. D. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wooldridge</Key>
-      <Text>L. T. (Lieut.)</Text>
+      <Text>. L. T. (Lieut.)</Text>
       <PageNumber>0720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1347,6 @@
       <PageNumber>7977</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adamant</Key>

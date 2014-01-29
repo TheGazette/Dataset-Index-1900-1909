@@ -210,7 +210,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirbright</Key>
-      <Text>, Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plowman</Key>
-      <Text>, E: P., Companion of the Imperial'Service Order .. ..</Text>
+      <Forenames>E</Forenames>
+      <Text>: P., Companion of the Imperial'Service Order .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rustamji</Key>
-      <Text>, II. M., Companion of the Indian Empire .. .: .. Ill Sadler, Lieut.-Col. J. P., Companion of the Imperial Service Order</Text>
+      <Text>II. M., Companion of the Indian Empire .. .: .. Ill Sadler, Lieut.-Col. J. P., Companion of the Imperial Service Order</Text>
       <PageNumber>2142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Singh</Key>
-      <Text>, .K. R., Knight Commander of the Star of India .. .. .. II Smith, Miss M. O, Companion of the Imperial Service Order</Text>
+      <Text>.K. R., Knight Commander of the Star of India .. .. .. II Smith, Miss M. O, Companion of the Imperial Service Order</Text>
       <PageNumber>2142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenden</Key>
-      <Text>, H, Companion . of the Indian Empire .. .. .; IV West, C. H., Companion of the Indian Empire .. . .-. . ...</Text>
+      <Forenames>H</Forenames>
+      <Text>, Companion . of the Indian Empire .. .. .; IV West, C. H., Companion of the Indian Empire .. . .-. . ...</Text>
       <PageNumber>ibid. .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>,Lieut. W. H. S. (resigned and Hon. Lieut.) .. .. ..</Text>
+      <Text>Lieut. W. H. S. (resigned and Hon. Lieut.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holroyd</Key>
-      <Text>, Lieut.. T. C. L. (resigned and Hon. Lieut.) -</Text>
+      <Title>Lieut.</Title>
+      <Text>. T. C. L. (resigned and Hon. Lieut.) -</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>

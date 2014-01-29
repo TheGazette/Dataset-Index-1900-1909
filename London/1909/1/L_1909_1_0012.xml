@@ -184,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeill</Key>
-      <Text>A. N. K, (Lieut.)</Text>
+      <Text>. A. N. K, (Lieut.)</Text>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons-Smith</Key>
-      <Text>E; M. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>; M. (Lieut.)</Text>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wo</Key>
-      <Text>ton, W. J. (Capt.) .. ..</Text>
+      <Text>.ton, W. J. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,8 +671,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eckersley</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. E. (Deputy Asst. . Director-Gen. at Headquarters)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. E. (Deputy Asst. . Director-Gen. at Headquarters)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,8 +712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. S. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. S. (retired pay)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slaughter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. B. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. B. (retired pay)</Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,8 +1372,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourke</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. G. D. (Hon. Physician to the King)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. G. D. (Hon. Physician to the King)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,7 +1690,16 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>S. H. H. O.</Forenames>
+      <Text>(Hon. Capt.)</Text>
+      <PageNumber>33</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
@@ -1701,7 +1711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirb</Key>
-      <Text>v, M. T. (local rank of Capt.)</Text>
+      <Text>.v, M. T. (local rank of Capt.)</Text>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Text>Lieut.-Col. and Brevet Col. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. (retired)</Title>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,8 +1834,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevdle</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Brevet Col.. W. C. (retired)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Brevet Col.. W. C. (retired)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -21,14 +21,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Text>, G-. G. (2nd Lieut.)</Text>
+      <Text>G-. G. (2nd Lieut.)</Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>, Lieut. Q-. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>Q-. (antedated)</Text>
       <PageNumber>7944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +100,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strangwayes</Key>
-      <Text>, Maj. DA. E. S. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>DA. E. S. (resigned)</Text>
       <PageNumber>7945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burne</Key>
-      <Text>, G-. H. P. (Lieut.-Col.)</Text>
+      <Text>G-. H. P. (Lieut.-Col.)</Text>
       <PageNumber>7368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwin</Key>
-      <Text>, Lieut. . R. H. (seconded) -</Text>
+      <Title>Lieut.</Title>
+      <Text>. R. H. (seconded) -</Text>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boger</Key>
-      <Text>, Capt.. D. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. D. C. (seconded)</Text>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>

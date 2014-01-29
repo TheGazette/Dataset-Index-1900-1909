@@ -217,7 +217,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WombwellyG</Key>
-      <Text>. R. (Hon. Maj.)</Text>
+      <Text>R. (Hon. Maj.)</Text>
       <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mott</Key>
-      <Text>, Capt. G-R. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>G-R. (seconded)</Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,6 +843,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Forster</Key>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6579</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hopgood</Key>
       <Forenames>J. T.</Forenames>
       <Text>(Hon. Lieut.-Col.)</Text>
@@ -892,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>. G. E. (Lieut.)</Text>
+      <Text>G. E. (Lieut.)</Text>
       <PageNumber>7495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyke</Key>
-      <Text>,' W. F. (Capt.)</Text>
+      <Text>' W. F. (Capt.)</Text>
       <PageNumber>6579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,6 +1103,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Weir</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(cancellation)</Text>
+      <PageNumber>7218</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douglas</Key>
       <Forenames>C. E.</Forenames>
       <Text>(Surg.-Lieut.-Col.)</Text>
@@ -1111,7 +1129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>,-J. H. P. (Surg.-Lieut.)</Text>
+      <Text>-J. H. P. (Surg.-Lieut.)</Text>
       <PageNumber>8782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, Lieut.-Col and Brevet Col. P..T. (Halt.pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col and Brevet Col. P..T. (Halt.pay)</Text>
       <PageNumber>7042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cocks</Key>
-      <Text>,. J. C..S. (2nd Lieut.)</Text>
+      <Text>. J. C..S. (2nd Lieut.)</Text>
       <PageNumber>7043</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -325,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poulett</Key>
-      <Text>Earl (2nd Lieut.)</Text>
+      <Title>Earl (2nd Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Genth</Key>
-      <Text>Capt. and Instr. of Musketry P. L. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. L. (resigned)</Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,8 +702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. M. (resigned)</Text>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Maj. and Hon. Lieut.-Col. H. G. S. (retired)</Text>
+      <Title>Super.</Title>
+      <Text>-Maj. and Hon. Lieut.-Col. H. G. S. (retired)</Text>
       <PageNumber>3716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boid</Key>
-      <Text>Capt. and Instr. of Musketry P. F. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. F. (resigned)</Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1249,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northesk</Key>
-      <Text>Earl of (Hon. Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Maj.)</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campden</Key>
-      <Text>Viscount (2nd Lieut.) ,</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
+      <Text>,</Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>

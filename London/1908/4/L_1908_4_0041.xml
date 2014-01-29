@@ -94,8 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Gr. (Capt.)</Title>
       <PageNumber>8547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, 0. B. (Qrmr. and Hon. Capt.) .. .. .. ..</Text>
+      <Text>0. B. (Qrmr. and Hon. Capt.) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. Q-. V. (Capt. and Hon. Maj.)</Text>
+      <Text>Q-. V. (Capt. and Hon. Maj.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +701,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) Wallis, W. E. (Lieut.)</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Forenames>Wallis</Forenames>
+      <Text>, W. E. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, DA. L. (Lieut.)</Text>
+      <Text>DA. L. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of (Hon. Col.)</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of (Hon. Col.)</Text>
       <PageNumber>7833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1440,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,7 +1457,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1498,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1603,7 +1606,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1645,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>B, (Hon. Col.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, (Hon. Col.)</Text>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -172,7 +172,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>9760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +206,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) Swain, J. S. (Capt.)</Text>
+      <Title>(Capt.)</Title>
+      <Forenames>Swain</Forenames>
+      <Text>, J. S. (Capt.)</Text>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +241,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>9760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>,.A. E. (Maj.)</Text>
+      <Text>.A. E. (Maj.)</Text>
       <PageNumber>9949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +520,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +690,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +720,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P, (Maj.)</Text>
+      <Forenames>P</Forenames>
+      <Text>, (Maj.)</Text>
       <PageNumber>7387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>, BT. P. (Lieut.)</Text>
+      <Text>BT. P. (Lieut.)</Text>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +849,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1058,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1224,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Major)</Text>
+      <Title>(Major)</Title>
       <PageNumber>8282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1234,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) Bulstrode, C. N. (Capt.) Burnyeat, H. P. (Adj.) Cartland, T. J. (Capt. and Hon. Maj.) Chubb, G. H. (Capt.) CookeB, D. (Lieut.)</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Forenames>Bulstrode</Forenames>
+      <Text>, C. N. (Capt.) Burnyeat, H. P. (Adj.) Cartland, T. J. (Capt. and Hon. Maj.) Chubb, G. H. (Capt.) CookeB, D. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of. Honorary Colonel</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of. Honorary Colonel</Text>
       <PageNumber>7833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1722,7 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidwell</Key>
-      <Text>. E. P. (Capt. and Hon. Maj.)</Text>
+      <Text>E. P. (Capt. and Hon. Maj.)</Text>
       <PageNumber>9374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1835,7 +1842,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

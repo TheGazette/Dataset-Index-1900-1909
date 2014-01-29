@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John of Jerusalem, Grand Priory of the Order of the Hospital of: Knight of Justice: Connaught, H.R.H. Prince Arthur</Text>
+      <Text>John of Jerusalem, Grand Priory of the Order of the Hospital of: Knight of Justice: Connaught, H.R.H. Prince Arthur</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
     <SubItem>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Thomas,Ontario, M. K. Moorhead, Consul for the United States at</Text>
+      <Text>Thomas,Ontario, M. K. Moorhead, Consul for the United States at</Text>
       <PageNumber>6052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,14 +97,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarborough</Key>
-      <Text>(Swine-Fever), revocation of Order of 1905</Text>
+      <Title>(Swine-Fever)</Title>
+      <Text>, revocation of Order of 1905</Text>
       <PageNumber>6333</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scotland</Key>
-      <Text>, parts of, revocation of Sheep-Dipping Orders now in suspension</Text>
+      <Text>parts of, revocation of Sheep-Dipping Orders now in suspension</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shettleston</Key>
-      <Text>, certified as an industrial school</Text>
+      <Text>certified as an industrial school</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talgarth</Key>
-      <Text>, notice of meeting to appoint Commissioners of Income Tax</Text>
+      <Text>notice of meeting to appoint Commissioners of Income Tax</Text>
       <PageNumber>6566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurso</Key>
-      <Text>, the Biver, Order as to annual close time</Text>
+      <Text>the Biver, Order as to annual close time</Text>
       <PageNumber>6194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Text>(B.C.), J. B. H. Bickaby, Vice-Consul for Mexico at</Text>
+      <Title>(B.C.)</Title>
+      <Text>, J. B. H. Bickaby, Vice-Consul for Mexico at</Text>
       <PageNumber>5144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +477,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Westerfield</Key>
-      <Text>, Dr. O, Consul at Kimberley for Griqualand West</Text>
+      <Title>Dr.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Consul at Kimberley for Griqualand West</Text>
       <PageNumber>6052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,21 +574,24 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Swine-Fever) Revocation Order of 1905</Text>
+      <Title>(Swine-Fever)</Title>
+      <Forenames>Revo-</Forenames>
+      <Text>cation Order of 1905</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yelderlcy</Key>
-      <Text>, the township of, separated from the parish of Ashborne-withMapleton, &amp;c</Text>
+      <Text>the township of, separated from the parish of Ashborne-withMapleton, &amp;c</Text>
       <PageNumber>4893</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Text>(East Riding), infected area declared in</Text>
+      <Title>(East Riding)</Title>
+      <Text>, infected area declared in</Text>
       <PageNumber>5153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +609,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(North and West Ridings), modification of Compulsory Dipping Order</Text>
+      <Title>(North and West Ridings)</Title>
+      <Text>, modification of Compulsory Dipping Order</Text>
       <PageNumber>5549</PageNumber>
       <PageNumber>5989</PageNumber>
       <PageNumber>6066</PageNumber>

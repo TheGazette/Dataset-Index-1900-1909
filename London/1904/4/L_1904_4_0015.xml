@@ -92,8 +92,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Provan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut-Col. J. (retired and Hon. Surg.-Col.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut-Col. J. (retired and Hon. Surg.-Col.)</Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilbraham</Key>
-      <Text>, 2nd Lieut C. B. (resigned)</Text>
+      <Text>2nd Lieut C. B. (resigned)</Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, .T. (2nd Lieut.)</Text>
+      <Text>.T. (2nd Lieut.)</Text>
       <PageNumber>8453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. E. (resigned)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldrick</Key>
-      <Text>, IS. J. (2nd Lieut.)</Text>
+      <Text>IS. J. (2nd Lieut.)</Text>
       <PageNumber>8796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,13 +562,13 @@
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Aberdeenshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Dalgarno</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. J. Y. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. J. Y. (resigned)</Text>
       <PageNumber>8796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,8 +797,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins-Ambler</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. A. (resigned)</Text>
       <PageNumber>8796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Highet</Key>
-      <Text>,. J. C. (2nd Lieut.)</Text>
+      <Text>. J. C. (2nd Lieut.)</Text>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,8 +903,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Homewood</Key>
-      <Forenames>Super</Forenames>
-      <Text>. 2nd Lieut. &amp;. (resigned)</Text>
+      <Title>Super. 2nd Lieut.</Title>
+      <Text>&amp;. (resigned)</Text>
       <PageNumber>6727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +933,7 @@
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Clyde Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -986,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corkram</Key>
-      <Text>, C, E. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, E. (Capt.)</Text>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>

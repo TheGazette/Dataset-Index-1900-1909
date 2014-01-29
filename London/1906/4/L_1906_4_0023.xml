@@ -54,7 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shoebridge</Key>
-      <Text>Capt. HW. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>HW. (resigned)</Text>
       <PageNumber>6724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>Lieut.-Col, Commandant and Hon. Col. C. J. (retired) ..</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col, Commandant and Hon. Col. C. J. (retired) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,15 +205,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Blandford</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. W. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. W. (super.)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Text>H. (Capt.)</Text>
+      <Text>. H. (Capt.)</Text>
       <PageNumber>7820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlater</Key>
-      <Forenames>Stper</Forenames>
-      <Text>. Capt. and Hon. Maj. (resigned) .. .. .. ..</Text>
+      <Title>Stper. Capt. and Hon. Maj. (resigned)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +938,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

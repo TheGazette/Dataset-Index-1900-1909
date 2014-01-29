@@ -101,7 +101,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. and Hon. Maj.)</Text>
+      <Title>(Capt. and Hon. Maj.)</Title>
       <PageNumber>6950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +228,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>R. W. H. (Lieut.-Col.)</Text>
+      <Text>. R. W. H. (Lieut.-Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +284,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Text>J. S. (2nd Lieut.)</Text>
+      <Text>. J. S. (2nd Lieut.)</Text>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>E. N. (Lieut.)</Text>
+      <Text>. E. N. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1718,7 +1718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>Sir ff. W., Bart. (Hon, Col.)</Text>
+      <Title>Sir</Title>
+      <Text>ff. W., Bart. (Hon, Col.)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,7 +1736,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.) tdtd. Glen, J. F. (2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
+      <Text>tdtd. Glen, J. F. (2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

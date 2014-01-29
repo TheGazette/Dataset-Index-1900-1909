@@ -359,7 +359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donoughmore</Key>
-      <Text>Earl of, Member of the Army Council</Text>
+      <Title>Earl</Title>
+      <Text>of, Member of the Army Council</Text>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>Viscount, Knight Commander, Royal Victorian Order</Text>
+      <Title>Viscount</Title>
+      <Text>, Knight Commander, Royal Victorian Order</Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>J, Companion of the Imperial Service Order .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>, Companion of the Imperial Service Order .. ..</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +996,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Neuhauss</Key>
-      <Text>Maj. C, Eoyal Victorian Order, Hon. Fourth Class</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Eoyal Victorian Order, Hon. Fourth Class</Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -109,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vair</Key>
-      <Text>J, (Hon. Capt.) .. .. .. -</Text>
+      <Forenames>J</Forenames>
+      <Text>, (Hon. Capt.) .. .. .. -</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,8 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. N. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. N. J. (resigned)</Text>
       <PageNumber>3470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1250,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>B W. (Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>W. (Lieut.)</Text>
       <PageNumber>4158</PageNumber>
     </MainItem>
   </ItemGroup>

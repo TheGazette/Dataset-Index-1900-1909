@@ -6,7 +6,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>S ,</Text>
+      <Forenames>S</Forenames>
+      <Text>,</Text>
       <PageNumber>8764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>B,M</Text>
+      <Forenames>B</Forenames>
+      <Text>,M</Text>
       <PageNumber>5752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>7166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,14 +996,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Marchant</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Speke</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culme-Seymour</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fjrmby</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>6568</PageNumber>
     </MainItem>
   </ItemGroup>

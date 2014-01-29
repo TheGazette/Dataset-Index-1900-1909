@@ -229,8 +229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knollys</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Companion of the Imperial Service Order</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Companion of the Imperial Service Order</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,15 +246,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Knutsford</Key>
-      <Forenames>Visct</Forenames>
-      <Text>., Hon. Bailiff of St. John of Jerusalem</Text>
+      <Title>Visct., Hon.</Title>
+      <Forenames>Bailiff</Forenames>
+      <Text>of St. John of Jerusalem</Text>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kuhl</Key>
-      <Text>O, Companion of St. Michael and St. George</Text>
+      <Forenames>O</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>4275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,8 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, to be Governor of Bombay Presidency</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, to be Governor of Bombay Presidency</Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,8 +298,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laprimaudaye</Key>
-      <Forenames>Comdr</Forenames>
-      <Text>. C, Member of the Executive Council of Malta</Text>
+      <Title>Comdr.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Member of the Executive Council of Malta</Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maswell</Key>
-      <Text>Brig.-Genl., Sir J. G., Commander, Royal Victorian Order ..</Text>
+      <Title>Brig.</Title>
+      <Text>-Genl., Sir J. G., Commander, Royal Victorian Order ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +558,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Text>Maj.-Gen., Sir G. de C, Commander, Royal Victorian Order</Text>
+      <Title>Maj.-Gen., Sir</Title>
+      <Forenames>G.</Forenames>
+      <Text>de C, Commander, Royal Victorian Order</Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Petrie</Key>
-      <Text>O, Knighted .. .. .,</Text>
+      <Forenames>O</Forenames>
+      <Text>, Knighted .. .. .,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

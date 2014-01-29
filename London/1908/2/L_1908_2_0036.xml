@@ -65,7 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>HcatonEllis</Key>
-      <Text>,.E. H. F.</Text>
+      <Text>.E. H. F.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bawden</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyan</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,14 +335,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>, &amp;</Text>
+      <Text>&amp;</Text>
       <PageNumber>3394</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ogle</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>3313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meadus</Key>
-      <Text>, H.H</Text>
+      <Title>H.H.</Title>
       <PageNumber>3991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charsley</Key>
-      <Text>, ¥. Or; .;</Text>
+      <Text>¥. Or; .;</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, ft. B</Text>
+      <Text>ft. B</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>, C H. .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>H. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, H.E. (antedated)</Text>
+      <Title>H.E. (antedated)</Title>
       <PageNumber>3669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parish</Key>
-      <Text>,.?. F. ... ,.</Text>
+      <Text>.?. F. ... ,.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,7 +1630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>,-J</Text>
+      <Text>-J</Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>

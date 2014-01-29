@@ -47,8 +47,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. W. (retired) .</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. W. (retired) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Text>.W. (Capt.)</Text>
+      <Text>W. (Capt.)</Text>
       <PageNumber>7583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>,. F. W. (Lieut.) .. ..</Text>
+      <Text>. F. W. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +565,7 @@
       <PageNumber>8610</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Harre</Key>
@@ -652,7 +652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, E. (Capt.)</Text>
+      <Text>John, E. (Capt.)</Text>
       <PageNumber>8443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstie</Key>
-      <Text>, Capt. W-(resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>W-(resigned)</Text>
       <PageNumber>8781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>,.E. A. (Lieut.)</Text>
+      <Text>.E. A. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +803,7 @@
       <PageNumber>7044</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Tay</Key>
@@ -832,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Text>, Hon. Col. Lord (resigned)</Text>
+      <Title>Hon. Col. Lord (resigned)</Title>
       <PageNumber>8781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,8 +857,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackness</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. O. C. (re-</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. O. C. (re-</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,8 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. (resigned)</Text>
       <PageNumber>7217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +973,8 @@
       <Key>
         <KeyDitto>——-— ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.). .. ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eussell</Key>
-      <Text>. Hon. A. V. F. (Capt.)</Text>
+      <Text>Hon. A. V. F. (Capt.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>,' Lieut. H. C. (resigned)</Text>
+      <Text>' Lieut. H. C. (resigned)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>

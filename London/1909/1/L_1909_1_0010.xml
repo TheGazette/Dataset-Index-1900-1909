@@ -102,8 +102,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Or</Forenames>
-      <Text>., Hon. Fifth Class, Royal Victorian Order .. ..</Text>
+      <Title>Or., Hon.</Title>
+      <Forenames>Fifth Class</Forenames>
+      <Text>, Royal Victorian Order .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,9 +120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nugent</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. C, Fourth Class, Royal Victorian Order</Text>
+      <Title>Lieut.-Col. Or.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,8 +488,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Toulmin</Key>
-      <Forenames>Or</Forenames>
-      <Text>. O'B., H.M.'s Consul at Shiraz</Text>
+      <Title>Or.</Title>
+      <Forenames>O</Forenames>
+      <Text>'B., H.M.'s Consul at Shiraz</Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>Capt. DA. D., Superintendent of Gymnasia</Text>
+      <Title>Capt.</Title>
+      <Text>DA. D., Superintendent of Gymnasia</Text>
       <PageNumber>1660</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -93,8 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esmond-White</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +154,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>, 0. T. (Qrmr. and Hon. Lieut.)</Text>
+      <Text>0. T. (Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doughty</Key>
-      <Text>, H, .(Lieut.-Col. and to com. command)</Text>
+      <Forenames>H</Forenames>
+      <Text>, .(Lieut.-Col. and to com. command)</Text>
       <PageNumber>3160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,8 +407,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noad</Key>
-      <Text>,.W. C. (Capt.)</Text>
+      <Text>.W. C. (Capt.)</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggs</Key>
-      <Text>,.E. K. (2nd Lieut.)</Text>
+      <Text>.E. K. (2nd Lieut.)</Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simon</Key>
-      <Text>, H: (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>,.Lieut..G. H. C. (resigned)</Text>
+      <Text>.Lieut..G. H. C. (resigned)</Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>

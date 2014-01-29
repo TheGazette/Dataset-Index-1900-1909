@@ -35,7 +35,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, iff. L. G-. (Capt.)</Text>
+      <Text>iff. L. G-. (Capt.)</Text>
       <PageNumber>4760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Text>, G-. C. V. (Lieut.) .. ..</Text>
+      <Text>G-. C. V. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>,' F. D. (Capt.)</Text>
+      <Text>' F. D. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>. A. C. (Capt.)</Text>
+      <Text>A. C. (Capt.)</Text>
       <PageNumber>4760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>,G. H. (Capt.)</Text>
+      <Text>G. H. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, Qrmr. and Hon; Capt. J; H. (retired pay) . -</Text>
+      <Title>Qrmr.</Title>
+      <Text>and Hon; Capt. J; H. (retired pay) . -</Text>
       <PageNumber>4259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tolley</Key>
-      <Text>,F. (2nd Lieut.)</Text>
+      <Text>F. (2nd Lieut.)</Text>
       <PageNumber>4262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,14 +1279,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Massy</Key>
-      <Text>.H. H. (Lieut.)</Text>
+      <Text>H. H. (Lieut.)</Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,7 +1329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Capt. and Instr. of Artillery R. Ei (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Artillery R. Ei (resigned)</Text>
       <PageNumber>5983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogsden</Key>
-      <Text>, Lieut.-Col.-Comdt. and Hon. Col. J. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-Comdt. and Hon. Col. J. (retired)</Text>
       <PageNumber>5700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,7 +1579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>,A. M. (Capt.) .. ..</Text>
+      <Text>A. M. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hine</Key>
-      <Text>, A, F. (Hon. Maj.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, F. (Hon. Maj.)</Text>
       <PageNumber>5780</PageNumber>
     </MainItem>
   </ItemGroup>

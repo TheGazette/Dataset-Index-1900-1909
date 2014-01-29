@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessel</Key>
-      <Text>, &amp;. P. (Hon. Maj.)</Text>
+      <Text>&amp;. P. (Hon. Maj.)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.) ..</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mack</Key>
-      <Text>, 0. H. (Capt.)</Text>
+      <Text>0. H. (Capt.)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>David</Key>
-      <Forenames>Acting-Chaplain</Forenames>
+      <Title>Acting</Title>
+      <Forenames>Chaplain</Forenames>
       <Text>Rev. W. H. (resigned)</Text>
       <PageNumber>6098</PageNumber>
     </MainItem>
@@ -914,7 +916,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.).. ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolff</Key>
-      <Text>, C.H. (Lieut.) .. ..</Text>
+      <Text>C.H. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,8 +1127,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. G. (resigned)</Text>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>

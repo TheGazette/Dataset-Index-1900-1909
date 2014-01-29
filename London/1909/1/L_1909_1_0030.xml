@@ -82,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillies</Key>
-      <Text>K. G</Text>
+      <Text>. K. G</Text>
       <PageNumber>2354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>C. J. P. M.</Text>
+      <Text>. C. J. P. M.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>H..R. B. .</Text>
+      <Text>. H..R. B. .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>G. H. ..'</Text>
+      <Text>. G. H. ..'</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,14 +519,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Dane</Key>
-      <Text>R,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>T. A. ..'</Text>
+      <Text>. T. A. ..'</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>D. M. .. '</Text>
+      <Text>. D. M. .. '</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>A: R.</Text>
+      <Forenames>A</Forenames>
+      <Text>: R.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVabab</Key>
-      <Text>R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,21 +716,21 @@
   <ItemGroup>
     <MainItem>
       <Key>BerringtoivG</Key>
-      <Text>T. D. .. S</Text>
+      <Text>. T. D. .. S</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Biclctbrd</Key>
-      <Text>M. H.</Text>
+      <Text>. M. H.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blandy</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowding</Key>
-      <Text>C. G. .</Text>
+      <Text>. C. G. .</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +953,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pcake</Key>
-      <Text>H. C. P.</Text>
+      <Text>.H. C. P.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,14 +1004,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>R, H. S</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. S</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>R, AV. T S</Text>
+      <Forenames>R</Forenames>
+      <Text>, AV. T S</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,14 +1074,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Crum</Key>
-      <Text>Brevet Maj..F. M</Text>
+      <Title>Brevet Maj.</Title>
+      <Text>.F. M</Text>
       <PageNumber>952</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Text>Maj.-A. W-, Depy.-Asst, Adj.Gen. ... .. .. * . '</Text>
+      <Title>Maj.</Title>
+      <Text>-A. W-, Depy.-Asst, Adj.Gen. ... .. .. * . '</Text>
       <PageNumber>2356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1138,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>Maj.. L: C. .. .. .. -;</Text>
+      <Title>Maj.</Title>
+      <Text>. L: C. .. .. .. -;</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

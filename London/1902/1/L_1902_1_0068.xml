@@ -32,15 +32,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>Or</Forenames>
-      <Text>. W</Text>
+      <Title>Or.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Text>Lord C</Text>
+      <Title>Lord</Title>
+      <Forenames>C</Forenames>
       <PageNumber>3536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,21 +72,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sefton</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bums-Hartopp</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,14 +101,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Text>Sir J</Text>
+      <Title>Sir</Title>
+      <Forenames>J</Forenames>
       <PageNumber>3900</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hornsby</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbie</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stainer</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aylen</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

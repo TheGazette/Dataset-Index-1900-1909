@@ -200,7 +200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macfurlane</Key>
-      <Text>, IC. (2nd Lieut.)</Text>
+      <Text>IC. (2nd Lieut.)</Text>
       <PageNumber>7356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +225,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, DA. H. (Capt.)</Text>
+      <Text>DA. H. (Capt.)</Text>
       <PageNumber>8018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +390,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ '</KeyDitto>
       </Key>
-      <Text>(temporary Capt.).. .. .. .. ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawkes</Key>
-      <Text>, I?. H. (Maj.)</Text>
+      <Forenames>I</Forenames>
+      <Text>?. H. (Maj.)</Text>
       <PageNumber>9235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kersey</Key>
-      <Text>, II. M. (Maj.)</Text>
+      <Text>II. M. (Maj.)</Text>
       <PageNumber>7663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>, .I. (and Lieut.)</Text>
+      <Text>.I. (and Lieut.)</Text>
       <PageNumber>7852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,14 +1227,14 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.eLachlan, A. C. (Adj.)</Text>
+      <Text>eLachlan, A. C. (Adj.)</Text>
       <PageNumber>8668</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>, dipt. Gr. B. (resigned)</Text>
+      <Text>dipt. Gr. B. (resigned)</Text>
       <PageNumber>8329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,8 +1274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>8937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,8 +1367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Singh</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. and Hon. Maj., ll.H. Prince. F. V. D. (resigned)</Text>
+      <Title>Super. Capt. and Hon. Maj.</Title>
+      <Text>, ll.H. Prince. F. V. D. (resigned)</Text>
       <PageNumber>7663</PageNumber>
     </MainItem>
   </ItemGroup>

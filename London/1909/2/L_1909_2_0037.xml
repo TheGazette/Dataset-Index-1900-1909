@@ -94,14 +94,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Villar</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,14 +129,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland-Smith</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>, .J. Burns, H. Briggs, H. F. ..</Text>
+      <Text>.J. Burns, H. Briggs, H. F. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Text>. M. P.</Text>
+      <Text>M. P.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Syms</Key>
-      <Text>, (Sc. F.</Text>
+      <Text>(Sc. F.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake</Key>
-      <Text>, OP</Text>
+      <Text>OP</Text>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ornisby</Key>
-      <Text>, R, D. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, II. W. (Retired Commander) Royal Naval Volunteer Reserve: Anderson, C. C. (Sub-Lieut.)</Text>
+      <Text>II. W. (Retired Commander) Royal Naval Volunteer Reserve: Anderson, C. C. (Sub-Lieut.)</Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1086,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matson</Key>
-      <Text>, Maj.. C. G. (removed on account of age)</Text>
+      <Title>Maj.</Title>
+      <Text>. C. G. (removed on account of age)</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,11 +1123,10 @@
       <PageNumber>3122</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abingdon-Ecco</Key>
-      <Text>, reduction of capital</Text>
+      <Text>reduction of capital</Text>
       <PageNumber>3227</PageNumber>
     </MainItem>
   </ItemGroup>

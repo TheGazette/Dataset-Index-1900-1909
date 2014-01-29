@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beyts</Key>
-      <Text>R, F. S</Text>
+      <Forenames>R</Forenames>
+      <Text>, F. S</Text>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +475,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jay</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beatty</Key>
-      <Text>R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Etheridge</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>H\ J.</Text>
+      <Forenames>H</Forenames>
+      <Text>\ J.</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1069,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>Maj. C, Station Staff Officer, lst class .. .. .. ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Station Staff Officer, lst class .. .. .. ..</Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1087,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blore</Key>
-      <Text>Capt. and Brev.-Maj. H. R., Aide-de-Camp to Maj.-Gen. B. A. Combe</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. H. R., Aide-de-Camp to Maj.-Gen. B. A. Combe</Text>
       <PageNumber>5427</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -32,8 +32,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beresford</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. de la P. (2nd Lieut.)</Text>
+      <Title>Gr.</Title>
+      <Text>de la P. (2nd Lieut.)</Text>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Delme-Radeliffe</Key>
-      <Text>Lieut.-Col. C, Military A:tach6</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Military A:tach6</Text>
       <PageNumber>1628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godley</Key>
-      <Text>Maj. and Brev.-Col. A. J., Assist. Adj.-Gen., and Col</Text>
+      <Title>Maj. and Brev.</Title>
+      <Text>-Col. A. J., Assist. Adj.-Gen., and Col</Text>
       <PageNumber>1795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +602,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel-Jones</Key>
-      <Forenames>Cspt</Forenames>
-      <Text>. C, Recruiting Staff Officer (Class II)</Text>
+      <Title>Cspt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Recruiting Staff Officer (Class II)</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +833,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalmeny</Key>
-      <Text>Lord (2nd Lieut.) .. Ill Dobbin, W. J. K. (Lieut.-Col.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.. Ill Dobbin, W. J. K. (Lieut.-Col.)</Text>
       <PageNumber>288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,8 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Penzera</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. F. W. (removed on age-limit).,</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. F. W. (removed on age-limit).,</Text>
       <PageNumber>785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amey</Key>
-      <Text>A. (Maj.)</Text>
+      <Text>. A. (Maj.)</Text>
       <PageNumber>544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>C. H. (2nd Lieut.)</Text>
+      <Text>. C. H. (2nd Lieut.)</Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milson</Key>
-      <Text>G. C. (Capt.)</Text>
+      <Text>. G. C. (Capt.)</Text>
       <PageNumber>1618</PageNumber>
     </MainItem>
   </ItemGroup>

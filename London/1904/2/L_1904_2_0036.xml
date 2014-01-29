@@ -169,7 +169,6 @@
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>BERKSHIRE. .</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bicardo</Key>
@@ -234,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>Brig.-Surg.-Lieut.-Col. W. H. (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. W. H. (seconded)</Text>
       <PageNumber>2589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haldane</Key>
-      <Text>2nd Lieut. (Extra-Super.) J. O. (resigned)</Text>
+      <Title>2nd Lieut. (Extra-Super.)</Title>
+      <Forenames>J. O.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,8 +270,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Imperial</Key>
-      <Forenames>Yeomanry</Forenames>
-      <Text>. . Massey, 2nd Lieut. W. F. E. (resigned) .. . . .. ,</Text>
+      <Title>Yeomanry.</Title>
+      <Text>. Massey, 2nd Lieut. W. F. E. (resigned) .. . . .. ,</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,8 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. (resigned).,</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. (resigned).,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Text>A„B. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>„B. (2nd Lieut.)</Text>
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +605,6 @@
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>GLAMORGANSHIRE.</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Helme</Key>
@@ -664,7 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +705,6 @@
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (NORTH OF)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
@@ -735,11 +737,11 @@
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IRELAND (SOUTH OF)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. C, H. (resigned)</Text>
+      <Key>Thompson</Key>
+      <Forenames>E. C.</Forenames>
+      <Text>(Surg.-Maj.) ... il-idIRELAND (SOUTH OF). Imperial Yeomanry. O'Connor, Lieut. C, H. (resigned)</Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camden</Key>
-      <Text>Marquis (Capt.)</Text>
+      <Title>Marquis (Capt.)</Title>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>

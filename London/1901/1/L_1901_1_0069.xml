@@ -84,7 +84,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, Maj.-Gen. and Hon. Lieut.-Gen. . H. (Col.)</Text>
+      <Title>Maj.-Gen. and Hon. Lieut.-Gen.</Title>
+      <Text>. H. (Col.)</Text>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +223,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,10 +348,9 @@
       <Text>(Instr. of Musketry)</Text>
       <PageNumber>314</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>6th Battalion</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>6th Battalion</SubSectionTitle>
     <SubItem>
+      <Text>6th Battalion.</Text>
       <PageNumber>1236</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moreland</Key>
-      <Text>, 2hd Lieut. H. (resigned)</Text>
+      <Text>2hd Lieut. H. (resigned)</Text>
       <PageNumber>1162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clements</Key>
-      <Text>, M, L. S. (2nd Lieut.)</Text>
+      <Forenames>M</Forenames>
+      <Text>, L. S. (2nd Lieut.)</Text>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jelf</Key>
-      <Text>, E, G. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, G. (Capt.)</Text>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tidswell</Key>
-      <Text>, 0. R. (Lieut.)</Text>
+      <Text>0. R. (Lieut.)</Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1582,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,7 +1616,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1946,7 +1948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hsrdcastle</Key>
-      <Text>, R, N. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, N. (Capt.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>

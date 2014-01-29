@@ -67,7 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oulton</Key>
-      <Text>.'S. (Capt.)</Text>
+      <Text>'S. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>, .H. I. (Capt.) ..</Text>
+      <Text>.H. I. (Capt.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Magee</Key>
-      <Text>, Capt. and Hon. Maj. i (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>i (resigned)</Text>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,22 +346,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, R; F. G. (2nd Lieut, super.)</Text>
+      <Forenames>R</Forenames>
+      <Text>; F. G. (2nd Lieut, super.)</Text>
       <PageNumber>5770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. A. (resigned)</Text>
       <PageNumber>4794</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boothy</Key>
-      <Text>,.R. C. (2nd Lieut.)</Text>
+      <Text>.R. C. (2nd Lieut.)</Text>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cary-Elwes</Key>
-      <Text>, C E. J. (Capt.) .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>E. J. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,14 +393,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilman</Key>
-      <Text>,oCapt. J. H. (resigned)</Text>
+      <Text>oCapt. J. H. (resigned)</Text>
       <PageNumber>5770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hillman</Key>
-      <Text>, .Capt. G. E. (resigned)</Text>
+      <Text>.Capt. G. E. (resigned)</Text>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,16 +441,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbot-Anderson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. M. (resigned) '</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. M. (resigned) '</Text>
       <PageNumber>5807</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fenner</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. (resigned) ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>, Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Text>, R, (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (Lieut.)</Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +984,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, Rev. H:B. (Capt.)</Text>
+      <Title>Rev.</Title>
+      <Forenames>H</Forenames>
+      <Text>:B. (Capt.)</Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +1001,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
-      <Text>, H: C. (Adj.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: C. (Adj.)</Text>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,8 +1150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godding</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>4794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,8 +1233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. G. (resigned)</Text>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,8 +1315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pare</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. W. (resigned)</Text>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,8 +1332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spokes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. P. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. P. S. (resigned)</Text>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1407,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrne</Key>
-      <Text>, Capt. and Instr. of Musketry S._C. (super.) .._</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry S._C. (super.) .._</Text>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Labouchere</Key>
-      <Text>, 2nd Lieut, C. E. E. (resigned)</Text>
+      <Text>2nd Lieut, C. E. E. (resigned)</Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,8 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggins</Key>
-      <Forenames>Or</Forenames>
-      <Text>.. F</Text>
+      <Title>Or.</Title>
+      <Text>. F</Text>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +13,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrington</Key>
-      <Text>, Bt. Hon. Earl</Text>
+      <Title>Bt. Hon. Earl .</Title>
       <PageNumber>2787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>.Maj.-Gen. J.T</Text>
+      <Text>Maj.-Gen. J.T</Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,8 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basing</Key>
-      <Title>Bt. Hon.</Title>
-      <Forenames>Baron</Forenames>
+      <Title>Bt. Hon. Baron .</Title>
       <PageNumber>8196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bnggs</Key>
-      <Text>. O.J</Text>
+      <Text>O.J</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,8 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paine</Key>
-      <Forenames>Or</Forenames>
-      <Text>. M</Text>
+      <Title>Or.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frrer</Key>
-      <Text>.O. H ..</Text>
+      <Text>O. H ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>, L: J. .. .. . .</Text>
+      <Forenames>L</Forenames>
+      <Text>: J. .. .. . .</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Afiworth</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewlett</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,8 +1306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>It</Forenames>
-      <Text>. E</Text>
+      <Title>It.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,14 +1472,14 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willon</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1530,14 +1530,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dacy</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hornibrbok</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>

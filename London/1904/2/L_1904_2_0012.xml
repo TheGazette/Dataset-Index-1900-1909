@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chancellor</Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +63,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>Lieut.-Col. (Local Col.) A. H., Companion of St. Michael and St</Text>
+      <Title>Lieut.-Col. (Local Col.)</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>, Companion of St. Michael and St</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dane</Key>
-      <Text>L; W., Companion of the Star of India</Text>
+      <Forenames>L</Forenames>
+      <Text>; W., Companion of the Star of India</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +202,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennistoun</Key>
-      <Text>Miss, Member of the League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Member of the League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebrington</Key>
-      <Text>Viscount, Lieut, and Custos Rotulorum of Devonshire</Text>
+      <Title>Viscount</Title>
+      <Text>, Lieut, and Custos Rotulorum of Devonshire</Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. J., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. J., Companion of the Bath</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,14 +454,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>C, Companion of the Imperial Service Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Imperial Service Order</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>Maj. C, Knight of Grace of St. John of Jerusalem</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Knight of Grace of St. John of Jerusalem</Text>
       <PageNumber>3185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +481,9 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Magens), Hon. Knight Commander, Royal Victorian Order .. .. ..</Text>
+      <Title>(Magens), Hon.</Title>
+      <Forenames>Knight</Forenames>
+      <Text>Commander, Royal Victorian Order .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>Earl of, Lieutenant and Custos Rotulorum of the West Riding of Yorkshire</Text>
+      <Title>Earl</Title>
+      <Text>of, Lieutenant and Custos Rotulorum of the West Riding of Yorkshire</Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>Lieut.-Col. and Hon.-Col. E. T., Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>-Col. E. T., Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>

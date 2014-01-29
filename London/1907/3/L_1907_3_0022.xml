@@ -147,14 +147,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Malyon</Key>
-      <Text>.T. E. (Capt.)</Text>
+      <Text>T. E. (Capt.)</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>,' J. P. (Maj.)</Text>
+      <Text>' J. P. (Maj.)</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,8 +317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyle</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. D. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. D. H. (resigned)</Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +343,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuyler</Key>
-      <Text>, Maj. Sir C, Bart, (retired)</Text>
+      <Title>Maj. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart, (retired)</Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wight</Key>
-      <Text>, 2nd Lieut, R, H. D. (seconded)</Text>
+      <Text>2nd Lieut, R, H. D. (seconded)</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodforde</Key>
-      <Text>, Lieut.-Col. and.Hon. Col. W. B. (resigned) .. '</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and.Hon. Col. W. B. (resigned) .. '</Text>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +860,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>6022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1005,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>, Earl of (Lieut.-Col. and to command) .. .. ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1189,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) .. ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

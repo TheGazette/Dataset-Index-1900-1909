@@ -93,7 +93,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donoughmore</Key>
-      <Text>Capt. Earl of (resigned)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +510,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Princess of Wales's Own ( Yorkshire Regiment). Bagshawe, E. G. C. (Lieut.)</Text>
+      <Title>Princess</Title>
+      <Text>of Wales's Own ( Yorkshire Regiment). Bagshawe, E. G. C. (Lieut.)</Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +637,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,8 +1400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchener</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Viscount, of Khartoum (Hon. Col.)</Text>
+      <Title>Gen. Viscount</Title>
+      <Text>, of Khartoum (Hon. Col.)</Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>Capt. andBrev. Maj. C. P. A</Text>
+      <Title>Capt.</Title>
+      <Text>andBrev. Maj. C. P. A</Text>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>

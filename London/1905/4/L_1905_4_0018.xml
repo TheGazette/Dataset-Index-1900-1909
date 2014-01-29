@@ -44,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Text>, .Lieut. B. H. (resigned)</Text>
+      <Text>.Lieut. B. H. (resigned)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,8 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>German</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. F. (resigned)</Text>
       <PageNumber>6708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. H. (resigned)</Text>
       <PageNumber>6866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,9 +430,8 @@
       <Key>
         <KeyDitto>___ '. ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.. Col. X. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Surg.</Title>
+      <Text>. Col. X. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parrington</Key>
-      <Text>, &gt;M. (Lieut.)</Text>
+      <Text>&gt;M. (Lieut.)</Text>
       <PageNumber>9175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +768,7 @@
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Aberdeenshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1078,7 +1077,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

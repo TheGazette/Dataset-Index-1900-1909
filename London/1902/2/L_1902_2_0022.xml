@@ -2,6 +2,14 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="022" pageID="https://www.thegazette.co.uk/id/London/index/year/1902/volume/2/page/022" pagePDF="https://www.thegazette.co.uk/London/index/year/1902/volume/2/page/022" pageRDF="https://www.thegazette.co.uk/London/index/year/1902/volume/2/page/022?view=linked-data" type="index" volume="2" year="1902">
   <ItemGroup>
     <MainItem>
+      <Key>Brevet</Key>
+      <Forenames>Majors</Forenames>
+      <Text>: Sweetman, M. J. J</Text>
+      <PageNumber>6902</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lieutenant-Generals</Key>
       <Text>: French, Sir J. D. P</Text>
       <PageNumber>6897</PageNumber>
@@ -48,7 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sugeon-Lieutenant-</Key>
-      <Text>Colonel: Orooke-Lawless, W. B</Text>
+      <Title>Colonel</Title>
+      <Text>: Orooke-Lawless, W. B</Text>
       <PageNumber>6900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +96,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Veterinary-Lieutenant-</Key>
-      <Text>Colonel: Forsdyke, F. W. .. .. ..</Text>
+      <Title>Colonel</Title>
+      <Text>: Forsdyke, F. W. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Veterinary</Key>
-      <Text>Captain: Carr, F. IT</Text>
+      <Title>Captain</Title>
+      <Text>: Carr, F. IT</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

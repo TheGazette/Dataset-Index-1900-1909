@@ -251,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +602,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Retired List)</Text>
+      <Title>(Retired List)</Title>
       <PageNumber>8114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,9 +620,10 @@
       <Forenames>H .</Forenames>
       <PageNumber>8267</PageNumber>
     </MainItem>
-    <SubSectionTitle>Fleet Surgeons</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Fleet Surgeons</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Fleet Surgeons.</Text>
       <PageNumber>8195</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -715,7 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Text>H, E, (antedated) Biden, E. J. (antedated) Bowden, W. Bowie, E. F. .. Bradley, C. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>, E, (antedated) Biden, E. J. (antedated) Bowden, W. Bowie, E. F. .. Bradley, C. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +726,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

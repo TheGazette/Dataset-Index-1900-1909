@@ -13,7 +13,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. Comdt.) .. ..</Text>
+      <Title>(Lieut.-Col. Comdt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Musgrave</Key>
-      <Text>Capt. and Instr. of Musketry . B. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry . B. (super.)</Text>
       <PageNumber>2349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +612,7 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>(temporary half-pay)</Text>
+      <Title>(temporary half-pay)</Title>
       <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>A, T. (temporary Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, T. (temporary Lieut.)</Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +805,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +847,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut)</Text>
+      <Title>(Lieut)</Title>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +927,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>Maj.-W. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>-W. (resigned)</Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +966,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmoreland</Key>
-      <Text>Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +976,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Earl of (correction)</Text>
+      <Title>Maj. Earl</Title>
+      <Text>of (correction)</Text>
       <PageNumber>1716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>S: H. S-. (2nd Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>: H. S-. (2nd Lieut.)</Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manders</Key>
-      <Text>Capt. aad Hon. Maj. H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>aad Hon. Maj. H. (seconded)</Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1539,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>

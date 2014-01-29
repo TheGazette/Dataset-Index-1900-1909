@@ -149,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boxall</Key>
-      <Text>,.2nd Lieut. A. P. (resigned)</Text>
+      <Text>.2nd Lieut. A. P. (resigned)</Text>
       <PageNumber>8646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrell</Key>
-      <Text>,. Lieut. J. H. .(resigned)</Text>
+      <Text>. Lieut. J. H. .(resigned)</Text>
       <PageNumber>8646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, 2nd Lieut, E. C. M. (resigned)</Text>
+      <Text>2nd Lieut, E. C. M. (resigned)</Text>
       <PageNumber>8646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>, J: E. (2nd Lieut. Buper.) ..</Text>
+      <Forenames>J</Forenames>
+      <Text>: E. (2nd Lieut. Buper.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boone</Key>
-      <Text>, 0. F. de B. (Capt.)</Text>
+      <Text>0. F. de B. (Capt.)</Text>
       <PageNumber>6295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holderness</Key>
-      <Text>, (Lieut. H. (antedated) .,'</Text>
+      <Text>(Lieut. H. (antedated) .,'</Text>
       <PageNumber>5591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacomb</Key>
-      <Text>, -Lieut. W. A. (antedated)</Text>
+      <Text>-Lieut. W. A. (antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>, Lieut.R. M. C. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>R. M. C. (antedated)</Text>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +537,7 @@
       <Key>
         <KeyDitto>——— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>,Capt. F. C. (antedated)</Text>
+      <Text>Capt. F. C. (antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maiden</Key>
-      <Text>, 2nd Lieut. Viscount (seconded)</Text>
+      <Title>2nd Lieut. Viscount (seconded)</Title>
       <PageNumber>8811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, 8. H. (Lieut.) .. .. ...</Text>
+      <Text>8. H. (Lieut.) .. .. ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +800,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. Comdt.)</Text>
+      <Title>(Lieut.-Col. Comdt.)</Title>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, .Capt. R. J. F. (seconded)</Text>
+      <Text>.Capt. R. J. F. (seconded)</Text>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humber</Key>
-      <Text>, Capt. and Hon.Maj (resigned)</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>Maj (resigned)</Text>
       <PageNumber>6513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,8 +1347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hannah</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. T. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saxby</Key>
-      <Text>, .R. (Lieut.)</Text>
+      <Text>.R. (Lieut.)</Text>
       <PageNumber>6648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,7 +1431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edge</Key>
-      <Text>, Capt. and Hon. Maj. T L. K. (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>T</Forenames>
+      <Text>L. K. (resigned)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,18 +1471,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritchard</Key>
-      <Title>Hon.</Title>
-      <Forenames>Assist</Forenames>
-      <Text>.-Surg. W. (retired)</Text>
+      <Title>Hon. Assist.</Title>
+      <Text>-Surg. W. (retired)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sparke</Key>
-      <Title>Hon.</Title>
-      <Forenames>Assist</Forenames>
-      <Text>.-Surg. G. W (retired)</Text>
+      <Title>Hon. Assist.</Title>
+      <Text>-Surg. G. W (retired)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,7 +1788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Text>, -Rev. -B.-A. (Acting Chap.)</Text>
+      <Text>-Rev. -B.-A. (Acting Chap.)</Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>

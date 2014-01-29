@@ -12,9 +12,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzHugh</Key>
-      <Title>Capt.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Capt. Or. (resigned)</Title>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +238,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +339,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +430,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +447,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +611,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +833,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,9 +975,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huband</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. T. A. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. T. A. (resigned)</Text>
       <PageNumber>6644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>, Qrmr., &amp;c, T. (resigned)</Text>
+      <Title>Qrmr.</Title>
+      <Text>, &amp;c, T. (resigned)</Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1256,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1311,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) 8S</Text>
+      <Title>(Capt.)</Title>
+      <Text>8S</Text>
       <PageNumber>39</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1388,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5336</PageNumber>
       <PageNumber>5508</PageNumber>
     </MainItem>
@@ -1397,14 +1396,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight-Eaton</Key>
-      <Text>,.H. (Lieut.)'</Text>
+      <Text>.H. (Lieut.)'</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knox-Little</Key>
-      <Text>, H, E.. (Lieut.) ... ' .. '</Text>
+      <Forenames>H</Forenames>
+      <Text>, E.. (Lieut.) ... ' .. '</Text>
       <PageNumber>4781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1829,7 +1829,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ _—. ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>6849</PageNumber>
     </MainItem>
   </ItemGroup>

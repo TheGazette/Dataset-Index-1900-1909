@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>, a. A. (Col.)</Text>
+      <Text>a. A. (Col.)</Text>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>,' J. (Hon. Capt.)</Text>
+      <Text>' J. (Hon. Capt.)</Text>
       <PageNumber>8555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatton</Key>
-      <Text>, Maj.-Gen. V: (retired pay).,</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>V</Forenames>
+      <Text>: (retired pay).,</Text>
       <PageNumber>8107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>,-F. H. (Maj.-Gen.)</Text>
+      <Text>-F. H. (Maj.-Gen.)</Text>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>,.Lieut.-Col. A. B. (retired)</Text>
+      <Text>.Lieut.-Col. A. B. (retired)</Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,15 +513,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>. Lieut.-Col. and Brevet Col. G. M. (retired)</Text>
+      <Text>Lieut.-Col. and Brevet Col. G. M. (retired)</Text>
       <PageNumber>8017</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>Lieufc</Forenames>
-      <Text>.-Col. and Brevet Col. A. ff. (retired)</Text>
+      <Title>Lieufc.</Title>
+      <Text>-Col. and Brevet Col. A. ff. (retired)</Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John. C. W. R. (Col.)</Text>
+      <Text>John. C. W. R. (Col.)</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>. G. F. (Hon. Cap,)</Text>
+      <Text>G. F. (Hon. Cap,)</Text>
       <PageNumber>9328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thapa</Key>
-      <Text>. B. (Hon. Capt.)</Text>
+      <Text>B. (Hon. Capt.)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ekure</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>. E</Text>
+      <Title>Sergt.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +877,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibi</Key>
-      <Text>, Private T</Text>
+      <Title>Private</Title>
+      <Forenames>T</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +929,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Esden</Key>
-      <Text>.A. H</Text>
+      <Text>A. H</Text>
       <PageNumber>8352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlater</Key>
-      <Text>, J ;</Text>
+      <Forenames>J</Forenames>
+      <Text>;</Text>
       <PageNumber>8247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>,.E. J</Text>
+      <Text>.E. J</Text>
       <PageNumber>8352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>, .G. A. J</Text>
+      <Text>.G. A. J</Text>
       <PageNumber>8016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molloy</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>8936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1051,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schafer</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1127,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .,</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .,</Text>
       <PageNumber>9766</PageNumber>
     </MainItem>
   </ItemGroup>

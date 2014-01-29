@@ -560,7 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Streatfeild</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coxor</Key>
-      <Text>, L. H. St. C</Text>
+      <Text>., L. H. St. C</Text>
       <PageNumber>6872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,8 +981,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Featherstone</Key>
+      <Forenames>W. J.</Forenames>
+      <PageNumber>5731</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Godbeer</Key>
-      <Forenames>Si</Forenames>
+      <Title>Si .</Title>
       <PageNumber>6450</PageNumber>
     </MainItem>
   </ItemGroup>

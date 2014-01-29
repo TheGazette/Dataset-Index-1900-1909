@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>2nd Lieut. Lord (resigned)</Text>
+      <Title>2nd Lieut. Lord (resigned)</Title>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +191,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fellowes</Key>
-      <Text>Hon. C C. (Lieut.)-</Text>
+      <Title>Hon.</Title>
+      <Forenames>C</Forenames>
+      <Text>C. (Lieut.)-</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,9 +209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howick</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Vdsct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>2nd Lieut. Vdsct. (resigned)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,17 +226,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Arran</Key>
-      <Forenames>Gapt</Forenames>
-      <Text>. and Brev. Maj. Earl of (resigned)</Text>
+      <Title>Gapt. and Brev. Maj. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Criehton</Key>
-      <Title>Capt.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Capt. Visct. (seconded)</Title>
       <PageNumber>2616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cpckburn</Key>
-      <Text>W: A. C. (Capt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: A. C. (Capt.)</Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +324,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>Capt. H: Pi (retired)'</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>: Pi (retired)'</Text>
       <PageNumber>2524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>2nd Lieut. II. H. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>II. H. (resigned)</Text>
       <PageNumber>2524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +497,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>Capt. Sir K&lt;. A., Bart, (retired)</Text>
+      <Title>Capt. Sir</Title>
+      <Forenames>K</Forenames>
+      <Text>&lt;. A., Bart, (retired)</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>

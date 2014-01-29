@@ -327,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkland</Key>
-      <Text>.j. A. (Capt.)</Text>
+      <Text>j. A. (Capt.)</Text>
       <PageNumber>6038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>,Lieut.-Col. and Hon. Col. T. P. (vacates the command)</Text>
+      <Text>Lieut.-Col. and Hon. Col. T. P. (vacates the command)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassillis</Key>
-      <Text>, Capt. Earl of (seconded) .,</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (seconded) .,</Text>
       <PageNumber>4277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +565,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buntine</Key>
-      <Text>, R, M. MacE. (Lieut.).. .:</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. MacE. (Lieut.).. .:</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +702,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +744,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beck</Key>
-      <Text>, C.H. (Hon. Col.)</Text>
+      <Text>C.H. (Hon. Col.)</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brundrit</Key>
-      <Text>. Capt. R. E. B. (resigned)</Text>
+      <Text>Capt. R. E. B. (resigned)</Text>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timmins</Key>
-      <Text>, Capt. (correction)</Text>
+      <Title>Capt. (correction)</Title>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1201,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1428,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,7 +1581,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,7 +1696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>, 2nd Lieut, J. E. (resigned)</Text>
+      <Text>2nd Lieut, J. E. (resigned)</Text>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>

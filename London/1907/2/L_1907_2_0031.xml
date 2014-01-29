@@ -206,7 +206,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>RhodeB</Key>
-      <Text>.-F. W. (2nd Lieut.) .</Text>
+      <Text>-F. W. (2nd Lieut.) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeley</Key>
-      <Text>, 0. St. G. (2nd Lieut.) ..</Text>
+      <Text>0. St. G. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,8 +410,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. H. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. H. P. (resigned)</Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,15 +534,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>,. W. R. (Lieut.-Col. and to command)</Text>
+      <Text>. W. R. (Lieut.-Col. and to command)</Text>
       <PageNumber>2416</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Lieut.-Col. .and Hon. Col. A. G. (resigned)</Text>
+      <Title>Super. Lieut.-Col.</Title>
+      <Text>.and Hon. Col. A. G. (resigned)</Text>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +567,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>,. L. H..(2nd Lieut.)</Text>
+      <Text>. L. H..(2nd Lieut.)</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +685,7 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>WESTMORELAND AND CUMBERLAND.</SubCategoryTitle>
+  <SubCategoryTitle>CUMBERLAND.</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -700,7 +700,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. super.)</Text>
+      <Title>(Capt. super.)</Title>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,8 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludlow</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. Lord (resigned)</Text>
+      <Title>Super. Capt. Lord (resigned)</Title>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +745,8 @@
       <Key>
         <KeyDitto>___ . . ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) .,</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,8 +755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beilby</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. H. (resigned)</Text>
       <PageNumber>2333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +824,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clough-Taylor</Key>
-      <Text>, 2nd. Lieut. E. L. F. (removed)</Text>
+      <Text>2nd. Lieut. E. L. F. (removed)</Text>
       <PageNumber>3307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, J; (2nd-Lieut.-)</Text>
+      <Forenames>J</Forenames>
+      <Text>; (2nd-Lieut.-)</Text>
       <PageNumber>2418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, 2nd Lieut(removed)</Text>
+      <Text>2nd Lieut(removed)</Text>
       <PageNumber>3307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Text>, Earl, Aide-de-Camp to His Majesty, and Col</Text>
+      <Title>Earl</Title>
+      <Text>, Aide-de-Camp to His Majesty, and Col</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -67,8 +67,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Forenames>Or</Forenames>
-      <Text>. V</Text>
+      <Title>Or.</Title>
+      <Forenames>V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilly</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Acworth</Key>
-      <Text>, D; H</Text>
+      <Forenames>D</Forenames>
+      <Text>; H</Text>
       <PageNumber>969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Forenames>Archibald</Forenames>
+      <Title>Archibald .</Title>
       <PageNumber>970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Text>, II. L</Text>
+      <Text>II. L</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomes</Key>
-      <Forenames>Geoffrey</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Geoffrey .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___ ___ ___ .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +723,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, Col. E</Text>
+      <Title>Col.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Text>, II. J. S., Inspector of Gymnasia .. .. ..</Text>
+      <Text>II. J. S., Inspector of Gymnasia .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,8 +1178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morison</Key>
-      <Forenames>John</Forenames>
-      <Text>..</Text>
+      <Title>John .</Title>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,8 +1239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>John</Forenames>
-      <Text>..</Text>
+      <Title>John .</Title>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,7 +1317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kiddle</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,7 +1404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simon</Key>
-      <Text>, JR... .. .. ..</Text>
+      <Text>JR... .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

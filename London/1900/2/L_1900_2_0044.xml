@@ -178,8 +178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. H. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. H. A. (resigned)</Text>
       <PageNumber>4129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +272,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Searight</Key>
-      <Text>, Lieut. J; G. L. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>; G. L. (antedated)</Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +350,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +497,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackenbury</Key>
-      <Text>,. E. A. (temporary Lieut.)</Text>
+      <Text>. E. A. (temporary Lieut.)</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>

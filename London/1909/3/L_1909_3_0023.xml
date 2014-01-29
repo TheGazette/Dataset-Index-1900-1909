@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoyle</Key>
-      <Text>, 'C. F. (2nd Lieut.) '</Text>
+      <Text>'C. F. (2nd Lieut.) '</Text>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>, ,T. W. (Surg.-Capt.)</Text>
+      <Text>,T. W. (Surg.-Capt.)</Text>
       <PageNumber>6879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pole</Key>
-      <Text>, T). Or. (Capt.)</Text>
+      <Forenames>T</Forenames>
+      <Text>). Or. (Capt.)</Text>
       <PageNumber>5466</PageNumber>
       <PageNumber>6665</PageNumber>
     </MainItem>
@@ -332,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp</Key>
-      <Text>,(Qrmr. and Hon. Maj. T.W. (resigned) ' .. '</Text>
+      <Text>(Qrmr. and Hon. Maj. T.W. (resigned) ' .. '</Text>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +479,6 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>I '..hi:;' ..</SubCategoryTitle>
   <SubSectionTitle>The Buffs (East Kent Regiment)</SubSectionTitle>
   <SubSectionTitle>4tA Battalion</SubSectionTitle>
   <ItemGroup>
@@ -508,7 +508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hbrdern</Key>
-      <Text>, Capt.. J. E. C. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. J. E. C. (resigned)</Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Text>,' P. St. G. (2nd Lieut.) ..</Text>
+      <Text>' P. St. G. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +574,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunluce</Key>
-      <Text>, (2nd Lieut.) Yiscounfc (resigned)</Text>
+      <Title>(2nd Lieut.)</Title>
+      <Forenames>Yiscounfc</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Text>, 2ridLieut:F. (resigned) ;.'</Text>
+      <Text>2ridLieut:F. (resigned) ;.'</Text>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, Lieut. ~W. B.' (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>~W. B.' (resigned)</Text>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angell</Key>
-      <Text>,.T. P.' (Lieut.-Col. and Hon. Cel.) '</Text>
+      <Text>.T. P.' (Lieut.-Col. and Hon. Cel.) '</Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +976,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. S. S. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. S. S. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1187,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) .. .. *.. ' V.</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.. .. *.. ' V.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

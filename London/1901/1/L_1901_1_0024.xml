@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knollya</Key>
-      <Text>,Sir F., Private Secretary to His ' Majesty the Kin? .. :</Text>
+      <Text>Sir F., Private Secretary to His ' Majesty the Kin? .. :</Text>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langman</Key>
-      <Text>, J: L., Knight of Grace of St. John of Jerusalem</Text>
+      <Forenames>J</Forenames>
+      <Text>: L., Knight of Grace of St. John of Jerusalem</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,15 +152,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>. T , Victoria Cross</Text>
+      <Title>Sergt.</Title>
+      <Forenames>T</Forenames>
+      <Text>, Victoria Cross</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Loye</Key>
-      <Text>, Maj:-Gen. A. H., Commander of the Royal Victorian Order</Text>
+      <Title>Maj</Title>
+      <Text>:-Gen. A. H., Commander of the Royal Victorian Order</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Legge</Key>
-      <Text>,' Lieut.-Col. Hon. H. C, Commander of the Royal Victorian Order</Text>
+      <Text>' Lieut.-Col. Hon. H. C, Commander of the Royal Victorian Order</Text>
       <PageNumber>1146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>,' Lord, a Privy Councillor</Text>
+      <Text>' Lord, a Privy Councillor</Text>
       <PageNumber>3122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lessard</Key>
-      <Text>,. Lieut.-Col. F., Companion of . St. Michael and St, George</Text>
+      <Text>. Lieut.-Col. F., Companion of . St. Michael and St, George</Text>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,15 +307,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsell</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.rCoh R. F., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>rCoh R. F., Companion of the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>, Lord, SerjeantSurgeon in Ordinary to His Majesty</Text>
+      <Title>Lord</Title>
+      <Text>, SerjeantSurgeon in Ordinary to His Majesty</Text>
       <PageNumber>1414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>, Maj.i G.c-H.,Companion, of the Order of the Indian Empire</Text>
+      <Title>Maj.</Title>
+      <Text>i G.c-H.,Companion, of the Order of the Indian Empire</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,8 +405,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Post</Forenames>
-      <Text>. master General</Text>
+      <Title>Post.</Title>
+      <Text>master General</Text>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luitpold</Key>
-      <Text>, Prince, Regent of Bavaria, Knight Grand Cross (Honorary) of the Bath</Text>
+      <Title>Prince</Title>
+      <Text>, Regent of Bavaria, Knight Grand Cross (Honorary) of the Bath</Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>, Maj.-Gen.. H. A., Knight Commander of the Bath</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>. H. A., Knight Commander of the Bath</Text>
       <PageNumber>2695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +665,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenzie</Key>
-      <Text>, Maj. I)., Companion of St. -Michael and St. George .. .-</Text>
+      <Title>Maj.</Title>
+      <Forenames>I</Forenames>
+      <Text>)., Companion of St. -Michael and St. George .. .-</Text>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +833,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Text>, Duke of, a Privy Councillor</Text>
+      <Title>Duke</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,8 +897,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Col. I., Companion of the Bath</Text>
+      <Title>Vet.</Title>
+      <Text>-Col. I., Companion of the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +915,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxim</Key>
-      <Text>, H, S., knighted</Text>
+      <Forenames>H</Forenames>
+      <Text>, S., knighted</Text>
       <PageNumber>1145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +989,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Text>Lieut.-Gen. Lord, Knight Commander of the Bath</Text>
+      <Title>Lieut.-Gen. Lord</Title>
+      <Text>, Knight Commander of the Bath</Text>
       <PageNumber>2695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1080,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, Lieut.-Col: G. A., Companion of ' the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col: G. A., Companion of ' the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>1575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mount-Edgcumbe</Key>
-      <Text>, Earl of, to be of the Council of H.R.H. the Duke of Cornwall and York</Text>
+      <Title>Earl</Title>
+      <Text>of, to be of the Council of H.R.H. the Duke of Cornwall and York</Text>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>

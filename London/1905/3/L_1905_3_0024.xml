@@ -46,8 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raywood</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. R. I. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. R. I. (resigned)</Text>
       <PageNumber>5979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,8 +83,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forestier-Walker</Key>
-      <Forenames>Gen</Forenames>
-      <Text>.SirF. W. E. F. (Col.)</Text>
+      <Title>Gen.</Title>
+      <Text>SirF. W. E. F. (Col.)</Text>
       <PageNumber>6196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>.D. (Lieut.)</Text>
+      <Text>D. (Lieut.)</Text>
       <PageNumber>6476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northesk</Key>
-      <Text>, Earl of (Hon. Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Lieut.-Col.)</Text>
       <PageNumber>5378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>. Rev. V. (Acting Chap.)</Text>
+      <Text>Rev. V. (Acting Chap.)</Text>
       <PageNumber>4904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>. Lieut.-Col. and Hon. Col. J. C. (resigned)</Text>
+      <Text>Lieut.-Col. and Hon. Col. J. C. (resigned)</Text>
       <PageNumber>6198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chetwood-Aiken</Key>
-      <Text>. H. F. C. (Capt.)</Text>
+      <Text>H. F. C. (Capt.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Popham</Key>
-      <Text>, JI. C. V. (2nd Lieut.)</Text>
+      <Text>JI. C. V. (2nd Lieut.)</Text>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1078,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Valletort</Key>
-      <Text>, Viscount (Lieut.-Col. and to command) .. .. ..</Text>
+      <Title>Viscount (Lieut.-Col. and to command)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,8 +1112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C. R. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C. R. (correction)</Text>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidgey</Key>
-      <Text>, VV. (Hon. Maj.)</Text>
+      <Text>VV. (Hon. Maj.)</Text>
       <PageNumber>5979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, Maj, H. W. W. (retired)</Text>
+      <Title>Maj</Title>
+      <Text>, H. W. W. (retired)</Text>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>

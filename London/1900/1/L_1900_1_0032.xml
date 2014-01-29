@@ -1114,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crofton</Key>
-      <Text>R B. (Divisional Adj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>B. (Divisional Adj.)</Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1202,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>Capt. M J. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>M</Forenames>
+      <Text>J. C. (seconded)</Text>
       <PageNumber>1711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeth</Key>
-      <Text>C J. D. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>J. D. (Capt.)</Text>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1567,7 +1571,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, C. D. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. D. (2nd Lieut.)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1718,7 +1723,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvest</Key>
-      <Text>Capt. H H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>H. (seconded)</Text>
       <PageNumber>1711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1805,7 +1812,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, M. (Capt,)</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. (Capt,)</Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1936,7 +1944,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton-Squire</Key>
-      <Text>R, H. E. (2nd Lieut,)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. E. (2nd Lieut,)</Text>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>

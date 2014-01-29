@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northcote</Key>
-      <Text>L? A. (2ud Lieut.)</Text>
+      <Forenames>L</Forenames>
+      <Text>? A. (2ud Lieut.)</Text>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>6413</PageNumber>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -58,7 +59,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>6413</PageNumber>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -331,7 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Text>Col. C C. (Comdt.)</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>C. (Comdt.)</Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,8 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith-Rewse</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brev. Col. H. W. (Assist. Comdt. and Col.)</Text>
+      <Title>Lt.-Col. and Brev. Col.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(Assist. Comdt. and Col.)</Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +475,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instructor)</Text>
+      <Title>(Instructor)</Title>
       <PageNumber>8512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jerram</Key>
-      <Text>Hon. 'Capt. H. (retired pay) ..</Text>
+      <Title>Hon.</Title>
+      <Text>'Capt. H. (retired pay) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,9 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Title>Lady</Title>
-      <Forenames>Supt</Forenames>
-      <Text>. of Nurses Mrs. H. C. (retired)</Text>
+      <Title>Lady Supt.</Title>
+      <Text>of Nurses Mrs. H. C. (retired)</Text>
       <PageNumber>8760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1081,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1115,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Qrmr. and Hon. Lieut. W, M. (retired pay)</Text>
+      <Title>Qrmr. and Hon. Lieut.</Title>
+      <Forenames>W</Forenames>
+      <Text>, M. (retired pay)</Text>
       <PageNumber>7537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eisner</Key>
-      <Text>O: W. A. (Capt.)</Text>
+      <Forenames>O</Forenames>
+      <Text>: W. A. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

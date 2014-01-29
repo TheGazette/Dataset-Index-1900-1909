@@ -52,7 +52,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alirovd</Key>
-      <Text>2nd Lieut. R, (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, (resigned)</Text>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>1225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>EDesmore</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +386,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) .. ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddington</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harehood</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harlech</Key>
-      <Text>Lord (Hon. Col.) .,</Text>
+      <Title>Lord (Hon. Col.)</Title>
+      <Text>.,</Text>
       <PageNumber>1662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +535,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heap</Key>
-      <Text>Capt. ,T. A. B. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>,T. A. B. (resigned)</Text>
       <PageNumber>2499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>R. M. (Lieut.)</Text>
+      <Text>. R. M. (Lieut.)</Text>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +646,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +722,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Surg.-Capt.)</Text>
+      <Title>(Surg.-Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petr</Key>
-      <Text>it, C. E. (Lieut.)</Text>
+      <Text>.it, C. E. (Lieut.)</Text>
       <PageNumber>1573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>Marquis of (Lieut.-Col. Commandant</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. Commandant</Text>
       <PageNumber>1225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1175,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, E. (Surg.-Lieut.-Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (Surg.-Lieut.-Col.)</Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,11 +1200,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeatm</Key>
-      <Text>an, Lieut. L. L. (resigned)</Text>
+      <Text>.an, Lieut. L. L. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Lie.utenant-General</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -1209,7 +1219,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>Maj.-Gen. R, A. C</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>R</Forenames>
+      <Text>, A. C</Text>
       <PageNumber>2353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>P. N</Text>
+      <Text>. P. N</Text>
       <PageNumber>835</PageNumber>
     </MainItem>
   </ItemGroup>

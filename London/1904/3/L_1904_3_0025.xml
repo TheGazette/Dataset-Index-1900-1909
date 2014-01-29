@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, G-. (Qrmr.)</Text>
+      <Text>G-. (Qrmr.)</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrar</Key>
-      <Text>,W. H. (Capt.)</Text>
+      <Text>W. H. (Capt.)</Text>
       <PageNumber>5489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +154,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt..)</Text>
+      <Title>(Capt..)</Title>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, Capt. and Instr.of Musketry H. M. G. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. M. G. (resigned)</Text>
       <PageNumber>4563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, Capt.' G. B. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>' G. B. (retired)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Text>,' Lieut.-Col. Comdt. and Hon. Col. R. H. (resigned)</Text>
+      <Text>' Lieut.-Col. Comdt. and Hon. Col. R. H. (resigned)</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langford</Key>
-      <Text>, V: H. E. (2nd Lieut.)</Text>
+      <Forenames>V</Forenames>
+      <Text>: H. E. (2nd Lieut.)</Text>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manvers</Key>
-      <Text>, Earl (Hon. Col.) '</Text>
+      <Title>Earl (Hon. Col.)</Title>
+      <Text>'</Text>
       <PageNumber>5700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Layard</Key>
-      <Text>, AV. T. (dipt.) '</Text>
+      <Text>AV. T. (dipt.) '</Text>
       <PageNumber>5417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, j. W. (Hon. Maj.)</Text>
+      <Text>j. W. (Hon. Maj.)</Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1203,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

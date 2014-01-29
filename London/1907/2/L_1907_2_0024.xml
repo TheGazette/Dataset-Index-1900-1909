@@ -3,14 +3,14 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>,. D. A. (2nd Lieut.)</Text>
+      <Text>. D. A. (2nd Lieut.)</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>.T. W, (Lieut.)</Text>
+      <Text>T. W, (Lieut.)</Text>
       <PageNumber>8531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>. G. H. M. (2nd Lieut.)</Text>
+      <Text>G. H. M. (2nd Lieut.)</Text>
       <PageNumber>2816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, J: T. (Capt.) ..</Text>
+      <Forenames>J</Forenames>
+      <Text>: T. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulwer</Key>
-      <Text>. E. A. E. (Hon. Lieut.-Col.)</Text>
+      <Text>E. A. E. (Hon. Lieut.-Col.)</Text>
       <PageNumber>2416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +817,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +842,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyer</Key>
-      <Text>,.C. P, (Lieut,)</Text>
+      <Text>.C. P, (Lieut,)</Text>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1222,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuyler</Key>
-      <Text>, Sir C, Bart. (Maj.) ..</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrie</Key>
-      <Text>,J. C. (Instr. of Musketry)</Text>
+      <Text>J. C. (Instr. of Musketry)</Text>
       <PageNumber>2814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1346,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>

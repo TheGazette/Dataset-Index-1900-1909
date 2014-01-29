@@ -100,7 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, 0. W. (Hon. Lieut.-Col.) ..</Text>
+      <Text>0. W. (Hon. Lieut.-Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>, D&lt; M. (Surg.-Capt.) ..</Text>
+      <Forenames>D</Forenames>
+      <Text>&lt; M. (Surg.-Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +205,7 @@
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. STAFFORDSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>STAFFORDSHIRE</SubCategoryTitle>
   <SectionTitle>(Queen's Own Royal Regiment.) Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -462,7 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarborough</Key>
-      <Text>, Col., Earl of (retired)</Text>
+      <Title>Col., Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>, Lieut.-Col. and Hon. CoL Duke of, Aide-de-Cauip to the King and Col</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>CoL Duke of, Aide-de-Cauip to the King and Col</Text>
       <PageNumber>3885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, C»pt. and Hon. Maj. A. T</Text>
+      <Forenames>C</Forenames>
+      <Text>»pt. and Hon. Maj. A. T</Text>
       <PageNumber>4170</PageNumber>
     </MainItem>
   </ItemGroup>

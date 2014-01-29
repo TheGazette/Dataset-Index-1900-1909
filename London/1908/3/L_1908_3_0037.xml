@@ -148,8 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl (Hon. Col.)</Title>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Levan, Lord (Hon. Col.)</Text>
+      <Text>. Levan, Lord (Hon. Col.)</Text>
       <PageNumber>7031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +829,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewan</Key>
-      <Text>T G. (Lieut.-Col. and Hon. Col</Text>
+      <Forenames>T</Forenames>
+      <Text>G. (Lieut.-Col. and Hon. Col</Text>
       <PageNumber>7031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1013,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1039,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chandler</Key>
-      <Text>A. L. (2nd Lieut.)</Text>
+      <Text>. A. L. (2nd Lieut.)</Text>
       <PageNumber>5136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>W. B. (Adj.)</Text>
+      <Text>. W. B. (Adj.)</Text>
       <PageNumber>6149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1262,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) .. ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

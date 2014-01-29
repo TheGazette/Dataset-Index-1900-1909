@@ -242,7 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitmore</Key>
-      <Text>, Capt. G F., 3rd (Cambridgeshire) Volunteer Battalion, the Suffolk Regiment .. .. .. —</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
+      <Text>F., 3rd (Cambridgeshire) Volunteer Battalion, the Suffolk Regiment .. .. .. —</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +280,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>(West Yorkshire Regiment).. ..</Text>
+      <Title>(West Yorkshire Regiment)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +724,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, Lieut. H, lst Volunteer Battalion, the Prince of Wales's (North Staffordshire Regiment) .. ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H</Forenames>
+      <Text>, lst Volunteer Battalion, the Prince of Wales's (North Staffordshire Regiment) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,15 +787,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearer</Key>
-      <Text>, jun., Lieut. J., 2nd Volunteer Battalion, the Highland Light Infantry .. .. .. .. .. ——</Text>
+      <Text>jun., Lieut. J., 2nd Volunteer Battalion, the Highland Light Infantry .. .. .. .. .. ——</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pollok</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R,, M.B., 3rd (the Blythswood) Volunteer Battalion (the Highland Light Infantry) .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R,, M.B., 3rd (the Blythswood) Volunteer Battalion (the Highland Light Infantry) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>Rev.' J. A. (Acting Chap.)</Text>
+      <Title>Rev.</Title>
+      <Text>' J. A. (Acting Chap.)</Text>
       <PageNumber>5790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. P. E. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. P. E. (resigned)</Text>
       <PageNumber>4525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>Lieut.-Col. commanding F. W. (resigned) .. .. .. ..</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>commanding F. W. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +321,7 @@
       <PageNumber>5601</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Clyde Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -398,8 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carne-Hill</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. W. J. (vacates as Transport Officer).,</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. W. J. (vacates as Transport Officer).,</Text>
       <PageNumber>4908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,9 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCrae</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Gt</Forenames>
-      <Text>. (super.)</Text>
+      <Title>Lieut.-Col. Gt. (super.)</Title>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. R. W. (Brig.Maj.)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. R. W. (Brig.Maj.)</Text>
       <PageNumber>5156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranworth</Key>
-      <Text>Lieut. Lord, Aide-doCamp to Col. Earl of Albemarle</Text>
+      <Title>Lieut. Lord</Title>
+      <Text>, Aide-doCamp to Col. Earl of Albemarle</Text>
       <PageNumber>4745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlater</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Q.rmr. and Hon. Capt. A. K. (to command the ' Army Service Corps Company)</Text>
+      <Title>Super.</Title>
+      <Text>-Q.rmr. and Hon. Capt. A. K. (to command the ' Army Service Corps Company)</Text>
       <PageNumber>5543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,8 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. F. J. (Senior Medical Officer)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. F. J. (Senior Medical Officer)</Text>
       <PageNumber>4358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +594,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>Maj.-Hon. J. H. R. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>-Hon. J. H. R. (retired)</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalmeny</Key>
-      <Text>2nd Lieut. Lord (resigned)</Text>
+      <Title>2nd Lieut. Lord (resigned)</Title>
       <PageNumber>5349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,15 +796,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Beevor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. C. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. C. (seconded)</Text>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falconer</Key>
-      <Text>Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>5349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heriot-Maitland</Key>
-      <Text>Capt. andBrev. Maj. J. C. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>andBrev. Maj. J. C. (resigned)</Text>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +877,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>Capt. R, P. D. S. (resigned) .. .... '</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, P. D. S. (resigned) .. .... '</Text>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>Maj.. P. K. H. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>. P. K. H. (resigned)</Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +955,6 @@
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IMPERIAL YEOMANRY DEP6T</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
@@ -1092,8 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddall</Key>
-      <Forenames>If</Forenames>
-      <Text>. (2nd Lieut, super.) ..</Text>
+      <Title>If. (2nd Lieut, super.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

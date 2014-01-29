@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodgate</Key>
-      <Text>Maj.-Gen. fi. R. P., Knight Commander of the Order of St. . Michael and St. George</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>fi. R. P., Knight Commander of the Order of St. . Michael and St. George</Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>G; R. (2nd Lieut.) .. ..</Text>
+      <Forenames>G</Forenames>
+      <Text>; R. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,8 +669,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Acheson</Key>
-      <Forenames>Visct</Forenames>
-      <Text>., Aide-de-Camp to Maj.Gen. G. T. Pretyman</Text>
+      <Title>Visct.</Title>
+      <Text>, Aide-de-Camp to Maj.Gen. G. T. Pretyman</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +905,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brabazon</Key>
-      <Text>Col. (local Maj.-Gen.) J. P., to superintend the organization and equipment of the Imperial Yeomanry, South Africa</Text>
+      <Title>Col. (local Maj.-Gen.)</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>, to superintend the organization and equipment of the Imperial Yeomanry, South Africa</Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +916,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj.-Geu. J. P. (correction)</Text>
+      <Title>Maj.</Title>
+      <Text>-Geu. J. P. (correction)</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1060,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesham</Key>
-      <Text>Lord, Brig.-Gen. to command</Text>
+      <Title>Lord, Brig.-Gen.</Title>
+      <Text>to command</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,8 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohnaught</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. H.R.H. the Duke of, Gen. on the Staff to command the Forces in Ireland</Text>
+      <Title>Gen. H.R.H.</Title>
+      <Text>the Duke of, Gen. on the Staff to command the Forces in Ireland</Text>
       <PageNumber>289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Text>C, Assist. Adj.-Gen. for Recruitine at Head-Quarters</Text>
+      <Forenames>C</Forenames>
+      <Text>, Assist. Adj.-Gen. for Recruitine at Head-Quarters</Text>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundonald</Key>
-      <Text>Earl of, Maj.-Gen</Text>
+      <Title>Earl</Title>
+      <Text>of, Maj.-Gen</Text>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,7 +1388,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj.-Gen. Earl of, Col. commanding an Irregular Brigade -</Text>
+      <Title>Maj.-Gen. Earl</Title>
+      <Text>of, Col. commanding an Irregular Brigade -</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erroll</Key>
-      <Text>Earl of, Assist. Adj.-Gen., Cavalry Division, South Africa</Text>
+      <Title>Earl</Title>
+      <Text>of, Assist. Adj.-Gen., Cavalry Division, South Africa</Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1439,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Brig.-Gen. to command</Text>
+      <Title>Brig.-Gen.</Title>
+      <Text>to command</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>

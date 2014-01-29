@@ -133,8 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant-Johnston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (cancellation)</Text>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>Lieut.-Col., Commandant and Hon. Col. C. H. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>, Commandant and Hon. Col. C. H. (resigned)</Text>
       <PageNumber>2482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +539,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +615,15 @@
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Burrows, Acting Chap. Rev. W. O</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Burrows</Key>
+      <Title>Acting Chap. Rev.</Title>
+      <Forenames>W. O.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3268</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howlden</Key>
@@ -921,7 +930,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrasford</Key>
-      <Text>G, A. (Hon. Maj.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, A. (Hon. Maj.)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -97,7 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clothieri</Key>
-      <Text>R; F</Text>
+      <Forenames>R</Forenames>
+      <Text>; F</Text>
       <PageNumber>8094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,8 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Even</Key>
-      <Forenames>Ot</Forenames>
-      <Text>. E</Text>
+      <Title>Ot.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, WJuG.</Text>
+      <Text>WJuG.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1072,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minchin</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullmore</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. C. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. C. (resigned)</Text>
       <PageNumber>8550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,8 +55,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goulston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. (resigned)</Text>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Comerforcl</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt M. H. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt M. H. (resigned)</Text>
       <PageNumber>9376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,8 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Yet</Forenames>
-      <Text>.rCapt. P. (resigned)</Text>
+      <Title>Yet.</Title>
+      <Text>rCapt. P. (resigned)</Text>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,8 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carleton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. S. (resigned)</Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,24 +294,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Desprez</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. S. (resigned)</Text>
       <PageNumber>9471</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. B. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. B. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. A. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. A. H. (resigned)</Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,8 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. J. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. J. J. (resigned)</Text>
       <PageNumber>8550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,25 +496,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Title>Hon. Col. Field-Marshal</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl (resigned)</Text>
+      <Title>Hon. Col. Field-Marshal Rt. Hon. Earl (resigned)</Title>
       <PageNumber>9471</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beddard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. O. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. O. (resigned)</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. M. (resigned)</Text>
       <PageNumber>9566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddow</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. (resigned)</Text>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,8 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Draper</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. W. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. W. (retired)</Text>
       <PageNumber>9663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,8 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teacher</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. H. (resigned)</Text>
       <PageNumber>7481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,8 +965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. F. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. F. R. (resigned)</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,8 +981,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. M. (resigned)</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peokham</Key>
-      <Text>, 2nd Lieut, T. W. (resigned)</Text>
+      <Text>2nd Lieut, T. W. (resigned)</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn-Gardner</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7472</PageNumber>
     </MainItem>
   </ItemGroup>

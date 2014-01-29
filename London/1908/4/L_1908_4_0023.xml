@@ -73,8 +73,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Lie</Forenames>
-      <Text>.t. W. C. (resigned)</Text>
+      <Title>Lie .</Title>
+      <Text>t. W. C. (resigned)</Text>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +116,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>9028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwood</Key>
-      <Text>. Capt. W. J. P. (resigned)</Text>
+      <Text>Capt. W. J. P. (resigned)</Text>
       <PageNumber>7929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, C H. (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>H. (2nd Lieut.)</Text>
       <PageNumber>7383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. B. (resigned)</Text>
       <PageNumber>8283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Castletown</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +898,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon. Col. Lord (retired) .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (retired)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

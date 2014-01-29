@@ -316,8 +316,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spurgin</Key>
-      <Forenames>Bre</Forenames>
-      <Text>. C&gt;1. J. H. (Col. to command the 63rd Be°imental District)</Text>
+      <Title>Bre.</Title>
+      <Forenames>C</Forenames>
+      <Text>&gt;1. J. H. (Col. to command the 63rd Be°imental District)</Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +851,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>

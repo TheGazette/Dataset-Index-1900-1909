@@ -39,7 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Theobald</Key>
-      <Text>, Lieut. BT. C. W. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>BT. C. W. (seconded)</Text>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +137,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>, 2nd Lieut, R, T. (seconded)</Text>
+      <Text>2nd Lieut, R, T. (seconded)</Text>
       <PageNumber>2779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seton</Key>
-      <Text>, 0. H. (Capt.)</Text>
+      <Text>0. H. (Capt.)</Text>
       <PageNumber>3034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +919,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deerhurst</Key>
-      <Text>, Lieut.-Col. Viscount (resigned)</Text>
+      <Title>Lieut.-Col. Viscount (resigned)</Title>
       <PageNumber>2298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,8 +975,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. N. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. N. (retired)</Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>, Lieut.-Col. and Brev.-Col. R. H. W. H. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. R. H. W. H. (half-pay)</Text>
       <PageNumber>1061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Text>, Capt. and Instr. of Musketry . C. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry . C. (resigned)</Text>
       <PageNumber>8131</PageNumber>
     </MainItem>
   </ItemGroup>

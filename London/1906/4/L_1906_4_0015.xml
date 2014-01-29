@@ -98,16 +98,16 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King, H.M., Colonel-in-Chief</Text>
+      <Title>King</Title>
+      <Text>, H.M., Colonel-in-Chief</Text>
       <PageNumber>7552</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nuffield</Key>
-      <Title>Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Walter, C. H. (Hon. Maj.)</Text>
+      <Title>Col. Rt. Hon. Lord</Title>
+      <Text>(Hon. Walter, C. H. (Hon. Maj.)</Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodridge</Key>
-      <Text>A. (Lieut.)</Text>
+      <Text>. A. (Lieut.)</Text>
       <PageNumber>7372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +830,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

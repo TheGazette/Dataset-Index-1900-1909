@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,16 @@
       <Key>Walker</Key>
       <Title>Hon.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, S. M. (Commissary) ibid. ' Waring, Maj. H. (Ord. Officer, 3rd Class)</Text>
+      <Text>, S. M. (Commissary)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Waring</Key>
+      <Title>Maj.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Ord. Officer, 3rd Class)</Text>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,8 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. A. F. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. A. F. (retired pay)</Text>
       <PageNumber>3384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,8 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. D. L. (ceases to belong to the Army Medical Reserve)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. D. L. (ceases to belong to the Army Medical Reserve)</Text>
       <PageNumber>2604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,16 +818,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Shedd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. E. (ceasej to belong to the Army Medical Reserve)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. E. (ceasej to belong to the Army Medical Reserve)</Text>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. F. (ceases to belong to the Army Medical Reserve)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. F. (ceases to belong to the Army Medical Reserve)</Text>
       <PageNumber>3093</PageNumber>
     </MainItem>
   </ItemGroup>

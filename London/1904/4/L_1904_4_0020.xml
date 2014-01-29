@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elbrow</Key>
-      <Text>, G-. L. S. (Lieut.)</Text>
+      <Text>G-. L. S. (Lieut.)</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>, VV.B. fLieut.) .. ..</Text>
+      <Text>VV.B. fLieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>, a. (Capt.)</Text>
+      <Text>a. (Capt.)</Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +361,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Text>, Capt. and Instr. of Musketry D. M. (vacates appointment)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry D. M. (vacates appointment)</Text>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gr. (2nd Lieut.)</Title>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +689,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godman</Key>
-      <Text>, Maj. and Hon. Lieut..Col. C, B. (retired) .. .. ..</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>.Col. C, B. (retired) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, 8. G. (2nd Lieut.)</Text>
+      <Text>8. G. (2nd Lieut.)</Text>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,8 +848,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownfield</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. M. (Supy.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. M. (Supy.)</Text>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, DA, L. (Lieut.) ... ..</Text>
+      <Text>DA, L. (Lieut.) ... ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,14 +1023,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Text>, 0. M. T. (Lieut.)</Text>
+      <Text>0. M. T. (Lieut.)</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>,-Capt. H. S. (seconded)</Text>
+      <Text>-Capt. H. S. (seconded)</Text>
       <PageNumber>7368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, WC. (Lieut.) .. ..</Text>
+      <Text>WC. (Lieut.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

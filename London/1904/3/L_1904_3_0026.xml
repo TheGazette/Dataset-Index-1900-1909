@@ -314,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>.C. H. (MajO</Text>
+      <Text>C. H. (MajO</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +417,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. .and Hon. Lieut.-Col. J. (resigned) .. .. ..</Text>
+      <Title>Maj.</Title>
+      <Text>.and Hon. Lieut.-Col. J. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Percy-Smith</Key>
-      <Text>, Capt.. D. C. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>. D. C. (antedated)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. Lieut. G. (resigned)</Text>
+      <Text>Lieut. G. (resigned)</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>

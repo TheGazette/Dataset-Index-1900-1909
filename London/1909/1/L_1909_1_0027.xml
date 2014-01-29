@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>v, J. (2nd Lieut.)</Text>
+      <Text>.v, J. (2nd Lieut.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +33,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>B, (2nd Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,14 +123,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>Lieut.-Col., and Hon. Col. C. H.E. (resigned).'</Text>
+      <Text>. Lieut.-Col., and Hon. Col. C. H.E. (resigned).'</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hartland</Key>
-      <Text>H. H. (Lieut.)</Text>
+      <Text>.H. H. (Lieut.)</Text>
       <PageNumber>482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,14 +277,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodchild</Key>
-      <Text>-E. J. (Capt.)</Text>
+      <Text>.-E. J. (Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haysev</Key>
-      <Text>W. L. (2nd Lieut.)</Text>
+      <Text>. W. L. (2nd Lieut.)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>F.P. (2nd Lieut.)</Text>
+      <Text>. F.P. (2nd Lieut.)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +419,8 @@
       <Key>
         <KeyDitto>___ ___ —. ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) .. -</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.. -</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +454,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,8 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Lieut.-Col. and Hon Col. J. A. (resigned)</Text>
+      <Title>Super. Lieut.-Col.</Title>
+      <Text>and Hon Col. J. A. (resigned)</Text>
       <PageNumber>2352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +657,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norwood</Key>
-      <Text>Qrmr. and Hon.' Maj. W. (resigned)</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>' Maj. W. (resigned)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Car</Key>
-      <Text>c, 2nd Lieut. L. D..(seconded)</Text>
+      <Text>.c, 2nd Lieut. L. D..(seconded)</Text>
       <PageNumber>1226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,15 +893,7 @@
       <PageNumber>2041</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Beach</Key>
-      <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>(Divisional Signalling Officer, Home Counties Division)</Text>
-      <PageNumber>1226</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Officer, Home Counties Division).. 1226</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
@@ -1048,7 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>Earl of (Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.)</Text>
       <PageNumber>482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>Capt. and Hon. 'Maj. W. (re-</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>'Maj. W. (re-</Text>
       <PageNumber>951</PageNumber>
     </MainItem>
   </ItemGroup>

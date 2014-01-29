@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Naylor</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bredin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrell</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hynds</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slaney</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,21 +365,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Wliittirigton</Key>
-      <Text>F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gairdner</Key>
-      <Text>2nd Lieut., W. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>, W. C. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Desborough</Key>
-      <Text>Maj. Lord (resigned)</Text>
+      <Title>Maj. Lord (resigned)</Title>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +492,8 @@
       <Key>
         <KeyDitto>___ ___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>Qrmr. &amp; Hon. Capt. F. (resigned) .. .. .. ..</Text>
+      <Title>Qrmr.</Title>
+      <Text>&amp; Hon. Capt. F. (resigned) .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +555,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) '.. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>'.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brocklehurst</Key>
-      <Text>R, W. D. P. (Capt.) ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. D. P. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>H.R.H. Prince of, Honorary Colonel</Text>
+      <Title>H.R.H. Prince</Title>
+      <Text>of, Honorary Colonel</Text>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +746,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +843,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +852,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant-Macdonald</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. (resigned)</Text>
       <PageNumber>8302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +979,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ports</Key>
-      <Text>, Rifle Volunteers. Corps, lst Bamford, Lieut. R. C. (resigned}</Text>
+      <Text>., Rifle Volunteers. Corps, lst Bamford, Lieut. R. C. (resigned}</Text>
       <PageNumber>8976</PageNumber>
     </MainItem>
   </ItemGroup>

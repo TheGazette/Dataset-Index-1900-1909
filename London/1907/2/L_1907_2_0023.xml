@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter-Campbell</Key>
-      <Text>, G-. T. C. (Maj.) .,</Text>
+      <Text>G-. T. C. (Maj.) .,</Text>
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Text>J. (2nd Lieut.)</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>,.I. (Capt.)</Text>
+      <Text>.I. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnair</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Capt. N. (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Capt. N. (resigned)</Text>
       <PageNumber>3195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>, BC. B. (2nd Lieut.)</Text>
+      <Text>BC. B. (2nd Lieut.)</Text>
       <PageNumber>2416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veasey</Key>
-      <Text>.C. L. (Capt.)</Text>
+      <Text>C. L. (Capt.)</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +450,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Breul</Key>
-      <Text>. F. A. (Adj.)</Text>
+      <Text>F. A. (Adj.)</Text>
       <PageNumber>3195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Badham</Key>
-      <Text>. J. F. (Adj.)</Text>
+      <Text>J. F. (Adj.)</Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>. 2nd Lieut. A. C. (seconded)</Text>
+      <Text>2nd Lieut. A. C. (seconded)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +842,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.Lieut.-Col. W. (resigned) .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.Lieut.-Col. W. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +929,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart-Synnot</Key>
-      <Text>, Capt. A, H. S. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A</Forenames>
+      <Text>, H. S. (seconded)</Text>
       <PageNumber>2784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>. Capt. W. (resigned)</Text>
+      <Text>Capt. W. (resigned)</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1171,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1195,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Maj. C: B. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>: B. (resigned)</Text>
       <PageNumber>3305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>.late, C. A. J. S. (Capt.)</Text>
+      <Text>late, C. A. J. S. (Capt.)</Text>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>

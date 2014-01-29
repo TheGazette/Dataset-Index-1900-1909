@@ -430,7 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>H: F. H. (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: F. H. (Lieut.)</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
-      <Text>D; H. (2nd Lieut.) .. '</Text>
+      <Forenames>D</Forenames>
+      <Text>; H. (2nd Lieut.) .. '</Text>
       <PageNumber>1175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +623,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oray</Key>
-      <Text>Capt. anil Hon. Maj. E. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>anil Hon. Maj. E. (resigned)</Text>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclntyre</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. (resigned) .,</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. (resigned) .,</Text>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +710,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, E. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (2nd Lieut.)</Text>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1099,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1118,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1193,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1211,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) Baynes, N. W. F. (2nd Lieut.)</Text>
+      <Title>(Lieut.)</Title>
+      <Forenames>Baynes</Forenames>
+      <Text>, N. W. F. (2nd Lieut.)</Text>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1286,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1302,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>

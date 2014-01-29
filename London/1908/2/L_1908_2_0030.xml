@@ -355,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>, IT. (Hon. Lieut.) ..</Text>
+      <Text>IT. (Hon. Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, B, M. H. (Lieut.) ..</Text>
+      <Forenames>B</Forenames>
+      <Text>, M. H. (Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stradbroke</Key>
-      <Text>, Earl of (Lieut.-Col. and to command)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +522,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +566,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +593,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +671,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dance</Key>
-      <Text>, C E. (Maj. and Hon. Lieut.Col.) .,</Text>
+      <Forenames>C</Forenames>
+      <Text>E. (Maj. and Hon. Lieut.Col.) .,</Text>
       <PageNumber>4727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moffat</Key>
-      <Text>, J, A.' C. (Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, A.' C. (Maj.)</Text>
       <PageNumber>4727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.-Col. and Hon. Col. and to command)</Text>
+      <Title>Visct. (Lieut.-Col. and Hon. Col. and to command)</Title>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,8 +751,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Maj.) .. ..</Text>
+      <Title>Visct. (Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,8 +826,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of (Maj.) , ..</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of (Maj.) , ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stourton</Key>
-      <Text>, 11. M. J. (2nd Lieut.) ..</Text>
+      <Text>11. M. J. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berwick</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>4725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1011,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord (Lieut.-Col. and Hon. Col.).. ___ ___ i. Lloyd, A. H. O. (Maj.) .. ..</Text>
+      <Title>Lord (Lieut.-Col. and Hon. Col.)</Title>
+      <Text>.. ___ ___ i. Lloyd, A. H. O. (Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,8 +1062,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southwell</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.) ..</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1105,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1139,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.) ;.. .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>;.. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,8 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewisham</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1257,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ...</Text>
+      <Title>(Lieut.)</Title>
+      <Text>...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1267,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>E, A.' (Maj )</Text>
+      <Forenames>E</Forenames>
+      <Text>, A.' (Maj )</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

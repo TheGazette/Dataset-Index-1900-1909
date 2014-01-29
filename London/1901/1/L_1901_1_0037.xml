@@ -60,9 +60,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patten</Key>
-      <Title>Maj.</Title>
-      <Forenames>Ot</Forenames>
-      <Text>. R</Text>
+      <Title>Maj. Ot.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. J. (temporary halfpay)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. J. (temporary halfpay)</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +370,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>2945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brough</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>4097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,14 +396,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Text>, Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, Rev. H</Text>
+      <Title>Rev.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +483,8 @@
       <Key>
         <KeyDitto>___ ___ ---</KeyDitto>
       </Key>
-      <Text>L^Bfc) .v</Text>
+      <Forenames>L</Forenames>
+      <Text>^Bfc) .v</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
     <SubItem>
@@ -1066,7 +1070,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Maj. in West Africa)</Text>
+      <Title>(local rank of Maj. in West Africa)</Title>
       <PageNumber>4097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagley</Key>
-      <Text>, F A. (temporary Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>A. (temporary Lieut.)</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brabazon</Key>
-      <Text>, Col. j. P. (retired pay)</Text>
+      <Title>Col.</Title>
+      <Text>j. P. (retired pay)</Text>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>, Viscount (temporary Col.)</Text>
+      <Title>Viscount (temporary Col.)</Title>
       <PageNumber>3287</PageNumber>
     </MainItem>
   </ItemGroup>

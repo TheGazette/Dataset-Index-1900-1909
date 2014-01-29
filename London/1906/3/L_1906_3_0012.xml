@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schu</Key>
-      <Text>ttcr, F. O., created a Baronet</Text>
+      <Text>.ttcr, F. O., created a Baronet</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,6 +36,23 @@
       <Forenames>C. E.</Forenames>
       <Text>, created a Baronet .. ibid. I Shaw-Lcfevre, Rt. Hon. G. J.. created Baron Eversley of Old Kord</Text>
       <PageNumber>4973</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Simpson</Key>
+      <Forenames>A. B.</Forenames>
+      <Text>, Knighted</Text>
+      <PageNumber>5342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Skinner</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>B. M.</Forenames>
+      <Text>, Boyal Vici torian Order, Fourth CI iss</Text>
+      <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -130,7 +147,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Vinnu</Key>
-      <Text>Marquis of. Hon. Knight Grand Cross, Royal Victor an Order 5579 ' Virgin, Maj.-Gen. O. Hon. Knight ' Commander, Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Text>of. Hon. Knight Grand Cross, Royal Victor an Order</Text>
+      <PageNumber>5579</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Virgin</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>O.</Forenames>
+      <Text>Hon. Knight ' Commander, Royal Victorian Order</Text>
       <PageNumber>4718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,6 +176,15 @@
       <Forenames>S.</Forenames>
       <Text>, created a Haronet</Text>
       <PageNumber>4885</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Walsh</Key>
+      <Title>Hon.</Title>
+      <Forenames>R.</Forenames>
+      <Text>, H.M.'s Consul at Dunkirk</Text>
+      <PageNumber>6011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -229,7 +265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Winrum</Key>
-      <Text>Capt. and Brevet. Maj. C, Equerry to H.R.H. the Prince of Wales</Text>
+      <Title>Capt. and Brevet. Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Equerry to H.R.H. the Prince of Wales</Text>
       <PageNumber>4720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,6 +392,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Krskine</Key>
+      <Text>. C. E. T. (2nd Lieut.)</Text>
+      <PageNumber>5872</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Evans</Key>
       <Forenames>D.</Forenames>
       <Text>.\I. (2nd Lieut.) ..</Text>
@@ -386,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hog</Key>
-      <Text>., R. W. T. (2nd Lieut.) ___ | Leslie-Smith, C. (2nd Lieut.)</Text>
+      <Text>.., R. W. T. (2nd Lieut.) ___ | Leslie-Smith, C. (2nd Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strover</Key>
-      <Text>W. G. (2nd Lieut.) ..</Text>
+      <Text>. W. G. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunny</Key>
-      <Text>Lieut.-Col. and Brevet Col. ' F. B., Commander of Garrison Artillery</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Text>' F. B., Commander of Garrison Artillery</Text>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,8 +592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. and Brevet Col. B., Stall' Officer for Horse and Field Artillery, and Col</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. and Brevet Col. B., Stall' Officer for Horse and Field Artillery, and Col</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>K</Key>
-      <Text>C., Brig.-Gen., to command a ! Sub-District in South Africa, and Temporary Brig -Gen</Text>
+      <Text>. C., Brig.-Gen., to command a ! Sub-District in South Africa, and Temporary Brig -Gen</Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,14 +634,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleeve</Key>
-      <Text>Lieut.-Col. and Brevet Col. I W. F., Commander of Garrison ' Artillery, and Col</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>I</Forenames>
+      <Text>W. F., Commander of Garrison ' Artillery, and Col</Text>
       <PageNumber>6182</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colleton</Key>
-      <Text>Lieut.-Col. ond Brevet Col. S. R. A. W., Bart., Officer in charge of Infantry Records and Col</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>ond Brevet Col. S. R. A. W., Bart., Officer in charge of Infantry Records and Col</Text>
       <PageNumber>5133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,15 +721,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hall</Key>
+      <Title>Col.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>, Brig-Gen. in charge ' of Administration and Temporary Brig.-Gen '</Text>
+      <PageNumber>5132</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hansard</Key>
-      <Text>Lieut.-Col. and Brevet C:&gt;1. A. C, Officer in charge of Records, , and Col</Text>
+      <Title>Lieut.-Col. and Brevet</Title>
+      <Forenames>C</Forenames>
+      <Text>:&gt;1. A. C, Officer in charge of Records, , and Col</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hegao</Key>
-      <Text>Lieut.-Col.and Brevet Col.E., Staff Officer for Imperial Yeomanry, and Col</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.and Brevet Col.E., Staff Officer for Imperial Yeomanry, and Col</Text>
       <PageNumber>5159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +865,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Penrose</Key>
-      <Text>Lieut.-Col. and Brevet Col. C, Chief Engineer and Col</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Chief Engineer and Col</Text>
       <PageNumber>6406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, Capt. Hon. C. H. M., Aidede-Camp to Maj.-Gen. Sir B. M. Hamilton</Text>
+      <Text>. Clair, Capt. Hon. C. H. M., Aidede-Camp to Maj.-Gen. Sir B. M. Hamilton</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +908,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanhope</Key>
-      <Text>Lieut. Earl, Aide-de-Camp to Maj.-Gen. Hon. Sir. F. W. Stopford</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>, Aide-de-Camp to Maj.-Gen. Hon. Sir. F. W. Stopford</Text>
       <PageNumber>5611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,8 +925,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Lteut</Forenames>
-      <Text>.-Col. and Brevet Col. Sir G. V., Bart., Staff Officer for Horse and Field Artillery, and Col</Text>
+      <Title>Lteut.</Title>
+      <Text>-Col. and Brevet Col. Sir G. V., Bart., Staff Officer for Horse and Field Artillery, and Col</Text>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>

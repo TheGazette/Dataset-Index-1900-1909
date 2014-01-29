@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, Capt. G. S, resumes appointment of Aide-de-Camp to Gen. Sir F. W. Greufell</Text>
+      <Text>Aubyn, Capt. G. S, resumes appointment of Aide-de-Camp to Gen. Sir F. W. Greufell</Text>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,14 +146,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>, Hon. Col. Lord, Private Secretary to Field-Marshal Lord Roberts</Text>
+      <Title>Hon. Col. Lord, Private</Title>
+      <Forenames>Secre-</Forenames>
+      <Text>tary to Field-Marshal Lord Roberts</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>, Capt. I). M., District. Inspector of Musketry</Text>
+      <Title>Capt.</Title>
+      <Forenames>I</Forenames>
+      <Text>). M., District. Inspector of Musketry</Text>
       <PageNumber>5969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
-      <Text>, 2nd Lieut, F. N. (cancellation)</Text>
+      <Text>2nd Lieut, F. N. (cancellation)</Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deputy-Assistant</Key>
-      <Text>A ljutant and Quartermaster-General : Swann, Maj. J. C</Text>
+      <Forenames>A</Forenames>
+      <Text>ljutant and Quartermaster-General : Swann, Maj. J. C</Text>
       <PageNumber>6692</PageNumber>
     </MainItem>
   </ItemGroup>

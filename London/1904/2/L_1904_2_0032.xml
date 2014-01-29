@@ -36,9 +36,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boss</Key>
-      <Title>Maj. and Hon. Lieut.-Col.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. Gr. (retired)</Title>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +120,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>Maj.' A. O. (antedated)</Text>
+      <Title>Maj.</Title>
+      <Text>' A. O. (antedated)</Text>
       <PageNumber>2245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>E, H. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, H. (Lieut.)</Text>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>B, F. L. (2nd Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, F. L. (2nd Lieut.)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton-Stuart</Key>
-      <Text>2nd Lieut. Lord (resigned)</Text>
+      <Title>2nd Lieut. Lord (resigned)</Title>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +934,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ . ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Text>E, (Hon. Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, (Hon. Capt.)</Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>

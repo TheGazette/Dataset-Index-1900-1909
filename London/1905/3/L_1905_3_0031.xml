@@ -115,8 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickering</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. Or. T. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. Or. T. (resigned)</Text>
       <PageNumber>5146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>, Earl (Lieut.)</Text>
+      <Title>Earl (Lieut.)</Title>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feilding</Key>
-      <Text>, Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stobart</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newport</Key>
-      <Text>, Viscount .. .. ,</Text>
+      <Title>Viscount .</Title>
+      <Text>. .. ,</Text>
       <PageNumber>6332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leah</Key>
-      <Text>, H ,</Text>
+      <Forenames>H</Forenames>
+      <Text>,</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brent</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1043,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy-PuviB</Key>
-      <Text>, 0. E</Text>
+      <Text>0. E</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redhead</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>5977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6054</PageNumber>
     </MainItem>
   </ItemGroup>

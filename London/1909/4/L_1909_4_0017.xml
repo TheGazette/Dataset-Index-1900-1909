@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellie</Key>
-      <Text>, G-. J. D.-.(2nd.Lieut.)</Text>
+      <Text>G-. J. D.-.(2nd.Lieut.)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +50,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, Lieut. H: B. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H</Forenames>
+      <Text>: B. (resigned)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,21 +92,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Fell</Key>
-      <Text>, }S. B. (2nd Lieut.)</Text>
+      <Text>}S. B. (2nd Lieut.)</Text>
       <PageNumber>8107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Garsti</Key>
-      <Text>.n, Lieut. J. L, (cancellation)</Text>
+      <Text>n, Lieut. J. L, (cancellation)</Text>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, 2nd Lieut.. B.: M. &gt;H. . .;. ; '..(seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. B.: M. &gt;H. . .;. ; '..(seconded)</Text>
       <PageNumber>9593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Critehley-Salmonson</Key>
-      <Text>.A. C. B. (Lieut.)</Text>
+      <Text>A. C. B. (Lieut.)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basset</Key>
-      <Text>, W-F. (Capt.)</Text>
+      <Text>W-F. (Capt.)</Text>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radclyffe</Key>
-      <Text>.C. E. (Lieut.Cpl;).. '</Text>
+      <Text>C. E. (Lieut.Cpl;).. '</Text>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Torrington</Key>
-      <Text>, 2nd Lieut. Viscount &gt; (superseded).. ... . ..</Text>
+      <Title>2nd Lieut. Viscount</Title>
+      <Text>&gt; (superseded).. ... . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gepp</Key>
-      <Text>, Lieut. -N.-.M. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-N.-.M. (resigned)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>HallenBtein</Key>
-      <Text>, 2nd Lieut! E. A. (resigned)</Text>
+      <Text>2nd Lieut! E. A. (resigned)</Text>
       <PageNumber>8462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,12 +693,12 @@
       <PageNumber>8249</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SPECIAL RESERVE OP . OFFICERS</SubCategoryTitle>
+  <SubCategoryTitle>OFFICERS</SubCategoryTitle>
   <SubSectionTitle>Army'Service-Corps</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>. R. de C. (2nd Lieut.) ... '</Text>
+      <Text>R. de C. (2nd Lieut.) ... '</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miinro</Key>
-      <Text>, H!F.M! '(2nd Lieut.),,'</Text>
+      <Forenames>H</Forenames>
+      <Text>!F.M! '(2nd Lieut.),,'</Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +778,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>, J/C. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>/C. (Lieut.)</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>.W.H; L. (Lieut.)</Text>
+      <Text>W.H; L. (Lieut.)</Text>
       <PageNumber>9418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +838,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Text>, M, W. (Lieut.)</Text>
+      <Forenames>M</Forenames>
+      <Text>, W. (Lieut.)</Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denham</Key>
-      <Text>,' W. K.' (2nd Lieut.)</Text>
+      <Text>' W. K.' (2nd Lieut.)</Text>
       <PageNumber>9518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hervey-Bathurst</Key>
-      <Text>, A, R. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, R. (2nd Lieut.)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>HollingswortW</Key>
-      <Text>,; F. W.. (2nd Lieut.).?</Text>
+      <Text>; F. W.. (2nd Lieut.).?</Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1055,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Gen!. and Hon. Col. J. G. (resigned) .'</Text>
+      <Title>Lieut.</Title>
+      <Text>-Gen!. and Hon. Col. J. G. (resigned) .'</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1071,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlihgs</Key>
-      <Text>, .'Surg. '. Lieut.-Col. J '.(resigned) ..... ... .,</Text>
+      <Text>.'Surg. '. Lieut.-Col. J '.(resigned) ..... ... .,</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dockwell</Key>
-      <Text>, Lieut., H.M. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>, H.M. (resigned)</Text>
       <PageNumber>8555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Text>, W-. T. (Lieiit.^Col.) .,</Text>
+      <Text>W-. T. (Lieiit.^Col.) .,</Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,28 +1200,32 @@
   <ItemGroup>
     <MainItem>
       <Key>Kettle</Key>
-      <Text>, W, J..(2nd Lieut. )</Text>
+      <Forenames>W</Forenames>
+      <Text>, J..(2nd Lieut. )</Text>
       <PageNumber>8107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Olliff-Lee</Key>
-      <Text>, 2nd Lieut. O'. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>O</Forenames>
+      <Text>'. (resigned)</Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Towneley-Bertie</Key>
-      <Text>,..Lieut.H6n...M:^H.. /.,' ' E. C. (seconded) ..' ;:&lt;.. ;i&lt;</Text>
+      <Text>..Lieut.H6n...M:^H.. /.,' ' E. C. (seconded) ..' ;:&lt;.. ;i&lt;</Text>
       <PageNumber>8016</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wauton</Key>
-      <Text>, 2nd Lieut.. E. B. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. E. B. (seconded)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1266,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ansted</Key>
-      <Text>, Maj. D; C. (resigned).; ..-</Text>
+      <Title>Maj.</Title>
+      <Forenames>D</Forenames>
+      <Text>; C. (resigned).; ..-</Text>
       <PageNumber>8248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,14 +1315,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>,.M. G. E. (Capt.) ,83^</Text>
+      <Text>.M. G. E. (Capt.) ,83^</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>iBingham</Key>
-      <Text>, Hon.,A. M. R. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Text>,A. M. R. (Capt.)</Text>
       <PageNumber>8017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1371,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark-Kennedy</Key>
-      <Text>, H D: G. A. (2nd ; Lieut.) . . .. .. -</Text>
+      <Forenames>H</Forenames>
+      <Text>D: G. A. (2nd ; Lieut.) . . .. .. -</Text>
       <PageNumber>9418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Conrad</Key>
-      <Text>, 2nd Lieut..P. S.. (correction)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>.P. S.. (correction)</Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,14 +1429,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Devenish</Key>
-      <Text>, CapV and Hon. Maj. J. H. C. (resigned)</Text>
+      <Text>CapV and Hon. Maj. J. H. C. (resigned)</Text>
       <PageNumber>8016</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>, ,G. C. (2nd Lieut.)</Text>
+      <Text>,G. C. (2nd Lieut.)</Text>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>

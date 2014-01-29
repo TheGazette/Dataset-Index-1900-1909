@@ -210,7 +210,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>Hon. Lord, Lord Ordinary in Exchequer Causes</Text>
+      <Title>Hon. Lord, Lord</Title>
+      <Forenames>Ordinary</Forenames>
+      <Text>in Exchequer Causes</Text>
       <PageNumber>869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Liverpool</Key>
-      <Text>Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +383,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lord</Title>
-      <Forenames>Steward</Forenames>
+      <Title>Lord Steward .</Title>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Text>Duke of, Captain of the Yeomen of the Guard</Text>
+      <Title>Duke</Title>
+      <Text>of, Captain of the Yeomen of the Guard</Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>Maj.-Gcn.Sir J. W., Member of H.M.'s Army Council</Text>
+      <Title>Maj.</Title>
+      <Text>-Gcn.Sir J. W., Member of H.M.'s Army Council</Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,14 +672,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>Duke of, Royal Commissioner on Horse Breeding</Text>
+      <Title>Duke</Title>
+      <Text>of, Royal Commissioner on Horse Breeding</Text>
       <PageNumber>2161</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Portsmouth</Key>
-      <Text>Earl of, Member of H.M.'s Army Council</Text>
+      <Title>Earl</Title>
+      <Text>of, Member of H.M.'s Army Council</Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reay</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, a Privy Councillor</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,14 +755,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Sefton</Key>
-      <Text>Earl of, Master of H.M.'s Horses</Text>
+      <Title>Earl</Title>
+      <Text>of, Master of H.M.'s Horses</Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sefton</Key>
-      <Text>Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +773,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Master of the Horse</Text>
+      <Title>Master</Title>
+      <Text>of the Horse</Text>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,14 +868,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>Lieut.-Col. W. H.M., H.M.'s Consul at Kerman</Text>
+      <Text>. Lieut.-Col. W. H.M., H.M.'s Consul at Kerman</Text>
       <PageNumber>1513</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stradbroke</Key>
-      <Text>Earl of, Commander, Royal Victorian Order</Text>
+      <Title>Earl</Title>
+      <Text>of, Commander, Royal Victorian Order</Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>

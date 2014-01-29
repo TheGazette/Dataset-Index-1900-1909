@@ -93,8 +93,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halswelle</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>1812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kensington</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +888,7 @@
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>EOYAL REGIMENT OF A.RTILLERY</SubCategoryTitle>
+  <SubCategoryTitle>A.RTILLERY</SubCategoryTitle>
   <SubSectionTitle>Royal Artillery</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -943,7 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>R; (Capt.) . . ..</Text>
+      <Forenames>R</Forenames>
+      <Text>; (Capt.) . . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1212,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>

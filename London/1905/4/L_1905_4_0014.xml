@@ -138,7 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prynne</Key>
-      <Text>, BT. V. (Maj.)</Text>
+      <Text>BT. V. (Maj.)</Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bissell</Key>
-      <Text>,.F. E. (Surg.-Lieut.)</Text>
+      <Text>.F. E. (Surg.-Lieut.)</Text>
       <PageNumber>6933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,8 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lingard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. (resigned)</Text>
       <PageNumber>7178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,8 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. H. (resigned)</Text>
       <PageNumber>8739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackbourne</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulling</Key>
-      <Text>, Rev. EH</Text>
+      <Title>Rev.</Title>
+      <Text>EH</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +832,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, G,F. (Col.)</Text>
+      <Forenames>G</Forenames>
+      <Text>,F. (Col.)</Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>

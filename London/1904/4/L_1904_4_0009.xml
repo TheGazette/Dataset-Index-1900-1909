@@ -322,8 +322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Minto</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, a Privy Councillor</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,8 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Forenames>Prof</Forenames>
-      <Text>. VV. J</Text>
+      <Title>Prof.</Title>
+      <Text>VV. J</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +735,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, C, Fifth Class, Royal Vic torian Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Fifth Class, Royal Vic torian Order</Text>
       <PageNumber>8917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colville</Key>
-      <Text>, Lieut.-Col. and Brev. Col. A.E. W., Chief Staff Officer, Egypt, and Col</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>A.E. W., Chief Staff Officer, Egypt, and Col</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>

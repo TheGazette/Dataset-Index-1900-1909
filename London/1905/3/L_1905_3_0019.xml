@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houston</Key>
-      <Text>,: 2nd Lieut. G. L. F. (corerection)</Text>
+      <Text>: 2nd Lieut. G. L. F. (corerection)</Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,8 +456,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. R. C. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>Lieut. R. C. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BarrellVW</Key>
-      <Text>. H. (Capt.)</Text>
+      <Text>H. (Capt.)</Text>
       <PageNumber>6062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,8 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vellacqtt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. N. (re.., signed) .. .. ..'</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. N. (re.., signed) .. .. ..'</Text>
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,8 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. R. (resigned)</Text>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +957,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimoldby</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. H. (resigned)</Text>
       <PageNumber>6331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,8 +966,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Childe</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C. V.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C. V.</Forenames>
       <Text>(Acting Chap.)</Text>
       <PageNumber>4811</PageNumber>
     </MainItem>
@@ -992,8 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurley</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>

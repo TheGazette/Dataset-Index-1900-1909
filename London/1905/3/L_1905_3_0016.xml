@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp</Key>
-      <Text>.W. T.</Text>
+      <Text>W. T.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,14 +285,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogg</Key>
-      <Text>.G.B</Text>
+      <Text>G.B</Text>
       <PageNumber>6060</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Olhver</Key>
-      <Text>, 3. A</Text>
+      <Text>3. A</Text>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reese</Key>
-      <Text>, 0. G. B</Text>
+      <Text>0. G. B</Text>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellheim</Key>
-      <Text>, C V</Text>
+      <Forenames>C</Forenames>
+      <Text>V</Text>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whidborne</Key>
-      <Text>, HE</Text>
+      <Text>HE</Text>
       <PageNumber>6061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J</Text>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Capt.. and Hon. Maj. A. E</Text>
+      <Title>Capt.</Title>
+      <Text>. and Hon. Maj. A. E</Text>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,8 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. F. M</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. F. M</Text>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,29 +916,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudgeon</Key>
-      <Forenames>Lieul</Forenames>
-      <Text>.-Col. and Hon. Col. R. F</Text>
+      <Title>Lieul.</Title>
+      <Text>-Col. and Hon. Col. R. F</Text>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dyke</Key>
-      <Text>.Capt. and Hon..Maj. R. C</Text>
+      <Text>Capt. and Hon..Maj. R. C</Text>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>.Capt. and Hon. Maj. W. P</Text>
+      <Text>Capt. and Hon. Maj. W. P</Text>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>, Maj. and Hon Lieut.-Col. B. P</Text>
+      <Title>Maj.</Title>
+      <Text>and Hon Lieut.-Col. B. P</Text>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +954,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Faux</Key>
-      <Text>, Lieut.-Col. E</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,8 +971,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Forenames>Moj</Forenames>
-      <Text>.*E. J</Text>
+      <Title>Moj.</Title>
+      <Text>*E. J</Text>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Text>, Lieut.-Col. and lion. Col. G. J</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and lion. Col. G. J</Text>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>. Capt. and Hon. Maj. G. W</Text>
+      <Text>Capt. and Hon. Maj. G. W</Text>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,17 +1085,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Title>Acting. Chap. Rev.</Title>
-      <Forenames>Canon H. D .</Forenames>
+      <Title>Acting. Chap. Rev. Canon</Title>
+      <Forenames>H. D .</Forenames>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. W</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Capt. H. W</Text>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,8 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Forenames>Capt</Forenames>
-      <Text>.and Hon..Maj. R.G</Text>
+      <Title>Capt.and Hon.</Title>
+      <Text>.Maj. R.G</Text>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,8 +1152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLachlan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J</Text>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,8 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macphee</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A</Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>, Lieut.-Col. C</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melly</Key>
-      <Text>, Maj. A</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, Lieut.-Col. and Hon Col. A...</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Hon Col. A...</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,8 +1301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. H. W. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. H. W. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

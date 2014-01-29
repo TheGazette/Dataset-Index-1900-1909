@@ -724,7 +724,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +882,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Compton</Key>
-      <Text>, Lieut. S: (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>S</Forenames>
+      <Text>: (resigned)</Text>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodyear</Key>
-      <Text>, Capt. artd Hon. Maj-. H. S. (resigned) .. .:</Text>
+      <Title>Capt.</Title>
+      <Text>artd Hon. Maj-. H. S. (resigned) .. .:</Text>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1120,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, 0. R. (Maj.)</Text>
+      <Text>0. R. (Maj.)</Text>
       <PageNumber>3282</PageNumber>
     </MainItem>
   </ItemGroup>

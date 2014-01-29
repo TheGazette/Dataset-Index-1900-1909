@@ -14,7 +14,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gifford</Key>
-      <Text>, Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +39,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +607,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellville</Key>
-      <Text>, Capt. G; E. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
+      <Text>; E. (seconded)</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>,.Capt. E. M. (seconded)</Text>
+      <Text>.Capt. E. M. (seconded)</Text>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>. H. A. (Capt.)</Text>
+      <Text>H. A. (Capt.)</Text>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +750,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>. Lord A. E. (Capt.)</Text>
+      <Text>Lord A. E. (Capt.)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
   </ItemGroup>

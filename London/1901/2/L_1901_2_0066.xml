@@ -102,7 +102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopwood</Key>
-      <Text>, A, H. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, H. (2nd Lieut.)</Text>
       <PageNumber>9067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +351,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +403,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>8918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,14 +583,16 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>Maj. Earl of (seconded) ,,</Text>
+      <Title>Maj. Earl</Title>
+      <Text>of (seconded) ,,</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grimshaw</Key>
-      <Text>, W, A, H. (Instr. of Musketrv) ,,</Text>
+      <Forenames>W</Forenames>
+      <Text>, A, H. (Instr. of Musketrv) ,,</Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +601,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +695,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary half-pay)</Text>
+      <Title>(temporary half-pay)</Title>
       <PageNumber>6645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wymer</Key>
-      <Text>, 2nd Lieut, R. G. P. (resigned)</Text>
+      <Text>2nd Lieut, R. G. P. (resigned)</Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +931,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.Col.)</Text>
+      <Title>(Hon. Lieut.Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1056,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. G. (resigned)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portarlington</Key>
-      <Text>, Earl of (Lieut.).. ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1498,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>8841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Metge</Key>
-      <Text>, R, C. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

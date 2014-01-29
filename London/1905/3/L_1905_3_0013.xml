@@ -80,7 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moores</Key>
-      <Text>, Capt. CP</Text>
+      <Title>Capt.</Title>
+      <Text>CP</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,8 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Lieut.-Col. AV. A. M.</Text>
+      <Title>Brev. Lieut.-Col.</Title>
+      <Text>AV. A. M.</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>, Capt. P</Text>
+      <Title>Capt.</Title>
+      <Forenames>P</Forenames>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncombe-Shafto</Key>
-      <Text>.. .. ..</Text>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +345,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan-Robinson</Key>
-      <Text>, Capt. W, J. ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>W</Forenames>
+      <Text>, J. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,14 +865,14 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>.Clair, C. H. D. (Capt.)</Text>
+      <Text>Clair, C. H. D. (Capt.)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Set</Key>
-      <Text>.h-Smith, H. G. (2nd Lieut.)</Text>
+      <Text>h-Smith, H. G. (2nd Lieut.)</Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myers</Key>
-      <Text>, Capt. A.E. C.. .. , ibid.</Text>
+      <Title>Capt.</Title>
+      <Text>A.E. C.. .. , ibid.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,8 +1355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Forenames>Assist</Forenames>
-      <Text>.-Commissary-Gen. and Hon. Lieut.-Col. F. H. (retired)</Text>
+      <Title>Assist.</Title>
+      <Text>-Commissary-Gen. and Hon. Lieut.-Col. F. H. (retired)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,6 +1427,14 @@
       <Forenames>W.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>6056</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blackwell</Key>
+      <Forenames>C. T.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
+      <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

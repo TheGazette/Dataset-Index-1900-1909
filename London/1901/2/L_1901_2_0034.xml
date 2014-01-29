@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pipon</Key>
-      <Text>, Col. (Brig-Gen.) H. (retired pa;)</Text>
+      <Title>Col. (Brig-Gen.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>(retired pa;)</Text>
       <PageNumber>8090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,8 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. A. F. (Honorary Physician to the King)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. A. F. (Honorary Physician to the King)</Text>
       <PageNumber>7048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,8 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. (Hon. Physician to the King)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. (Hon. Physician to the King)</Text>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verner</Key>
-      <Text>, Capt. SirE. W., Bart, (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>SirE. W., Bart, (retired)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

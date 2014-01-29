@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +145,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(acting)</Text>
+      <Title>(acting)</Title>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guyer</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,6 +450,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hoar</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(with rank of Pavmaster-inChief)</Text>
+      <PageNumber>1119</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Innes</Key>
       <Forenames>A.</Forenames>
       <Text>(with rank of Paymaster-inI Chief)</Text>
@@ -458,9 +466,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Mathew</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>(with rank of Pay| master-in-Cbief)</Text>
+      <PageNumber>938</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Murdoch</Key>
       <Forenames>M. C</Forenames>
       <PageNumber>3252</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pawsey</Key>
+      <Forenames>C. J.</Forenames>
+      <Text>(with rank of Pavmasterin-Chief)</Text>
+      <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -794,7 +818,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Recruiting Staff Officer, 2nd Class)</Text>
+      <Title>(Recruiting Staff Officer, 2nd Class)</Title>
       <PageNumber>3399</PageNumber>
     </MainItem>
   </ItemGroup>

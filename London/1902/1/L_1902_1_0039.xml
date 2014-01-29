@@ -179,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sondes</Key>
-      <Text>Earl (Hon. Lieut.)</Text>
+      <Title>Earl (Hon. Lieut.)</Title>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +286,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. II. S. (reigns as Adj.)</Text>
+      <Title>Capt.</Title>
+      <Text>II. S. (reigns as Adj.)</Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +360,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cirrection)</Text>
+      <Title>(cirrection)</Title>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +370,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. .T. H. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>.T. H. (antedated)</Text>
       <PageNumber>1729</PageNumber>
       <PageNumber>2690</PageNumber>
     </MainItem>
@@ -389,7 +391,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +626,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,6 +900,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Tristram</Key>
+      <Title>Capt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>II. (resigned as Capt. and Adj.)</Text>
+      <PageNumber>1537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Trotter</Key>
       <Forenames>P. F.</Forenames>
       <Text>(Lieut.)</Text>
@@ -983,7 +994,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,8 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1092,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1114,16 @@
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>L. P.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
@@ -1217,14 +1237,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>Lieut. II. L. R. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. L. R. (resigned)</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,9 +1294,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westgate</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. H. G. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. H. G. (resigned)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1304,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,7 +1487,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,7 +1507,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1706,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(t-apt.)</Text>
+      <Title>(t-apt.)</Title>
       <PageNumber>1732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1759,7 +1779,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1776,7 +1796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zouche</Key>
-      <Text>Lord (Hon. Lieut.)</Text>
+      <Title>Lord (Hon. Lieut.)</Title>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1835,7 +1855,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adi.)</Text>
+      <Title>(Adi.)</Title>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1871,7 +1891,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>

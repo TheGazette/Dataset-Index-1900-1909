@@ -22,8 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. C. (resigned)</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>A E. (Adi.)</Text>
+      <Forenames>A</Forenames>
+      <Text>E. (Adi.)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +619,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,8 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut, C. S. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut, C. S. S. (resigned)</Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>Lieut.-Col. and Brev. Col. „ M. V. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>„ M. V. (half-pay)</Text>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>

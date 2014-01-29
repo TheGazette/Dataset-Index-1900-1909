@@ -230,8 +230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. A. (resigned)</Text>
       <PageNumber>4018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>Maj. H. C. (retired)</Text>
+      <Text>. Maj. H. C. (retired)</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce-Seroi</Key>
-      <Text>-old, E. (Capt.)</Text>
+      <Text>.-old, E. (Capt.)</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +779,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eaton</Key>
-      <Text>Lieut.-Col. and Hon. Col. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. (resigned)</Title>
       <PageNumber>3721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>J. E. (Capt.)</Text>
+      <Text>. J. E. (Capt.)</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1334,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>Capt. R, T. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, T. (resigned)</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,8 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Liout. A. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Liout. A. (correction)</Text>
       <PageNumber>2533</PageNumber>
       <PageNumber>2848</PageNumber>
     </MainItem>

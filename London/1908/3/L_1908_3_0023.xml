@@ -32,8 +32,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. I. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. I. G. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,8 +191,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. and Eon. Maj. G. I. (resigned) .. .. ..</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. and Eon. Maj. G. I. (resigned) .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,14 +228,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>Capt. Lord (seconded)</Text>
+      <Title>Capt. Lord (seconded)</Title>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>C. M. (Eon. Maj.)</Text>
+      <Text>. C. M. (Eon. Maj.)</Text>
       <PageNumber>5220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,8 +254,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Eon. Surg.Lieut.-Col. St. C. B. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Eon. Surg.Lieut.-Col. St. C. B. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,8 +331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eames</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. V. (resigned)..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. V. (resigned)..</Text>
       <PageNumber>___ —</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,8 +754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. T. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. T. F. (resigned)</Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,8 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. H. N. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. H. N. (retired)</Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushbrooke</Key>
-      <Text>Maj. and Eon. Lieut.. Col. G. R. (resigned)</Text>
+      <Title>Maj. and Eon. Lieut.</Title>
+      <Text>. Col. G. R. (resigned)</Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>

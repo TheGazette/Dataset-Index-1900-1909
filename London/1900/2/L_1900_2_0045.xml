@@ -411,7 +411,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +428,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +461,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +487,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,8 +889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Messer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. W. (resigned)</Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,14 +1133,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>. C. G. (2nd Lieut.)</Text>
+      <Text>C. G. (2nd Lieut.)</Text>
       <PageNumber>7133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Del</Key>
-      <Text>.combe, A. (Capt.)</Text>
+      <Text>combe, A. (Capt.)</Text>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1174,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>, I*. H. (Copt.)</Text>
+      <Forenames>I</Forenames>
+      <Text>*. H. (Copt.)</Text>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Innes</Key>
-      <Text>. E. A. (Lieut.) .. .. Marriott, G. M. (Lieut.)</Text>
+      <Text>E. A. (Lieut.) .. .. Marriott, G. M. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,6 @@
       <Text>
         <PageNumber>5054</PageNumber>
         <PageNumber>5055</PageNumber>
-        <SubCategoryTitle>W. D. J . . Hid</SubCategoryTitle>
       </Text>
       <PageNumber>6137</PageNumber>
     </SubItem>
@@ -128,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Q</Key>
-      <Text>.ueen Alexandra's Imperial Militar Nursing Service: Staff Nurses: Keays, E. M</Text>
+      <Text>ueen Alexandra's Imperial Militar Nursing Service: Staff Nurses: Keays, E. M</Text>
       <PageNumber>5417</PageNumber>
     </MainItem>
     <SubItem>
@@ -284,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spurrier</Key>
-      <Text>, 2nd' Lieut. R. S. (seconded)</Text>
+      <Text>2nd' Lieut. R. S. (seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +371,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellar</Key>
-      <Text>,-Maj. D.P. (retired)</Text>
+      <Text>-Maj. D.P. (retired)</Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Close-Brooks</Key>
-      <Text>, Lieut.' J. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>' J. C. (resigned)</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>,. Lieut.] Or. F. (resigned) . '/</Text>
+      <Text>. Lieut.] Or. F. (resigned) . '/</Text>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,8 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dauncey</Key>
-      <Forenames>Lieul</Forenames>
-      <Text>.-Col. T. H. E. (halfpay)</Text>
+      <Title>Lieul.</Title>
+      <Text>-Col. T. H. E. (halfpay)</Text>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +655,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>58421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentinck</Key>
-      <Text>, Capt. and Brev.-Maj. Lord C. C. (seconded)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. Lord C. C. (seconded)</Text>
       <PageNumber>4831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farnham</Key>
-      <Text>, Lord (temporary half-pay)</Text>
+      <Title>Lord (temporary half-pay)</Title>
       <PageNumber>6044</PageNumber>
     </MainItem>
   </ItemGroup>

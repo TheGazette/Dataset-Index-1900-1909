@@ -13,8 +13,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. F. J. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. F. J. (super.)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +436,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Romanes</Key>
-      <Text>, Capt. and Hon. M«j. J. A. (resigned)</Text>
+      <Title>Capt. and Hon.</Title>
+      <Forenames>M</Forenames>
+      <Text>«j. J. A. (resigned)</Text>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>1391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coieman</Key>
-      <Text>, Lieut.-Col. nd Hon. Col. G. H. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>nd Hon. Col. G. H. (resigned)</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +932,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>

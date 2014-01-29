@@ -43,7 +43,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haire-Foster</Key>
-      <Text>Capt. W, (correction)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W</Forenames>
+      <Text>, (correction)</Text>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +256,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>Maj. Earl of (absorbed into Establishment)</Text>
+      <Title>Maj. Earl</Title>
+      <Text>of (absorbed into Establishment)</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pender</Key>
-      <Text>Capt. j. (absorbed into Establishment)</Text>
+      <Title>Capt.</Title>
+      <Text>j. (absorbed into Establishment)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1168,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,8 +1199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. H. (resigned)</Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1218,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) .. Moodie.P. T. (Lieut.)</Text>
+      <Title>(correction)</Title>
+      <Text>.. Moodie.P. T. (Lieut.)</Text>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,6 +1475,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>The Royal Munster Fusiliers</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aspinall</Key>
+      <Forenames>C. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6277</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>

@@ -499,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentall</Key>
-      <Text>Mrs.. Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>. Lady Vice-President, League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +555,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy .. . ,</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy .. . ,</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,14 +582,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Brev.-Col. (Brig.-Gen.) C. J., Companion of t; e Bath</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. (Brig.-Gen.) C. J., Companion of t; e Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bodilly</Key>
-      <Text>V , Judge of the High Court of Judicature at Fort William in Bengal</Text>
+      <Forenames>V</Forenames>
+      <Text>, Judge of the High Court of Judicature at Fort William in Bengal</Text>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +640,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Text>Sir C, Governor and Commander-in-Chief of Mauritius</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Governor and Commander-in-Chief of Mauritius</Text>
       <PageNumber>2673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +709,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>Col. (Brig.-GeD.) E. S., Companion of the Bath</Text>
+      <Title>Col. (Brig.-GeD.)</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,14 +782,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Castle</Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Castlerosse</Key>
-      <Text>Viscount Commander, Royal Victorian Order</Text>
+      <Title>Viscount Commander</Title>
+      <Text>, Royal Victorian Order</Text>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>

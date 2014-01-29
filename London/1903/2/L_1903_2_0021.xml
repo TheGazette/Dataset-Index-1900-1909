@@ -36,8 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westby</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. (Senior . . Medical Officer)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. (Senior . . Medical Officer)</Text>
       <PageNumber>2237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AstleyVCapt</Key>
-      <Text>D. G. LE. (resigns as Aide-de-Camp to Col. M. S. Brown. . ; rigg) .. '</Text>
+      <Text>. D. G. LE. (resigns as Aide-de-Camp to Col. M. S. Brown. . ; rigg) .. '</Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +338,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalhousie</Key>
-      <Text>Lieut. Earl of '(resigned)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of '(resigned)</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +600,15 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. T.</Forenames>
-      <Text>(Lieut.) (correction) 3577 ' Morley, F. G. (Lieut.) (correction)</Text>
+      <Text>(Lieut.) (correction)</Text>
+      <PageNumber>3577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Morley</Key>
+      <Forenames>F. G.</Forenames>
+      <Text>(Lieut.) (correction)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Lieut. E. F. St. J. (resigned and Hon. Lieut.)</Text>
+      <Text>. John, Lieut. E. F. St. J. (resigned and Hon. Lieut.)</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +643,6 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>IMPERIAL YEOMANRY DEP6T</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
@@ -653,7 +661,6 @@
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Line Battalions</SubCategoryTitle>
   <SectionTitle>The Royal Scots (Lothian Regiment)</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -693,7 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drysdale</Key>
-      <Text>W, (Capt.) .. .. .. -</Text>
+      <Forenames>W</Forenames>
+      <Text>, (Capt.) .. .. .. -</Text>
       <PageNumber>2770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,14 +784,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>R, P. (2iid Lieut.) .. ;3l</Text>
+      <Forenames>R</Forenames>
+      <Text>, P. (2iid Lieut.) .. ;3l</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Olpherts</Key>
-      <Text>Maj. V/. C. (retired) '.. '</Text>
+      <Title>Maj.</Title>
+      <Forenames>V</Forenames>
+      <Text>/. C. (retired) '.. '</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +820,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>Capt. J, H. A. '(resigned arid . ... Surg.-Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>, H. A. '(resigned arid . ... Surg.-Capt.)</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Qrmr. and Hon. Capt. (resigned)</Text>
+      <Title>Super. Qrmr. and Hon. Capt. (resigned)</Title>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>Capt. and Hon.' Maj. J. (resigned) ... .. '.... -3l</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>' Maj. J. (resigned) ... .. '.... -3l</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>W: P. (Surg.-Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: P. (Surg.-Lieut.)</Text>
       <PageNumber>4017</PageNumber>
     </MainItem>
   </ItemGroup>

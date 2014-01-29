@@ -259,7 +259,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(resigned) .. ..</Text>
+      <Title>(resigned)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>, F^(Hon. Maj.)</Text>
+      <Forenames>F</Forenames>
+      <Text>^(Hon. Maj.)</Text>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Text>, MP. (Adj.)</Text>
+      <Text>MP. (Adj.)</Text>
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,9 +765,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westby</Key>
-      <Title>Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. G. (resigned) .. ..</Text>
+      <Title>Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. G. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>7426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,8 +1236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. (cancellation)</Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>

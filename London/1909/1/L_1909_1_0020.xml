@@ -14,7 +14,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
-      <Text>Maj.-Gen., to command a Division .. .. .. ..</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>, to command a Division .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>Brevet Col. G-. M., to command a Brigade</Text>
+      <Title>Brevet Col.</Title>
+      <Text>G-. M., to command a Brigade</Text>
       <PageNumber>397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +658,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Vet. Capt.)</Text>
+      <Title>(Vet. Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +803,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +908,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>2502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1000,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Vet. Capt.)</Text>
+      <Title>(Vet. Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,15 +1582,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allendale</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>1574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,8 +1730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dartmouth</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>2041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1765,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. and Hon. Maj.)</Text>
+      <Title>(Capt. and Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

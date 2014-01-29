@@ -176,8 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (resigned)</Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulder</Key>
-      <Text>Maj. ij. A. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>ij. A. (retired)</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>Lieut.-Col and Brev. Col. C. E. C. B. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col and Brev. Col. C. E. C. B. (half-pay)</Text>
       <PageNumber>1874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobb</Key>
-      <Text>H F. (Lieut.) .. .. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>F. (Lieut.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's (Shropshire Light Infantry). Johnston, Lieut. P. D. C. (seconded)</Text>
+      <Title>King</Title>
+      <Text>'s (Shropshire Light Infantry). Johnston, Lieut. P. D. C. (seconded)</Text>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1291,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1361,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) ,</Text>
+      <Title>(correction)</Title>
+      <Text>,</Text>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>

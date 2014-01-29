@@ -129,8 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Or. (Capt.)</Title>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wayte</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>, Lieut.-Coi. Commandant and Hon. Col. W. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Coi. Commandant and Hon. Col. W. (retired)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>

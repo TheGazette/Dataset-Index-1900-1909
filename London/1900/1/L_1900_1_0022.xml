@@ -311,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>Duke of, Aide-de-Camp to Field-Marshal Lord Roberts</Text>
+      <Title>Duke</Title>
+      <Text>of, Aide-de-Camp to Field-Marshal Lord Roberts</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynne</Key>
-      <Text>A S., Maj.-Gen. to command the 17th Brigade</Text>
+      <Forenames>A</Forenames>
+      <Text>S., Maj.-Gen. to command the 17th Brigade</Text>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Castletown</Key>
-      <Text>Lieut. Lord (removed on age limit)</Text>
+      <Title>Lieut. Lord (removed on age limit)</Title>
       <PageNumber>1969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +660,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +691,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>Lieut. C: E. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>: E. (resigned)</Text>
       <PageNumber>1880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans-Gordon</Key>
-      <Text>W; E. (Maj.)</Text>
+      <Forenames>W</Forenames>
+      <Text>; E. (Maj.)</Text>
       <PageNumber>1078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +871,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +962,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1195,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romilly</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1236,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -252,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blacker</Key>
-      <Text>, 9. W. W. (Maj.)</Text>
+      <Text>9. W. W. (Maj.)</Text>
       <PageNumber>5174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +537,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Divisional Adj.)</Text>
+      <Title>(Divisional Adj.)</Title>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1202,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2021,7 +2021,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col E. S. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col E. S. (antedated)</Text>
       <PageNumber>8756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2217,7 +2218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>, E H. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>H. (Capt.)</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -165,7 +165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, Maj. O, Superintendent of Gymnasia</Text>
+      <Title>Maj.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Superintendent of Gymnasia</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,15 +201,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Brev. Col. G. P., Col. on the Staff for Royal Artillery, and Col</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Brev. Col. G. P., Col. on the Staff for Royal Artillery, and Col</Text>
       <PageNumber>5417</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>, Capt.' H. D., Staff Capt. at Head-Quarters</Text>
+      <Title>Capt.</Title>
+      <Text>' H. D., Staff Capt. at Head-Quarters</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,8 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainsford-Hannay</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col., F., Assist.-Director of Fortifications and Works at Head-Quarters</Text>
+      <Title>Brev. Col.</Title>
+      <Text>, F., Assist.-Director of Fortifications and Works at Head-Quarters</Text>
       <PageNumber>5884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>,' Capt. H. B., Staff Capt. at Head-Quarters</Text>
+      <Text>' Capt. H. B., Staff Capt. at Head-Quarters</Text>
       <PageNumber>5417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +277,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roper</Key>
-      <Text>, Capt.,' R. T., Staff Capt. at Head-Quarters</Text>
+      <Title>Capt.</Title>
+      <Text>,' R. T., Staff Capt. at Head-Quarters</Text>
       <PageNumber>4978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +287,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +323,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Qrmr.-Gen. in India and temporary Maj.-Gen</Text>
+      <Title>Qrmr.</Title>
+      <Text>-Gen. in India and temporary Maj.-Gen</Text>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,35 +441,45 @@
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
-      <Text>, Col. (local Brig.-Gen.) C. J., Col. on the Staff to command the Harrismith and Natal SubDistrict</Text>
+      <Title>Col. (local Brig.-Gen.)</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>, Col. on the Staff to command the Harrismith and Natal SubDistrict</Text>
       <PageNumber>4452</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Broadwood</Key>
-      <Text>, Col. (local Brig.-Gen.) R. G., Brig.-Gen. on the Staff to command the Bloemfontein District</Text>
+      <Title>Col. (local Brig.-Gen.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>, Brig.-Gen. on the Staff to command the Bloemfontein District</Text>
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burn-Murdoch</Key>
-      <Text>, Col. (local Brig.Gen.) J. F., Col. on the Staff to command the Potchefstroom SubDistrict</Text>
+      <Title>Col. (local Brig.Gen.)</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>, Col. on the Staff to command the Potchefstroom SubDistrict</Text>
       <PageNumber>4452</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenyon-Slauey</Key>
-      <Text>, Col. (local Brig.Gen.) W. R., Col. on the Staff to command the Middleburg SubDistrict .. .. . ;. ..</Text>
+      <Title>Col. (local Brig.Gen.)</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>, Col. on the Staff to command the Middleburg SubDistrict .. .. . ;. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>, Col. (local Maj.-Gen.) T. E., to command the Transvaal District</Text>
+      <Title>Col. (local Maj.-Gen.)</Title>
+      <Forenames>T. E.</Forenames>
+      <Text>, to command the Transvaal District</Text>
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falconer</Key>
-      <Text>, Lord (Lieut.) .. '</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>.. '</Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Triscott</Key>
-      <Text>,-L. E. (Capt.)</Text>
+      <Text>-L. E. (Capt.)</Text>
       <PageNumber>4677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bearne</Key>
-      <Text>.L. C. (Lieut.)</Text>
+      <Text>L. C. (Lieut.)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosse</Key>
-      <Text>. Capt. W. C. (seconded) ..</Text>
+      <Text>Capt. W. C. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>,, Lieut. H. A. H.. (resigned)</Text>
+      <Text>, Lieut. H. A. H.. (resigned)</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +835,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>,.G. F. (Maj.)</Text>
+      <Text>.G. F. (Maj.)</Text>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pym</Key>
-      <Text>, Capt. FH. N. (Ordnance Officer, 3rd Class)</Text>
+      <Title>Capt.</Title>
+      <Text>FH. N. (Ordnance Officer, 3rd Class)</Text>
       <PageNumber>5844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowie</Key>
-      <Text>. S. C. (Lieut.)</Text>
+      <Text>S. C. (Lieut.)</Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>

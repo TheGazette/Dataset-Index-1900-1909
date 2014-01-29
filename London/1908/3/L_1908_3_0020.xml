@@ -151,7 +151,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosmead</Key>
-      <Text>Maj. and Hon. Lieut.-Col. Lord (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. Lord (resigned)</Title>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,8 +299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. M. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. M. G. (resigned)</Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.H. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.H. C. (resigned)</Text>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +353,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,8 +595,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruoe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>Earl of (Hon. Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Maj.)</Text>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +863,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon. Maj. Earl of (resigned) . . .. .. ..</Text>
+      <Title>Capt. and Hon. Maj. Earl</Title>
+      <Text>of (resigned) . . .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>Earl (Hon. Maj.)</Text>
+      <Title>Earl (Hon. Maj.)</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +896,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon. Maj. Earl (resigned) .. .. .. ..</Text>
+      <Title>Capt. and Hon. Maj. Earl (resigned)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +943,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtenay</Key>
-      <Text>H; (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>; (2nd Lieut.)</Text>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,14 +1231,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Abinger</Key>
-      <Text>Capt. and Hon. Maj. Lord (resigned)</Text>
+      <Title>Capt. and Hon. Maj. Lord (resigned)</Title>
       <PageNumber>6527</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>Col. Duke of (resigned) ..</Text>
+      <Title>Col. Duke</Title>
+      <Text>of (resigned) ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colquhoun</Key>
-      <Text>A, F. R. (Capt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, F. R. (Capt.)</Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1354,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .... .. -;.vV</Text>
+      <Title>(Maj.)</Title>
+      <Text>.... .. -;.vV</Text>
       <PageNumber>6605</PageNumber>
     </MainItem>
   </ItemGroup>

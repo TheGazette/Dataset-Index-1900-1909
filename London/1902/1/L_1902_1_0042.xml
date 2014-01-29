@@ -108,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>R, J. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, J. (2nd Lieut.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,9 +710,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Whitaker</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3182</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Astlev</Key>
-      <Text>Lieut. R, G. G. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, G. G. (resigned)</Text>
       <PageNumber>1737</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Clarke</Key>
+      <Forenames>R. W. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1314,8 +1333,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. F. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. F. H. (resigned)</Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,8 +1360,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. J. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. J. (cancellation)</Text>
       <PageNumber>1044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arrowsmith</Key>
-      <Text>Capt. and Instr. of Muskety J. A. (resigned and Hon. Maj.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Muskety J. A. (resigned and Hon. Maj.)</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenaway</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,6 +59,13 @@
       <Key>Hewett</Key>
       <Forenames>G.</Forenames>
       <PageNumber>6572</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hewitt</Key>
+      <Forenames>D. R.</Forenames>
+      <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -372,7 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +724,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fishe</Key>
-      <Text>Col. A</Text>
+      <Title>Col.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Text>Maj. P</Text>
+      <Title>Maj.</Title>
+      <Forenames>P</Forenames>
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,8 +1292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanton</Key>
-      <Forenames>Moj</Forenames>
-      <Text>. II. E</Text>
+      <Title>Moj.</Title>
+      <Text>II. E</Text>
       <PageNumber>6573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,8 +1476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. E. L.</Text>
+      <Title>Ca.</Title>
+      <Text>pt. E. L.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

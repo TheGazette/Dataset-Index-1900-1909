@@ -151,8 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Habgood</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Gr. (Capt.)</Title>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashworth</Key>
-      <Text>, Capt. G-. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. C. (seconded)</Text>
       <PageNumber>220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, H. B. (Lieut.)</Text>
+      <Text>John, H. B. (Lieut.)</Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. B. (resigned and Hon. Surg.-Col.) .. .&lt;</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. B. (resigned and Hon. Surg.-Col.) .. .&lt;</Text>
       <PageNumber>331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +594,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothes</Key>
-      <Text>, Earl of (2nd Lieut)..</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzwilliam</Key>
-      <Text>, Earl (Hon. Maj.)</Text>
+      <Title>Earl (Hon. Maj.)</Title>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arundel</Key>
-      <Text>, extra super. 2nd Lieut. A. D. S. (resigned)</Text>
+      <Text>extra super. 2nd Lieut. A. D. S. (resigned)</Text>
       <PageNumber>1207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridley</Key>
-      <Text>, VV. P. N. (Capt.) .. ..</Text>
+      <Text>VV. P. N. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

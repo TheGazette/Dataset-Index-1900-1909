@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Milford</Key>
-      <Text>, Lieut.-Col. W: K., Companion of St. Michael and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>: K., Companion of St. Michael and St. George</Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,29 +46,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>, Lord; a Privy Councillor '</Text>
+      <Title>Lord</Title>
+      <Text>; a Privy Councillor '</Text>
       <PageNumber>4919</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>, Mr., Companion of St. Michael and St. George</Text>
+      <Title>Mr.</Title>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>6331</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mirehouse</Key>
-      <Text>, Lieut.-Col. and Hon. Col.' R., ' Companion of St. Michael' and St. George</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>' R., ' Companion of St. Michael' and St. George</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moberly</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rev. Canon</Title>
       <Text>, Chaplain in Ordinary to His Majesty .. '</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -179,7 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mount-Edgcumbe</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pauncefote</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>4919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pembroke</Key>
-      <Text>, Earl of, Lord Steward of H.M.'s Household</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord Steward of H.M.'s Household</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon H. H.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. H.</Forenames>
       <Text>, Hon. Chaplain to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -603,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>, Duke of, Knight of Justice of St. John of Jerusalem</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight of Justice of St. John of Jerusalem</Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +620,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Master of the Horse</Text>
+      <Title>Master</Title>
+      <Text>of the Horse</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Randell</Key>
-      <Text>,.G., Member of ,the Executive ; Council; Western Australia, permitted '... to retain title of Honourable</Text>
+      <Text>.G., Member of ,the Executive ; Council; Western Australia, permitted '... to retain title of Honourable</Text>
       <PageNumber>5979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,22 +838,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, G, A., U.M.'s Vice-Consul : at Hodeida and Camaran</Text>
+      <Forenames>G</Forenames>
+      <Text>, A., U.M.'s Vice-Consul : at Hodeida and Camaran</Text>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ricketts</Key>
-      <Forenames>Civ</Forenames>
-      <Text>.-Surg. A., Companion of St. Michael and St. George</Text>
+      <Title>Civ.</Title>
+      <Text>-Surg. A., Companion of St. Michael and St. George</Text>
       <PageNumber>6325</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Earl, Knight of Justice of St. John of Jerusalem</Text>
+      <Title>Earl</Title>
+      <Text>, Knight of Justice of St. John of Jerusalem</Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronalds</Key>
-      <Text>, Mrs., Honorary Lady of Grace of St.. John of Jerusalem</Text>
+      <Title>Mrs., Honorary Lady</Title>
+      <Text>of Grace of St.. John of Jerusalem</Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandwich</Key>
-      <Text>, Earl of, Knight of Grace, St. . John of Jerusalem</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight of Grace, St. . John of Jerusalem</Text>
       <PageNumber>8639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1035,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schleswig-Holstein</Key>
-      <Text>, &amp;c., H.H. . Prince John, Hon. Knight Grand Cross of the . Royal Victorian Order</Text>
+      <Text>&amp;c., H.H. . Prince John, Hon. Knight Grand Cross of the . Royal Victorian Order</Text>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>

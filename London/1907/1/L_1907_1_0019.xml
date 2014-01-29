@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>, (Capt. and Hon. Maj. F. (resigned)</Text>
+      <Text>(Capt. and Hon. Maj. F. (resigned)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, C S. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>S. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,16 +270,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. aDd Hon. Surg.-Col. P. E. (super!)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. aDd Hon. Surg.-Col. P. E. (super!)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. D. (resigned)</Text>
       <PageNumber>1393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +315,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +364,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .—</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +532,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +581,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, G, (Lieut.)..</Text>
+      <Forenames>G</Forenames>
+      <Text>, (Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +790,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langley</Key>
-      <Text>, 2nd Lieut, A. A. (resigned)</Text>
+      <Text>2nd Lieut, A. A. (resigned)</Text>
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>

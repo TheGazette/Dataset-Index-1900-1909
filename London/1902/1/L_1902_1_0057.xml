@@ -461,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamond</Key>
-      <Text>L\ (2nd Lieut.)</Text>
+      <Forenames>L</Forenames>
+      <Text>\ (2nd Lieut.)</Text>
       <PageNumber>585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrewes</Key>
-      <Text>C; W. (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>; W. (2nd Lieut.)</Text>
       <PageNumber>2285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>Capt. and Instr. of Musketry A. H. J. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry A. H. J. (resigned)</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blythswood</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>R, D. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. (2nd Lieut.)</Text>
       <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,8 +1244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamond</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. D. (resigned)</Text>
       <PageNumber>1739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,8 +1363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milligan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt, G. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt, G. C. (resigned)</Text>
       <PageNumber>3183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1761,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>J, (temporary Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, (temporary Lieut.)</Text>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,7 +1804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>C: J. (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>: J. (2nd Lieut.)</Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>

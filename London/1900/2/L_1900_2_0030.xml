@@ -159,7 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>, Earl of (temp. Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (temp. Lieut.)</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +687,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired pay)</Text>
+      <Title>(retired pay)</Title>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, Capt. G. S. (local rank of Maj. in South Africa)</Text>
+      <Text>Aubyn, Capt. G. S. (local rank of Maj. in South Africa)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellington</Key>
-      <Text>, Lieut.-Col. and Col. Duke of (retired pay)</Text>
+      <Title>Lieut.-Col. and Col. Duke</Title>
+      <Text>of (retired pay)</Text>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,8 +1316,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. (local Maj.-Gen.) Sir F. R. (substantive rank of Col. in the Army on appointment as Sirdar)</Text>
+      <Title>Brev. Col. (local Maj.-Gen.) Sir</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>(substantive rank of Col. in the Army on appointment as Sirdar)</Text>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,7 +1403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyre</Key>
-      <Text>,.R. G</Text>
+      <Text>.R. G</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

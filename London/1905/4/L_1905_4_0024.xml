@@ -133,7 +133,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>, R, (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>7826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>, Lieut.-Col. and Brev. Col. (retired) .. .. .. ..</Text>
+      <Title>Lieut.-Col. and Brev. Col. (retired)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>, CJ. S. (2nd Lieut.)</Text>
+      <Text>CJ. S. (2nd Lieut.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>, G, '(Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, '(Capt.)</Text>
       <PageNumber>9098</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -658,7 +658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>J W. (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>W. (Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>F. S. (2nd Lieut.) .. ..</Text>
+      <Text>. F. S. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1380,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr. and Hon. Capt.)</Text>
+      <Title>(Qrmr. and Hon. Capt.)</Title>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>Sir G. A.. Bart. (Lieut.-Col.)</Text>
+      <Text>. Sir G. A.. Bart. (Lieut.-Col.)</Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,7 +1705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>T., junr. (Capt.)</Text>
+      <Text>. T., junr. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

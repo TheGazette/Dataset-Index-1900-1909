@@ -44,7 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howland</Key>
-      <Text>, 2nd Lieut. 'V. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>'V. (seconded)</Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nation</Key>
-      <Text>. S. C. (2nd Lieut.)</Text>
+      <Text>S. C. (2nd Lieut.)</Text>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Text>.D. R. (Maj.)</Text>
+      <Text>D. R. (Maj.)</Text>
       <PageNumber>6893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlyle</Key>
-      <Text>, Maj. and Lion. Lieut.-Col. (resigned)</Text>
+      <Title>Maj. and Lion. Lieut.-Col. (resigned)</Title>
       <PageNumber>8782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtenay</Key>
-      <Text>, Lieut.-Col.-Comdt. and Hon. Col. A. H. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-Comdt. and Hon. Col. A. H. (retired)</Text>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>. O. (2nd Lieut.)</Text>
+      <Text>O. (2nd Lieut.)</Text>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1051,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. C. T. M. (Lieut.)</Text>
+      <Text>C. T. M. (Lieut.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,9 +1204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gandy</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. W. (resigned) ..</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. W. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

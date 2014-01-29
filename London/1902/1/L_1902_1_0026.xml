@@ -5,7 +5,15 @@
     <MainItem>
       <Key>Alloyne</Key>
       <Forenames>C. F.</Forenames>
-      <Text>(2nd Lieut.) 2935 ' .——___ ___ Li;:nt. O. F. (cancellation) .. Bioeklcbunk, J. L. (Lieut.) . ___ ___ . ___ ___ ___ ___ 2nd Lieut. J. J. (correction)</Text>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2935</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bioeklcbunk</Key>
+      <Forenames>J. L.</Forenames>
+      <Text>(Lieut.) . ___ ___ . ___ ___ ___ ___ 2nd Lieut. J. J. (correction)</Text>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +92,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>R, E. D. (2ud Lieut.) ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. D. (2ud Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,6 +124,14 @@
   <SubSectionTitle>3rd Dragoon Guards</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>Jenkins</Key>
+      <Forenames>T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2076</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
@@ -138,6 +155,14 @@
       <Forenames>L. V.</Forenames>
       <Text>(2nd Lieut.) £</Text>
       <PageNumber>076</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smith</Key>
+      <Forenames>C. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>4th Dragoon Guards</SubSectionTitle>
@@ -305,7 +330,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +339,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>3750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +457,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basing</Key>
-      <Text>Lord (Lieut.-Col.)</Text>
+      <Title>Lord (Lieut.-Col.)</Title>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +569,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) Hardy, S. J. (Lieut.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Forenames>Hardy</Forenames>
+      <Text>, S. J. (Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +792,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded) Underwood, J. W. (Capt.) Watkin, H. G. (Adj.) Wormald, W. F. (Lieut.)</Text>
+      <Title>(seconded)</Title>
+      <Forenames>Underwood</Forenames>
+      <Text>, J. W. (Capt.) Watkin, H. G. (Adj.) Wormald, W. F. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +948,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj)</Text>
+      <Title>(Adj)</Title>
       <PageNumber>2689</PageNumber>
     </MainItem>
   </ItemGroup>

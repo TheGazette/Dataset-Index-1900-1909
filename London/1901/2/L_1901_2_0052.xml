@@ -28,7 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darrah</Key>
-      <Text>, Capt. O'B. Z. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>O</Forenames>
+      <Text>'B. Z. (retired)</Text>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,8 +1527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. F. W. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. F. W. W. (resigned)</Text>
       <PageNumber>9068</PageNumber>
     </MainItem>
   </ItemGroup>

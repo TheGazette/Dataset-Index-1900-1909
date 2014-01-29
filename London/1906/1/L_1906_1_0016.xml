@@ -171,7 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McVittie</Key>
-      <Text>Capt. ft. H. (Ordnance Officer, 4th Class)</Text>
+      <Title>Capt.</Title>
+      <Text>ft. H. (Ordnance Officer, 4th Class)</Text>
       <PageNumber>1138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Text>W. (Liaut*) .. .. ..</Text>
+      <Text>. W. (Liaut*) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,14 +332,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bftlckwell</Key>
-      <Text>T.' S:(Lieut.)</Text>
+      <Text>. T.' S:(Lieut.)</Text>
       <PageNumber>1138</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>A; H. (Lieut:) !</Text>
+      <Forenames>A</Forenames>
+      <Text>; H. (Lieut:) !</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>P. (Maj.)</Text>
+      <Text>. P. (Maj.)</Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +766,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lavie</Key>
-      <Text>T*. G. (Lieut.-Col.) ..</Text>
+      <Forenames>T</Forenames>
+      <Text>*. G. (Lieut.-Col.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +942,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>G. W. (Lieut.) ..</Text>
+      <Text>.G. W. (Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middlemiss</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. (resigned)</Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,8 +1317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clery</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. J. A. (temporary half-pay)' Ill Pratt, W. S. (Surg.-GettO</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. J. A. (temporary half-pay)' Ill Pratt, W. S. (Surg.-GettO</Text>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>G: (Capt:)</Text>
+      <Forenames>G</Forenames>
+      <Text>: (Capt:)</Text>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>Capt.' 0. T. D. (secbnded)</Text>
+      <Text>.Capt.' 0. T. D. (secbnded)</Text>
       <PageNumber>192</PageNumber>
     </MainItem>
   </ItemGroup>

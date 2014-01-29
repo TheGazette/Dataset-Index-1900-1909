@@ -307,8 +307,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. R. (resigned)</Text>
       <PageNumber>1421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,8 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hingston</Key>
-      <Forenames>Adj</Forenames>
-      <Text>. (correction)</Text>
+      <Title>Adj. (correction)</Title>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +746,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stubbs</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. J. H. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. J. H. (resigned)</Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>

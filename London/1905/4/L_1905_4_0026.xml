@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craik</Key>
-      <Text>,. Lieut. J. G. E. (seconded) ..</Text>
+      <Text>. Lieut. J. G. E. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,9 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclennan</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lient</Forenames>
-      <Text>.Col. G. (retired)</Text>
+      <Title>Maj. and Hon. Lient.</Title>
+      <Text>Col. G. (retired)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Philip</Key>
-      <Text>, Capt...and flon. Maj. A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>..and flon. Maj. A. (resigned)</Text>
       <PageNumber>7103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>, Lieut.-Col. and Brev.-Col. G. F. (retired) .'</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. G. F. (retired) .'</Text>
       <PageNumber>8738</PageNumber>
     </MainItem>
   </ItemGroup>

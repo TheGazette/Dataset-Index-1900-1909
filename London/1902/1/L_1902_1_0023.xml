@@ -293,8 +293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. (retired)</Text>
       <PageNumber>3179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. O. C. (transferred to the Indian Civil Veterinary Department)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. W. O. C. (transferred to the Indian Civil Veterinary Department)</Text>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mann</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut.-Col. H. T. W. (cancellation)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut.-Col. H. T. W. (cancellation)</Text>
       <PageNumber>455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,8 +383,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. H. T. W. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. H. T. W. (retired)</Text>
       <PageNumber>3900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallin</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. D. C. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. D. C. (retired)</Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,16 +463,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Eayment</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut.-Col. G. J. B. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut.-Col. G. J. B. (retired)</Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut.-Col. J. (retired pav)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut.-Col. J. (retired pav)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,8 +535,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Forenames>Vct</Forenames>
-      <Text>.-Maj. J. A. (temporary half-pay)</Text>
+      <Title>Vct.</Title>
+      <Text>-Maj. J. A. (temporary half-pay)</Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +545,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)..</Text>
+      <Title>(retired)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +991,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>B, F. (Col.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, F. (Col.)</Text>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,7 +1137,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired pay) ..</Text>
+      <Title>(retired pay)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Congleton</Key>
-      <Text>Maj.-Ger. Lord (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Text>-Ger. Lord (retired pay)</Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,7 +1502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>J, II. (temporary 2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, II. (temporary 2nd Lieut.)</Text>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,9 +1587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastwood</Key>
-      <Title>Capt.</Title>
-      <Forenames>If</Forenames>
-      <Text>. de (.. (temporary Adj. and Assist. Tnstr. at the School of Instruction for Imperial Yeomanry)</Text>
+      <Title>Capt. If.</Title>
+      <Text>de (.. (temporary Adj. and Assist. Tnstr. at the School of Instruction for Imperial Yeomanry)</Text>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,7 +1620,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Text>Col. II. C. B. (half-pay)</Text>
+      <Title>Col.</Title>
+      <Text>II. C. B. (half-pay)</Text>
       <PageNumber>718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1671,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -171,7 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>Maj. a:id Hon. Lieut.-Col. C. S., Brig.-Maj</Text>
+      <Title>Maj.</Title>
+      <Text>a:id Hon. Lieut.-Col. C. S., Brig.-Maj</Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenly</Key>
-      <Text>Capt. andBrevetMaj. W. H. Brig.-Maj</Text>
+      <Title>Capt.</Title>
+      <Text>andBrevetMaj. W. H. Brig.-Maj</Text>
       <PageNumber>7370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,14 +221,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Haldane</Key>
-      <Text>Maj. and Brevet Col. .T. A. L., Assistant Director at HeadQuarters and Col</Text>
+      <Title>Maj. and Brevet Col.</Title>
+      <Text>.T. A. L., Assistant Director at HeadQuarters and Col</Text>
       <PageNumber>7480</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hendry</Key>
-      <Text>Lieut.-Col.-Com. and Hon. I Coi. P. W., Brig.-Maj. of Vol| unteer Infantry Brigade</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-Com. and Hon. I Coi. P. W., Brig.-Maj. of Vol| unteer Infantry Brigade</Text>
       <PageNumber>7977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitford</Key>
-      <Text>-Col. B. R, Brig-Gen. to command au Infantry Brigade and temporary Bi-ig.-Gen</Text>
+      <Text>. -Col. B. R, Brig-Gen. to command au Infantry Brigade and temporary Bi-ig.-Gen</Text>
       <PageNumber>8648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>Maj. E. M., DeputyAssist. Adj.-Gen. at Head-Quarters</Text>
+      <Text>. Maj. E. M., DeputyAssist. Adj.-Gen. at Head-Quarters</Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerniek</Key>
-      <Text>C. C. (Lieut.)</Text>
+      <Text>. C. C. (Lieut.)</Text>
       <PageNumber>7724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +817,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +832,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas-Jones</Key>
-      <Text>Capt. W. D. (resigned)</Text>
+      <Text>. Capt. W. D. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +849,7 @@
       <Key>
         <KeyDitto>——— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +901,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hipwell</Key>
-      <Text>Lieut.-Col. aud Brevet Col. A. G. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>aud Brevet Col. A. G. (retired)</Text>
       <PageNumber>7219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +970,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1144,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) Royal Military College. Barnardiston, Lieut.-Col. N. W. (Second in Command)</Text>
+      <Title>(Lieut.)</Title>
+      <Forenames>Royal Military College</Forenames>
+      <Text>. Barnardiston, Lieut.-Col. N. W. (Second in Command)</Text>
       <PageNumber>7370</PageNumber>
     </MainItem>
   </ItemGroup>

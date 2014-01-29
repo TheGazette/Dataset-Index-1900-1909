@@ -124,8 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livingstone</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (cancellation)</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,9 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnaughton-Jones</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.Capt. H. M. (cancellation)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>Capt. H. M. (cancellation)</Text>
       <PageNumber>6362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +388,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinhoe</Key>
-      <Text>, (Maj.) G. E. (resigned)</Text>
+      <Title>(Maj.)</Title>
+      <Forenames>G. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +515,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>, Lieut. C, L. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, L. (resigned)</Text>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>,W. D. (Lieut.)</Text>
+      <Text>W. D. (Lieut.)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,14 +707,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Camden</Key>
-      <Text>, Marquis (Hon. Col.)</Text>
+      <Title>Marquis (Hon. Col.)</Title>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, (Capt. and Hon, Maj. W. G. (resigned)</Text>
+      <Text>(Capt. and Hon, Maj. W. G. (resigned)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,6 +1030,15 @@
       <Forenames>E. M.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lyell</Key>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1405,7 +1417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waringj</Key>
-      <Text>Maj.-J. E. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>-J. E. (resigned)</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,9 +1473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Title>Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. T. F. (resigned)</Text>
+      <Title>Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. T. F. (resigned)</Text>
       <PageNumber>6879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>, 0. F. (2nd Lieut.) .. .. t&gt;</Text>
+      <Text>0. F. (2nd Lieut.) .. .. t&gt;</Text>
       <PageNumber>879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,7 +1747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seott</Key>
-      <Text>, and Lieut. W. (resigned)</Text>
+      <Text>and Lieut. W. (resigned)</Text>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,8 +1936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (resigned) ,</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (resigned) ,</Text>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>

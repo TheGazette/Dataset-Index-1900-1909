@@ -20,7 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdour</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +335,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davie</Key>
-      <Text>Capt. EL E. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>EL E. (resigned)</Text>
       <PageNumber>851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>Capt. and Hon.-Maj. W. T. (resigned)</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>-Maj. W. T. (resigned)</Text>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,16 +946,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. G. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. G. (super.)</Text>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macleod</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. J. R. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. J. R. (super.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cradoek</Key>
-      <Text>E: W. (Hon. Col.) .. \</Text>
+      <Forenames>E</Forenames>
+      <Text>: W. (Hon. Col.) .. \</Text>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams-Wynn</Key>
-      <Text>Maj. and Hon. Lieut.Col. A. W. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>Col. A. W. (resigned)</Text>
       <PageNumber>2081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,8 +1426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. P. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. P. H. (resigned)</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

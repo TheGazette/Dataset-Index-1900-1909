@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oubbon</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,22 +65,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. .. .. .. ..</Text>
+      <Title>Gr.</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marchant</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,28 +95,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3105</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittington</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +248,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Siddle</Key>
-      <Text>, Capt.. Or. L. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. Or. L. (resigned)</Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,21 +422,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beaton</Key>
-      <Text>, Capt. Lord (resigned)</Text>
+      <Title>Capt. Lord (resigned)</Title>
       <PageNumber>3159</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>,Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. G. D. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. G. D. (resigned)</Text>
       <PageNumber>3331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Basset</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. P. T. B. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. P. T. B. (resigned)</Text>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +626,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry) .. .. .. ..</Text>
+      <Title>(Instr. of Musketry)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,8 +801,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrew</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. G. (resigned)</Text>
       <PageNumber>4395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1147,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>4256</PageNumber>
     </MainItem>
   </ItemGroup>

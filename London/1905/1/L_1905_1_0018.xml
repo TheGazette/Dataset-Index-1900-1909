@@ -90,8 +90,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>. Maj. and Hon. Lieut.Col. Q-. (vacates appointment of Officer Commanding Army Service Corps Coinpanv and Lieut.-Col.)..</Text>
+      <Title>Super. Maj. and Hon. Lieut.Col.</Title>
+      <Text>Q-. (vacates appointment of Officer Commanding Army Service Corps Coinpanv and Lieut.-Col.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esdaile</Key>
-      <Text>, P C. (Lieut.)</Text>
+      <Forenames>P</Forenames>
+      <Text>C. (Lieut.)</Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,6 +406,14 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pink</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
+      <PageNumber>1576</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rainsford-Hannay</Key>
@@ -687,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marks</Key>
-      <Text>, ST. (2nd Lieut.)</Text>
+      <Text>ST. (2nd Lieut.)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,7 +1207,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,7 +1409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darnell</Key>
-      <Text>, if. G. (2nd Lieut.)</Text>
+      <Text>if. G. (2nd Lieut.)</Text>
       <PageNumber>656</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -165,7 +165,7 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +263,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6782</PageNumber>
     </MainItem>
     <SubItem>
@@ -374,9 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. A. C. (cancellation)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. A. C. (cancellation)</Text>
       <PageNumber>6644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylde</Key>
-      <Text>, 2nd Lieut, J. C. (resigned)</Text>
+      <Text>2nd Lieut, J. C. (resigned)</Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +466,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderson</Key>
-      <Text>, Maj. and Brev. Col. (local Brig.-Gen.) E. A. H., Insp.-Gen. Mounted Infantry</Text>
+      <Title>Maj. and Brev. Col. (local Brig.-Gen.)</Title>
+      <Forenames>E. A. H.</Forenames>
+      <Text>, Insp.-Gen. Mounted Infantry</Text>
       <PageNumber>6172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +583,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, 2nd Lieut. Lord, Extra Aide-deCamp to the Right Hon. Lord Milner</Text>
+      <Title>2nd Lieut. Lord</Title>
+      <Text>, Extra Aide-deCamp to the Right Hon. Lord Milner</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Text>, Col. Viscount, Brig.-Gen., and to command the Cavalry Brigade at the Curragh .. .. .. .,</Text>
+      <Title>Col. Viscount, Brig.-Gen.</Title>
+      <Text>, and to command the Cavalry Brigade at the Curragh .. .. .. .,</Text>
       <PageNumber>5128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton-Gordon</Key>
-      <Text>, Maj. and Brev. Lieut.-Col., Deputy Assist. Qrmr.Gen</Text>
+      <Title>Maj. and Brev. Lieut.-Col.</Title>
+      <Text>, Deputy Assist. Qrmr.Gen</Text>
       <PageNumber>8840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +961,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Heseltine</Key>
-      <Text>, Maj. C, Extra Aide-de-Camp to the Sight Hon. Earl Cadogan</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Extra Aide-de-Camp to the Sight Hon. Earl Cadogan</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +997,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, Col. (Temporary Maj.-Gen.) W., Inspector-Gen. of Volunteers in India</Text>
+      <Title>Col. (Temporary Maj.-Gen.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, Inspector-Gen. of Volunteers in India</Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,8 +1033,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly-Kenny</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Gen. T., Adj.-Gen. to the Forces</Text>
+      <Title>Licut.</Title>
+      <Text>-Gen. T., Adj.-Gen. to the Forces</Text>
       <PageNumber>6400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Forenames>Africa</Forenames>
+      <Title>Africa .</Title>
       <PageNumber>8663</PageNumber>
     </MainItem>
   </ItemGroup>

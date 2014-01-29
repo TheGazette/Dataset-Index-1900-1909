@@ -95,14 +95,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisholm</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cranstoun</Key>
-      <Text>, 0. J. E. .. .. ,.</Text>
+      <Text>0. J. E. .. .. ,.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, .T</Text>
+      <Text>.T</Text>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,14 +199,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moray</Key>
-      <Text>, Earl of .. .. .. ..</Text>
+      <Title>Earl</Title>
+      <Text>of .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>, Marquis of .. ..</Text>
+      <Title>Marquis</Title>
+      <Text>of .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnot</Key>
-      <Text>, Capt. OR</Text>
+      <Title>Capt.</Title>
+      <Text>OR</Text>
       <PageNumber>6292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tupper</Key>
-      <Text>, K, G. O</Text>
+      <Forenames>K</Forenames>
+      <Text>, G. O</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuddy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, OF... .. .. ..</Text>
+      <Text>OF... .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>, OS</Text>
+      <Text>OS</Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macworth</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,14 +1193,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pierson</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Plunkett</Key>
-      <Text>, Hon. R, A. R</Text>
+      <Title>Hon.</Title>
+      <Forenames>R</Forenames>
+      <Text>, A. R</Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, OA</Text>
+      <Text>OA</Text>
       <PageNumber>6292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higham</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5876</PageNumber>
     </MainItem>
   </ItemGroup>

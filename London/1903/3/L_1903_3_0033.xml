@@ -63,7 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton-Gordon</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,14 +164,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>Capt. F</Text>
+      <Title>Capt.</Title>
+      <Forenames>F</Forenames>
       <PageNumber>5665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Text>Capt. G-</Text>
+      <Title>Capt.</Title>
+      <Text>G-</Text>
       <PageNumber>5152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +200,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired list)</Text>
+      <Title>(retired list)</Title>
       <PageNumber>5913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meikle</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heather</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thursfield</Key>
-      <Text>R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,8 +793,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Skene</Key>
-      <Forenames>Rov</Forenames>
-      <Text>. R, E. (temporary)</Text>
+      <Title>Rov.</Title>
+      <Forenames>R</Forenames>
+      <Text>, E. (temporary)</Text>
       <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,12 +1463,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Deputy</Key>
-      <Forenames>Adj</Forenames>
-      <Text>.-General's Department— ___ ___ Change of address</Text>
+      <Title>Adj.</Title>
+      <Text>-General's Department— ___ ___ Change of address</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>

@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>Lieut.-Col. (resigned)</Text>
+      <Title>Lieut.-Col. (resigned)</Title>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,8 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Or</Forenames>
-      <Text>. ¥. S. (Lieut.)</Text>
+      <Title>Or.</Title>
+      <Text>¥. S. (Lieut.)</Text>
       <PageNumber>7370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +380,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C. A. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C. A. (seconded)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AyBCOugh</Key>
-      <Text>G\M. (Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>\M. (Lieut.)</Text>
       <PageNumber>7218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,8 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W&gt; J. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W&gt; J. (correction)</Text>
       <PageNumber>6724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coath</Key>
-      <Text>-.T. C. (Maj.)</Text>
+      <Text>.-.T. C. (Maj.)</Text>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>Capt.. W. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. W. J. (resigned)</Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salkeld</Key>
-      <Text>R. E. (Capt.)</Text>
+      <Text>.R. E. (Capt.)</Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1086,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1145,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Challis</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. T. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. T. (super.)</Text>
       <PageNumber>7631</PageNumber>
     </MainItem>
   </ItemGroup>

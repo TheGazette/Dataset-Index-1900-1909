@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Leger, St. J. J. (Lieut.-Col.)</Text>
+      <Text>Leger, St. J. J. (Lieut.-Col.)</Text>
       <PageNumber>5036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +355,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>6478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +364,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(post-dated)</Text>
+      <Title>(post-dated)</Title>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorke</Key>
-      <Text>, H, E. (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>, E. (Lieut.)</Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +613,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>, 2nd Lieut, H. C. (seconded)</Text>
+      <Text>2nd Lieut, H. C. (seconded)</Text>
       <PageNumber>4127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +785,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +879,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +937,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>, 0. H. G. M. (Capt.) ..</Text>
+      <Text>0. H. G. M. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,6 +1514,14 @@
       <Forenames>R. C.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>5765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Meade-Waldo</Key>
+      <Forenames>E. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>4948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1829,7 +1838,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1871,7 +1880,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1880,11 +1889,27 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(removed)</Text>
+      <Title>(removed)</Title>
       <PageNumber>8380</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vallentin</Key>
+      <Forenames>J. P.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4792</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>7th Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brown</Key>
+      <Forenames>C. D. D.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5324</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Malone</Key>

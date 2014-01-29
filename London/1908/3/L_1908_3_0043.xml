@@ -5,7 +5,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanusi</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynn</Key>
-      <Text>R, R, (2nd Lieut.) .. ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, R, (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Text>A, (2nd Lieut.) .. ..</Text>
+      <Forenames>A</Forenames>
+      <Text>, (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>B. F. (Super. Capt.)</Text>
+      <Text>. B. F. (Super. Capt.)</Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Massey</Key>
-      <Text>C I. (Capt.) .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>I. (Capt.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,7 +1710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Polding</Key>
-      <Text>J. B. (Capt.)</Text>
+      <Text>. J. B. (Capt.)</Text>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>

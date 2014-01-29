@@ -279,7 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grunly</Key>
-      <Text>Capt.' and Brev. Maj. W. H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>' and Brev. Maj. W. H. (seconded)</Text>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +453,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>J: A. D. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: A. D. (Lieut.)</Text>
       <PageNumber>261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,8 +774,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.' Col. H. (half-pay)</Text>
+      <Title>Brev.</Title>
+      <Text>' Col. H. (half-pay)</Text>
       <PageNumber>1015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donaldson</Key>
-      <Text>J! W. E. (Capt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>! W. E. (Capt.)</Text>
       <PageNumber>261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>H, TS. (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>, TS. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -501,7 +501,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +579,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinton</Key>
-      <Text>B B. (Capt.)</Text>
+      <Forenames>B</Forenames>
+      <Text>B. (Capt.)</Text>
       <PageNumber>6738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +825,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ,</Text>
+      <Title>(Capt.)</Title>
+      <Text>,</Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>B, L. (Lieut,)</Text>
+      <Forenames>B</Forenames>
+      <Text>, L. (Lieut,)</Text>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tootell</Key>
-      <Text>Capt.,and Hon. MAJ. C. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>,and Hon. MAJ. C. (resigned)</Text>
       <PageNumber>6336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,9 +1135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grundy</Key>
-      <Title>Acting Cliap.</Title>
-      <Forenames>Bev</Forenames>
-      <Text>. C.H. (resigned)</Text>
+      <Title>Acting Cliap. Bev.</Title>
+      <Text>C.H. (resigned)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Text>Maj. and Hon. Lieut.-Co!. W. K. (super.) Russell, E. C. (Lieut.)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Co!. W. K. (super.) Russell, E. C. (Lieut.)</Text>
       <PageNumber>8694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darnley</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1366,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>R, J. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, J. (2nd Lieut.)</Text>
       <PageNumber>7098</PageNumber>
     </MainItem>
   </ItemGroup>

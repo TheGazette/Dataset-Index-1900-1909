@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslewbod</Key>
-      <Text>,,E,.J. (2nd Lieut.)</Text>
+      <Text>,E,.J. (2nd Lieut.)</Text>
       <PageNumber>6588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +84,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>Col.) .. .. .:</Text>
+      <Title>Col.</Title>
+      <Text>) .. .. .:</Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Text>,-H. P. E. (Capt.)</Text>
+      <Text>-H. P. E. (Capt.)</Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +120,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ihornhill</Key>
-      <Text>,-Lieut. H. T. (resigned) ..'</Text>
+      <Text>-Lieut. H. T. (resigned) ..'</Text>
       <PageNumber>7368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowler</Key>
-      <Text>, 2ndLieut. F. E. (resigned)</Text>
+      <Text>2ndLieut. F. E. (resigned)</Text>
       <PageNumber>6412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>, H: F.D. (Lieut.)' .-. = .. S5tjb Thornton, Lieut. G.-Fv (seconded)</Text>
+      <Forenames>H</Forenames>
+      <Text>: F.D. (Lieut.)' .-. = .. S5tjb Thornton, Lieut. G.-Fv (seconded)</Text>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +365,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.). ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +445,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>8797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +462,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ '</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>,.P. F.. (Lieut.) ..</Text>
+      <Text>.P. F.. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>,' H. J. (Lieut.)</Text>
+      <Text>' H. J. (Lieut.)</Text>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +858,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, Capt. FV S. (resigned) . .. —?—</Text>
+      <Title>Capt.</Title>
+      <Text>FV S. (resigned) . .. —?—</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>, Lieut.-Col. . and -Brey. Col: C. W. (half-pay)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>. and -Brey. Col: C. W. (half-pay)</Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronaldson</Key>
-      <Text>,.R. W.. H. (Maj.)</Text>
+      <Text>.R. W.. H. (Maj.)</Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poulett</Key>
-      <Text>, Earl (2nd Lieut.)</Text>
+      <Title>Earl (2nd Lieut.)</Title>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,8 +1005,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. F. (resigned)</Text>
       <PageNumber>8296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1084,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Text>, Lieut.-Col. and Hon.. Col. J. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>. Col. J. (resigned)</Text>
       <PageNumber>8797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,15 +1100,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Logie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. W. (resigned)...</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. W. (resigned)...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McDougall</Key>
-      <Text>,.Lieut. D. D. (resigned).,</Text>
+      <Text>.Lieut. D. D. (resigned).,</Text>
       <PageNumber>8454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,16 +1149,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Frew</Key>
-      <Text>, Lieut.. J. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. J. (resigned)</Text>
       <PageNumber>7948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bamsay</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. and Hon. . . CoL T. (resigned)</Text>
+      <Title>Lieut.-Col. Comdt. and Hon.</Title>
+      <Text>. . CoL T. (resigned)</Text>
       <PageNumber>7947</PageNumber>
     </MainItem>
   </ItemGroup>

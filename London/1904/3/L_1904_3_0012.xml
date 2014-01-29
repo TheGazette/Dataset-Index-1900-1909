@@ -64,7 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weymann</Key>
-      <Text>, H„ Hon. Fifth Class, Royal Victorian Order</Text>
+      <Forenames>H</Forenames>
+      <Text>„ Hon. Fifth Class, Royal Victorian Order</Text>
       <PageNumber>5192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>. C. H. (2nd Lieut.)</Text>
+      <Text>C. H. (2nd Lieut.)</Text>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Text>. R. B. (2nd Lieut.) .. .. .</Text>
+      <Text>R. B. (2nd Lieut.) .. .. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>. S. G. C. (2nd Lieut.) ..</Text>
+      <Text>S. G. C. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,8 +695,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Maj. (temporary Lieut.-Col.) W. F. (corn ction)</Text>
+      <Title>Brev. Maj. (temporary Lieut.-Col.)</Title>
+      <Forenames>W. F.</Forenames>
+      <Text>(corn ction)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +722,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadwood</Key>
-      <Text>, Col. (local Brig.-Gen.) R. G. (correction)</Text>
+      <Title>Col. (local Brig.-Gen.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +767,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coffin</Key>
-      <Text>, Capt. C, Staff-Capt</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Staff-Capt</Text>
       <PageNumber>6206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +803,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas-Pennant</Key>
-      <Text>, Lieut. Hon. C, Aide-de-Camp to Maj.-Gen. Sir R. Pole-Carew</Text>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Aide-de-Camp to Maj.-Gen. Sir R. Pole-Carew</Text>
       <PageNumber>6133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grauard</Key>
-      <Text>, Lieut. Earl of, Aide-deCamp to Maj.-Gen. A. H. Paget</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of, Aide-deCamp to Maj.-Gen. A. H. Paget</Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>, Lieut.-Cul. H. N. C, Assist. Adj.-Gen., 2nd Army Corps, and Col</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cul. H. N. C, Assist. Adj.-Gen., 2nd Army Corps, and Col</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +963,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, Capt. C G. W., Staff Capt. at Head-Quarters</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>G. W., Staff Capt. at Head-Quarters</Text>
       <PageNumber>5129</PageNumber>
     </MainItem>
   </ItemGroup>

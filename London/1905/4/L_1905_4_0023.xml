@@ -415,7 +415,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +777,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Surg.-Col.) ..</Text>
+      <Title>(Hon. Surg.-Col.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +997,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>, Capt. and Brev.-Maj. W. R. (temporary half-pay)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. W. R. (temporary half-pay)</Text>
       <PageNumber>9087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,8 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chelmsford</Key>
-      <Forenames>Capt</Forenames>
-      <Text>.Lord (seconded)</Text>
+      <Title>Capt.Lord (seconded)</Title>
       <PageNumber>7102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lenthall</Key>
-      <Text>, E H. (2nd I.ieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>H. (2nd I.ieut.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>

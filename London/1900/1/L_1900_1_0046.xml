@@ -239,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +290,7 @@
       <Key>
         <KeyDitto>—. ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1075,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Capt. F, R. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F</Forenames>
+      <Text>, R. (antedated)</Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1242,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt.A. D. (cancellation)</Text>
+      <Title>Capt.</Title>
+      <Text>A. D. (cancellation)</Text>
       <PageNumber>2041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,7 +1690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lund</Key>
-      <Text>Capt. and Instr. of Musketry W. F. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry W. F. (resigned)</Text>
       <PageNumber>2785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,7 +1783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>Capt. andHon. Maj. J. J. (super, y</Text>
+      <Title>Capt.</Title>
+      <Text>andHon. Maj. J. J. (super, y</Text>
       <PageNumber>1529</PageNumber>
     </MainItem>
   </ItemGroup>

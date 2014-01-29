@@ -12,6 +12,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Moberly</Key>
+      <Title>Rev. Canon</Title>
+      <Forenames>R. C</Forenames>
+      <Text>, Chaplain in Ordinary to Her Majesty</Text>
+      <PageNumber>81</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Paget</Key>
       <Forenames>Very</Forenames>
       <Text>Rev. F., Bishop of Oxford, , Conge' dEUre</Text>
@@ -21,7 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridgeway</Key>
-      <Text>, Rev. F, E., Bishop Suffragan of Kensington</Text>
+      <Title>Rev.</Title>
+      <Forenames>F</Forenames>
+      <Text>, E., Bishop Suffragan of Kensington</Text>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,6 +43,14 @@
       <Forenames>J. T. M.</Forenames>
       <Text>, presented to the Rectory of Rendlesham</Text>
       <PageNumber>1649</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stepney</Key>
+      <Forenames>Bishop Suffragan</Forenames>
+      <Text>of, Dean of H.M.'s Chapels Royal</Text>
+      <PageNumber>1847</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -156,6 +175,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Alderson</Key>
+      <Title>Brig.-Gen.</Title>
+      <Forenames>E. A. H.</Forenames>
+      <Text>, Com, panion of the Batli</Text>
+      <PageNumber>2696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Alexandrowich</Key>
       <Forenames>H.I.H.</Forenames>
       <Text>the Grand Duke j Michael, of Russia, Honorary' Member of the Civil Division of the First Class, or Knights Grand Cross of the Order of the Bath</Text>
@@ -198,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ancaster</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>3122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>, Duke of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>1145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Avebury</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +350,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baden-Powell</Key>
-      <Text>, Maj.-Gen. R, T. T., Companion of the Bath</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>R</Forenames>
+      <Text>, T. T., Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Text>, Hon. 'W. A. C, Knight Commander of St. Michael and St. George</Text>
+      <Title>Hon.</Title>
+      <Text>'W. A. C, Knight Commander of St. Michael and St. George</Text>
       <PageNumber>157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>, Hon. ]£., a Privy Councillor</Text>
+      <Title>Hon.</Title>
+      <Text>]£., a Privy Councillor</Text>
       <PageNumber>552</PageNumber>
       <PageNumber>558</PageNumber>
       <PageNumber>694</PageNumber>
@@ -420,9 +455,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Basset</Key>
+      <Forenames>A. F.</Forenames>
+      <Text>, Sheriff of the County of I ! Cornwall</Text>
+      <PageNumber>1848</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Bayley</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. A. W. L., Companion of the Bath</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. A. W. L., Companion of the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellingham</Key>
-      <Text>, Mrs., Decoration of Royal Red Cross .. -</Text>
+      <Title>Mrs.</Title>
+      <Text>, Decoration of Royal Red Cross .. -</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,8 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bewicke-Gopley</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. R. C. A. B.,</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. R. C. A. B.,</Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +542,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourne</Key>
-      <Text>, F; S. A., Assistant Judge of H.M.'s Supreme Cjurt for China and Corea</Text>
+      <Forenames>F</Forenames>
+      <Text>; S. A., Assistant Judge of H.M.'s Supreme Cjurt for China and Corea</Text>
       <PageNumber>2856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +596,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sir C, Governor and Commanderin-Chief of Newfoundland, &amp;c</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Governor and Commanderin-Chief of Newfoundland, &amp;c</Text>
       <PageNumber>1499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,8 +658,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridport</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Viscount, Honorary Equerry to His Majesty</Text>
+      <Title>Gen. Viscount, Honorary</Title>
+      <Forenames>Equerry</Forenames>
+      <Text>to His Majesty</Text>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +695,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Bart., Physician in Ordinary to His Majesty</Text>
+      <Title>Bart.</Title>
+      <Text>, Physician in Ordinary to His Majesty</Text>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +721,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj.-Geh. -T. F., Companion of the Bath</Text>
+      <Title>Maj.</Title>
+      <Text>-Geh. -T. F., Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +868,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Text>, Lieut.-Col: G. J., Cdinpanioh' of St. Michael and St. George</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col: G. J., Cdinpanioh' of St. Michael and St. George</Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>

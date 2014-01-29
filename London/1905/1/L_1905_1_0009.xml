@@ -28,7 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dibdin</Key>
-      <Text>, Sir L T., First Church Estates Commissioner</Text>
+      <Title>Sir</Title>
+      <Forenames>L</Forenames>
+      <Text>T., First Church Estates Commissioner</Text>
       <PageNumber>1116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +55,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>, Rt. Rev. Dr. C, appointed to the Bishopric of Birmingham</Text>
+      <Title>Rt. Rev. Dr.</Title>
+      <Forenames>C</Forenames>
+      <Text>, appointed to the Bishopric of Birmingham</Text>
       <PageNumber>491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Text>, the Countess of, Extra Lady of the Bedchamber to fl.R.H. the Princess of Wales</Text>
+      <Text>the Countess of, Extra Lady of the Bedchamber to fl.R.H. the Princess of Wales</Text>
       <PageNumber>1493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawdor</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl, First Lord of the Admiralty</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>, First Lord of the Admiralty</Text>
       <PageNumber>2361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +342,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Knighted</Forenames>
+      <Title>Knighted .</Title>
       <PageNumber>1113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +480,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir C, Knight Grand Cross of St. Michael and St. George</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Knight Grand Cross of St. Michael and St. George</Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>, Earl of, Chairman of the Royal Commission for the Care and Control of the Feeble-minded</Text>
+      <Title>Earl</Title>
+      <Text>of, Chairman of the Royal Commission for the Care and Control of the Feeble-minded</Text>
       <PageNumber>1501</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -41,7 +41,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,9 +126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Title>Temporary</Title>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. J. H. (resigns command)</Text>
+      <Title>Temporary Licut.</Title>
+      <Text>-Col. J. H. (resigns command)</Text>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +272,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>,. Capt. A. C. (resigned and Hon. Capt.)</Text>
+      <Text>. Capt. A. C. (resigned and Hon. Capt.)</Text>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>,. Capt. W. C., Deputy-Assist. Adj.-Gen</Text>
+      <Text>. Capt. W. C., Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +381,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>, Capt. H: F. H., Aido-deCamp to Lieut.-Gen. Sir W. F. Butler</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>: F. H., Aido-deCamp to Lieut.-Gen. Sir W. F. Butler</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +408,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crampton</Key>
-      <Text>, Maj. and Brev. Lieut.-Col., Deputy-Assist. Qrmr-Gen</Text>
+      <Title>Maj. and Brev. Lieut.-Col.</Title>
+      <Text>, Deputy-Assist. Qrmr-Gen</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,8 +434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Forenames>Cap</Forenames>
-      <Text>.t. and .Brev. Maj. H. J., Deputy-Assist. Adj.-Gen</Text>
+      <Title>Cap.</Title>
+      <Text>t. and .Brev. Maj. H. J., Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>, Maj. and Brev. Lieut.-Col</Text>
+      <Title>Maj. and Brev. Lieut.-Col.</Title>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Forenames>Co</Forenames>
-      <Text>.pt. and Brev. Maj. T. R. C, Deputy-Assist. Qrmr.-Gen</Text>
+      <Title>Co.</Title>
+      <Text>pt. and Brev. Maj. T. R. C, Deputy-Assist. Qrmr.-Gen</Text>
       <PageNumber>110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchener</Key>
-      <Forenames>Gen</Forenames>
-      <Text>., Visct. of Khartoum, Commander-in-Chief in India</Text>
+      <Title>Gen., Visct.</Title>
+      <Text>of Khartoum, Commander-in-Chief in India</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +753,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northland</Key>
-      <Text>, 2nd Lieut., Visct., Aide-deCamp to the Earl of Ranferly</Text>
+      <Title>2nd Lieut., Visct.</Title>
+      <Text>, Aide-deCamp to the Earl of Ranferly</Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,8 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fearless</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. C. W., Deputy-Assist. Adj.-Gen '</Text>
+      <Title>Ca.</Title>
+      <Text>pt. C. W., Deputy-Assist. Adj.-Gen '</Text>
       <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +904,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. W. L., DeputyAssist. Qrmr.-Gen</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. W. L., DeputyAssist. Qrmr.-Gen</Text>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>

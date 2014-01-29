@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macbay</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. W. W.</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. W. W.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +87,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Text>Col. J; B</Text>
+      <Title>Col.</Title>
+      <Forenames>J</Forenames>
+      <Text>; B</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,14 +172,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>Maj.-Gten. W. W. H</Text>
+      <Title>Maj.</Title>
+      <Text>-Gten. W. W. H</Text>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wemyss</Key>
-      <Text>Maj.-Gten. B. ..</Text>
+      <Title>Maj.</Title>
+      <Text>-Gten. B. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,14 +190,15 @@
       <Key>
         <KeyDitto>___ —— ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3894</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Text>Maj.-Gten. H. ..</Text>
+      <Title>Maj.</Title>
+      <Text>-Gten. H. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +232,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +248,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Maj.-Gten. C. A</Text>
+      <Title>Maj.</Title>
+      <Text>-Gten. C. A</Text>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCalman</Key>
-      <Text>Lieut.-Col. H</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prasad</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1086,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>Lieut.-Col. A</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>2687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,8 +1109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McVittie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. C. E</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. C. E</Text>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MeArdle</Key>
-      <Text>W:R</Text>
+      <Forenames>W</Forenames>
+      <Text>:R</Text>
       <PageNumber>291</PageNumber>
     </MainItem>
   </ItemGroup>

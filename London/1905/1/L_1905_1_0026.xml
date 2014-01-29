@@ -138,7 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Text>,Lieut. E. A. C. (resigned)</Text>
+      <Text>Lieut. E. A. C. (resigned)</Text>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Akers-Douglas</Key>
-      <Text>, Lieut. G-. A. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. A. (seconded)</Text>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>, G-. W. (Capt.)</Text>
+      <Text>G-. W. (Capt.)</Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huntingdon</Key>
-      <Text>, Earl of (Lieut.-Col. and to command)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huntingdon</Key>
-      <Text>, Lieut.-Col. Earl of (resigned)</Text>
+      <Title>Lieut.-Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +884,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,15 +942,17 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Lieut.-Col J. E. (cancellation)</Text>
+      <Title>Brev. Lieut.</Title>
+      <Text>-Col J. E. (cancellation)</Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, (Capt.) E. F. S. (seconded)</Text>
+      <Title>(Capt.)</Title>
+      <Forenames>E. F. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1055,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald-Lombard</Key>
-      <Text>. E. E. (Capt.)</Text>
+      <Text>E. E. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furber</Key>
-      <Text>, A; W. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>; W. (Lieut.)</Text>
       <PageNumber>2276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1301,6 @@
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SubSectionTitle>Promotions</SubSectionTitle>
   <SubSectionTitle>Major-General</SubSectionTitle>
   <ItemGroup>

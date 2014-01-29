@@ -8,9 +8,10 @@
       <Text>(Capt.)</Text>
       <PageNumber>6744</PageNumber>
     </MainItem>
-    <SectionTitle>2nd Volunteer Battalion</SectionTitle>
+    <SectionTitle>
+      <Text>2nd Volunteer Battalion</Text>
+    </SectionTitle>
     <SubItem>
-      <Text>2nd Volunteer Battalion.</Text>
       <PageNumber>4743</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -155,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carleton</Key>
-      <Text>Lieut.-Col. U-. D. (retired) ..</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>U-. D. (retired) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. P. (Super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. P. (Super.)</Text>
       <PageNumber>5754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +508,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorges</Key>
-      <Text>E^ H. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>^ H. (Capt.)</Text>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +814,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>Capt. (Brev. Maj.) H. G. (Adj.)</Text>
+      <Title>Capt. (Brev. Maj.)</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>6024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassilis</Key>
-      <Text>Capt. Earl of (absorbed into Establishment)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (absorbed into Establishment)</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,8 +1534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. M. (resigned)</Text>
       <PageNumber>6890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,7 +1645,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>7017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>Capt. and Instr. of Musketry H. M. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. M. (resigned)</Text>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>

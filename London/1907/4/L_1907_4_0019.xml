@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Conybeare</Key>
-      <Text>, J; J. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>; J. (2nd Lieut.)</Text>
       <PageNumber>8531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daubeny</Key>
-      <Text>. Capt. C. J. B. (seconded)</Text>
+      <Text>Capt. C. J. B. (seconded)</Text>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +137,8 @@
       <Key>
         <KeyDitto>___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frizell</Key>
-      <Text>, Capt. (2nd Lieut.)</Text>
+      <Title>Capt. (2nd Lieut.)</Title>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sondes</Key>
-      <Text>, Lieut.-Col. Earl (resigned) ..</Text>
+      <Title>Lieut.-Col. Earl (resigned)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marchant</Key>
-      <Text>, 0. S. (Hon. Maj.)</Text>
+      <Text>0. S. (Hon. Maj.)</Text>
       <PageNumber>8531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collinson</Key>
-      <Text>, Lieut.-Gol. Commandant and Hon. Col. F. G. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Gol. Commandant and Hon. Col. F. G. (resigned)</Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -343,9 +343,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (antedated)</Text>
+      <Title>Capt. Or. (antedated)</Title>
       <PageNumber>909</PageNumber>
       <PageNumber>1256</PageNumber>
     </MainItem>
@@ -413,7 +411,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +436,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col C. E. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col C. E. (antedated)</Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +519,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..'</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..'</Text>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,16 +624,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Masters</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mathew</Key>
-      <Forenames>Lani</Forenames>
-      <Text>.owe, G: R. M. (Capt.)</Text>
+      <Title>Lani.</Title>
+      <Text>owe, G: R. M. (Capt.)</Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,8 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parson</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1304,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J: H. S. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: H. S. (2nd Lieut.)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1649,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Divisional Adj.)</Text>
+      <Title>(Divisional Adj.)</Title>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>

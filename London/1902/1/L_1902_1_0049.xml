@@ -1061,7 +1061,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>Capt. and Instr. of Musketry A. H. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry A. H. (super.)</Text>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,7 +1507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Duke of Wellington's (West Riding Regiment). Atkinson, H. S. (Hon. Lieut.)</Text>
+      <Title>Duke</Title>
+      <Text>of Wellington's (West Riding Regiment). Atkinson, H. S. (Hon. Lieut.)</Text>
       <PageNumber>3257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1803,8 +1805,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bardsley</Key>
-      <Title>Acting Chap. Eev.</Title>
-      <Forenames>Canon J. W.</Forenames>
+      <Title>Acting Chap. Eev. Canon</Title>
+      <Forenames>J. W.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
@@ -1820,8 +1822,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon H. L.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. L.</Forenames>
       <Text>(Acting Chap.)</Text>
       <PageNumber>850</PageNumber>
     </MainItem>

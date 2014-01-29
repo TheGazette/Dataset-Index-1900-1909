@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolliffe</Key>
-      <Text>A. E. (Maj.)</Text>
+      <Text>. A. E. (Maj.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +20,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Londonderry</Key>
-      <Text>Bt. Hon. Marquis of (Lieut-Col and lion. Col.)</Text>
+      <Title>Bt. Hon. Marquis</Title>
+      <Text>of (Lieut-Col and lion. Col.)</Text>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lupton</Key>
-      <Text>A. M. (2nd Lieut.)</Text>
+      <Text>. A. M. (2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCusker</Key>
-      <Text>C. H. (2nd Lieut.)</Text>
+      <Text>. C. H. (2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,14 +179,14 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>-Master, G-. (2nd Lieut.)</Text>
+      <Text>.-Master, G-. (2nd Lieut.)</Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>W.J. (2nd Lieut.)</Text>
+      <Text>. W.J. (2nd Lieut.)</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +219,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Hon. Col. tt. (resigned)</Text>
+      <Title>Hon. Col.</Title>
+      <Text>tt. (resigned)</Text>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>B. L. (2nd Lieut.) ..</Text>
+      <Text>. B. L. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,6 +435,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Peden</Key>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>950</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Penny</Key>
       <Forenames>F.</Forenames>
       <Text>(Maj.)</Text>
@@ -452,7 +462,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Super. Capt.) ..</Text>
+      <Title>(Super. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,12 +494,21 @@
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1757</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rosebery</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,6 +552,14 @@
       <PageNumber>748</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Scammell</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2500</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
@@ -543,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>A. M. (Hon. Col.) .. ..</Text>
+      <Text>. A. M. (Hon. Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +639,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>A: C. (Capt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: C. (Capt.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +783,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +821,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northampton</Key>
-      <Text>Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +888,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>A. W. (2nd Lieut.)</Text>
+      <Text>. A. W. (2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ro</Key>
-      <Text>oi's, K. S. (2nd Lieut.)</Text>
+      <Text>.oi's, K. S. (2nd Lieut.)</Text>
       <PageNumber>1027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southam</Key>
-      <Text>H. R. H. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>. H. R. H. (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Th</Key>
-      <Text>un.on, J. (Adj.)</Text>
+      <Text>.un.on, J. (Adj.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +986,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burbey</Key>
-      <Text>Capt. ,I. L. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>,I. L. (seconded)</Text>
       <PageNumber>950</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -311,7 +311,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +347,8 @@
         <PageNumber>___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) .. 1st Volunteer Battalion. Pibrow, H. J. (2nd Lieut.)</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.. 1st Volunteer Battalion. Pibrow, H. J. (2nd Lieut.)</Text>
       <PageNumber>8781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,8 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. W. (removed</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. W. (removed</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilsell</Key>
-      <Text>, Lieut.. H. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>. H. S. (seconded)</Text>
       <PageNumber>7042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>8779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +693,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laverton</Key>
-      <Text>, 3. M. (Lieut.) .. ..</Text>
+      <Text>3. M. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

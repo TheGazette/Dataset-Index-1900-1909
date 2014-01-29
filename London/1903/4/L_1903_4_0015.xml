@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoekwcll</Key>
-      <Text>Lieut. L.T. (retired piy)</Text>
+      <Title>Lieut.</Title>
+      <Text>L.T. (retired piy)</Text>
       <PageNumber>6872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>Lieut.-Col. and Brev. Col. it. Or. (retired) .. '</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>it. Or. (retired) .. '</Text>
       <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +85,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>Lieut.-Col. and Brev. ' Col. H. P. (retired), V</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>' Col. H. P. (retired), V</Text>
       <PageNumber>8339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binning</Key>
-      <Text>Lieut.-Col. Lord (half-pay)</Text>
+      <Title>Lieut.-Col. Lord (half-pay)</Title>
       <PageNumber>6089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tallibardine</Key>
-      <Text>Capt.. and Brev.-Maj. ' Marquis of (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. and Brev.-Maj. ' Marquis of (seconded)</Text>
       <PageNumber>6089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,8 +778,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mummery</Key>
-      <Forenames>Ridi</Forenames>
-      <Text>.ng-Mas.ter and Hon. Lieut. W. K. (retired)</Text>
+      <Title>Ridi.</Title>
+      <Text>ng-Mas.ter and Hon. Lieut. W. K. (retired)</Text>
       <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,17 +829,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>Capt. J-. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>J-. (resigned)</Text>
       <PageNumber>6089</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>7th Dragoons (Hussars)</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>Cator</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. A. M.</Forenames>
+      <Text>(resigned),</Text>
+      <PageNumber>6151</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Cross</Key>
       <Forenames>E.</Forenames>
       <Text>' G. K. (2nd Lieut.)..'</Text>
       <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Norton</Key>
+      <Forenames>C. E. G.</Forenames>
+      <Text>(Maj.), .. ..'</Text>
+      <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>8th Dragoons (Hussars)</SubSectionTitle>
@@ -872,7 +894,6 @@
       <Forenames>F.</Forenames>
       <Text>(2ncl Ljeut.)</Text>
       <PageNumber>7032</PageNumber>
-      <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>

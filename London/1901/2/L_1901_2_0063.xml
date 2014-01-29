@@ -133,7 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. IT. W. (resigned) .. .. .. . .</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>IT. W. (resigned) .. .. .. . .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwin</Key>
-      <Text>, 2nd Lieut, H. (correction)</Text>
+      <Text>2nd Lieut, H. (correction)</Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>, 2nd Lieut, C. A. S. (correction)</Text>
+      <Text>2nd Lieut, C. A. S. (correction)</Text>
       <PageNumber>6645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Text>, R, A. H. (Lieut.) Miles, M. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. H. (Lieut.) Miles, M. (2nd Lieut.)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,8 +630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Maj. and Hon. Lieut.-Col. G. (absorbed into the Establishment)</Text>
+      <Title>Super.</Title>
+      <Text>-Maj. and Hon. Lieut.-Col. G. (absorbed into the Establishment)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +691,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>6105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>, 2nd Lieut, A. E. F. (resigned)</Text>
+      <Text>2nd Lieut, A. E. F. (resigned)</Text>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +854,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,8 +1352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spottiswoode</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. J. (resigned)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. J. (resigned)</Text>
       <PageNumber>6876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, 11. R. A. (2nd Lieut.)</Text>
+      <Text>11. R. A. (2nd Lieut.)</Text>
       <PageNumber>6051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,7 +1595,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Witherford</Key>
-      <Text>, 2nd Lieut. R (cancellation)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guernsey</Key>
-      <Text>, Lord (2nd Lieut.) .. .,</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.. .,</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,7 +1801,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgford</Key>
-      <Text>, Capt. R J. (seconded) .,</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>J. (seconded) .,</Text>
       <PageNumber>7652</PageNumber>
     </MainItem>
   </ItemGroup>

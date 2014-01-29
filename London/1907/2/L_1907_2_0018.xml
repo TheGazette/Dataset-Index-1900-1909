@@ -142,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>.D. (2nd Lieut.)</Text>
+      <Text>D. (2nd Lieut.)</Text>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +307,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croodridge</Key>
-      <Text>, A~.(Capt,)</Text>
+      <Forenames>A</Forenames>
+      <Text>~.(Capt,)</Text>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, Lieut.-Col.-Comdt. and Hon. Col. J. W. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-Comdt. and Hon. Col. J. W. (retired)</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Main</Key>
-      <Text>, Maj. and Hon. Lieut.-Col J.B. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Col J.B. (resigned)</Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,8 +532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers-Cowan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. W. (resigned)</Text>
       <PageNumber>3194</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,8 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newell</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. E</Text>
+      <Title>Gr.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorndick</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadman</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirker</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,8 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McElwee</Key>
-      <Forenames>John</Forenames>
-      <Text>.. .. .. ..</Text>
+      <Title>John .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +973,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spalding</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1121,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(rank of Inspector of Machinery)</Text>
+      <Title>(rank of Inspector of Machinery)</Title>
       <PageNumber>1432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1130,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation) .. ..</Text>
+      <Title>(cancellation)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakeman</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingwood</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatelie</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haves</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleveland</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>

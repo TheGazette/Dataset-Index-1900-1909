@@ -33,7 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belling</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wbitcroft</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooking</Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nineham</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weatherhead</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathew</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,8 +1471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Forenames>Sub</Forenames>
-      <Text>.-Lieut. and Lieut. (retired list)</Text>
+      <Title>Sub.</Title>
+      <Text>-Lieut. and Lieut. (retired list)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,7 +1736,6 @@
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agency</Key>

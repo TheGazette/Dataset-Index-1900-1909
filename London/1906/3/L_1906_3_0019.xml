@@ -99,15 +99,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. D. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. D. (super.)</Text>
       <PageNumber>4390</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>2nd Lieut. VV. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>VV. (resigned)</Text>
       <PageNumber>4615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronaldson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (super.)</Text>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +408,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunde</Key>
-      <Text>-son, Eev. B. de B. (Acting Chaplain)</Text>
+      <Text>.-son, Eev. B. de B. (Acting Chaplain)</Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>StansicJd</Key>
-      <Text>Capt. !. W. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>!. W. (seconded)</Text>
       <PageNumber>5804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,8 +806,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Super</Forenames>
-      <Text>. Maj. and Hon. Lieut.Col F. VV. (resigned) .. ..</Text>
+      <Title>Super. Maj. and Hon. Lieut.</Title>
+      <Text>Col F. VV. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kcogh</Key>
-      <Text>Cullen, Lieut. E. (seconded)</Text>
+      <Text>.Cullen, Lieut. E. (seconded)</Text>
       <PageNumber>5516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1095,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.),</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>,</Text>
       <PageNumber>5135</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harle</Key>
-      <Text>W. E. (Lieut.)</Text>
+      <Text>.W. E. (Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,8 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Duke of, (Hon. Col.)</Text>
+      <Title>Et. Hon. Duke</Title>
+      <Text>of, (Hon. Col.)</Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +907,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut)</Text>
+      <Title>(Lieut)</Title>
       <PageNumber>6768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1006,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Text>H; G. (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>; G. (Lieut.)</Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1117,7 @@
       <Key>
         <KeyDitto>———— ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1297,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary. Capt.)</Text>
+      <Title>(temporary. Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

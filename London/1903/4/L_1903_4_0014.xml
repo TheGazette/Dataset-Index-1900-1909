@@ -61,8 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. H. (ceases to belong to the A. M. E.)'</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. H. (ceases to belong to the A. M. E.)'</Text>
       <PageNumber>7033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,8 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evatt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. G. J. H. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. G. J. H. (retired pay)</Text>
       <PageNumber>7033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>W, A. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, A. (Lieut.)</Text>
       <PageNumber>6302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>Capt. fl. h. H. (Paymaster)</Text>
+      <Title>Capt.</Title>
+      <Text>fl. h. H. (Paymaster)</Text>
       <PageNumber>7749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>R, A. B. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. B. (Capt.)</Text>
       <PageNumber>6091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,8 +389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. F. N. (seconded)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. F. N. (seconded)</Text>
       <PageNumber>6226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binning</Key>
-      <Text>Lord (Col.)</Text>
+      <Title>Lord (Col.)</Title>
       <PageNumber>6220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Borrett</Key>
-      <Text>Maj.-Gdn. H. C. (retired pav) .. '</Text>
+      <Title>Maj.</Title>
+      <Text>-Gdn. H. C. (retired pav) .. '</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,8 +1110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Sir 0. J. (retired pay.)</Text>
+      <Title>Gen. Sir</Title>
+      <Text>0. J. (retired pay.)</Text>
       <PageNumber>8339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fryer</Key>
-      <Text>Lieut.-Gcn. Sir J. (retired pay) .. .. ..'</Text>
+      <Title>Lieut.</Title>
+      <Text>-Gcn. Sir J. (retired pay) .. .. ..'</Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1270,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kane</Key>
-      <Text>Lieut.-Col. F, R. P! (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>F</Forenames>
+      <Text>, R. P! (retired)</Text>
       <PageNumber>8339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonnell</Key>
-      <Text>Lieut.-Cpl. and Brev. Col. J. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cpl. and Brev. Col. J. (retired)</Text>
       <PageNumber>6698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1387,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>678</PageNumber>
       <PageNumber>3</PageNumber>
     </MainItem>
@@ -1419,7 +1427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>Lieut.-Cql. J. E. (retired pay) .. .. .. ..*</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cql. J. E. (retired pay) .. .. .. ..*</Text>
       <PageNumber>6698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rpwlandsou</Key>
-      <Text>Lieut.-.CoI. and Brev. Col. J. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-.CoI. and Brev. Col. J. (retired)</Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>

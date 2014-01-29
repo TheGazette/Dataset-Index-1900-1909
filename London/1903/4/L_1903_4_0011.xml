@@ -146,7 +146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Iezellen</Key>
-      <Text>C, Royal Victorian Order, Hon. Fourth Class .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victorian Order, Hon. Fourth Class .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandiford</Key>
-      <Text>C, Companion of the Bath</Text>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,16 +366,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Selborne</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, Admiralty Commissioner</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, Admiralty Commissioner</Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. LordW. F; E., Knight Commander, Boyal Victorian Order</Text>
+      <Title>Gen.</Title>
+      <Text>LordW. F; E., Knight Commander, Boyal Victorian Order</Text>
       <PageNumber>6852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>Lord, Postmaster-General</Text>
+      <Title>Lord</Title>
+      <Text>, Postmaster-General</Text>
       <PageNumber>6087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +443,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Bt. Hon. Lord, PostmasterGeneral</Text>
+      <Title>Bt. Hon. Lord</Title>
+      <Text>, PostmasterGeneral</Text>
       <PageNumber>6147</PageNumber>
       <PageNumber>6223</PageNumber>
     </MainItem>
@@ -456,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>C, Ordinary Member of the Council of the Governor of Madras</Text>
+      <Forenames>C</Forenames>
+      <Text>, Ordinary Member of the Council of the Governor of Madras</Text>
       <PageNumber>7936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +523,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Todini</Key>
-      <Text>Maj. I)., Hon. Commander, .Royal Victorian Order .. ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>I</Forenames>
+      <Text>)., Hon. Commander, .Royal Victorian Order .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +625,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H D., Natal, permitted to retain title of Honourable</Text>
+      <Forenames>H</Forenames>
+      <Text>D., Natal, permitted to retain title of Honourable</Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +790,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>Col. (temporary Brig.-Gen.) E. S., Brig.-Gen. on the Staff to command the 17th Brigade, 2nd Army Corps'</Text>
+      <Title>Col. (temporary Brig.-Gen.)</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>, Brig.-Gen. on the Staff to command the 17th Brigade, 2nd Army Corps'</Text>
       <PageNumber>7033</PageNumber>
     </MainItem>
   </ItemGroup>

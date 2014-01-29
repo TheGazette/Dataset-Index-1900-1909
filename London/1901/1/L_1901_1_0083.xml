@@ -67,7 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nash</Key>
-      <Text>, 2nd Lieut, G. D., 3rd Battalion, the Leicestershire Regiment .. ..</Text>
+      <Text>2nd Lieut, G. D., 3rd Battalion, the Leicestershire Regiment .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Treffry</Key>
-      <Text>, Capt. E</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>, 2nd Lieut, G. H., Dorset (Queen's Own) Hid. Sheppard, 2nd Lieut. S. G., Herts ..</Text>
+      <Text>2nd Lieut, G. H., Dorset (Queen's Own) Hid. Sheppard, 2nd Lieut. S. G., Herts ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, 2nd Lieut, A. A., lst Edinburgh (City) Hid. Ingram, Capt. M. H., 2nd Glamorganshire .. .. .. . . . .</Text>
+      <Text>2nd Lieut, A. A., lst Edinburgh (City) Hid. Ingram, Capt. M. H., 2nd Glamorganshire .. .. .. . . . .</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archdall</Key>
-      <Text>, 2nd Lieut, N. J. M., 3rd Battalion, the Queen's Own Cameron Highlanders .. .. .. ..</Text>
+      <Text>2nd Lieut, N. J. M., 3rd Battalion, the Queen's Own Cameron Highlanders .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tylden</Key>
-      <Text>, 2nd Lieut. &amp;., 3rd Battalion, the Oxfordshire Light Infantry</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>&amp;., 3rd Battalion, the Oxfordshire Light Infantry</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, 2ud Lieut. S. A., Yorkshire Dragoons (Queen's Own) .. ,.</Text>
+      <Text>2ud Lieut. S. A., Yorkshire Dragoons (Queen's Own) .. ,.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMicking</Key>
-      <Text>, Maj. G</Text>
+      <Title>Maj.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>1064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,8 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A., 2nd Middlesex Artillery .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A., 2nd Middlesex Artillery .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

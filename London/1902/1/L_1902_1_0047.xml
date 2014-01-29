@@ -67,7 +67,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj )</Text>
+      <Title>(Hon. Maj )</Title>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +151,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.)</Text>
+      <Title>(Hon. Lieut.)</Title>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paine</Key>
-      <Text>Capt. II. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>II. (resigned)</Text>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>Brig.-Surg.-Lieut.-Col. H. W</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. H. W</Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,6 +718,14 @@
       <Forenames>T.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ridgway</Key>
+      <Forenames>T.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1017,7 +1027,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(re-appointed Instr. of Musketry)</Text>
+      <Title>(re-appointed Instr. of Musketry)</Title>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1097,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,8 +1422,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. (resigned)</Text>
       <PageNumber>721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrhy</Key>
-      <Text>Qrmr. and Hon. (.apt. J. (resigned)</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>(.apt. J. (resigned)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>

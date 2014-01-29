@@ -76,7 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vella</Key>
-      <Text>Lieut. G-. D. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. D. (antedated)</Text>
       <PageNumber>228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1312,9 @@
   <ItemGroup>
     <MainItem>
       <Key>How</Key>
-      <Text>Capt. I). (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>I</Forenames>
+      <Text>). (resigned)</Text>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>

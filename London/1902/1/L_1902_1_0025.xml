@@ -378,8 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howick</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +395,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. J. A. (correction)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. J. A. (correction)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>Capt. Earl of (seconded)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +509,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +551,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingestre</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +589,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2071</PageNumber>
     </MainItem>
   </ItemGroup>

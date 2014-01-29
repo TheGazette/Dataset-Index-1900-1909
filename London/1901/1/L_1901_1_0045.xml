@@ -288,8 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Badham-Thornhill</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>1150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1358,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,7 +1558,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. _. D. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>_. D. (seconded)</Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2119,7 +2119,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1150</PageNumber>
     </MainItem>
   </ItemGroup>

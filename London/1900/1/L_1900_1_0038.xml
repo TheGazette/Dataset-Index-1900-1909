@@ -144,7 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheffield</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +432,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj. and to command)</Text>
+      <Title>(Maj. and to command)</Title>
       <PageNumber>3413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +587,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +644,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +669,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southwell</Key>
-      <Text>Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1219,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,7 +1420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerry</Key>
-      <Text>Lieut. Earl of (seconded)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,7 +1430,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(post-dated)</Text>
+      <Title>(post-dated)</Title>
       <PageNumber>2758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,7 +1598,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>

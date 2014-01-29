@@ -2,6 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="021" pageID="https://www.thegazette.co.uk/id/London/index/year/1905/volume/4/page/021" pagePDF="https://www.thegazette.co.uk/London/index/year/1905/volume/4/page/021" pageRDF="https://www.thegazette.co.uk/London/index/year/1905/volume/4/page/021?view=linked-data" type="index" volume="4" year="1905">
   <ItemGroup>
     <MainItem>
+      <Key>Hervey</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. E. W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Thomson</Key>
       <Title>Capt.</Title>
       <Forenames>G. A. L.</Forenames>
@@ -122,7 +131,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,8 +182,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. P. (resigned)..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. P. (resigned)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,9 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Title>Hon.</Title>
-      <Forenames>Col</Forenames>
-      <Text>.SirJ.,Bart, (resigned)</Text>
+      <Title>Hon.Col.</Title>
+      <Text>SirJ.,Bart, (resigned)</Text>
       <PageNumber>7427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,8 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wightman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. F. (resigned)</Text>
       <PageNumber>9091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,9 +613,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. D. (resigned) .. ..</Text>
+      <Title>Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. D. (resigned) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkland</Key>
-      <Text>, 3. (2nd Lieut.)</Text>
+      <Text>3. (2nd Lieut.)</Text>
       <PageNumber>7424</PageNumber>
     </MainItem>
   </ItemGroup>

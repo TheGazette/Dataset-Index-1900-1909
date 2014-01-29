@@ -48,7 +48,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +128,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. .T. L. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>.T. L. (resigned)</Text>
       <PageNumber>6205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, G. J. t\ (2nd Lieut.) ..</Text>
+      <Text>Clair, G. J. t\ (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +562,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>6205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wedderburn</Key>
-      <Text>, Maj., and Brev. Lieut.Col. A. S. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>, and Brev. Lieut.Col. A. S. (retired)</Text>
       <PageNumber>4450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, 3. H. (Capt.)</Text>
+      <Text>3. H. (Capt.)</Text>
       <PageNumber>5415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +897,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forestier-Walker</Key>
-      <Text>, Capt. C E. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>E. (seconded)</Text>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,14 +1165,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>,' Lieut. J. (seconded)</Text>
+      <Text>' Lieut. J. (seconded)</Text>
       <PageNumber>5415</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Medill</Key>
-      <Text>.P. M. (Lieut.)</Text>
+      <Text>P. M. (Lieut.)</Text>
       <PageNumber>4450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>,' H. R.(Maj.)</Text>
+      <Text>' H. R.(Maj.)</Text>
       <PageNumber>6205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>.F. C. (Capt.)</Text>
+      <Text>F. C. (Capt.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1271,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saward</Key>
-      <Text>, P: S. (Capt.).. .. ..</Text>
+      <Forenames>P</Forenames>
+      <Text>: S. (Capt.).. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thackwell</Key>
-      <Text>, N! E. O. (Lieut.)</Text>
+      <Forenames>N</Forenames>
+      <Text>! E. O. (Lieut.)</Text>
       <PageNumber>5415</PageNumber>
     </MainItem>
   </ItemGroup>

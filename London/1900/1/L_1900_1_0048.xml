@@ -80,7 +80,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +114,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry) ..</Text>
+      <Title>(Instr. of Musketry)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +158,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.) .. ..</Text>
+      <Title>(2nd Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +184,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +210,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +238,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. to command)</Text>
+      <Title>(Lieut.-Col. to command)</Title>
       <PageNumber>3975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +673,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +716,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +896,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.)</Text>
+      <Title>(Hon. Lieut.)</Title>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,6 +1176,15 @@
       <Forenames>F. W.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>2765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Windeatt</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. K.</Forenames>
+      <Text>(super.)</Text>
+      <PageNumber>2348</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1518,7 +1530,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowie</Key>
-      <Text>K, M. (Capt.)</Text>
+      <Forenames>K</Forenames>
+      <Text>, M. (Capt.)</Text>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,7 +1632,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,7 +1682,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,7 +1801,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>B, H. (Hon. Capt,) .. ..</Text>
+      <Forenames>B</Forenames>
+      <Text>, H. (Hon. Capt,) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1925,7 +1939,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +1956,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lient.)</Text>
+      <Title>(Lient.)</Title>
       <PageNumber>2512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1951,7 +1965,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>

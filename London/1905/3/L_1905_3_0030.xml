@@ -13,8 +13,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. Gr. F. M. (resigned) .. .. .. . . Hid. Greville, H. A. F. C. F. S. (Maj. Super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. Gr. F. M. (resigned) .. .. .. . . Hid. Greville, H. A. F. C. F. S. (Maj. Super.)</Text>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,8 +225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wragg</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. G. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. W. G. (resigned)</Text>
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevlesmore</Key>
-      <Text>, Maj.-Gen. Lord (Hon. Col.)</Text>
+      <Title>Maj.-Gen. Lord (Hon. Col.)</Title>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F.C. (resigned)..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F.C. (resigned)..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,8 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. T. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. T. (correction)</Text>
       <PageNumber>5146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, Viscount (Maj. Super.)</Text>
+      <Title>Viscount (Maj. Super.)</Title>
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, F. J. (Capt.)</Text>
+      <Text>John, F. J. (Capt.)</Text>
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,14 +869,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. Super.)</Text>
+      <Title>(Capt. Super.)</Title>
       <PageNumber>6062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord (Hon. Lieut.-Col.)</Text>
+      <Title>Lord (Hon. Lieut.-Col.)</Title>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>, Lieut. ~S. E. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>~S. E. (resigned)</Text>
       <PageNumber>6062</PageNumber>
     </MainItem>
   </ItemGroup>

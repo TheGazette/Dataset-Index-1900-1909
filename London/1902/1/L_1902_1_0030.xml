@@ -206,6 +206,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Littledale</Key>
+      <Forenames>R. P.</Forenames>
+      <Text>(Lieut.-Col.) .. .. ibid, i Livingstone, Maj. H. A. A. (antedated)</Text>
+      <PageNumber>119</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacAdam</Key>
+      <Title>Maj.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>149</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Macaulay</Key>
       <Forenames>A. F.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -298,6 +315,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Paske</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>3178</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Paxton</Key>
       <Forenames>A. N.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -310,6 +335,14 @@
       <Forenames>E. S.</Forenames>
       <Text>(Hon. Lieut.)</Text>
       <PageNumber>3255</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pearce</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -845,7 +878,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Inslr. of Artillery)</Text>
+      <Title>(Inslr. of Artillery)</Title>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>

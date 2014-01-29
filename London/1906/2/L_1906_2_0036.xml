@@ -18,7 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallett</Key>
-      <Text>G ;.</Text>
+      <Forenames>G</Forenames>
+      <Text>;.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marcoolyn</Key>
-      <Text>H; J. ihid. Grr, R</Text>
+      <Forenames>H</Forenames>
+      <Text>; J. ihid. Grr, R</Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battenburg</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herey</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,14 +406,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bike</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burgess</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downshire</Key>
-      <Text>Marquis of (Capt. super.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Capt. super.)</Text>
       <PageNumber>2980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +753,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +868,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>Duke of (Maj.) ..</Text>
+      <Title>Duke</Title>
+      <Text>of (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1163,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. super.).. ..</Text>
+      <Title>(Capt. super.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

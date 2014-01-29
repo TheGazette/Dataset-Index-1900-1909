@@ -69,7 +69,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wordsworth</Key>
-      <Text>, .Mrs., Lady Vice-President, .League of Mercy</Text>
+      <Text>.Mrs., Lady Vice-President, .League of Mercy</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,22 +158,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.rGen. Sir W. P., Presi. dent, League of Mercy</Text>
+      <Title>Lieut.</Title>
+      <Text>rGen. Sir W. P., Presi. dent, League of Mercy</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wiirfl</Key>
-      <Text>,.Father S., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>.Father S., Hon. Fourth Class, Royal Victorian Order</Text>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>,, A. K., Chief Justice of the Supreme Court of Seychelles</Text>
+      <Text>, A. K., Chief Justice of the Supreme Court of Seychelles</Text>
       <PageNumber>5283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +197,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Zorkendorfer</Key>
-      <Text>, Dr. C, Hon Fourth Class, Royal. Victorian Order</Text>
+      <Title>Dr.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon Fourth Class, Royal. Victorian Order</Text>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>,.L. E. (2nd Lieut.) .. ..</Text>
+      <Text>.L. E. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deare</Key>
-      <Text>,.H.H. R. (2nd Lieut.) ..</Text>
+      <Text>.H.H. R. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>,G. S. (2nd Lieut.)</Text>
+      <Text>G. S. (2nd Lieut.)</Text>
       <PageNumber>6091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +560,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Askew</Key>
-      <Text>, Lieut.H. A.,Asst.-Superintendent of Gymnasia</Text>
+      <Title>Lieut.</Title>
+      <Text>H. A.,Asst.-Superintendent of Gymnasia</Text>
       <PageNumber>6090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curry</Key>
-      <Text>,' Gol. M. C.j to command a District</Text>
+      <Text>' Gol. M. C.j to command a District</Text>
       <PageNumber>5063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Text>, Col.. G. G. S., temporary . Brig.-Gen. to command an Infantry Brigade</Text>
+      <Title>Col.</Title>
+      <Text>. G. G. S., temporary . Brig.-Gen. to command an Infantry Brigade</Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Lennox</Key>
-      <Text>, Capt.Lord B. O, Military Secretary to Lieut.-Gen. Sir L. J. Oliphant .. .,</Text>
+      <Title>Capt.</Title>
+      <Text>Lord B. O, Military Secretary to Lieut.-Gen. Sir L. J. Oliphant .. .,</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglefield</Key>
-      <Text>, CoJF. S., temporary BrigGem, to command a Brigade</Text>
+      <Text>CoJF. S., temporary BrigGem, to command a Brigade</Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnwell</Key>
-      <Text>, i..ieut. A. S. (resigned)</Text>
+      <Text>i..ieut. A. S. (resigned)</Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>

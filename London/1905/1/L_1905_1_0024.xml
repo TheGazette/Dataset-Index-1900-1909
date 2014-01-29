@@ -358,7 +358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worthington</Key>
-      <Text>, R: F. (2nd Lieut.) .,</Text>
+      <Forenames>R</Forenames>
+      <Text>: F. (2nd Lieut.) .,</Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +408,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Isacke</Key>
-      <Text>, Capt. and Brev. Maj; H. (seconded)</Text>
+      <Title>Capt. and Brev. Maj</Title>
+      <Text>; H. (seconded)</Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Text>, ~L. de B. (Instr. of Musketry)</Text>
+      <Text>~L. de B. (Instr. of Musketry)</Text>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collyer</Key>
-      <Text>.T. W. (Lieut.)</Text>
+      <Text>T. W. (Lieut.)</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,14 +671,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>. Lieut. G. K. (seconded)</Text>
+      <Text>Lieut. G. K. (seconded)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warden</Key>
-      <Text>, Capt. £. E. (temporary halfpay)</Text>
+      <Title>Capt.</Title>
+      <Text>£. E. (temporary halfpay)</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +758,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wace</Key>
-      <Text>, «. G. (Capt.)</Text>
+      <Text>«. G. (Capt.)</Text>
       <PageNumber>944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WjheatleyiW</Key>
-      <Text>. R..R; (Lieut.)</Text>
+      <Text>R..R; (Lieut.)</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1166,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Duberly</Key>
-      <Text>.F. R. (Lieut.) ibid. Sweeting, H. C. (Lieut.)</Text>
+      <Text>F. R. (Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sweeting</Key>
+      <Forenames>H. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2277</PageNumber>
     </MainItem>
   </ItemGroup>

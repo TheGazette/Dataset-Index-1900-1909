@@ -82,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwalior</Key>
-      <Text>H.H. the Maharaja of, Kaisari-Hind Gold Medal</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharaja of, Kaisari-Hind Gold Medal</Text>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +233,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>Lieut.-Col. and Col. (Hon. Maj.Gen.) J., Knight Commander of the Bath</Text>
+      <Title>Lieut.-Col. and Col. (Hon. Maj.Gen.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, Knight Commander of the Bath</Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langford</Key>
-      <Text>Lord, Knight Commander of the Royal Victorian Order</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +602,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord of Appeal in Ordinary .. .. ..</Text>
+      <Title>Lord</Title>
+      <Text>of Appeal in Ordinary .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>Lord, Serjeant-Surgeon in Ordinary to Her Majesty</Text>
+      <Title>Lord</Title>
+      <Text>, Serjeant-Surgeon in Ordinary to Her Majesty</Text>
       <PageNumber>1875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,8 +955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. H. S., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. H. S., Companion of the Bath</Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1022,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord, Knight Grand Commander of the Order of the Indian Empire</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Grand Commander of the Order of the Indian Empire</Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1032,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lady, Decoration of the Imperial Order of the Crown of India .. ib^d. Norton, R. P., a Queen's Counsel</Text>
+      <Title>Lady</Title>
+      <Text>, Decoration of the Imperial Order of the Crown of India .. ib^d. Norton, R. P., a Queen's Counsel</Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>

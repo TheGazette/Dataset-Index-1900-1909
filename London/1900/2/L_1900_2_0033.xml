@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, Capt. the Marquis of (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>the Marquis of (seconded)</Text>
       <PageNumber>8458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,8 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chelmsford</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord (Col.)</Text>
+      <Title>Gen. Lord (Col.)</Title>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomerie</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>, Lord (Lieut.) .. .. '</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>.. .. '</Text>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>, Duke of (2nd Lieut.)</Text>
+      <Title>Duke</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hesketh</Key>
-      <Text>. T. E. (2nd Lieut.)</Text>
+      <Text>T. E. (2nd Lieut.)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1185,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chance</Key>
-      <Text>, 0. K. (Lieut.) .. .. ..</Text>
+      <Text>0. K. (Lieut.) .. .. ..</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>

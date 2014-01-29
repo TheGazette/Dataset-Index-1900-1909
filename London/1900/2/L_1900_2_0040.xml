@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +144,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>, 0. L. (Hon. Col.)</Text>
+      <Text>0. L. (Hon. Col.)</Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,8 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. W. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. W. J. (resigned)</Text>
       <PageNumber>7827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +831,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rahtkens</Key>
-      <Text>, E: F. C. (Lieut.) .. ..</Text>
+      <Forenames>E</Forenames>
+      <Text>: F. C. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,8 +921,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Forenames>Lieuf</Forenames>
-      <Text>.F: J. (resigned)</Text>
+      <Title>Lieuf.</Title>
+      <Forenames>F</Forenames>
+      <Text>: J. (resigned)</Text>
       <PageNumber>4129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,8 +1273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake-Campbell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. F. (resigned)</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>

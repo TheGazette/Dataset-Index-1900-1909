@@ -57,8 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. W. St. V., 16th Middlesex .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. W. St. V., 16th Middlesex .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,8 +74,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. R., 20th Middlesex .. .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. R., 20th Middlesex .. .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +326,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holcroft</Key>
-      <Text>, Capt. C, lst Volunteer Battalion, the Queen's Own (Royal West Kent Regiment) .. .. .. ——</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, lst Volunteer Battalion, the Queen's Own (Royal West Kent Regiment) .. .. .. ——</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Text>, Capt. and Instr. of Musketry P. E. V., 3rd Volunteer Battalion, the Lincolnshire Regiment .. ..</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. E. V., 3rd Volunteer Battalion, the Lincolnshire Regiment .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>, Capt. and Inetr. of Musketry S. R., the Queen's Rifle Volunteer Brigade, the Royal Scots (Lothian Regiment)</Text>
+      <Title>Capt. and Inetr.</Title>
+      <Text>of Musketry S. R., the Queen's Rifle Volunteer Brigade, the Royal Scots (Lothian Regiment)</Text>
       <PageNumber>2121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>, 2nd Lieut: W. S. B., 2nd Volunteer Battalion, the Duke of Cornwall's Light Infantry .. .. ..</Text>
+      <Text>2nd Lieut: W. S. B., 2nd Volunteer Battalion, the Duke of Cornwall's Light Infantry .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>, extra-super. 2nd Lieut. N. C, 7th Middlesex (London Scottish) ..</Text>
+      <Text>extra-super. 2nd Lieut. N. C, 7th Middlesex (London Scottish) ..</Text>
       <PageNumber>___ ___ .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baymer</Key>
-      <Text>, 2nd Lieut, E. E., lst Volunteer Battalion, the Leicestershire Eegiment</Text>
+      <Text>2nd Lieut, E. E., lst Volunteer Battalion, the Leicestershire Eegiment</Text>
       <PageNumber>2300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +791,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, 2nd Lieut J. S., 2nd Volunteer BattaLon, the South Staffordshire Regiment .. .. .. ..</Text>
+      <Text>2nd Lieut J. S., 2nd Volunteer BattaLon, the South Staffordshire Regiment .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lupton</Key>
-      <Text>, Capt., G., 3rd Volunteer Battalion, the Manchester Regiment ..</Text>
+      <Title>Capt.</Title>
+      <Text>, G., 3rd Volunteer Battalion, the Manchester Regiment ..</Text>
       <PageNumber>___ ——</PageNumber>
     </MainItem>
   </ItemGroup>

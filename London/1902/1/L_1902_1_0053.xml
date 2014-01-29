@@ -499,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleby</Key>
-      <Text>Brig.-Surg.-Lieut.-Col. F. H. (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. F. H. (seconded)</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>G, H. (Instr. of Musketry)</Text>
+      <Forenames>G</Forenames>
+      <Text>, H. (Instr. of Musketry)</Text>
       <PageNumber>3464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Monson</Key>
-      <Text>Lieut. C, E. J. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, E. J. (resigned)</Text>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +898,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>2nd Lieut..F. M. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>.F. M. (resigned)</Text>
       <PageNumber>2083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holding</Key>
-      <Text>G, 0. P. (2nd Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, 0. P. (2nd Lieut.)</Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickson</Key>
-      <Text>W, B. S. (Hon. Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, B. S. (Hon. Lieut.)</Text>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1075,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>4051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilford</Key>
-      <Text>Capt. Lord (resigned and Hon. Maj.) .. .. '</Text>
+      <Title>Capt. Lord (resigned and Hon. Maj.)</Title>
+      <Text>.. .. '</Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,7 +1318,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Text>R, G. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. (Maj.)</Text>
       <PageNumber>296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1647,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>

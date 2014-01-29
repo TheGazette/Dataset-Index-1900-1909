@@ -186,7 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>, Capt. and Hon, Maj. D. (re. signed) . .. .. i. »</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon, Maj. D. (re. signed) . .. .. i. »</Text>
       <PageNumber>3837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +327,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Feilderi</Key>
-      <Text>, Maj. B, R. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>B</Forenames>
+      <Text>, R. (retired)</Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +364,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>, Lieut.-Col. and Brevet Col. . A. C..(hallNpay) '</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Text>. A. C..(hallNpay) '</Text>
       <PageNumber>8834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,8 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce-Serocold</Key>
-      <Forenames>Heut</Forenames>
-      <Text>.-Col. Commandant O. (vacates command)</Text>
+      <Title>Heut.</Title>
+      <Text>-Col. Commandant O. (vacates command)</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Withers</Key>
-      <Text>, H, H. (Lieut.) .. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>, H. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>, H, J. (Hon. Maj )</Text>
+      <Forenames>H</Forenames>
+      <Text>, J. (Hon. Maj )</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, ,L. M. (Lieut.)</Text>
+      <Text>,L. M. (Lieut.)</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingfield</Key>
-      <Text>, 0. R. B, (Hon. Maj.)</Text>
+      <Text>0. R. B, (Hon. Maj.)</Text>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1019,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>, G, L. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, L. (Capt.)</Text>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1170,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>, Lieut. B (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>B</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2812</PageNumber>
     </MainItem>
   </ItemGroup>

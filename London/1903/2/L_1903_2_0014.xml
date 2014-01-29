@@ -44,7 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +408,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +506,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredgold</Key>
-      <Text>J. A. T. (Maj.)</Text>
+      <Text>. J. A. T. (Maj.)</Text>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
-      <Text>Capt. and Brev. [Lieut.. Col. E. G. T</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>[Lieut.. Col. E. G. T</Text>
       <PageNumber>3785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +728,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>Capt.. V. .. .. ..</Text>
+      <Title>Capt.</Title>
+      <Text>. V. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +801,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1227,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) .. ..</Text>
+      <Title>(correction)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,23 +1384,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Dounes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. (ceases to belong to the A.M.R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. (ceases to belong to the A.M.R.)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>DrapeiR</Key>
-      <Text>A. (Surg.-Lieut.)</Text>
+      <Text>. A. (Surg.-Lieut.)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. F. W. (ceases to belong to the A.M.R.) .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. F. W. (ceases to belong to the A.M.R.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,16 +1415,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. R. T. (ceases to belong to the A.M.R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. R. T. (ceases to belong to the A.M.R.)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. R, S. (ceases to belong to the A.M.R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. R, S. (ceases to belong to the A.M.R.)</Text>
       <PageNumber>3366</PageNumber>
     </MainItem>
   </ItemGroup>

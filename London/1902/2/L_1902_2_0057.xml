@@ -48,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>Col. Lord (Hon. Col.)</Text>
+      <Title>Col. Lord (Hon. Col.)</Title>
       <PageNumber>8845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,8 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ratcliff-Gaylard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (cancellation)</Text>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +468,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>6806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.Col.)</Text>
+      <Title>(Hon. Lieut.Col.)</Title>
       <PageNumber>7242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +917,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Muschamp</Key>
-      <Text>Capt. and Instr. of Musketry P. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry P. (resigned)</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,8 +1173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shine</Key>
-      <Forenames>Surg</Forenames>
-      <Text>..Lieut. J. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>.Lieut. J. P. (resigned)</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1252,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired pay)</Text>
+      <Title>(retired pay)</Title>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>

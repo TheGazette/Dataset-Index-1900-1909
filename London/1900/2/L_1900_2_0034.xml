@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>. J. M. (Lieut.) .. ..</Text>
+      <Text>J. M. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>, Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. Earl of (cancellation)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (cancellation)</Text>
       <PageNumber>8458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloane-Stanley</Key>
-      <Text>.C. V. (Capt.)</Text>
+      <Text>C. V. (Capt.)</Text>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +760,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +912,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ :</KeyDitto>
       </Key>
-      <Text>(ceases to belong to the Regiment)</Text>
+      <Title>(ceases to belong to the Regiment)</Title>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>

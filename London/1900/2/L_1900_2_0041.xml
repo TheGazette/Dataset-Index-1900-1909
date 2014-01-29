@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Text>, 2nd Lieut, J. F. (resigned)</Text>
+      <Text>2nd Lieut, J. F. (resigned)</Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,8 +74,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiggin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. P. V. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. P. V. (resigned)</Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,8 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. B. (resigned)</Text>
       <PageNumber>4951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. S R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. S R. (resigned)</Text>
       <PageNumber>8545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +720,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,15 +735,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. P. (resigned)</Text>
       <PageNumber>5179</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oakden</Key>
-      <Text>, A A. (Maj.)</Text>
+      <Forenames>A</Forenames>
+      <Text>A. (Maj.)</Text>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,14 +793,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wardley</Key>
-      <Text>.W. A. (2nd Lieut.)</Text>
+      <Text>W. A. (2nd Lieut.)</Text>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewsnap</Key>
-      <Text>, Qrmr. and Hon. Capt. (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt. (resigned)</Title>
       <PageNumber>8545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +984,6 @@
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (Volunteers)</SubCategoryTitle>
   <SubSectionTitle>The Forth Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1075,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>,. G. A. (Lieut.)</Text>
+      <Text>. G. A. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1161,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jocelyn</Key>
-      <Text>, Maj. (Hon. Lieut.-Col.) R. J. O., va&lt; ates appointment of Brig. Maj</Text>
+      <Title>Maj. (Hon. Lieut.-Col.)</Title>
+      <Forenames>R. J. O.</Forenames>
+      <Text>, va&lt; ates appointment of Brig. Maj</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameronians</Key>
-      <Text>(Scottish Rifles), 3rd and 4th Battalions)</Text>
+      <Title>(Scottish Rifles)</Title>
+      <Text>, 3rd and 4th Battalions)</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Text>, 5th and 6th Battalions ..</Text>
+      <Text>5th and 6th Battalions ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcestershire</Key>
-      <Text>, 5th and 6th Battalions</Text>
+      <Text>5th and 6th Battalions</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1336,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Battalion Adj.)</Text>
+      <Title>(Battalion Adj.)</Title>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>, Capt. Lord (antedated)</Text>
+      <Title>Capt. Lord (antedated)</Title>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>

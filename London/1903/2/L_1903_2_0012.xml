@@ -130,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>P&gt;., Companion of the * Imperial Service Order</Text>
+      <Forenames>P</Forenames>
+      <Text>&gt;., Companion of the * Imperial Service Order</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +174,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sifton</Key>
-      <Text>Hon. C, British Agent at the Alaska Boundary Tribunal</Text>
+      <Title>Hon.</Title>
+      <Forenames>C</Forenames>
+      <Text>, British Agent at the Alaska Boundary Tribunal</Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>Duchess of, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Duchess</Title>
+      <Text>of, Lady of Grace, St. John of Jerusalem</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretton</Key>
-      <Text>Lieut. A. J., Royal Victorian Order] Fifth Class</Text>
+      <Text>. Lieut. A. J., Royal Victorian Order] Fifth Class</Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temperley</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornhill</Key>
-      <Text>Lieut.-Col. IT. B., Companion of the Indian Empire</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>IT. B., Companion of the Indian Empire</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trouncer</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolland</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,9 +803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vety</Forenames>
-      <Text>.-Lieut. T. A. J. (resigned and Hon. Vety.Lieut.)</Text>
+      <Title>Temporary Vety.</Title>
+      <Text>-Lieut. T. A. J. (resigned and Hon. Vety.Lieut.)</Text>
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Vety</Forenames>
-      <Text>.-Lieut. G. (cancellation)</Text>
+      <Title>Vety.</Title>
+      <Text>-Lieut. G. (cancellation)</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>

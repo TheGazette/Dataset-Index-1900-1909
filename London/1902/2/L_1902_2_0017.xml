@@ -57,7 +57,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Strange</Key>
-      <Text>Rev. C, Canon of Worcester</Text>
+      <Title>Rev.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Canon of Worcester</Text>
       <PageNumber>7089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrie</Key>
-      <Text>C, H.M.'s Lieutenantof Dundee</Text>
+      <Forenames>C</Forenames>
+      <Text>, H.M.'s Lieutenantof Dundee</Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Basing</Key>
-      <Text>Lieut.-Col. Lord, Companion of the Bath</Text>
+      <Title>Lieut.-Col. Lord</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>6898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Binning</Key>
-      <Text>Lieut.-Col. Lord, Fourth Class, Royal Victorian Order</Text>
+      <Title>Lieut.-Col. Lord</Title>
+      <Text>, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>Lord, created Visc&amp;unt Churchill.ofRollestpn .. .,</Text>
+      <Title>Lord</Title>
+      <Text>, created Visc&amp;unt Churchill.ofRollestpn .. .,</Text>
       <PageNumber>4583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,8 +861,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
-      <Text>., Knight Grand Cross, . : Royal Victorian Order</Text>
+      <Title>Visct.</Title>
+      <Text>, Knight Grand Cross, . : Royal Victorian Order</Text>
       <PageNumber>7161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>Col. Viscount, Companion of St. Michael and St. George</Text>
+      <Title>Col. Viscount</Title>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +950,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connaught</Key>
-      <Text>H.R.H. the Duke of, Knight Companion of the Garter (dispensa. tion)</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, Knight Companion of the Garter (dispensa. tion)</Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1064,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crombie</Key>
-      <Text>Brig.-Surg.-Lieut.-Col. A., Companion ol the Bath</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. A., Companion ol the Bath</Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,8 +1117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowlie</Key>
-      <Forenames>Mre</Forenames>
-      <Text>., Royal Red Cross</Text>
+      <Title>Mre.</Title>
+      <Text>, Royal Red Cross</Text>
       <PageNumber>7163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>dAosta</Key>
-      <Text>H.R.H. the Duke of, Knight &gt; Companion of the Garter (dispensation)</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, Knight &gt; Companion of the Garter (dispensation)</Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>

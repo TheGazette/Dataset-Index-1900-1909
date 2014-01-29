@@ -374,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melvill</Key>
-      <Text>, Lieut.-Col. and Breve? Col. C. C. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Breve? Col. C. C. (retired)</Text>
       <PageNumber>1318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barday</Key>
-      <Text>. Lieut. J. W. (resigned)</Text>
+      <Text>Lieut. J. W. (resigned)</Text>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>.Jones, W. A. (Lieut.)</Text>
+      <Text>Jones, W. A. (Lieut.)</Text>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +676,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. Commandant)</Text>
+      <Title>(Lieut.-Col. Commandant)</Title>
       <PageNumber>1886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,8 +710,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. H. (resigned)</Text>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferry</Key>
-      <Text>,.T. W. (Capt.)</Text>
+      <Text>.T. W. (Capt.)</Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,7 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Lieut.^R. C. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>^R. C. (retired)</Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,6 +1192,15 @@
       <Forenames>S. J. O.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>897</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marks</Key>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1308,8 +1319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. Q. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. Q. (resigned)</Text>
       <PageNumber>899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Text>, Lieut. &amp;. D. (seconded) ..</Text>
+      <Title>Lieut.</Title>
+      <Text>&amp;. D. (seconded) ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

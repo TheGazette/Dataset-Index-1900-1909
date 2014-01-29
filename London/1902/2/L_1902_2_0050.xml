@@ -245,8 +245,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ -—</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. (correction)</Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,8 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.) .. .. ..</Text>
+      <Title>Or. (Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +790,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Lieut.-Col.)</Text>
+      <Title>(Surg.-Lieut.-Col.)</Title>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +815,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jojies</Key>
-      <Text>Maj. and Hon. Lieut.-Col. j. J. (resigned and Hon. Lieut.-Col.) ,v</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>j. J. (resigned and Hon. Lieut.-Col.) ,v</Text>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,8 +1291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. O. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. O. (resigned)</Text>
       <PageNumber>8446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1442,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>8592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,8 +1483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Forenames>Super</Forenames>
-      <Text>. 'Capt. J. (resigbe^)</Text>
+      <Title>Super.</Title>
+      <Text>'Capt. J. (resigbe^)</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>

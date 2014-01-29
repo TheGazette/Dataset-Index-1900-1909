@@ -38,7 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gudgeon</Key>
-      <Text>, Lieut.-Col. VV. E., Companion of St. Michael and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>VV. E., Companion of St. Michael and St. George</Text>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,8 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. C. B., Companion of St. Michael and St. George</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. C. B., Companion of St. Michael and St. George</Text>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heneage</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, a Privy Councillor</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>, Maj: St. G. C, Companion of the Bath</Text>
+      <Title>Maj</Title>
+      <Text>: St. G. C, Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>, Lieut. Lord, Member Fifth Class of the Royal Victorian Order</Text>
+      <Title>Lieut. Lord</Title>
+      <Text>, Member Fifth Class of the Royal Victorian Order</Text>
       <PageNumber>1146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hervey</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon F. A. J.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>F. A. J.</Forenames>
       <Text>, Royal Victorian Order, Fourth Class '</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
@@ -676,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>, C, a King's Counsel</Text>
+      <Forenames>C</Forenames>
+      <Text>, a King's Counsel</Text>
       <PageNumber>629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hua</Key>
-      <Text>, Monsieur, Royal Victorian Order, Fifth Class</Text>
+      <Title>Monsieur</Title>
+      <Text>, Royal Victorian Order, Fifth Class</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +871,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord, of Hereford, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, of Hereford, a Privy Councillor</Text>
       <PageNumber>551</PageNumber>
       <PageNumber>558</PageNumber>
     </MainItem>
@@ -942,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jersey</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelvin</Key>
-      <Text>, Lord, Arsenical Poisoning Com. mitsioner</Text>
+      <Title>Lord</Title>
+      <Text>, Arsenical Poisoning Com. mitsioner</Text>
       <PageNumber>997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyser</Key>
-      <Text>, Miss, Lady of Grace of St. John of J erusalem</Text>
+      <Title>Miss, Lady</Title>
+      <Text>of Grace of St. John of J erusalem</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Text>, Col. .C, Companion of St. Michael and St. Grorge</Text>
+      <Title>Col.</Title>
+      <Text>.C, Companion of St. Michael and St. Grorge</Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>

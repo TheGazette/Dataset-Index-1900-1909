@@ -106,7 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethin</Key>
-      <Text>Capt. ami Hon. Maj. Sir B. C. P., Bart, (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>ami Hon. Maj. Sir B. C. P., Bart, (resigned)</Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,9 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>. . G. F. (resigned)</Text>
+      <Title>Acting Chap.</Title>
+      <Text>. G. F. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +148,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pretty</Key>
-      <Text>Capt.. A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. A. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,8 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. W. (resigned)</Text>
       <PageNumber>8341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>L: H. (Lieut.)</Text>
+      <Forenames>L</Forenames>
+      <Text>: H. (Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>Capt. j. F. N. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>j. F. N. (seconded)</Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +573,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Gapt.)..</Text>
+      <Title>(temporary Gapt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,8 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +891,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmunds</Key>
-      <Text>Capt. C: (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>: (resigned)</Text>
       <PageNumber>7033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddon</Key>
-      <Text>Capt. MK(temporary halfpay) .. .. . . .. .. . ,</Text>
+      <Title>Capt.</Title>
+      <Text>MK(temporary halfpay) .. .. . . .. .. . ,</Text>
       <PageNumber>77</PageNumber>
       <PageNumber>47</PageNumber>
     </MainItem>
@@ -1081,7 +1087,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Text>Lieut.-Col. S; F. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>S</Forenames>
+      <Text>; F. (retired)</Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>Lieut.-J. N. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-J. N. (resigned)</Text>
       <PageNumber>8341</PageNumber>
     </MainItem>
   </ItemGroup>

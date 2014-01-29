@@ -4,7 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Text>, R: F. .(2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>: F. .(2nd Lieut.)</Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, M.C. C. (Lieut.) .. ..</Text>
+      <Text>M.C. C. (Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,14 +89,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>, Lieut.-Col. end Hon. Col. O. L. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>end Hon. Col. O. L. (resigned)</Text>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>. J. W. (Maj.)</Text>
+      <Text>J. W. (Maj.)</Text>
       <PageNumber>4904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toms</Key>
-      <Text>,-2nd Lieut. F. B. (resigned)</Text>
+      <Text>-2nd Lieut. F. B. (resigned)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collett</Key>
-      <Text>,' H. W. (2nd Lieut.)</Text>
+      <Text>' H. W. (2nd Lieut.)</Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,14 +677,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, 0. (Capt.)</Text>
+      <Text>0. (Capt.)</Text>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>, W! (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>! (Lieut.)</Text>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolleston</Key>
-      <Text>, G; R. A. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>; R. A. (Capt.)</Text>
       <PageNumber>6061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +753,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +847,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, Maj. and Hon. Lieut.-Gol. G. (retired)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Gol. G. (retired)</Text>
       <PageNumber>4810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,14 +1031,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sackville-West</Key>
-      <Text>, 0. J. (Maj.)</Text>
+      <Text>0. J. (Maj.)</Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, E. G. (Lieut.)</Text>
+      <Text>Aubyn, E. G. (Lieut.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamont</Key>
-      <Text>, A, C. S. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, C. S. (2nd Lieut.)</Text>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>

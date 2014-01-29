@@ -27,14 +27,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stradbroke</Key>
-      <Text>Col., Earl of, Companion of the Bath .. .. Sutton, Hon. G. M., Knight Commander of St. Michael and St. George</Text>
+      <Title>Col., Earl</Title>
+      <Text>of, Companion of the Bath .. .. Sutton, Hon. G. M., Knight Commander of St. Michael and St. George</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Svendsen</Key>
-      <Text>C, Hon. Commander, Boyal Victorian Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Commander, Boyal Victorian Order</Text>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +58,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swindells</Key>
-      <Text>Miss, Lady Vice-President, League of Mercv</Text>
+      <Title>Miss, Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercv</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +75,9 @@
   <ItemGroup>
     <MainItem>
       <Key>TaBchereau</Key>
-      <Text>Bt. Hon., Sir H. E., Privy Councillor</Text>
+      <Title>Bt. Hon., Sir</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>, Privy Councillor</Text>
       <PageNumber>3176</PageNumber>
       <PageNumber>4015</PageNumber>
     </MainItem>
@@ -95,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>ThomaB</Key>
-      <Text>Lieut.-Col. and Brev.-Col. Sir G. V., Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. Sir G. V., Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,17 +136,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. E., Knight Commander of the Bath ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. E., Knight Commander of the Bath ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Traill-Burroughes</Key>
-      <Title>Maj.-Gen. and Hon.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. F. W., Knight Commander of the Bath .. ..</Text>
+      <Title>Maj.-Gen. and Hon. Lt.</Title>
+      <Text>-Gen. F. W., Knight Commander of the Bath .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +345,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wightman</Key>
-      <Text>Mrs. C, Lady President, League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Lady President, League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,8 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord, Commander of the Forces in Ireland and to temporarily command the 3rd Army Corps</Text>
+      <Title>Gen. Lord, Commander</Title>
+      <Text>of the Forces in Ireland and to temporarily command the 3rd Army Corps</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +761,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Innes</Key>
-      <Text>Qrmr. and Hon. Lieut. C, Assist. Provost-Marshal, Salisbury Plain District</Text>
+      <Title>Qrmr. and Hon. Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Assist. Provost-Marshal, Salisbury Plain District</Text>
       <PageNumber>3003</PageNumber>
     </MainItem>
   </ItemGroup>

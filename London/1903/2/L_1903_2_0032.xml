@@ -21,7 +21,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Low</Key>
-      <Text>H, B ___ Hunt, C. E</Text>
+      <Text>. H, B ___ Hunt, C. E</Text>
       <PageNumber>2994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +37,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>F ibid. Macdonald, R. W.</Text>
+      <Forenames>F</Forenames>
+      <Text>ibid. Macdonald, R. W.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +419,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockley</Key>
-      <Text>C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>2994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +557,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickering</Key>
-      <Text>Lieut. C J., Aide-de-Camp to the Lieut.-Governor of Burma..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>J., Aide-de-Camp to the Lieut.-Governor of Burma..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

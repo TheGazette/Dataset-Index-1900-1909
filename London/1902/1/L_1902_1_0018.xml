@@ -80,7 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ovens</Key>
-      <Text>Lieut..Col. G. H., Companion of the Bath U</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. G. H., Companion of the Bath U</Text>
       <PageNumber>4192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +99,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Q-en. J. P., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Q-en. J. P., Companion of the Bath</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,14 +192,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrott</Key>
-      <Text>Lady, Lady of Grace of St. John of Jerusalem</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Grace of St. John of Jerusalem</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Text>Maj. H , Knight Commander of the Bath</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
+      <Text>, Knight Commander of the Bath</Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarhrough</Key>
-      <Text>Lieut.-Col. and Hon. Col. the Earl of, Aide-de-Camp to H.M. the King</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>the Earl of, Aide-de-Camp to H.M. the King</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Siam</Key>
-      <Text>H.R.H. the Crown Prince of, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Crown Prince of, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>2933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sotomayer</Key>
-      <Text>Duke of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>3681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,9 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stradbroke</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. Earl of, Aide-de-Camp to H.M. the King</Text>
+      <Title>Lieut.-Col. Comdt. Earl</Title>
+      <Text>of, Aide-de-Camp to H.M. the King</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +757,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tulloch</Key>
-      <Text>Maj.-Gen. (Hony.) S.B., Knight Commander of the Bath</Text>
+      <Title>Maj.-Gen. (Hony.)</Title>
+      <Forenames>S.B.</Forenames>
+      <Text>, Knight Commander of the Bath</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,8 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weatherall</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. H. B., Companion of the Bath</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. H. B., Companion of the Bath</Text>
       <PageNumber>4192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellington</Key>
-      <Text>Duke of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>2933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,8 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolfryes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. J. A., Knight Commauder of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. J. A., Knight Commauder of the Bath</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>

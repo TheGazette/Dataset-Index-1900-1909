@@ -250,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blewitt</Key>
-      <Text>Lieut.-Col. and Brev. Col. (Comdt. and Col.)</Text>
+      <Title>Lieut.-Col. and Brev. Col. (Comdt. and Col.)</Title>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godley</Key>
-      <Text>Maj. and Brev. [Lieut.-Col. A. J. (antedated)</Text>
+      <Title>Maj. and Brev.</Title>
+      <Text>[Lieut.-Col. A. J. (antedated)</Text>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,9 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
-      <Title>Capt.</Title>
-      <Forenames>If</Forenames>
-      <Text>. B</Text>
+      <Title>Capt. If.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephen</Key>
-      <Text>Capt. CM</Text>
+      <Title>Capt.</Title>
+      <Text>CM</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +814,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Chief Instructor)</Text>
+      <Title>(Chief Instructor)</Title>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +955,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-S. C. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>-S. C. (seconded)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1037,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,7 +1691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>E, M. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, M. (Capt.)</Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>

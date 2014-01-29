@@ -200,7 +200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall-West</Key>
-      <Text>, Maj,and Hon. Lieut. ' 'Col.' J. W. H. (resigned)</Text>
+      <Title>Maj</Title>
+      <Text>,and Hon. Lieut. ' 'Col.' J. W. H. (resigned)</Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,21 +607,24 @@
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Text>, -Maj. L. W. P., General Staff Officer, 2nd grade</Text>
+      <Text>-Maj. L. W. P., General Staff Officer, 2nd grade</Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grattau</Key>
-      <Text>, Brevet Col. O'D. C, Brigade Commander.. '.. . .. .,</Text>
+      <Title>Brevet Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>'D. C, Brigade Commander.. '.. . .. .,</Text>
       <PageNumber>9235</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henniker-Major</Key>
-      <Text>, Maj .-Gen. Hon. A. H., to command a Division</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Hon. A. H., to command a Division</Text>
       <PageNumber>9768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1158,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon Capt.) .. ..</Text>
+      <Title>(Hon Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunrett</Key>
-      <Text>. Rev. W</Text>
+      <Text>Rev. W</Text>
       <PageNumber>9768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacEwen</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>9768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nolloth</Key>
-      <Text>. Rev. Canon H. E</Text>
+      <Text>Rev. Canon H. E</Text>
       <PageNumber>8669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,8 +1502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon S. J. W.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>S. J. W.</Forenames>
       <PageNumber>7863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1521,7 +1527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>, Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>9769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,8 +1586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawhall</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon T. E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>T. E.</Forenames>
       <PageNumber>7270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,8 +1678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E. E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E. E.</Forenames>
       <PageNumber>7270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>, Rev. P</Text>
+      <Title>Rev.</Title>
+      <Forenames>P</Forenames>
       <PageNumber>9770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,8 +1770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Forenames>Rev</Forenames>
-      <Text>.i. .. .. .. D</Text>
+      <Title>Rev.</Title>
+      <Text>i. .. .. .. D</Text>
       <PageNumber>770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,22 +1856,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>, Rev. G</Text>
+      <Title>Rev.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dale-Roberts</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E.</Forenames>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, Rev. E: T.-</Text>
+      <Title>Rev.</Title>
+      <Forenames>E</Forenames>
+      <Text>: T.-</Text>
       <PageNumber>8462</PageNumber>
     </MainItem>
   </ItemGroup>

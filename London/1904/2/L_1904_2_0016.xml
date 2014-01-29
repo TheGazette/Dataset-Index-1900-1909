@@ -203,9 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dansey-Browning</Key>
-      <Title>Capt.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Capt. Or. (seconded)</Title>
       <PageNumber>2481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. A. (ceases to belong to the A.M.E.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. A. (ceases to belong to the A.M.E.)</Text>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +672,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. and to command) ,</Text>
+      <Title>(Lieut.-Col. and to command)</Title>
+      <Text>,</Text>
       <PageNumber>2590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +887,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,8 +1533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. and Brev. Col. E. (retired)</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. and Brev. Col. E. (retired)</Text>
       <PageNumber>2481</PageNumber>
     </MainItem>
   </ItemGroup>

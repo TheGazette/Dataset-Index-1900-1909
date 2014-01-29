@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoney</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. C. B. (resigned) 12G</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. C. B. (resigned) 12G</Text>
       <PageNumber>0</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,16 +67,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Madge</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. E. (resigned)</Text>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stoney</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. B. (resigned)</Text>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +258,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawry</Key>
-      <Text>Maj. J Hid. Montgomery, Lieut.-Col. W. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J</Forenames>
+      <Text>Hid. Montgomery, Lieut.-Col. W. (retired pay)</Text>
       <PageNumber>1795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swire</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,14 +367,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Morland</Key>
-      <Text>Lieut. A</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,8 +416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. G. F. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. G. F. (retired)</Text>
       <PageNumber>3894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,8 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. R. (retired)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. R. (retired)</Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +449,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. G. R. (seconded)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. G. R. (seconded)</Text>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>Rev. G</Text>
+      <Title>Rev.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>1078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>Rev. E</Text>
+      <Title>Rev.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Playfair</Key>
-      <Text>Lord (Col.)</Text>
+      <Title>Lord (Col.)</Title>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +980,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Queen has been pleased to approve of the grant of the Medal for Distinguished Conduct in the Field to the undermentioned:— ___ Ayles, Trumpeter W. W., Royal Artillery</Text>
+      <Title>Queen</Title>
+      <Text>has been pleased to approve of the grant of the Medal for Distinguished Conduct in the Field to the undermentioned:— ___ Ayles, Trumpeter W. W., Royal Artillery</Text>
       <PageNumber>690</PageNumber>
     </MainItem>
     <SubItem>
@@ -1008,7 +1014,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Queen has been pleased to approve of the grant of the Medal for Distinguished Conduct in the Field to the undermentioned:— ___ ___ Reeve, Acting Bombr. J. H., Royal Artillery</Text>
+      <Title>Queen</Title>
+      <Text>has been pleased to approve of the grant of the Medal for Distinguished Conduct in the Field to the undermentioned:— ___ ___ Reeve, Acting Bombr. J. H., Royal Artillery</Text>
       <PageNumber>689</PageNumber>
     </MainItem>
     <SubItem>

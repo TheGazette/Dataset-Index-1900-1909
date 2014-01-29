@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lampen</Key>
-      <Text>Capt. and Instr. of Musketry H. B. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. B. (resigned)</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +33,6 @@
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>LOTI1IANS AND BEKWICKSH1RE</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>Lord (Lieut.-Col. and to command)</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
       <PageNumber>3717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grav</Key>
-      <Text>D: (2nd Lieut.)</Text>
+      <Forenames>D</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>3718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,8 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. B. (resigned)</Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle</Key>
-      <Text>Rev. fc\ 0. (Capt.)</Text>
+      <Title>Rev.</Title>
+      <Text>fc\ 0. (Capt.)</Text>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1144,6 @@
       <PageNumber>2990</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>NORTHUMBERLAND (HUSSARS)</SubCategoryTitle>
   <SectionTitle>Imperial Yeomanry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1361,8 +1362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. Col. G. R. T. (resigned and Hon. Surg.-Col.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. Col. G. R. T. (resigned and Hon. Surg.-Col.)</Text>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>

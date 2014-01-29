@@ -36,7 +36,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>W. (Qrmr. and.Hon..Maj.);.. Hid. Bird, P. C. (2nd Lieut.) .. ..</Text>
+      <Text>. W. (Qrmr. and.Hon..Maj.);.. Hid. Bird, P. C. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGlashan</Key>
-      <Text>J). J. (Lieut.) .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>). J. (Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>K, (Qrmr. and Hon. Capt.)</Text>
+      <Forenames>K</Forenames>
+      <Text>, (Qrmr. and Hon. Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>Lord (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Lord (Lieut.-Col. and Hon. Col.)</Title>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,7 +1312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheylesmore</Key>
-      <Text>Maj.-Gen. Lord (Hon. Col.)</Text>
+      <Title>Maj.-Gen. Lord (Hon. Col.)</Title>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs-Kimber</Key>
-      <Text>E,, (Capt.) .</Text>
+      <Forenames>E</Forenames>
+      <Text>,, (Capt.) .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arran</Key>
-      <Text>Lieut.-Col. Earl of (resigned)</Text>
+      <Title>Lieut.-Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>6953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1563,7 +1568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
     <SubItem>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucestershire</Key>
-      <Text>, lst. Apperly, Lieut. E. P.' (resigned)</Text>
+      <Text>lst. Apperly, Lieut. E. P.' (resigned)</Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,8 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carwardine</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. (resigned)</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,14 +139,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Qrmr. (Hon. Maj.) A., jun. (resigned)</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, jun. (resigned)</Text>
       <PageNumber>2425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,8 +564,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. W. (resigned)</Text>
       <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +729,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Capt.)</Text>
+      <Title>(Surg.-Capt.)</Title>
       <PageNumber>3980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalmeny</Key>
-      <Text>Lord (2nd Lieut.) .. ...</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,8 +945,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.) .. ..</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid. .</PageNumber>
     </MainItem>
   </ItemGroup>

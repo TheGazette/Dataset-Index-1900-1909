@@ -91,7 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>P. (Qrmr.)</Text>
+      <Text>. P. (Qrmr.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Millikiii</Key>
-      <Text>H. J. (Capt.)</Text>
+      <Text>. H. J. (Capt.)</Text>
       <PageNumber>6954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connaught</Key>
-      <Text>Field-Marshal H.R.H. the Duke of (Hon. Col.)</Text>
+      <Title>Field-Marshal H.R.H.</Title>
+      <Text>the Duke of (Hon. Col.)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wandsworth</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +719,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.).</Text>
+      <Title>(Capt.)</Title>
+      <Text>.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +782,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1080,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downshire</Key>
-      <Text>Marquis of (Super. Capt.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Super. Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nickisson</Key>
-      <Text>J: L. (Capt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: L. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,8 +1446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Qrmr. and Hon. Capt.)..</Text>
+      <Title>Or. (Qrmr. and Hon. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1551,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>Duke of (Maj.) ..</Text>
+      <Title>Duke</Title>
+      <Text>of (Maj.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

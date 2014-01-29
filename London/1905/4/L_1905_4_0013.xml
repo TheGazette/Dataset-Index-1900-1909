@@ -30,7 +30,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglefield</Key>
-      <Text>, Lieut.-Col. and -Brer. Col. E. S., Assist. Adj.-Gen., and Col</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and -Brer. Col. E. S., Assist. Adj.-Gen., and Col</Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenna</Key>
-      <Text>, Maj.. and Brev. Lieut.-Col. P: A., Brig. Maj</Text>
+      <Title>Maj.</Title>
+      <Text>. and Brev. Lieut.-Col. P: A., Brig. Maj</Text>
       <PageNumber>6706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullens</Key>
-      <Text>,. Maj. B.. L., Brig. Maj</Text>
+      <Text>. Maj. B.. L., Brig. Maj</Text>
       <PageNumber>9321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,21 +427,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Frewen</Key>
-      <Text>, Lieut.-Cbl. S.</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cbl. S.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>, Capt. G.C. W.G.</Text>
+      <Title>Capt.</Title>
+      <Text>G.C. W.G.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>, Maj. C</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>, CoL C. H</Text>
+      <Text>CoL C. H</Text>
       <PageNumber>7823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, Col. C</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +840,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) Grant, Capt. J. F. (cancellation) Harding, G. (Capt.) Hollins, W. T. (Capt.) Howard, F. J. L. (Capt.) .. Humphreys, A. S. (Capt.) .. James, M. R. de B. (Maj.) .. Johns, A. W; (and.Lient)\</Text>
+      <Title>(Lieut.)</Title>
+      <Forenames>Grant</Forenames>
+      <Text>, Capt. J. F. (cancellation) Harding, G. (Capt.) Hollins, W. T. (Capt.) Howard, F. J. L. (Capt.) .. Humphreys, A. S. (Capt.) .. James, M. R. de B. (Maj.) .. Johns, A. W; (and.Lient)\</Text>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +856,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>McComb</Key>
+      <Forenames>A. W. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8540</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Mylrea</Key>
-      <Text>, WP. Or. (Maj.)</Text>
+      <Text>WP. Or. (Maj.)</Text>
       <PageNumber>7822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nuhn</Key>
-      <Text>, 0. H. N. (Oapb.) ..</Text>
+      <Text>0. H. N. (Oapb.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +943,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capf.)</Text>
+      <Title>(Capf.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +995,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dooner</Key>
-      <Text>, C«pt. J. G. (Asst. Adjt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>«pt. J. G. (Asst. Adjt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

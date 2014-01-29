@@ -30,7 +30,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldegrave</Key>
-      <Text>, Earl, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wantage</Key>
-      <Text>, Lieut.-Col. Lord, Extra Equerry to His Majesty</Text>
+      <Title>Lieut.-Col. Lord</Title>
+      <Text>, Extra Equerry to His Majesty</Text>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,22 +224,25 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. D., Knight Commander of St. Michael and St. George</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. D., Knight Commander of St. Michael and St. George</Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Windham</Key>
-      <Text>, Capt. C, Commander of the Royal Victorian Order</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Commander of the Royal Victorian Order</Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +258,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, Lieut.-Col. C, Companion of the Bath</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,8 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Forenames>Insp</Forenames>
-      <Text>.-Gen. of Hospitals and Fleets H. C, Commander of the Royal Victorian Order</Text>
+      <Title>Insp.</Title>
+      <Text>-Gen. of Hospitals and Fleets H. C, Commander of the Royal Victorian Order</Text>
       <PageNumber>996</PageNumber>
       <PageNumber>1058</PageNumber>
     </MainItem>

@@ -375,9 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnock</Key>
-      <Title>Maj.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Maj. Visct. (retired)</Title>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +444,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Onslow</Key>
-      <Text>, Maj. A^ (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
+      <Text>^ (retired)</Text>
       <PageNumber>336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,8 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitman</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. T. T. (antedated)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. T. T. (antedated)</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawley</Key>
-      <Text>, C«pt. and Brev. Maj. E. (seconded)</Text>
+      <Forenames>C</Forenames>
+      <Text>«pt. and Brev. Maj. E. (seconded)</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, J: C. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: C. (Lieut.)</Text>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,8 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fincastle</Key>
-      <Forenames>Viset</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Viset. (Capt.)</Title>
       <PageNumber>1131</PageNumber>
     </MainItem>
   </ItemGroup>

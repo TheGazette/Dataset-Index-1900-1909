@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnegie</Key>
-      <Text>Hon. R, F. (Adj.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>R</Forenames>
+      <Text>, F. (Adj.)</Text>
       <PageNumber>1890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +145,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +782,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>Brig. Surg. Lieut. Col. O. (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>Surg. Lieut. Col. O. (seconded)</Text>
       <PageNumber>851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Londonderry</Key>
-      <Text>Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1349,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malone</Key>
-      <Text>2nd Lieut. &amp;. O'C. V. H. V. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>&amp;. O'C. V. H. V. (seconded)</Text>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grylls</Key>
-      <Text>Capt. ~W. E.' J. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>~W. E.' J. (seconded)</Text>
       <PageNumber>2692</PageNumber>
     </MainItem>
   </ItemGroup>

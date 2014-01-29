@@ -322,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pease</Key>
-      <Text>, 0. (2nd Lieut.)</Text>
+      <Text>0. (2nd Lieut.)</Text>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt-Walker</Key>
-      <Text>, Maj. J: (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J</Forenames>
+      <Text>: (retired)</Text>
       <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +472,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)' '</Text>
+      <Title>(cancellation)</Title>
+      <Text>' '</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, Lieut. II. P. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. P. (resigned)</Text>
       <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,11 +610,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Lieut.-Col; and Brev. Col. .J. A. (retired pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col; and Brev. Col. .J. A. (retired pay)</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -649,7 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, C Barry, J. F Buttye. A. H</Text>
+      <Forenames>C</Forenames>
+      <Text>Barry, J. F Buttye. A. H</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +793,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashfield</Key>
-      <Text>, R, ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Text>, J; B. Garstin, W. A. M. Hamilton, C. A. B.</Text>
+      <Forenames>J</Forenames>
+      <Text>; B. Garstin, W. A. M. Hamilton, C. A. B.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, 11. I</Text>
+      <Text>11. I</Text>
       <PageNumber>1509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,14 +1048,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, ~W. N. (2nd Lieut.)</Text>
+      <Text>~W. N. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Auchinleck</Key>
-      <Text>, C; J. E: (2nd Lieut.) . .</Text>
+      <Forenames>C</Forenames>
+      <Text>; J. E: (2nd Lieut.) . .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, G-. E. (2nd Lieut.)</Text>
+      <Text>G-. E. (2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>, W-. R. C. (2nd Lieut.)</Text>
+      <Text>W-. R. C. (2nd Lieut.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harene</Key>
-      <Text>,, R. E. (2nd Lieut.) ..</Text>
+      <Text>, R. E. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>, L D. M. (2nd Lieut.) ..</Text>
+      <Forenames>L</Forenames>
+      <Text>D. M. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rome</Key>
-      <Text>, II. C. (2nd Lieut.) ...</Text>
+      <Text>II. C. (2nd Lieut.) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

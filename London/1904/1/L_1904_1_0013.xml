@@ -43,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>Capt.. and Brev.-Maj. A. F. (half-pay)</Text>
+      <Title>Capt.</Title>
+      <Text>. and Brev.-Maj. A. F. (half-pay)</Text>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,16 +163,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ceesar</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. R. T. (removed on age limit) .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. R. T. (removed on age limit) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. G-. O. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. G-. O. (cancellation)</Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Forenames>Snrg</Forenames>
-      <Text>.-Lieut.-Col. F. E. (ceases to belong to the A.M.R.)</Text>
+      <Title>Snrg.</Title>
+      <Text>-Lieut.-Col. F. E. (ceases to belong to the A.M.R.)</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemm</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. St. J. (ceases to belong to.the A.M.R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. St. J. (ceases to belong to.the A.M.R.)</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMullen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (ceases to belong to the A.M.R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (ceases to belong to the A.M.R.)</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,8 +235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. P. (ceases to belong to the A.M.R,)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. P. (ceases to belong to the A.M.R,)</Text>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Ge.n. SirW.D. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Ge.n. SirW.D. (retired pay)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +394,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brereton</Key>
-      <Text>Capt. D: L. (Paymaster)</Text>
+      <Title>Capt.</Title>
+      <Forenames>D</Forenames>
+      <Text>: L. (Paymaster)</Text>
       <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>R, C. (Capt,)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. (Capt,)</Text>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,15 +538,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Text>R, C. (Qrmr.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. (Qrmr.)</Text>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Flintoff</Key>
-      <Forenames>Vot</Forenames>
-      <Text>.-Lieut.-Col. T. (retired)</Text>
+      <Title>Vot.</Title>
+      <Text>-Lieut.-Col. T. (retired)</Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +647,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reade</Key>
-      <Text>R, N. R. (Col.) .. ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, N. R. (Col.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

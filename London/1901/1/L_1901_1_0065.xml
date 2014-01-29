@@ -31,7 +31,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +527,8 @@
       <Key>
         <KeyDitto>___ ___ -___ ___</KeyDitto>
       </Key>
-      <Text>R, E. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (2nd Lieut.)</Text>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +624,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +746,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyslop</Key>
-      <Text>, Lieut. R, G. B. M. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, G. B. M. (antedated)</Text>
       <PageNumber>1062</PageNumber>
       <PageNumber>1153</PageNumber>
       <PageNumber>ibid.</PageNumber>
@@ -862,7 +865,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lieut. R, (cancellation)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, (cancellation)</Text>
       <PageNumber>1767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,8 +935,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Emson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>2863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,9 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Title>Gr.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (Hon. Maj.)</Text>
+      <Title>Gr. Gr. (Hon. Maj.)</Title>
       <PageNumber>2298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynes</Key>
-      <Text>, dpt. R. W. (resigned)</Text>
+      <Text>dpt. R. W. (resigned)</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,8 +1252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. (resigned)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banfield</Key>
-      <Text>, Lieut.-Co. and Brev. Col. R. J. F. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Co. and Brev. Col. R. J. F. (half-pay)</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, G; H. S. (2nd Lieut.) ..</Text>
+      <Forenames>G</Forenames>
+      <Text>; H. S. (2nd Lieut.) ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
     <SubItem>

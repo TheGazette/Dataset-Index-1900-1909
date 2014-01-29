@@ -137,7 +137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rathborne</Key>
-      <Text>Lieut.-Col. II. R. (retired</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>II. R. (retired</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,32 +181,32 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut.-Col. C (Super.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut.-Col. C (Super.)</Text>
       <PageNumber>2523</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. R.C. (seconded)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. R.C. (seconded)</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. J. (temporary . halt-pay)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. J. (temporary . halt-pay)</Text>
       <PageNumber>2528</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalgleish</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. A. J. (correction) .</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. A. J. (correction) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +223,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. I. (cancellation)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. J. I. (cancellation)</Text>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholas</Key>
-      <Text>J. (Vet.-Lieut.) .. ..</Text>
+      <Text>. J. (Vet.-Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>K C. (Vet.-Lieut.)</Text>
+      <Forenames>K</Forenames>
+      <Text>C. (Vet.-Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +605,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campb</Key>
-      <Text>ll, ,1. C. (local rank of Capt. in Ceylon)</Text>
+      <Text>.ll, ,1. C. (local rank of Capt. in Ceylon)</Text>
       <PageNumber>3232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +745,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. VV. H. A. (removed from retired list)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. H. A. (removed from retired list)</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>tt, T. H. (Hon. Capt.)</Text>
+      <Text>. tt, T. H. (Hon. Capt.)</Text>
       <PageNumber>3282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1004,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKie</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. (cancellation)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. W. (cancellation)</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1160,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>Capt. aud Brev. Maj. R. A. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>aud Brev. Maj. R. A. (retired)</Text>
       <PageNumber>2924</PageNumber>
       <PageNumber>3073</PageNumber>
     </MainItem>
@@ -1199,7 +1204,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired) .. ..</Text>
+      <Title>(retired)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1271,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) .. ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1315,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.) .. ..</Text>
+      <Title>(Hon. Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

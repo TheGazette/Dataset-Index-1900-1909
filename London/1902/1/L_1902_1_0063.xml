@@ -20,8 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Maj.) .. ..</Text>
+      <Title>Visct. (Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesham</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>1887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,8 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookfield</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Lieut.-Col. and Hon. Col. (absorbed into the Establishment)</Text>
+      <Title>Super. Lieut.-Col. and Hon. Col. (absorbed into the Establishment)</Title>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaton</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>1042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henn-Gennys</Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +824,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,8 +950,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. &lt;T. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. &lt;T. (resigned)</Text>
       <PageNumber>2081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,8 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foulds</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. E. (resigned)</Text>
       <PageNumber>1046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,8 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt, C. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt, C. F. (resigned)</Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1118,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,8 +1280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. H. (resigned).,</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. H. (resigned).,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

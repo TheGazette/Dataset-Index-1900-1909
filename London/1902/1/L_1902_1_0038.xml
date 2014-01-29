@@ -93,6 +93,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Merer</Key>
+      <Forenames>C. E.</Forenames>
+      <Text>(Copt.)</Text>
+      <PageNumber>783</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Mignon</Key>
       <Forenames>J. G.</Forenames>
       <Text>(Hon. Capt.)</Text>
@@ -233,7 +241,16 @@
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1732</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -292,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molding</Key>
-      <Text>Lieut. \V. A. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>\V. A. (resigned)</Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +406,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +424,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>B, G. (Hon. Capt.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, G. (Hon. Capt.)</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,14 +569,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Duke of (Hon. Capt.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Capt.)</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norreye</Key>
-      <Text>Lord (Hon. Lieut.)</Text>
+      <Title>Lord (Hon. Lieut.)</Title>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,9 +694,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Temporary</Title>
-      <Forenames>Vct</Forenames>
-      <Text>.-Capt. T. M. P. (resigned and Yet.-Capt.)</Text>
+      <Title>Temporary Vct.</Title>
+      <Text>-Capt. T. M. P. (resigned and Yet.-Capt.)</Text>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +912,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Philips</Key>
-      <Text>I). G. (Lieut.)</Text>
+      <Forenames>I</Forenames>
+      <Text>). G. (Lieut.)</Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +1001,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>L E. (Hon. Lieut )</Text>
+      <Forenames>L</Forenames>
+      <Text>E. (Hon. Lieut )</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1058,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. II. T. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>II. T. (antedated)</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1074,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pott</Key>
-      <Text>R, B. (Hon. Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. (Hon. Capt.)</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1258,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1518,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>Capt. .J. W. G. (resigned as Second in Command)</Text>
+      <Title>Capt.</Title>
+      <Text>.J. W. G. (resigned as Second in Command)</Text>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1655,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rycroft</Key>
-      <Text>Sir R, X., Bart. (Hon. Lieut.)</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>, X., Bart. (Hon. Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1652,9 +1678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Samson</Key>
-      <Title>Temporary Lieut.</Title>
-      <Forenames>If</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Temporary Lieut. If. (resigned)</Title>
       <PageNumber>2612</PageNumber>
     </MainItem>
   </ItemGroup>

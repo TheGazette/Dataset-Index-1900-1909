@@ -161,7 +161,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. Comdt.)</Text>
+      <Title>(Lieut.-Col. Comdt.)</Title>
       <PageNumber>3468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. R. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. R. J. (resigned)</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Text>, R, G. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. (Lieut.)</Text>
       <PageNumber>1160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. D. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. D. T. (resigned)</Text>
       <PageNumber>3040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,9 +532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. G. W. (resigned)</Text>
+      <Title>Hon. Lient.</Title>
+      <Text>-Col. G. W. (resigned)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>,.K. (2nd Lieut.)</Text>
+      <Text>.K. (2nd Lieut.)</Text>
       <PageNumber>3290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savile</Key>
-      <Text>, Maj. Lord (resigned)</Text>
+      <Title>Maj. Lord (resigned)</Title>
       <PageNumber>1658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +679,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +764,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +874,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +969,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Text>, Duke of (Capt.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>3466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,8 +1108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McLachlan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. A. (resigned)</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord (Hon. Maj.) .. ,</Text>
+      <Title>Lord (Hon. Maj.)</Title>
+      <Text>.. ,</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>

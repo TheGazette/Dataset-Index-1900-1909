@@ -5,7 +5,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beeyor</Key>
-      <Text>, Lieut.. H. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. H. (resigned)</Text>
       <PageNumber>6135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Text>, Viscount (Hon. Col.)</Text>
+      <Title>Viscount (Hon. Col.)</Title>
       <PageNumber>6135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +106,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ —.</KeyDitto>
       </Key>
-      <Text>(em orary Capt.) ..</Text>
+      <Title>(em orary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott-Dodington</Key>
-      <Text>, K-. (Maj.) ..</Text>
+      <Text>K-. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, F. J. (Hon. Lieut.-Col.)</Text>
+      <Text>John, F. J. (Hon. Lieut.-Col.)</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +225,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(ten porary Capt.)</Text>
+      <Title>(ten porary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gooding</Key>
-      <Text>, Dr. E</Text>
+      <Title>Dr.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayston</Key>
-      <Text>, R:</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>4450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridson</Key>
-      <Text>. J. E... .. .. ..</Text>
+      <Text>J. E... .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickle</Key>
-      <Text>.v, C. S</Text>
+      <Text>v, C. S</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, EH .. ..</Text>
+      <Text>EH .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,9 +701,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Stewart</Key>
+      <Forenames>E. H.</Forenames>
+      <PageNumber>4558</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Stones</Key>
       <Forenames>O. A.</Forenames>
       <PageNumber>5561</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wintz</Key>
+      <Forenames>L. E</Forenames>
+      <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Commanders</SubSectionTitle>
@@ -713,14 +731,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Carp</Key>
-      <Text>^ndale, C. D. ibid. Cobbe, M. H</Text>
+      <Text>^ndale, C. D.</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cobbe</Key>
+      <Forenames>M. H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>, (. J. ..</Text>
+      <Text>(. J. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DArcy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Francklin</Key>
-      <Text>, PI .. ..</Text>
+      <Text>PI .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deas</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>.ile,W</Text>
+      <Text>ile,W</Text>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>

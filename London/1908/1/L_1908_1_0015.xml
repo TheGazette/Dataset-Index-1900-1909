@@ -93,7 +93,7 @@
       <Key>
         <KeyDitto>_ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +459,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eobinson</Key>
-      <Text>Lieut.-Col. and Brevet Col. C T. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>T. (half-pay)</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, G. F. W. (Lieut.-.Col.) ..</Text>
+      <Text>John, G. F. W. (Lieut.-.Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stagg</Key>
-      <Text>.M. (Lieut.)</Text>
+      <Text>M. (Lieut.)</Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,7 +1912,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon. Maj. E (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>E</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

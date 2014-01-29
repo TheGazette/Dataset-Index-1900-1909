@@ -102,8 +102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grindon</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. J. (.resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. J. (.resigned)</Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>Capt.. and Hon. Maj. J., jun. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. and Hon. Maj. J., jun. (resigned)</Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +676,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashburton</Key>
-      <Text>Lord (Capt.) .. ..</Text>
+      <Title>Lord (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,8 +937,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. A. (resigned)</Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +995,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1029,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>5754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1038,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E, (2nd Lieut, super.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, (2nd Lieut, super.)</Text>
       <PageNumber>8762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,6 +1069,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Cadet Corps {attached to ]st Lanarkshire Rifle Volunteers)</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Granger</Key>
+      <Forenames>J. P.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5754</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
@@ -1120,8 +1131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molloy</Key>
-      <Forenames>Sure</Forenames>
-      <Text>.-Lieut. L. G. S. (resigned and Lieut.) '</Text>
+      <Title>Sure.</Title>
+      <Text>-Lieut. L. G. S. (resigned and Lieut.) '</Text>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton</Key>
-      <Text>Maj. Lord (resigned aud Hon. Lieut,-Col.)</Text>
+      <Title>Maj. Lord (resigned aud Hon. Lieut,-Col.)</Title>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>

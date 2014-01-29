@@ -585,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>J F. (Capt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>F. (Capt.)</Text>
       <PageNumber>3661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,8 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweed</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. R. (resigned)</Text>
       <PageNumber>3661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>IAnson</Key>
-      <Text>J F. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>F. (Lieut.)</Text>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1193,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

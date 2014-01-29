@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="018" pageID="https://www.thegazette.co.uk/id/London/index/year/1907/volume/1/page/018" pagePDF="https://www.thegazette.co.uk/London/index/year/1907/volume/1/page/018" pageRDF="https://www.thegazette.co.uk/London/index/year/1907/volume/1/page/018?view=linked-data" type="index" volume="1" year="1907">
+  <ItemGroup>
+    <MainItem>
+      <Key>Caie</Key>
+      <Forenames>W. J.</Forenames>
+      <Text>(Surg.-Lieut.) .. 3rd Volunteer Battalion. ! Rhodes, B. (Capt.)</Text>
+      <PageNumber>745</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Cadet Corps attached to 3rd Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -117,7 +125,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +225,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,6 +373,14 @@
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hall</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>257</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -402,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>, 11. C. (2nd Lieut.) .. ..</Text>
+      <Text>11. C. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +507,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. D. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. D. H. (resigned)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, Captain, K. T. (resigned)</Text>
+      <Title>Captain</Title>
+      <Text>, K. T. (resigned)</Text>
       <PageNumber>2005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +707,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkins</Key>
-      <Text>, ,E. C. (Lieut.-Col. Com. mandant)</Text>
+      <Text>,E. C. (Lieut.-Col. Com. mandant)</Text>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,8 +751,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. Commandant and Hor. Col. R. (resigned)</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. Commandant and Hor. Col. R. (resigned)</Text>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1020,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. G. W. (super)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. G. W. (super)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1107,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson-Glasgow</Key>
-      <Text>R, P. (Hon. Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, P. (Hon. Col.)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>

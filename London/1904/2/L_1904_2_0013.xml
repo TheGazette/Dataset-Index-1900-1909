@@ -221,7 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnab</Key>
-      <Text>Mrs., Member of the League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Member of the League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>Col. II., Companion of the Bath</Text>
+      <Title>Col.</Title>
+      <Text>II., Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Text>Maj. (temporary Lieut.Col.) F. R., Companion of St. Michael and St. George</Text>
+      <Title>Maj. (temporary Lieut.Col.)</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +467,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>Mrs., Member of the League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Member of the League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +629,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>Col. (Brig. Gen.) A. A., Companion of the Bath</Text>
+      <Title>Col. (Brig. Gen.)</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peniaton</Key>
-      <Text>C, Member of the Executive Council of the Bermudas</Text>
+      <Forenames>C</Forenames>
+      <Text>, Member of the Executive Council of the Bermudas</Text>
       <PageNumber>3708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,8 +723,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilot</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon W.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>W.</Forenames>
       <Text>, Companion of the Imperial Service Order</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
@@ -722,7 +732,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Plowden</Key>
-      <Text>Col. (Brig.-Gen.) F. H., Companion of the Bath</Text>
+      <Title>Col. (Brig.-Gen.)</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +783,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulley</Key>
-      <Text>Lieut.-Col. and Brev. Col. C, Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +891,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>Col. Earl of, Companion of the Bath .. .. .. .</Text>
+      <Title>Col. Earl</Title>
+      <Text>of, Companion of the Bath .. .. .. .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,14 +978,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Serjeant</Key>
-      <Text>Lieut.-Col. and Hon.-Col. W. C. E., Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>-Col. W. C. E., Companion of the Bath</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>Lieut.-Gen. and Hon.-Gen. W. H., Knight Commander of the Bath</Text>
+      <Title>Lieut.-Gen. and Hon.</Title>
+      <Text>-Gen. W. H., Knight Commander of the Bath</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1026,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>Mrs., Member of the League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Member of the League of Mercy</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>

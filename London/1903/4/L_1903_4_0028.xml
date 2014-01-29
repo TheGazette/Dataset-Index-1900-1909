@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartwell</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>8027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +874,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>Hon. Lieut. J</Text>
+      <Title>Hon. Lieut.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>8501</PageNumber>
     </MainItem>
   </ItemGroup>

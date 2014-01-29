@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, Sir G-. D. A. F., Ordinary Member of the Council of the Governor-General of India</Text>
+      <Title>Sir</Title>
+      <Text>G-. D. A. F., Ordinary Member of the Council of the Governor-General of India</Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +46,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolverhampton</Key>
-      <Text>, Bt. Hon. Viscount, Lord President of H.M.'s Privy Council</Text>
+      <Title>Bt. Hon. Viscount, Lord</Title>
+      <Forenames>President</Forenames>
+      <Text>of H.M.'s Privy Council</Text>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,10 +87,12 @@
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS. ;</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>, Lieut.-Col. Lord, Aide-deCamp to His Majesty and Colonel in the Territorial Force</Text>
+      <Title>Lieut.-Col. Lord</Title>
+      <Text>, Aide-deCamp to His Majesty and Colonel in the Territorial Force</Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>.Murdoch, Col. P. R., Chief Engineer</Text>
+      <Text>Murdoch, Col. P. R., Chief Engineer</Text>
       <PageNumber>8279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Text>.Col. H. H., Asst.-Adj.-Gen</Text>
+      <Text>Col. H. H., Asst.-Adj.-Gen</Text>
       <PageNumber>9559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson-Fetherstonhaugh</Key>
-      <Text>, Capt. b. A. (resigned) .. .. s</Text>
+      <Title>Capt.</Title>
+      <Text>b. A. (resigned) .. .. s</Text>
       <PageNumber>7472</PageNumber>
     </MainItem>
   </ItemGroup>

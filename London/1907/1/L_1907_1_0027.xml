@@ -57,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hueffer</Key>
-      <Text>, 0. F. M. (2nd Lieut.)</Text>
+      <Text>0. F. M. (2nd Lieut.)</Text>
       <PageNumber>38</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>, Marquis of (2nd Lieut.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,8 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holloway</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. S. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. S. F. (resigned)</Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,16 +228,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, Lieut.-Col. and Hon. Col. C H. R. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>H. R. (resigned)</Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Title>Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. A. (super.)</Text>
+      <Title>Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. A. (super.)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +383,8 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. N. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. N. (resigned)</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairlie</Key>
-      <Text>, 2nd Lieut, J. O. (resigned)</Text>
+      <Text>2nd Lieut, J. O. (resigned)</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,8 +680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connop</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. (resigned)</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,14 +903,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Harlech</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Lord (retired) .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (retired)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord (Lieut.-Col. and to command) .. .. .. .. ——</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
+      <Text>.. .. .. .. ——</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,8 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. W. (re-</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. W. (re-</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -397,7 +397,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +713,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leitrim</Key>
-      <Text>Lieut. Earl of (seconded)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ratliffe</Key>
-      <Text>Capt. (correction)</Text>
+      <Title>Capt. (correction)</Title>
       <PageNumber>1717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1786,7 +1787,6 @@
       <PageNumber>1879</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>General</SectionTitle>
   <ItemGroup>
@@ -1848,7 +1848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Candy</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>

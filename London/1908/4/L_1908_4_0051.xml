@@ -28,9 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Midleton</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Rt. Hon. Visct. (Hon. Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abergavenny</Key>
-      <Text>, Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,14 +96,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Capt) .. ..</Text>
+      <Title>(Surg.-Capt)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>, Duke of (lion. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (lion. Col.)</Text>
       <PageNumber>9184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guernsey</Key>
-      <Text>, Lord (Lieut ) .. ..</Text>
+      <Title>Lord (Lieut )</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarmouth</Key>
-      <Text>, Earl of (2nd Lieut.) ..</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,15 +383,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lonsdale</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Lieut.Col. and Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Lieut.Col. and Hon. Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +401,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +411,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon. Col., Earl of (resigned) .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon. Col., Earl</Title>
+      <Text>of (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poynder</Key>
-      <Text>, Maj. and Hon Lieut.-Col. Sir J. P., Bart, (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>and Hon Lieut.-Col. Sir J. P., Bart, (resigned)</Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcestershire</Key>
-      <Text>. \ Dudley, Maj. Rt. Hon. Earl of j (seconded)'</Text>
+      <Text>\ Dudley, Maj. Rt. Hon. Earl of j (seconded)'</Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,8 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenlock</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>9184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>8031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +876,6 @@
       <PageNumber>8173</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Major-General</SectionTitle>
   <ItemGroup>
@@ -1082,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>9472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,14 +1330,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Burd</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,14 +1373,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>, CAM</Text>
+      <Text>CAM</Text>
       <PageNumber>7560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eardley-Wilmot</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,7 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tancook</Key>
-      <Text>, AC... .. .. ..</Text>
+      <Text>AC... .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,7 +1587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickers</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7561</PageNumber>
     </MainItem>
   </ItemGroup>

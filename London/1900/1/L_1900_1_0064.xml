@@ -2,6 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="064" pageID="https://www.thegazette.co.uk/id/London/index/year/1900/volume/1/page/064" pagePDF="https://www.thegazette.co.uk/London/index/year/1900/volume/1/page/064" pageRDF="https://www.thegazette.co.uk/London/index/year/1900/volume/1/page/064?view=linked-data" type="index" volume="1" year="1900">
   <ItemGroup>
     <MainItem>
+      <Key>Brindley</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. F. W.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>3633</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Butter</Key>
       <Forenames>W.</Forenames>
       <Text>(Qrmr.)</Text>
@@ -520,7 +529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mander</Key>
-      <Text>R, (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +717,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leech</Key>
-      <Text>R, H. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. (2nd Lieut.)</Text>
       <PageNumber>1886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +930,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heywood</Key>
-      <Text>Capt. and Instr. of Musketry B. C. P. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry B. C. P. (super.)</Text>
       <PageNumber>2349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1055,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>Capt. and Instr. of Musketry E. H. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry E. H. (super.)</Text>
       <PageNumber>2349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1334,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1481,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,7 +1801,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goer</Key>
-      <Text>Lieut.-Col. and Hon Col. C. J. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Hon Col. C. J. (resigned)</Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1814,7 +1828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ind</Key>
-      <Text>A: E. B. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: E. B. (2nd Lieut.)</Text>
       <PageNumber>2353</PageNumber>
     </MainItem>
   </ItemGroup>

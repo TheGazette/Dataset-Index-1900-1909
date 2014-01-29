@@ -173,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>Maj. Lord (seconded)</Text>
+      <Title>Maj. Lord (seconded)</Title>
       <PageNumber>1529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +393,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>A! F. T. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>! F. T. (Lieut.)</Text>
       <PageNumber>2759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +436,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garstin</Key>
-      <Text>Capt. and Instr. of Musketry W. F. C. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry W. F. C. (seconded)</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1045,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1078,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1095,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1104,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,7 +1517,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) .. .. .,</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>.. .. .,</Text>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1574,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,7 +1880,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>Capt. and Instr. of Musketry H. W. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry H. W. (seconded)</Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Text>, Capt. D</Text>
+      <Title>Capt.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>6949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +22,8 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>Capt. .and Hon. Maj. G. V...</Text>
+      <Title>Capt.</Title>
+      <Text>.and Hon. Maj. G. V...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>, Capt. and. Hon. Maj. D.</Text>
+      <Title>Capt.</Title>
+      <Text>and. Hon. Maj. D.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,8 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennet</Key>
-      <Forenames>Or</Forenames>
-      <Text>. M</Text>
+      <Title>Or.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connell</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBride</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +305,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wooler</Key>
-      <Text>.S. W</Text>
+      <Text>S. W</Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>.Vyse, R. G. H. (Adj.)</Text>
+      <Text>Vyse, R. G. H. (Adj.)</Text>
       <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, JC. (Lieut.)</Text>
+      <Text>JC. (Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>, R: T. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>: T. (Lieut.)</Text>
       <PageNumber>6232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Hon..A. M. B. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Text>.A. M. B. (Capt.)</Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyndham</Key>
-      <Text>.Quin, R. S. W. R. (2nd Lieut.)</Text>
+      <Text>Quin, R. S. W. R. (2nd Lieut.)</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,6 +1062,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>18th Dragoons {Hussars)</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holdsworth</Key>
+      <Forenames>W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4522</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>20th Dragoons {Hussars)</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1247,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battersby</Key>
-      <Text>, 0. F. P. (2nd Lieut.)</Text>
+      <Text>0. F. P. (2nd Lieut.)</Text>
       <PageNumber>6392</PageNumber>
     </MainItem>
   </ItemGroup>

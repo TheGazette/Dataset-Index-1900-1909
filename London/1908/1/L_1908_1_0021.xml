@@ -48,7 +48,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>, Sir VV. L., Bart. (Maj.)</Text>
+      <Title>Sir</Title>
+      <Text>VV. L., Bart. (Maj.)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>. W. (Qrnir. and Hon. Lieut.)</Text>
+      <Text>W. (Qrnir. and Hon. Lieut.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,8 +385,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKendrick</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. S. (resigned)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +504,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +564,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>, Capt. and Hon. Maj. K, F. E. E. (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>K</Forenames>
+      <Text>, F. E. E. (resigned)</Text>
       <PageNumber>1969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bathurst</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Earl (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Earl (retired)</Title>
       <PageNumber>1791</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -743,7 +746,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>. Capt. and Brevet Maj. F. M. E. (retired)</Text>
+      <Text>Capt. and Brevet Maj. F. M. E. (retired)</Text>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LawrencefG</Key>
-      <Text>. H. (Maj.)</Text>
+      <Text>H. (Maj.)</Text>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1157,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>, Capt. R, H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, H. (seconded)</Text>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,7 +1378,8 @@
       <Key>
         <KeyDitto>___ * ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut, super.) ;. ... . . s; -</Text>
+      <Title>(Lieut, super.)</Title>
+      <Text>;. ... . . s; -</Text>
       <PageNumber>1207</PageNumber>
     </MainItem>
   </ItemGroup>

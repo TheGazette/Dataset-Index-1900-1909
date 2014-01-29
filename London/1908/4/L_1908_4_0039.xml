@@ -102,7 +102,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +119,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +371,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beswick</Key>
-      <Text>.W. (2nd Lieut.)</Text>
+      <Text>W. (2nd Lieut.)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +820,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +855,7 @@
       <Key>
         <KeyDitto>___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Text>, II. (Lieut.) .. ..</Text>
+      <Text>II. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>, ,C. (Lieut.)</Text>
+      <Text>,C. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

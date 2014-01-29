@@ -29,7 +29,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, a. W. (Capt.)</Text>
+      <Text>a. W. (Capt.)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker-Jones</Key>
-      <Text>, Lieut.-Col.. and Hon. Col. F. A. (retired).. .. ..</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>. and Hon. Col. F. A. (retired).. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, Capt. and Instructor of Musketry G.A. (resigned) .. ..</Text>
+      <Title>Capt.</Title>
+      <Text>and Instructor of Musketry G.A. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Forenames>Vety</Forenames>
-      <Text>.-llaj. J. (resigned)</Text>
+      <Title>Vety.</Title>
+      <Text>-llaj. J. (resigned)</Text>
       <PageNumber>498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>, (Surgn.-Lieut. W. D. (resigned)</Text>
+      <Text>(Surgn.-Lieut. W. D. (resigned)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,8 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Lieut. C. W. (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Lieut. C. W. (resigned)</Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>, VeD. A. E. (Aetg. Chaplain)</Text>
+      <Text>VeD. A. E. (Aetg. Chaplain)</Text>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilbrough</Key>
-      <Text>. Actg. Chaplain Rev. H. E. (resigned)</Text>
+      <Text>Actg. Chaplain Rev. H. E. (resigned)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>. A. H. (Hon. Col.) .. ..</Text>
+      <Text>A. H. (Hon. Col.) .. ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

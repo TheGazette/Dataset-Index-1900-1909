@@ -309,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillford</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,14 +375,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Muncaster</Key>
-      <Text>Lord (Hon. Col.) .. ..</Text>
+      <Title>Lord (Hon. Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +433,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,14 +690,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rocksavage</Key>
-      <Text>Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Settrington</Key>
-      <Text>Capt. Lord (seconded)</Text>
+      <Title>Capt. Lord (seconded)</Title>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,8 +798,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut C.-B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut C.-B. (resigned)</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +833,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +884,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +917,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Maj. and Hon. Lieut.-Col. Duke of (seconded)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. Duke</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zouche</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +996,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Lord (seconded)</Text>
+      <Title>Lieut. Lord (seconded)</Title>
       <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1082,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>2046</PageNumber>
     </MainItem>
   </ItemGroup>

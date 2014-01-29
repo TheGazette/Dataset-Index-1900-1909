@@ -188,7 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Consett</Key>
-      <Text>Lieut. DA. P. (retired pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>DA. P. (retired pay)</Text>
       <PageNumber>2199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +231,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugli</Key>
-      <Text>Lieut. Cal. and Brev. Col. J. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>Cal. and Brev. Col. J. (retired)</Text>
       <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>Col. G.M. (retired pay)</Text>
+      <Title>Col.</Title>
+      <Text>G.M. (retired pay)</Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilgour</Key>
-      <Text>Lieut.-Col. and Brev Col. H. (half-pay)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Brev Col. H. (half-pay)</Text>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +719,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,8 +762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGillivray</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. C. W. (Brig.-Surg. Lieut.-Col. on appointment as Senior Medical Officer to the Forth Volunteer Infantry Brigade, and to be seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. C. W. (Brig.-Surg. Lieut.-Col. on appointment as Senior Medical Officer to the Forth Volunteer Infantry Brigade, and to be seconded)</Text>
       <PageNumber>153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montrose</Key>
-      <Text>Duke of (temporary Brig.Gen.)</Text>
+      <Title>Duke</Title>
+      <Text>of (temporary Brig.Gen.)</Text>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,8 +1118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. and Hon. Col. J. A. M. (local rank of Lieut.-Col. in West Africa)</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. and Hon. Col. J. A. M. (local rank of Lieut.-Col. in West Africa)</Text>
       <PageNumber>3969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1270,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes-Sadler</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ansted</Key>
-      <Text>L&gt;. C .. .. ;</Text>
+      <Forenames>L</Forenames>
+      <Text>&gt;. C .. .. ;</Text>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

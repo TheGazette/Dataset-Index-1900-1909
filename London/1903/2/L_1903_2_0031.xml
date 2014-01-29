@@ -189,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>GiVm</Key>
-      <Text>our, A. (2nd Lieut.)</Text>
+      <Text>.our, A. (2nd Lieut.)</Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,14 +554,16 @@
   <ItemGroup>
     <MainItem>
       <Key>KunharJt</Key>
-      <Text>2nd Lieut. . F. H. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. F. H. (seconded)</Text>
       <PageNumber>2842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maclear</Key>
-      <Text>Capt. andBrev. Maj. P. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>andBrev. Maj. P. (seconded)</Text>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +782,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unett</Key>
-      <Text>J. A. (Adj.)</Text>
+      <Text>.J. A. (Adj.)</Text>
       <PageNumber>3716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>M. S. M. (Adj.)</Text>
+      <Text>. M. S. M. (Adj.)</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +872,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1080,6 @@
       <PageNumber>2990</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions. .</SectionTitle>
   <SubSectionTitle>Major-Generals</SubSectionTitle>
   <ItemGroup>
@@ -1132,7 +1133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfe</Key>
-      <Text>E</Text>
+      <Text>.E</Text>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aspinall</Key>
-      <Text>H: H. H</Text>
+      <Forenames>H</Forenames>
+      <Text>: H. H</Text>
       <PageNumber>4098</PageNumber>
     </MainItem>
   </ItemGroup>

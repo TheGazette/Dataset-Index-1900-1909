@@ -57,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpenter</Key>
-      <Text>, G-. T. (Maj.)</Text>
+      <Text>G-. T. (Maj.)</Text>
       <PageNumber>1854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Capt. Lord (correction)</Text>
+      <Title>Capt. Lord (correction)</Title>
       <PageNumber>1356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +157,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. Comdt.)</Text>
+      <Title>(Lieut.-Col. Comdt.)</Title>
       <PageNumber>4256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,8 +190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbert</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Maj.)</Text>
+      <Title>Or. (Maj.)</Title>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldegrave</Key>
-      <Text>, Earl (Maj.)</Text>
+      <Title>Earl (Maj.)</Title>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +476,6 @@
       <PageNumber>4256</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>LOTHIANS AND BERWICKSH1KE</SubCategoryTitle>
   <SectionTitle>Yeomanry Cavalry</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1093,7 +1091,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, 0. M. (Lieut.)</Text>
+      <Text>0. M. (Lieut.)</Text>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>

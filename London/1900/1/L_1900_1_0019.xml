@@ -57,8 +57,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>. C, Victoria Cross conferred on</Text>
+      <Title>Sergt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Victoria Cross conferred on</Text>
       <PageNumber>3965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunket</Key>
-      <Text>Lord, Commander of the Boyal Victorian Order</Text>
+      <Title>Lord, Commander</Title>
+      <Text>of the Boyal Victorian Order</Text>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>Duke of, Knight Companion of the Order of the Garter</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Companion of the Order of the Garter</Text>
       <PageNumber>1875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandhurst</Key>
-      <Text>Lord, Extra Knight Grand Commander of the Star of India</Text>
+      <Title>Lord</Title>
+      <Text>, Extra Knight Grand Commander of the Star of India</Text>
       <PageNumber>1628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stalbridge</Key>
-      <Text>Lord, Knight of Grace of the Order of St. John of Jerusalem</Text>
+      <Title>Lord</Title>
+      <Text>, Knight of Grace of the Order of St. John of Jerusalem</Text>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1024,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Master of the Rolls</Text>
+      <Title>Master</Title>
+      <Text>of the Rolls</Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
   </ItemGroup>

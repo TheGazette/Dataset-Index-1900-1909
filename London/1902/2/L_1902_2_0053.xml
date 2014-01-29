@@ -72,7 +72,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malmesbury</Key>
-      <Text>Capt. Earl of (resign. .d)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (resign. .d)</Text>
       <PageNumber>8845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,6 +146,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hewett</Key>
+      <Forenames>R.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
+      <PageNumber>5469</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Jones</Key>
       <Forenames>H. W.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -184,6 +193,14 @@
       <Forenames>E. H.</Forenames>
       <Text>(Hon. Col.)</Text>
       <PageNumber>5469</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wooldridge</Key>
+      <Forenames>C. S.</Forenames>
+      <Text>(Instr. of Musketry )</Text>
+      <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>2nd Volunteer Battalion</SectionTitle>
@@ -268,8 +285,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. V. J. (resigned and Capt.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. V. J. (resigned and Capt.)</Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Callard</Key>
-      <Text>B, (Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>Capt. aud Hon. Maj. B. (remove J)</Text>
+      <Title>Capt.</Title>
+      <Text>aud Hon. Maj. B. (remove J)</Text>
       <PageNumber>6026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>B, W. H. (Maj.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, W. H. (Maj.)</Text>
       <PageNumber>8446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boberts</Key>
-      <Text>W\ B. (Hon. Capt,) ..</Text>
+      <Forenames>W</Forenames>
+      <Text>\ B. (Hon. Capt,) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +874,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AlclJaiiL</Key>
-      <Text>Capt. and Instr. of Musketry J. P. (sup.-r.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. P. (sup.-r.)</Text>
       <PageNumber>6744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,8 +927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boberts</Key>
-      <Title>Acting Chap. Bev.</Title>
-      <Forenames>Canon G.</Forenames>
+      <Title>Acting Chap. Bev. Canon</Title>
+      <Forenames>G.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>

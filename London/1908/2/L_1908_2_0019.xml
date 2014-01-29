@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="019" pageID="https://www.thegazette.co.uk/id/London/index/year/1908/volume/2/page/019" pagePDF="https://www.thegazette.co.uk/London/index/year/1908/volume/2/page/019" pageRDF="https://www.thegazette.co.uk/London/index/year/1908/volume/2/page/019?view=linked-data" type="index" volume="2" year="1908">
-  <SubCategoryTitle>Regiments</SubCategoryTitle>
   <SubSectionTitle>lst Life Guards</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Caledon</Key>
-      <Text>, Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,14 +82,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Compton</Key>
-      <Text>, Earl (Lieut.)</Text>
+      <Title>Earl (Lieut.)</Title>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>, Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dupree</Key>
-      <Text>,.V. (Lieut.)</Text>
+      <Text>.V. (Lieut.)</Text>
       <PageNumber>3669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>,. G. G. M. (Capt.)</Text>
+      <Text>. G. G. M. (Capt.)</Text>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +401,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt.. H. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. H. (resigned)</Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +493,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +561,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>4324</PageNumber>
       <PageNumber>4406</PageNumber>
     </MainItem>
@@ -976,7 +977,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.. G. A. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Text>. G. A. (antedated)</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1078,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>4651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirwan</Key>
-      <Text>,. Maj. B. E. (antedated)</Text>
+      <Text>. Maj. B. E. (antedated)</Text>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1348,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3034</PageNumber>
       <PageNumber>3314</PageNumber>
     </MainItem>

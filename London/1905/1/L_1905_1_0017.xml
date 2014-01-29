@@ -26,7 +26,7 @@
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SectionTitle>lst Bedfordshire</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -83,7 +83,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownridge</Key>
-      <Text>, 0. (Lieut.-Col. and to command) .. .. .. ..</Text>
+      <Text>0. (Lieut.-Col. and to command) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>,.H. O'B-(2nd Lieut.)</Text>
+      <Text>.H. O'B-(2nd Lieut.)</Text>
       <PageNumber>1035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradshaw</Key>
-      <Text>,. J. H. P. (Lieut.)</Text>
+      <Text>. J. H. P. (Lieut.)</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +374,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>, Capt. and Hon. Maj. J, B. (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>J</Forenames>
+      <Text>, B. (resigned)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullin</Key>
-      <Text>,' Capt. H. J. (resigned)</Text>
+      <Text>' Capt. H. J. (resigned)</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haywood</Key>
-      <Text>,' R. B. (Capt.)</Text>
+      <Text>' R. B. (Capt.)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +667,7 @@
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SectionTitle>Clyde Division</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -705,8 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. B. (resigned)</Text>
       <PageNumber>582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,9 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Lieut. Visct. (seconded)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardross</Key>
-      <Text>, Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1033,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Granard</Key>
-      <Text>, Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>26</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1043,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Earl of (antedated) 417</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (antedated) 417</Text>
       <PageNumber>1398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1053,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>

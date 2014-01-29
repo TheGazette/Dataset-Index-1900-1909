@@ -62,7 +62,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. . .</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. . .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +204,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Capt.)</Text>
+      <Title>(Surg.-Capt.)</Title>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Capt.)</Text>
+      <Title>(Surg.-Capt.)</Title>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eobathan</Key>
-      <Text>, 1). P. (2nd Lieut.)</Text>
+      <Text>1). P. (2nd Lieut.)</Text>
       <PageNumber>8040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addington</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +641,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, AV. H. (2nd Lieut.)</Text>
+      <Text>AV. H. (2nd Lieut.)</Text>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.irsden, J. H. F. (Capt.) .. ..</Text>
+      <Text>irsden, J. H. F. (Capt.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodall</Key>
-      <Text>, ,1. K. (Capt.)</Text>
+      <Text>,1. K. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>, Bt. Hon. Duke of (Hon. CoL)</Text>
+      <Title>Bt. Hon. Duke</Title>
+      <Text>of (Hon. CoL)</Text>
       <PageNumber>9563</PageNumber>
     </MainItem>
   </ItemGroup>

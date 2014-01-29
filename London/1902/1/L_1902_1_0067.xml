@@ -95,7 +95,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) ,</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>,</Text>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +155,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>Earl of (Hon. Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Lieut.-Col.)</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,8 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowser</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. E. (resigned)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludlow</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>2081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,8 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Helmsley</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewetson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. R. (resigned)</Text>
       <PageNumber>2081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +707,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(super. Capt.)</Text>
+      <Title>(super. Capt.)</Title>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tebbutt</Key>
-      <Title>Hon. Chap. Rev.</Title>
-      <Forenames>Canon H. J.</Forenames>
+      <Title>Hon. Chap. Rev. Canon</Title>
+      <Forenames>H. J.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
@@ -864,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenlock</Key>
-      <Text>Lord (Lieut.-Col.)</Text>
+      <Title>Lord (Lieut.-Col.)</Title>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,21 +889,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckinghamshire</Key>
-      <Text>(Royal Bucks Hussars)</Text>
+      <Title>(Royal Bucks Hussars)</Title>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cheshire</Key>
-      <Text>(Earl of Chesler's)</Text>
+      <Title>(Earl of Chesler's)</Title>
       <PageNumber>2508</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denbighshire</Key>
-      <Text>(Hussars)</Text>
+      <Title>(Hussars)</Title>
       <PageNumber>1885</PageNumber>
       <PageNumber>2864</PageNumber>
       <PageNumber>3977</PageNumber>
@@ -926,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>(Queen's Own)</Text>
+      <Title>(Queen's Own)</Title>
       <PageNumber>1886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +942,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucestershire</Key>
-      <Text>(Royal Gloucestershire Hussars)</Text>
+      <Title>(Royal Gloucestershire Hussars)</Title>
       <PageNumber>2078</PageNumber>
       <PageNumber>2508</PageNumber>
       <PageNumber>3016</PageNumber>
@@ -949,7 +951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hampshire</Key>
-      <Text>(Carabiniers)</Text>
+      <Title>(Carabiniers)</Title>
       <PageNumber>1886</PageNumber>
       <PageNumber>2508</PageNumber>
     </MainItem>
@@ -967,7 +969,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Queen's Own Royal Glasgow) Lancashire Hussars</Text>
+      <Title>(Queen's Own Royal Glasgow)</Title>
+      <Forenames>Lancashire Hussars</Forenames>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middlesex</Key>
-      <Text>(Duke of Cambridge's Hussars)</Text>
+      <Title>(Duke of Cambridge's Hussars)</Title>
       <PageNumber>2078</PageNumber>
       <PageNumber>2508</PageNumber>
     </MainItem>
@@ -1010,14 +1013,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>(King's Own)</Text>
+      <Title>(King's Own)</Title>
       <PageNumber>2508</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>(Hussars)</Text>
+      <Title>(Hussars)</Title>
       <PageNumber>2079</PageNumber>
       <PageNumber>2695</PageNumber>
     </MainItem>
@@ -1027,14 +1030,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Southern Nottinghamshire)</Text>
+      <Title>(Southern Nottinghamshire)</Title>
       <PageNumber>2695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oxfordshire</Key>
-      <Text>(Queen's Own Oxfordshire Hussars)</Text>
+      <Title>(Queen's Own Oxfordshire Hussars)</Title>
       <PageNumber>2695</PageNumber>
       <PageNumber>2864</PageNumber>
     </MainItem>
@@ -1058,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Forenames>Somerset</Forenames>
+      <Title>Somerset .</Title>
       <PageNumber>2695</PageNumber>
       <PageNumber>3180</PageNumber>
     </MainItem>
@@ -1066,7 +1069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffolk</Key>
-      <Text>(the Duke of York's Own Loyal Suffolk Hussars)</Text>
+      <Title>(the Duke of York's Own Loyal Suffolk Hussars)</Title>
       <PageNumber>1735</PageNumber>
       <PageNumber>2079</PageNumber>
       <PageNumber>2508</PageNumber>
@@ -1091,7 +1094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcestershire</Key>
-      <Text>(the Queen's Own Worcestershire Hussars)</Text>
+      <Title>(the Queen's Own Worcestershire Hussars)</Title>
       <PageNumber>2864</PageNumber>
       <PageNumber>4121</PageNumber>
     </MainItem>
@@ -1183,7 +1186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3586</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -430,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>,.Capt. W. (seconded;</Text>
+      <Text>.Capt. W. (seconded;</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,7 @@
       <Key>
         <KeyDitto>——— ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxlev</Key>
-      <Text>.E. D, (2nd Lieut.)</Text>
+      <Text>E. D, (2nd Lieut.)</Text>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1099,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) .. ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudgeon</Key>
-      <Text>, E,M. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>,M. (Lieut.)</Text>
       <PageNumber>2276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Master</Key>
-      <Text>,-G. L. (Lieut.) -</Text>
+      <Text>-G. L. (Lieut.) -</Text>
       <PageNumber>2276</PageNumber>
     </MainItem>
   </ItemGroup>

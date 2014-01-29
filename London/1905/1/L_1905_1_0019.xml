@@ -11,8 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Forenames>Capl</Forenames>
-      <Text>. R: S. (seconded)</Text>
+      <Title>Capl.</Title>
+      <Forenames>R</Forenames>
+      <Text>: S. (seconded)</Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacey</Key>
-      <Text>, G-. A. (Capt.)</Text>
+      <Text>G-. A. (Capt.)</Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +357,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>O'FIynn, P. H. G. (2nd Lieut.)</Text>
+      <Forenames>O</Forenames>
+      <Text>'FIynn, P. H. G. (2nd Lieut.)</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +576,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagge</Key>
-      <Text>, Maj; R. L. (resigned)</Text>
+      <Title>Maj</Title>
+      <Text>; R. L. (resigned)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +886,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>, Lieut. G: G. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G</Forenames>
+      <Text>: G. (resigned)</Text>
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +896,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanfield</Key>
-      <Text>, F, G. (2nd Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>, G. (2nd Lieut.)</Text>
       <PageNumber>331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +938,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidney</Key>
-      <Text>, Capt. and. Hon. Maj. H. J. . (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>and. Hon. Maj. H. J. . (resigned)</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesney</Key>
-      <Text>, 2nd Lieut. D; P. (resigned) ,</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>D</Forenames>
+      <Text>; P. (resigned) ,</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1376,8 @@
       <Key>
         <KeyDitto>___ ___ ___ __.</KeyDitto>
       </Key>
-      <Text>(Surg.tCol.) .. ..</Text>
+      <Title>(Surg.tCol.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

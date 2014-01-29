@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conyngham</Key>
-      <Text>, Lieut. Marquis (resigned)</Text>
+      <Title>Lieut. Marquis (resigned)</Title>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>, 2nd.Lieut. C. A, (resigned)</Text>
+      <Text>2nd.Lieut. C. A, (resigned)</Text>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greer</Key>
-      <Text>, Capt. T; M. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>T</Forenames>
+      <Text>; M. (seconded)</Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Text>.H. F. (Capt.)</Text>
+      <Text>H. F. (Capt.)</Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,8 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimshawe</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. and Hon. Col. E. S. V. (retired)</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. and Hon. Col. E. S. V. (retired)</Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +686,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -350,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenzie</Key>
-      <Text>, 2nd.Lieut. C. F. (seconded)</Text>
+      <Text>2nd.Lieut. C. F. (seconded)</Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, jasper (Lieut.) .. .. ..</Text>
+      <Text>jasper (Lieut.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +461,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Playfair</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. Lord (half-pay)</Text>
+      <Title>Brev. Col. Lord (half-pay)</Title>
       <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +925,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,7 +1383,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1675,7 +1674,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,7 +1726,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Range-Finding)</Text>
+      <Title>(Instr. of Range-Finding)</Title>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2214,7 +2213,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>2946</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -94,7 +94,7 @@
     </MainItem>
   </ItemGroup>
   <SubCategoryTitle>LEICESTERSHIRE</SubCategoryTitle>
-  <SubCategoryTitle>.. LINCOLNSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>LINCOLNSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Royds</Key>
@@ -294,9 +294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>2nd Lieut. Gr. (resigned)</Title>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>R, (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,8 +343,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. G. (correction) .. .. .,</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. G. (correction) .. .. .,</Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McElfish</Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +376,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T, M. (2nd Lieut.)</Text>
+      <Forenames>T</Forenames>
+      <Text>, M. (2nd Lieut.)</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +402,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut)</Text>
+      <Title>(Lieut)</Title>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>Earl of (Capt.-Surg.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.-Surg.)</Text>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +494,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. '</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. '</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chew</Key>
-      <Text>R, (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +950,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>Capt. and Instr. of Musketry A. K. (vacates appointment)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry A. K. (vacates appointment)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +963,7 @@
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. MONTGOMERYSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>MONTGOMERYSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
@@ -1003,7 +1007,7 @@
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. NORTHAMPTONSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>NORTHAMPTONSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>

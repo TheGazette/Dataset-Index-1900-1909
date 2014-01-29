@@ -72,7 +72,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGillycuddy</Key>
-      <Text>A: E. N. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: E. N. (2nd Lieut.)</Text>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crozier</Key>
-      <Text>G, I. (2nd Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, I. (2nd Lieut.)</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +351,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Follett</Key>
-      <Text>R, S. (Adj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. (Adj.)</Text>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Text>Capt., L. H. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>, L. H. (retired)</Text>
       <PageNumber>6321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Duke of (vacates Hon. Colonelcy) .. .. .. ..</Text>
+      <Title>Duke</Title>
+      <Text>of (vacates Hon. Colonelcy) .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>Wm</Forenames>
-      <Text>. (Lieut.) .. ..</Text>
+      <Title>Wm. (Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaudin</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Maj. F. N. (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Maj. F. N. (resigned)</Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,11 +703,10 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowring</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutting</Key>
-      <Text>H. B.</Text>
+      <Text>. H. B.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>F. L</Text>
+      <Text>. F. L</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

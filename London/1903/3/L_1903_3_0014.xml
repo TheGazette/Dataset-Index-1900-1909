@@ -84,7 +84,8 @@
   <ItemGroup>
     <MainItem>
       <Key>March</Key>
-      <Text>E, W. B.(Capt.) .. '</Text>
+      <Forenames>E</Forenames>
+      <Text>, W. B.(Capt.) .. '</Text>
       <PageNumber>5602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,8 +246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. H. (cancellation)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. H. (cancellation)</Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>C H. (Col.)</Text>
+      <Forenames>C</Forenames>
+      <Text>H. (Col.)</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,14 +536,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>R, E. (Hon.' Maj.-Gen.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (Hon.' Maj.-Gen.)</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>W: R. Le G. (Col.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: R. Le G. (Col.)</Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corry</Key>
-      <Text>Col. Hon. II. W. L. (retired pay)</Text>
+      <Title>Col. Hon.</Title>
+      <Text>II. W. L. (retired pay)</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,8 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. and Brev. Col. Hon. M. (retired pay)</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. and Brev. Col. Hon. M. (retired pay)</Text>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erroll</Key>
-      <Text>Col. Earl of (half-pay)</Text>
+      <Title>Col. Earl</Title>
+      <Text>of (half-pay)</Text>
       <PageNumber>5600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldney</Key>
-      <Text>Lieut.-Col.and Brev. Col. W. H. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Brev. Col. W. H. (retired)</Text>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +865,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(retired) .. .-</Text>
+      <Title>(retired)</Title>
+      <Text>.. .-</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +898,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon.-Capt.)-.. . ..</Text>
+      <Title>(Hon.-Capt.)</Title>
+      <Text>-.. . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1036,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prower</Key>
-      <Text>Capt. and Hon.Maj. J. E. (correction).. .. .. -..</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>Maj. J. E. (correction).. .. .. -..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,16 +1061,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Col. F. W. (retired pay)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Col. F. W. (retired pay)</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. J. R. (Hon. Physician to His Majesty).. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Col. J. R. (Hon. Physician to His Majesty).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,16 +1153,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. T. (Hon. Physician to His Majesty)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. T. (Hon. Physician to His Majesty)</Text>
       <PageNumber>5599</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. N. A. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. N. A. (correction)</Text>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1231,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Capt. in South Africa) .. .. ..</Text>
+      <Title>(local rank of Capt. in South Africa)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

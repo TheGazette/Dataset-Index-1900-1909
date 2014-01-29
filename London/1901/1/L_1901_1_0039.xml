@@ -100,7 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scholfield</Key>
-      <Text>, G-. P. (local rank of Maj. in South Africa)</Text>
+      <Text>G-. P. (local rank of Maj. in South Africa)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Col.)</Text>
+      <Title>(Col.)</Title>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +368,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, Col. W, H. (retired pay)</Text>
+      <Title>Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>, H. (retired pay)</Text>
       <PageNumber>2441</PageNumber>
     </MainItem>
   </ItemGroup>

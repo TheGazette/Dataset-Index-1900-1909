@@ -31,9 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebrington</Key>
-      <Title>Col.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Col. Visct. (resigned)</Title>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abcrcorn</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,14 +203,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>Maj. Lord (seconded)</Text>
+      <Title>Maj. Lord (seconded)</Title>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitelaw</Key>
-      <Text>Maj.' W. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>' W. (resigned)</Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Latliom</Key>
-      <Text>Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>8024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleight</Key>
-      <Text>R, (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,8 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. M. (resigned)</Text>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. R. (resigned) .'</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. R. (resigned) .'</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,9 +809,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>. Rev. II. (resigned)</Text>
+      <Title>Acting Chap. Rev.</Title>
+      <Text>II. (resigned)</Text>
       <PageNumber>7752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,8 +826,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCormick</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon J.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>J.</Forenames>
       <Text>(Acting Chap.)</Text>
       <PageNumber>7752</PageNumber>
     </MainItem>

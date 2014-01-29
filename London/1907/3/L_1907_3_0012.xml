@@ -188,8 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingestre</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>. W. H. (Inspr., 2nd Class, and Hon. Capt.)</Text>
+      <Text>W. H. (Inspr., 2nd Class, and Hon. Capt.)</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +614,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, 'I. L. (Assistant Commissary and Hun. Lieut.)</Text>
+      <Text>'I. L. (Assistant Commissary and Hun. Lieut.)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bousfield</Key>
-      <Text>. L. (Capt.)</Text>
+      <Text>L. (Capt.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,6 +967,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Forrest</Key>
+      <Forenames>J. V.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>5299</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fortescue</Key>
       <Forenames>A.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1070,10 +1077,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hall</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J. L.</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>4615</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>, E^M. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>^M. (Lieut.)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>

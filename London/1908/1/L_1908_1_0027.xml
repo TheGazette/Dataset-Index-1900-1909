@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cann</Key>
-      <Text>.C</Text>
+      <Text>C</Text>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaloner</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pendleton</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pepper</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Forenames>Vety</Forenames>
-      <Text>.-Capt. P. J. (resigned)</Text>
+      <Title>Vety.</Title>
+      <Text>-Capt. P. J. (resigned)</Text>
       <PageNumber>898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kutter</Key>
-      <Text>, 2ftd Lieut. E. M. (resigned)</Text>
+      <Text>2ftd Lieut. E. M. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +484,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. and Hon. Lieut.Col. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.Col. (resigned)</Title>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of (vacates the Hon. Colonelcy)</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of (vacates the Hon. Colonelcy)</Text>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. E. (resigued)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. E. (resigued)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +604,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

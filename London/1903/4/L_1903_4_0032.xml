@@ -206,7 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wildey</Key>
-      <Text>A, G</Text>
+      <Forenames>A</Forenames>
+      <Text>, G</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cock</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1009,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation) .. S</Text>
+      <Title>(cancellation)</Title>
+      <Text>.. S</Text>
       <PageNumber>197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1080,7 @@
   <ItemGroup>
     <MainItem>
       <Key>ACouvt</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1245,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1314,7 @@
       <Key>
         <KeyDitto>___ ___ ___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,7 +1458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Text>J, M. (antedated)</Text>
+      <Forenames>J</Forenames>
+      <Text>, M. (antedated)</Text>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1608,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .—</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1805,7 +1808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>

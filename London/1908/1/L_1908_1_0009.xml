@@ -45,6 +45,7 @@
       <PageNumber>1493</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>Counties, with the names of the</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -122,8 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir &amp;., ConBul at Melbourne for Sweden</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Text>&amp;., ConBul at Melbourne for Sweden</Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +190,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of : Appointments: Annaly, Lord, Lord of the Bedchamber in Waiting</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of : Appointments: Annaly, Lord, Lord of the Bedchamber in Waiting</Text>
       <PageNumber>1315</PageNumber>
     </MainItem>
     <SubItem>
@@ -246,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterford</Key>
-      <Text>, port of (Tramore), removal of materials from the shore of the sea prohibited</Text>
+      <Text>port of (Tramore), removal of materials from the shore of the sea prohibited</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +299,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigtownshire</Key>
-      <Text>(Control of Dogs) Order of 1908</Text>
+      <Title>(Control of Dogs)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1908</Text>
       <PageNumber>1887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Text>(East Riding), transfer of infected area ., ,</Text>
+      <Title>(East Riding)</Title>
+      <Text>, transfer of infected area ., ,</Text>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>

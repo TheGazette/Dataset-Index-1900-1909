@@ -19,9 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Title>Maj. and Brev.</Title>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. H. G. M., Companion of the Bath</Text>
+      <Title>Maj. and Brev. Licut.</Title>
+      <Text>-Col. H. G. M., Companion of the Bath</Text>
       <PageNumber>6897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Duke of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ' ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Commander, Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Text>, Royal Victorian Order</Text>
       <PageNumber>7161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parrott</Key>
-      <Text>Col. SirH. C, Bart., Companion of the Bath</Text>
+      <Title>Col.</Title>
+      <Text>SirH. C, Bart., Companion of the Bath</Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,8 +308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinching</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. H. H., Knight Commander of St. Michael and St. George</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. H. H., Knight Commander of St. Michael and St. George</Text>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portugal</Key>
-      <Text>H.R.H. the Crown Prince of, Knight Companion of the Garter (dispensation)</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Crown Prince of, Knight Companion of the Garter (dispensation)</Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Earl, Order of Merit</Text>
+      <Title>Earl</Title>
+      <Text>, Order of Merit</Text>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +559,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,14 +685,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Saint-Saens</Key>
-      <Text>C, Hon. Commander, Royal Victorian Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Commander, Royal Victorian Order</Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>Marquis of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shiba</Key>
-      <Text>Lieut.-Col., Companion of the Bath</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Soveral</Key>
-      <Text>H.E. the Marquis de, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>H.E.</Title>
+      <Text>the Marquis de, Hon. Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>8967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +994,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I, J. P., Royal Red Cross .</Text>
+      <Forenames>I</Forenames>
+      <Text>, J. P., Royal Red Cross .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1019,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strickland</Key>
-      <Text>Sir &amp;., Governor and Commander-in-Chief of the Leeward Islands</Text>
+      <Title>Sir</Title>
+      <Text>&amp;., Governor and Commander-in-Chief of the Leeward Islands</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1172,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Bart., Serjeant Surgeonin-Ordinary to His Majesty</Text>
+      <Title>Bart.</Title>
+      <Text>, Serjeant Surgeonin-Ordinary to His Majesty</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>Capt. and Brev. Maj. Marquis of, Royal Victorian Order, Fourth Class</Text>
+      <Title>Capt. and Brev. Maj. Marquis</Title>
+      <Text>of, Royal Victorian Order, Fourth Class</Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -324,7 +324,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +452,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>Capt. and Instr. of Musketry E. S. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry E. S. (resigned)</Text>
       <PageNumber>3269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +919,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MoClellan</Key>
-      <Text>F; E. (Lieut.) .. ..</Text>
+      <Forenames>F</Forenames>
+      <Text>; E. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

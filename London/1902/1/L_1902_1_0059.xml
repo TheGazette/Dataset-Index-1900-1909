@@ -132,7 +132,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,8 +173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Lieut. G-. P. (resigned)</Text>
+      <Title>Super. Lieut.</Title>
+      <Text>G-. P. (resigned)</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +297,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuninghame</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gr. (2nd Lieut.)</Title>
       <PageNumber>230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pergusson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. (resigned)</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,15 +824,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. T. (resigned)</Text>
       <PageNumber>518</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's Leinster Regiment (Royal Canadians). Bredin, A. N, (Lieut.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's Leinster Regiment (Royal Canadians). Bredin, A. N, (Lieut.)</Text>
       <PageNumber>2793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +988,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ .___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1524,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,7 +1533,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,7 +1658,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>

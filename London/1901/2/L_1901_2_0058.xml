@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, C.H. (Lieut.) ..</Text>
+      <Text>C.H. (Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>, R, E. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (2nd Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +660,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, Lieut.-Ccl. A. G. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Ccl. A. G. (half-pay)</Text>
       <PageNumber>6294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,8 +1350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buoknill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. E. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. E. R. (resigned)</Text>
       <PageNumber>864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayliss</Key>
-      <Text>, Capt.E. G. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>E. G. (retired)</Text>
       <PageNumber>729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1603,7 +1606,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>9067</PageNumber>
     </MainItem>
   </ItemGroup>

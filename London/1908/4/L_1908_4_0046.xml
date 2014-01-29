@@ -660,7 +660,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +735,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +865,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1199,7 @@
       <Key>
         <KeyDitto>___ -___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1248,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1314,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>9662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1339,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neeves</Key>
-      <Text>, R, T. E. (2nd Lieut.) ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, T. E. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,16 +1595,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Granard</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Lieut.Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Lieut.Col.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Forenames>Or</Forenames>
-      <Text>. de M. G. (Lieut.)..</Text>
+      <Title>Or.</Title>
+      <Text>de M. G. (Lieut.)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,14 +1627,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Labouchere</Key>
-      <Text>. F. A. (Capt.)</Text>
+      <Text>F. A. (Capt.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, DA. H. (Lieut.)</Text>
+      <Text>DA. H. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

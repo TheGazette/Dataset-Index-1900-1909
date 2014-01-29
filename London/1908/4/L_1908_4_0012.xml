@@ -86,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gildea</Key>
-      <Text>.Col. Sir J., Knight Commander, Royal Victorian Order</Text>
+      <Text>Col. Sir J., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>. B. W., H.M.'s Consul-General at Budapest</Text>
+      <Text>B. W., H.M.'s Consul-General at Budapest</Text>
       <PageNumber>9940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mosle</Key>
-      <Text>, C, H.M.'s Consul at Bremen</Text>
+      <Forenames>C</Forenames>
+      <Text>, H.M.'s Consul at Bremen</Text>
       <PageNumber>9370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Revelstoke</Key>
-      <Text>, Lord, Receiver-General of the Duchy of Cornwall</Text>
+      <Title>Lord</Title>
+      <Text>, Receiver-General of the Duchy of Cornwall</Text>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>, Capt., Comptroller to H.R.H. the Duchess of Albany</Text>
+      <Title>Capt.</Title>
+      <Text>, Comptroller to H.R.H. the Duchess of Albany</Text>
       <PageNumber>8025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1058,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tupper</Key>
-      <Text>, Sir C, Bart., a Privy Councillor</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart., a Privy Councillor</Text>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -84,14 +84,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>.W. H. (Capt.) -</Text>
+      <Text>W. H. (Capt.) -</Text>
       <PageNumber>899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>, Lieut.-Cpl. and Hon. Col. E. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cpl. and Hon. Col. E. (retired)</Text>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +137,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>,.Lieut. H. G. M. (resigned)</Text>
+      <Text>.Lieut. H. G. M. (resigned)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macartney-Filgate</Key>
-      <Text>, £. J. P. F. (Hon. Col.)</Text>
+      <Text>£. J. P. F. (Hon. Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>.W. (Capt.)</Text>
+      <Text>W. (Capt.)</Text>
       <PageNumber>424</PageNumber>
     </MainItem>
   </ItemGroup>

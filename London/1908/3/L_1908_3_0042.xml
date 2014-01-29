@@ -102,7 +102,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(.Maj.)</Text>
+      <Title>(.Maj.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moherly</Key>
-      <Text>C. N. (Lieut.) .. ..</Text>
+      <Text>. C. N. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shea</Key>
-      <Text>R. P. (Lieut.)</Text>
+      <Text>. R. P. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>R. F. M. (Maj. and Hon. Lieut.-Col.) .. .. .. ..</Text>
+      <Text>. R. F. M. (Maj. and Hon. Lieut.-Col.) .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>E; B. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>; B. (Capt.)</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobie</Key>
-      <Text>W: G. (Capt.) Ellis, M.-C. (Maj. and Hon. Lieut.-</Text>
+      <Forenames>W</Forenames>
+      <Text>: G. (Capt.) Ellis, M.-C. (Maj. and Hon. Lieut.-</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>F. O. (Capt. and Hon. Maj.)</Text>
+      <Text>. F. O. (Capt. and Hon. Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groves</Key>
-      <Text>J. E. G. (Maj.) .. ..</Text>
+      <Text>. J. E. G. (Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1272,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1289,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foote</Key>
-      <Text>J. K. (Lieut.)</Text>
+      <Text>. J. K. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1613,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut-Col.)</Text>
+      <Title>(Lieut-Col.)</Title>
       <PageNumber>6950</PageNumber>
     </MainItem>
   </ItemGroup>

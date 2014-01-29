@@ -46,7 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
-      <Text>Capt. VV. B. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. B. (resigned)</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,8 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forth</Key>
-      <Forenames>Division</Forenames>
-      <Text>. | Beilby, E. M. (Lieut.)</Text>
+      <Title>Division.</Title>
+      <Text>| Beilby, E. M. (Lieut.)</Text>
       <PageNumber>1447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,8 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. N. (cancellation) .,</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. N. (cancellation) .,</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +630,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ——'</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. W. St. V. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. W. St. V. (correction)</Text>
       <PageNumber>476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +650,8 @@
       <Key>
         <KeyDitto>—. ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —.—</KeyDitto>
       </Key>
-      <Text>(correction) .. ... .. .... . .,. ,</Text>
+      <Title>(correction)</Title>
+      <Text>.. ... .. .... . .,. ,</Text>
       <PageNumber>144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephen</Key>
-      <Text>J). C.L..(Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>). C.L..(Lieut.)</Text>
       <PageNumber>1016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkwright</Key>
-      <Text>R, A. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. (2nd Lieut.)</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +830,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Sir AV. B., Bart. (antedated)</Text>
+      <Title>Lieut. Sir</Title>
+      <Text>AV. B., Bart. (antedated)</Text>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,9 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northland</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (antedated)</Text>
+      <Title>Lieut. Visct. (antedated)</Title>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beevor</Key>
-      <Text>W: C. (Surg.-Maj.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: C. (Surg.-Maj.)</Text>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Text>Master of (Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>1016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,9 +1194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. W. B. (resigned and Vet.-Capt.)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Capt. W. B. (resigned and Vet.-Capt.)</Text>
       <PageNumber>180</PageNumber>
     </MainItem>
   </ItemGroup>

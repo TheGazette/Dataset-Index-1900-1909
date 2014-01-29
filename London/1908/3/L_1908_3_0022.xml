@@ -209,7 +209,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,8 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chown</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. (resigned)</Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +523,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. T. (resigned)</Text>
       <PageNumber>6864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,8 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. Or. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. Or. (resigned)</Text>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,8 +834,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. A. B. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. A. B. (resigned) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +871,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>Lieut. Lord (resigned) ,</Text>
+      <Title>Lieut. Lord (resigned)</Title>
+      <Text>,</Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,8 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. (resigned)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gebbie</Key>
-      <Text>J. F: R. (2nd Lieut.)</Text>
+      <Text>.J. F: R. (2nd Lieut.)</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1300,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>

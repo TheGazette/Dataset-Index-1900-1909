@@ -18,8 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>Or</Forenames>
-      <Text>. M</Text>
+      <Title>Or.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Levan, Col. J. T. L. (retred)</Text>
+      <Text>Levan, Col. J. T. L. (retred)</Text>
       <PageNumber>8165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Text>, J-L. (Adj.)</Text>
+      <Text>J-L. (Adj.)</Text>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballantyne</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. S. (resigned)</Text>
       <PageNumber>7481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. S. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +465,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffin</Key>
-      <Text>, Lieut.-Col. and Brevet Col. ' W. H. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Text>' W. H. (retired)</Text>
       <PageNumber>9560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,8 +595,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCoull</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. (resigned)</Text>
       <PageNumber>7389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +604,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>, Hon. Col. Earl of (resigned)</Text>
+      <Title>Hon. Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crankshaw</Key>
-      <Text>,E. N. S. (Lieut.)</Text>
+      <Text>E. N. S. (Lieut.)</Text>
       <PageNumber>8029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>, 2nd Lieut, A. E. (resigned)</Text>
+      <Text>2nd Lieut, A. E. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,6 +1107,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Grant</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. L. T.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>7916</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Orr</Key>
       <Forenames>J. B.</Forenames>
       <Text>(Capt.) .. .. ..</Text>
@@ -1152,14 +1163,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>. S. F. (Maj.)</Text>
+      <Text>S. F. (Maj.)</Text>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>IvattjLieut</Key>
-      <Text>.-Col. and Brevet Col. G. A. (retired)</Text>
+      <Text>-Col. and Brevet Col. G. A. (retired)</Text>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lathy</Key>
-      <Text>Capt. and Instr. of Musketry M. P. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry M. P. (super.)</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>P C. (2nd Lieut.)</Text>
+      <Forenames>P</Forenames>
+      <Text>C. (2nd Lieut.)</Text>
       <PageNumber>361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +692,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,8 +852,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. B. (resigned) .,</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. B. (resigned) .,</Text>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1130,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>2205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1155,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1416,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1452,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1684,7 +1686,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(post dated)</Text>
+      <Title>(post dated)</Title>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>

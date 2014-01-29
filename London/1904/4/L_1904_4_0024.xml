@@ -176,11 +176,11 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SubSectionTitle>Promotions</SubSectionTitle>
   <SubSectionTitle>Major-Generals</SubSectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -305,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Argles</Key>
-      <Text>, 0. C.</Text>
+      <Text>0. C.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quin</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +814,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8456</PageNumber>
     </MainItem>
   </ItemGroup>

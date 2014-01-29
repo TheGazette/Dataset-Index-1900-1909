@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. H. (resigned)</Text>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,8 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenway</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>,. Capt.' and Hon. Maj. A. H. (resigned)</Text>
+      <Text>. Capt.' and Hon. Maj. A. H. (resigned)</Text>
       <PageNumber>6451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muiiro</Key>
-      <Text>,-Capt. R.' (resigned) '.\</Text>
+      <Text>-Capt. R.' (resigned) '.\</Text>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +692,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>,-2ndLieut. E. C. (resigned)</Text>
+      <Text>-2ndLieut. E. C. (resigned)</Text>
       <PageNumber>636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Text>, 2ud Lieut. H. K. (resigned)</Text>
+      <Text>2ud Lieut. H. K. (resigned)</Text>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>

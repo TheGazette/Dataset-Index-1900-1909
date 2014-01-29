@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Minto</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, GovernorGeneral of India</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, GovernorGeneral of India</Text>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of, Lieutenant and Custos Rotulorum of Sussex</Text>
+      <Title>Duke</Title>
+      <Text>of, Lieutenant and Custos Rotulorum of Sussex</Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +365,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Knighted</Forenames>
+      <Title>Knighted .</Title>
       <PageNumber>9084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +645,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Text>, Lieut.-Gen. Sir C, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Lieut.-Gen. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>6631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +740,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Knighted</Forenames>
+      <Title>Knighted .</Title>
       <PageNumber>9084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +756,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>, Duke of, Lieutenant and Custos Rotulorum of Cheshire</Text>
+      <Title>Duke</Title>
+      <Text>of, Lieutenant and Custos Rotulorum of Cheshire</Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wicklow</Key>
-      <Text>, Earl of, Rt. Hon. the, chosen a Representative Peer for Ireland</Text>
+      <Title>Earl</Title>
+      <Text>of, Rt. Hon. the, chosen a Representative Peer for Ireland</Text>
       <PageNumber>8645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,8 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyborgh</Key>
-      <Forenames>Rear</Forenames>
-      <Text>.-Adml. Baron S. de L., Hon. Knight Commander of St. Michael and St. George</Text>
+      <Title>Rear.</Title>
+      <Text>-Adml. Baron S. de L., Hon. Knight Commander of St. Michael and St. George</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Text>, Capt. . G. S., Staff Capt. at Head.Quarters</Text>
+      <Title>Capt.</Title>
+      <Text>. G. S., Staff Capt. at Head.Quarters</Text>
       <PageNumber>6706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, Maj. and Brev. Lieut.Col.D., Assist. Adj.-Gen., and Brev. Col</Text>
+      <Title>Maj. and Brev. Lieut.</Title>
+      <Text>Col.D., Assist. Adj.-Gen., and Brev. Col</Text>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>

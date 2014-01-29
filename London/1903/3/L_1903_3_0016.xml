@@ -30,7 +30,7 @@
       <PageNumber>5914</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Bobinson, Colr.-Sergt. J. H</Text>
+      <Text>Bobinson, Colr.-Sergt. J. H.</Text>
       <PageNumber>5664</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -82,7 +82,7 @@
       <PageNumber>5350</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Waller, L. F. A</Text>
+      <Text>Waller, L. F. A.</Text>
       <PageNumber>4354</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -266,9 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-J. C. (half-pay)</Text>
+      <Title>Lieut.-Col. St.</Title>
+      <Text>-J. C. (half-pay)</Text>
       <PageNumber>4276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +443,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,14 +556,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne-Clayton</Key>
-      <Text>Capt. and Brev. Maj. (resigns as Adj.)</Text>
+      <Title>Capt. and Brev. Maj. (resigns as Adj.)</Title>
       <PageNumber>5665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collis</Key>
-      <Text>Maj. VV. E. R. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>VV. E. R. (retired)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Text>Lieut. OA. B. P. (resigned) 4590&gt; Richardson, J. J. (Capt.)</Text>
+      <Title>Lieut.</Title>
+      <Text>OA. B. P. (resigned) 4590&gt; Richardson, J. J. (Capt.)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +824,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>Lieut. W: R. (Adj.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W</Forenames>
+      <Text>: R. (Adj.)</Text>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>Lieut. 'J. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>'J. C. (resigned)</Text>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,15 +1063,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickup</Key>
-      <Forenames>Maj-</Forenames>
-      <Text>.-W. (District Officer) (retained as Super.' to Establishment) .. .. .. ..</Text>
+      <Title>Maj-.</Title>
+      <Text>-W. (District Officer) (retained as Super.' to Establishment) .. .. .. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Purvis</Key>
-      <Text>Maj.--Gen. H. M. G. (Col. Comdt.)</Text>
+      <Title>Maj.</Title>
+      <Text>--Gen. H. M. G. (Col. Comdt.)</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>

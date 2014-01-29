@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norrington</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. O. F. D. (seconded)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. O. F. D. (seconded)</Text>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,15 +116,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>Lieut. H. E. (resigned) '</Text>
+      <Text>. Lieut. H. E. (resigned) '</Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. N. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. N. (correction)</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +199,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. J. F. (correction)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. J. F. (correction)</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>Capt. and Hon. Maj. and Instr. of Musketrv P. A. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. and Instr.</Title>
+      <Text>of Musketrv P. A. (resigned)</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,6 +1082,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>3rd Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barlow</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. I.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>2848</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Geddes</Key>

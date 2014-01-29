@@ -55,7 +55,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Headfort</Key>
-      <Text>Marquis of (Capt.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>1523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kensington</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>1255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,14 +133,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. Lord (antedated)</Text>
+      <Title>Capt. Lord (antedated)</Title>
       <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>Capt. the Earl of (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>the Earl of (seconded)</Text>
       <PageNumber>1076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingestre</Key>
-      <Text>Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>2346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>Marquis of (Capt.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>1255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +281,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. Marquis of (antedated)</Text>
+      <Title>Capt. Marquis</Title>
+      <Text>of (antedated)</Text>
       <PageNumber>2502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +300,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramston-Newman</Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1006,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1054,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1087,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1104,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,7 +1648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hindlip</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>1877</PageNumber>
     </MainItem>
   </ItemGroup>

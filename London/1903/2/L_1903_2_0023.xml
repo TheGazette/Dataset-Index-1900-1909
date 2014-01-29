@@ -22,8 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pendlebury</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. P. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. P. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>Qrmr. and Hon. Capt. (resigned and Capt.)</Text>
+      <Title>Qrmr. and Hon. Capt. (resigned and Capt.)</Title>
       <PageNumber>4017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,9 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windram</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Lieut. Or. (resigned)</Title>
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albermarle</Key>
-      <Text>Hon. Col., Earl of, Aidede-Camp to the King</Text>
+      <Title>Hon. Col., Earl</Title>
+      <Text>of, Aidede-Camp to the King</Text>
       <PageNumber>4010</PageNumber>
       <PageNumber>4093</PageNumber>
     </MainItem>
@@ -231,8 +230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. J. M. G-. (Super.)</Text>
+      <Title>Surg.</Title>
+      <Text>Lieut. J. M. G-. (Super.)</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +301,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timson</Key>
-      <Text>Capt. H. T. (resigned and Hon. Maj.)</Text>
+      <Text>. Capt. H. T. (resigned and Hon. Maj.)</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwyn</Key>
-      <Text>Capt.*W. M. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>*W. M. (seconded)</Text>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,14 +557,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>E G. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>G. (Capt.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>Maj. W. F. (retired)</Text>
+      <Text>. Maj. W. F. (retired)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +894,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,8 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. L. (resigned).,</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. L. (resigned).,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1042,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,8 +1289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (resigned)</Text>
       <PageNumber>3153</PageNumber>
     </MainItem>
   </ItemGroup>

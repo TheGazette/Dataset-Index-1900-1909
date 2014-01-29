@@ -69,14 +69,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ermnptt</Key>
-      <Text>, VV. R, (Capi.) .. .. ibid. .Forster, R.. C. (Lieut.) .. ..</Text>
+      <Text>VV. R, (Capi.) .. .. ibid. .Forster, R.. C. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henrv</Key>
-      <Text>, G-. F. (Mai) Hill, E.T. (Maj.)</Text>
+      <Text>G-. F. (Mai) Hill, E.T. (Maj.)</Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hininge</Key>
-      <Forenames>Sui-e</Forenames>
-      <Text>.-Mnj. J. W. (resigned . nndHon. Surg. Lieut.-Col.)</Text>
+      <Title>Sui-e.</Title>
+      <Text>-Mnj. J. W. (resigned . nndHon. Surg. Lieut.-Col.)</Text>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,8 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. S. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. S. (correction)</Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,8 +138,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacCabe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. F. F. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. F. F. (correction)</Text>
       <PageNumber>4262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Formby</Key>
-      <Text>, J: F. L. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: F. L. (2nd Lieut.)</Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>. J. F. (Capt.).. .. ..</Text>
+      <Text>J. F. (Capt.).. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGeagh</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. T. E. F. (resigned) .. : .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. T. E. F. (resigned) .. : .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,8 +349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Title>Hon. Chap. Rev.</Title>
-      <Forenames>Canon C. H.</Forenames>
+      <Title>Hon. Chap. Rev. Canon</Title>
+      <Forenames>C. H.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
@@ -435,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, 2nd Lieut, Hon. C. F. H. (resigned) .. .. .. ..</Text>
+      <Text>2nd Lieut, Hon. C. F. H. (resigned) .. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Text>, R, G. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. (Maj.)</Text>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,9 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byn</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. and Hon. 'Col. H. (resigned)</Text>
+      <Title>Lieut.-Col. Comdt. and Hon.</Title>
+      <Text>'Col. H. (resigned)</Text>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,14 +609,14 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.sen hal, E. (Capi,) .. ..</Text>
+      <Text>sen hal, E. (Capi,) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pet</Key>
-      <Text>.ie, Capt. and Hon. Maj. J. G. (rosiined) .. .. .. ..</Text>
+      <Text>ie, Capt. and Hon. Maj. J. G. (rosiined) .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.aston, M. H. (2nd Lieut.)</Text>
+      <Text>aston, M. H. (2nd Lieut.)</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>

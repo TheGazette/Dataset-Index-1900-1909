@@ -213,7 +213,15 @@
     <MainItem>
       <Key>Mainwaring-White</Key>
       <Forenames>E. P.</Forenames>
-      <Text>(2nd Lieut.) 255 ) Messerry, C. C. (2nd Lieut.)</Text>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>255</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Messerry</Key>
+      <Forenames>C. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +289,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +745,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. 'P. K. (super.)</Text>
+      <Title>Lieut.</Title>
+      <Text>'P. K. (super.)</Text>
       <PageNumber>1007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,14 +1051,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>H(2nd Lieut) ;.:</Text>
+      <Forenames>H</Forenames>
+      <Text>(2nd Lieut) ;.:</Text>
       <PageNumber>8820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
-      <Text>C, St. J. 2nd Lieut.) ..</Text>
+      <Forenames>C</Forenames>
+      <Text>, St. J. 2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1571,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1580,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon.. Maj. W. H. (resigned)</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>. Maj. W. H. (resigned)</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1683,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tronson</Key>
-      <Text>Lieut. . N. G. P. de&gt; C. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>. N. G. P. de&gt; C. (seconded)</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>

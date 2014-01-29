@@ -20,7 +20,8 @@
       <Key>
         <KeyDitto>___ ___ ___ . ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)-</Text>
+      <Title>(correction)</Title>
+      <Text>-</Text>
       <PageNumber>4053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +80,13 @@
     <MainItem>
       <Key>Barnes</Key>
       <Forenames>J. P.</Forenames>
-      <Text>ibid. ! Barratt, W. C</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barratt</Key>
+      <Forenames>W. C.</Forenames>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peach</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bliss</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +793,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashfield</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1050,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hailes</Key>
-      <Text>Col. W</Text>
+      <Title>Col.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>

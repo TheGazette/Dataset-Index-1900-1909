@@ -23,9 +23,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Maj.</Title>
-      <Forenames>Gen</Forenames>
-      <Text>. on the Staff</Text>
+      <Title>Maj. Gen.</Title>
+      <Text>on the Staff</Text>
       <PageNumber>1852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +49,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel-Jones</Key>
-      <Text>, Capt. C, temporary Deputy Assist. Adj.-Gen. at HeadQuarters</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, temporary Deputy Assist. Adj.-Gen. at HeadQuarters</Text>
       <PageNumber>1769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +94,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell-Innes</Key>
-      <Text>, Capt. C, District Insp. of Musketry</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, District Insp. of Musketry</Text>
       <PageNumber>1852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +114,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Brig.-Maj.)</Text>
+      <Title>(Brig.-Maj.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +139,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, Col. (local Maj.-Gen.) J. W., Maj.-Gen. on the Staff</Text>
+      <Title>Col. (local Maj.-Gen.)</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, Maj.-Gen. on the Staff</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,14 +217,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>, Maj., G. E. C, temporary Deputy Assist. Adj.-Gen</Text>
+      <Title>Maj.</Title>
+      <Text>, G. E. C, temporary Deputy Assist. Adj.-Gen</Text>
       <PageNumber>2620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eainsford-Hannay</Key>
-      <Text>, Lieut.-Col.F., Assist. Insp.-Gen. of Fortifications at HeadQuarters</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.F., Assist. Insp.-Gen. of Fortifications at HeadQuarters</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,8 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Forenames>Moj</Forenames>
-      <Text>.-Geu. G., to command a Second Class District in India, with temporary rank of Brig.-Gen</Text>
+      <Title>Moj.</Title>
+      <Text>-Geu. G., to command a Second Class District in India, with temporary rank of Brig.-Gen</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -208,7 +208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marryatt</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piercy</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,21 +429,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentham</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>, A i ..</Text>
+      <Forenames>A</Forenames>
+      <Text>i ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norrington</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hockey</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawling</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6166</PageNumber>
       <PageNumber>6570</PageNumber>
     </MainItem>
@@ -945,7 +946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northey</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Text>, A, 3t. .. .. .. ..</Text>
+      <Forenames>A</Forenames>
+      <Text>, 3t. .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nibbs</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tooth</Key>
-      <Text>, OR</Text>
+      <Text>OR</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,14 +1399,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Berridge</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chisholm</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1521,7 +1523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gask</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>

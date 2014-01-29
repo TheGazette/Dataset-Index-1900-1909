@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eobins</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ley</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petch</Key>
-      <Text>.C. H. L.</Text>
+      <Text>C. H. L.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennetts</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Squire</Key>
-      <Text>. A. V</Text>
+      <Text>A. V</Text>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowle</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fothergill</Key>
-      <Text>, 0. J. (Lieut.) .. ..</Text>
+      <Text>0. J. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,14 +960,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
-      <Text>, Lieut.. W. E.G. (retired list)</Text>
+      <Title>Lieut.</Title>
+      <Text>. W. E.G. (retired list)</Text>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>, C (Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1001,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garwood</Key>
-      <Text>. Sub.-Lieut. A. B. (retired list)</Text>
+      <Text>Sub.-Lieut. A. B. (retired list)</Text>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>, C De La M. (Commander)</Text>
+      <Forenames>C</Forenames>
+      <Text>De La M. (Commander)</Text>
       <PageNumber>7581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,6 +1141,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Eiddock</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
+      <PageNumber>8189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Sealby</Key>
       <Title>Lieut.</Title>
       <Forenames>L.</Forenames>
@@ -1211,6 +1222,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Verner</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(retired list)</Text>
+      <PageNumber>7769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wadge</Key>
       <Text>; Lieut. P. L. (retired list)</Text>
       <PageNumber>7770</PageNumber>
@@ -1261,9 +1281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Title>Lieut. Et. Hon. Lord</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (Commander and in command of the Sussex Division)</Text>
+      <Title>Lieut. Et. Hon. Lord Visct. (Commander and in command of the Sussex Division)</Title>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxford</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

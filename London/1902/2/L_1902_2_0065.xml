@@ -13,7 +13,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowke</Key>
-      <Text>2nd Lieut., Sir F. F. C, Bart. (absorbed into Establishment)</Text>
+      <Title>2nd Lieut., Sir</Title>
+      <Forenames>F. F. C</Forenames>
+      <Text>, Bart. (absorbed into Establishment)</Text>
       <PageNumber>5755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,8 +305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. and Instr. of Musketry H. S. (resigned)</Text>
+      <Title>Super. Capt. and Instr.</Title>
+      <Text>of Musketry H. S. (resigned)</Text>
       <PageNumber>8763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +393,7 @@
       <PageNumber>6152</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>3rd.</Text>
+      <Text>3rd</Text>
       <PageNumber>4744</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -679,8 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. and Instr. of Musketry L. Hi (absorbed into Establishment) .. ..-</Text>
+      <Title>Super. Capt. and Instr.</Title>
+      <Text>of Musketry L. Hi (absorbed into Establishment) .. ..-</Text>
       <PageNumber>8818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. G. (resigned)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>Brig.-Surg.-Lieut.-Col. G. Da P. (resigned)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. G. Da P. (resigned)</Text>
       <PageNumber>8764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,8 +1261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Handfield-Jones</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. E. (resigned)</Text>
       <PageNumber>8848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,8 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Lieat</Forenames>
-      <Text>.-Col.-Comdt. and Hon. Col. S. B. (resigned)</Text>
+      <Title>Lieat.</Title>
+      <Text>-Col.-Comdt. and Hon. Col. S. B. (resigned)</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>

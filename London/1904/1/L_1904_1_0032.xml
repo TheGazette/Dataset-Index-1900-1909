@@ -106,7 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arran</Key>
-      <Text>Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>1448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +331,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,9 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd-Carpenter</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>. Rev. . A. B. (resigned)</Text>
+      <Title>Acting Chap. Rev.</Title>
+      <Text>. A. B. (resigned)</Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,17 +373,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. A. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. A. (correction)</Text>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. G. (resigned)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Capt. J. G. (resigned)</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +524,6 @@
       <PageNumber>701</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>*NORTHAMP rONSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
@@ -582,7 +580,7 @@
       <PageNumber>474</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>; NOTTINGHAMSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>NOTTINGHAMSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Beevor</Key>
@@ -654,8 +652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. (resigned).,</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. (resigned).,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camoys</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>1446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,9 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Visct. (resigned)</Title>
       <PageNumber>1094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1101,6 @@
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>WILTSHIRE.</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bouverie</Key>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Text>, Col. Viscount., Companion of the Bath</Text>
+      <Title>Col. Viscount.</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drosthe</Key>
-      <Text>, Mrs., Decoration of the Royal Bed Cross</Text>
+      <Title>Mrs.</Title>
+      <Text>, Decoration of the Royal Bed Cross</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Earl of, to be of the Council of H.R.H. the Duke of Cornwall and York</Text>
+      <Title>Earl</Title>
+      <Text>of, to be of the Council of H.R.H. the Duke of Cornwall and York</Text>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elgin</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Text>, Viscount, Knight Commander of the Royal Victorian Order</Text>
+      <Title>Viscount</Title>
+      <Text>, Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>, Lord, Knight Commander of the Royal Victorian Order</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fayrer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir J., Bart., Physician Extraordinary to His Majesty ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. Sir J., Bart., Physician Extraordinary to His Majesty ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fife</Key>
-      <Text>, Duke of, Knight Grand Cross of the Ruyal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Knight Grand Cross of the Ruyal Victorian Order</Text>
       <PageNumber>1145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +722,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Honorary Surgeon in Ordinary to His Majesty</Text>
+      <Title>Honorary Surgeon</Title>
+      <Text>in Ordinary to His Majesty</Text>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +733,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Commander of the Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Text>of the Royal Victorian Order</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +788,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lady, Lady of Justice of St. John of Jerusalem « ., ...</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Justice of St. John of Jerusalem « ., ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +983,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodndge</Key>
-      <Text>, Capt. \V. S., Companion of the Order of the Indian Empire Goodwin, Maj. G. H., Companion of St. Michael and St. George</Text>
+      <Title>Capt.</Title>
+      <Text>\V. S., Companion of the Order of the Indian Empire Goodwin, Maj. G. H., Companion of St. Michael and St. George</Text>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,8 +1071,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grafton</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. the Duke of, Honorary Equerry to His Majesty</Text>
+      <Title>Gen.</Title>
+      <Text>the Duke of, Honorary Equerry to His Majesty</Text>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>

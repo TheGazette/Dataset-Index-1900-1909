@@ -97,8 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolam</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belper</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>2611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +358,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Text>Lieut. Duke of (seconded)</Text>
+      <Title>Lieut. Duke</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Text>Lieut. Col. and Hon. Col. Viscount (seconded)</Text>
+      <Title>Lieut. Col. and Hon. Col. Viscount (seconded)</Title>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +614,7 @@
       <Key>
         <KeyDitto>_</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>1715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +650,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berwick</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thynne</Key>
-      <Text>A; C. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>; C. (2nd Lieut.)</Text>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolverton</Key>
-      <Text>Lord (2nd Lieut, super.)</Text>
+      <Title>Lord (2nd Lieut, super.)</Title>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,8 +1356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. B. (resigned)</Text>
       <PageNumber>2206</PageNumber>
     </MainItem>
   </ItemGroup>

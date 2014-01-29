@@ -144,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tripp</Key>
-      <Text>Lieut.-Col. and Brevet Col. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. (retired)</Title>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,24 +247,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnear</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>KinsevMorgan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. Land, Lieut.-Col. and Hon. Col. W. H.</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. Land, Lieut.-Col. and Hon. Col. W. H.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. M. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. M. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,8 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shadwell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.-</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.-</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
-      <Text>Lieut.-Col. and Hon. Col. Rev. F</Text>
+      <Title>Lieut.-Col. and Hon. Col. Rev.</Title>
+      <Forenames>F</Forenames>
       <PageNumber>2037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,8 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +363,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +525,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somers</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +598,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1006,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>H, E. (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>, E. (Lieut.)</Text>
       <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmpatrick</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>P. (Adj.)</Text>
+      <Text>. P. (Adj.)</Text>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, G-. H. (Col.)</Text>
+      <Text>G-. H. (Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +404,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Sir C, Bart. (Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart. (Col.)</Text>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +415,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Brig-Gen.)</Text>
+      <Title>(temporary Brig-Gen.)</Title>
       <PageNumber>7042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Text>. H. F. (temporary Maj.)</Text>
+      <Text>H. F. (temporary Maj.)</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Midwood</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. H. (retired)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. H. (retired)</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,14 +1016,14 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Col. J. L. C. (retired pay)</Text>
+      <Text>Clair, Col. J. L. C. (retired pay)</Text>
       <PageNumber>6893</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Lieut. Hon. M. St. A. T. (resigned)</Text>
+      <Text>John, Lieut. Hon. M. St. A. T. (resigned)</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, Qrmr. ani Hon. Capt. A. ..</Text>
+      <Title>Qrmr.</Title>
+      <Text>ani Hon. Capt. A. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,8 +1243,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. H. D Bryden, Surg.-Maj. R. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. H. D Bryden, Surg.-Maj. R. J</Text>
       <PageNumber>7771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,8 +1406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitcombe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg. Lieut.-Col. P. P</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg. Lieut.-Col. P. P</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1502,7 +1505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,7 +1519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,7 +1540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,21 +1561,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacRae</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>

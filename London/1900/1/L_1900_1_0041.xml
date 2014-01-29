@@ -94,7 +94,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>Earl of (temporary Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (temporary Lieut.)</Text>
       <PageNumber>1524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +628,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +826,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +851,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E, (2nd Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kesteven</Key>
-      <Text>Lord (Machine Gun Commander)</Text>
+      <Title>Lord (Machine Gun Commander)</Title>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leitrim</Key>
-      <Text>Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,21 +1351,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lonsdale</Key>
-      <Text>Earl of (Assist. Adj.-Gen.) .,</Text>
+      <Title>Earl</Title>
+      <Text>of (Assist. Adj.-Gen.) .,</Text>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1384,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(appointment as Medical Officer cancelled)</Text>
+      <Title>(appointment as Medical Officer cancelled)</Title>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1426,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>Viscount (Adj.)</Text>
+      <Title>Viscount (Adj.)</Title>
       <PageNumber>1877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,14 +1625,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Text>Duke of (Staff Capt.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Staff Capt.)</Text>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,7 +1695,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,7 +1771,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1780,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Brig. Maj.)</Text>
+      <Title>(Brig. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1783,7 +1789,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,7 +1862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1865,7 +1871,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1960,7 +1966,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1255</PageNumber>
     </MainItem>
   </ItemGroup>

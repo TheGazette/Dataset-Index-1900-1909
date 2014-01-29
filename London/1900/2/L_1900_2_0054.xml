@@ -142,7 +142,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennard</Key>
-      <Text>, R, S. A. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. A. (2nd Lieut.)</Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn-Gardner</Key>
-      <Text>. Lieut. R. C. (resigned)</Text>
+      <Text>Lieut. R. C. (resigned)</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,8 +851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. K. (resigned)</Text>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,7 +1199,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1255,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunkin</Key>
-      <Text>, H: (Lieut.) ,. ,. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>: (Lieut.) ,. ,. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1754,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1763,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>

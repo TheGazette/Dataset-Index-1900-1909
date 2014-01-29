@@ -126,7 +126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>, Rev. P</Text>
+      <Title>Rev.</Title>
+      <Forenames>P</Forenames>
       <PageNumber>3157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +647,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devasahayam</Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +876,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired pay) ..</Text>
+      <Title>(retired pay)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, C F. (Col.)</Text>
+      <Forenames>C</Forenames>
+      <Text>F. (Col.)</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,9 +1330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alpine</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>., Rev. G</Text>
+      <Title>Acting Chap., Rev.</Title>
+      <Forenames>G.</Forenames>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>, Capt. and Hon. Maj. CP.</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>CP.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,9 +1363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownrigg</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>., Rev. Canon J. S</Text>
+      <Title>Acting Chap., Rev. Canon</Title>
+      <Forenames>J. S</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,14 +1454,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, Maj. and Hon. Lieut.-Col.. T.J</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>. T.J</Text>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haddon</Key>
-      <Text>, Maj. A</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parrington</Key>
-      <Text>, Maj. and Hon. Lieut.Col. T</Text>
+      <Title>Maj. and Hon. Lieut.Col.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,7 +1538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Qrmr. C</Text>
+      <Title>Qrmr.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,8 +1548,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Acting-Chap</Forenames>
-      <Text>., Rev. H. von E</Text>
+      <Title>Acting-Chap., Rev.</Title>
+      <Forenames>H.</Forenames>
+      <Text>von E</Text>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,7 +1589,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>, Qrmr.-Sergt. J. H. .. ..</Text>
+      <Title>Qrmr.</Title>
+      <Text>-Sergt. J. H. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1623,7 +1631,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bills</Key>
-      <Text>, S; K</Text>
+      <Forenames>S</Forenames>
+      <Text>; K</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

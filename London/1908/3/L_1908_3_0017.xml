@@ -142,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>E, C. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, C. (Lieut.)</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>Maj. A. B. N. (retired pay)</Text>
+      <Text>. Maj. A. B. N. (retired pay)</Text>
       <PageNumber>6861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laubuz</Key>
-      <Text>R. F. (Capt.)</Text>
+      <Text>. R. F. (Capt.)</Text>
       <PageNumber>6605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>L. R. E. W. (Lieut.)</Text>
+      <Text>. L. R. E. W. (Lieut.)</Text>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1219,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. and Hon. Lieut.Col. .R. M. (resigned) .. ..</Text>
+      <Title>Maj. and Hon. Lieut.Col.</Title>
+      <Text>.R. M. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,14 +1274,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>Capt. Lord (resigned) ..</Text>
+      <Title>Capt. Lord (resigned)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saltoun</Key>
-      <Text>Hon. 2nd Lieut. Master of (resigned) .. .. .. ..</Text>
+      <Title>Hon. 2nd Lieut. Master</Title>
+      <Text>of (resigned) .. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrard</Key>
-      <Text>Lieut.-Col. and Hon. CoL W. D. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>CoL W. D. (resigned)</Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,7 +1360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>Lieut.-Col. and Hon. Col.. Sir F. D., Bart, (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>. Sir F. D., Bart, (resigned)</Text>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,6 +1436,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Pembroke</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Willis</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
+      <PageNumber>6037</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>South-East of Scotland</SectionTitle>
   <ItemGroup>
     <MainItem>

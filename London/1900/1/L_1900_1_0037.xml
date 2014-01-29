@@ -227,7 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Konaldsbay</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. C. (resigned)</Text>
       <PageNumber>1356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,8 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. (resigned) Wardhaugh-Robson, T. (2nd Lieut, super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. (resigned) Wardhaugh-Robson, T. (2nd Lieut, super.)</Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1012,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1097,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1114,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1139,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1172,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1222,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,7 +1616,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3410</PageNumber>
     </MainItem>
   </ItemGroup>

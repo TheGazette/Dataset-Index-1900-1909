@@ -101,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brigade</Key>
-      <Text>Major : Moss, Capt. C</Text>
+      <Title>Major</Title>
+      <Text>: Moss, Capt. C</Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesham</Key>
-      <Text>, Capt., Lord (removed— over age)</Text>
+      <Title>Capt., Lord (removed— over age)</Title>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leconfield</Key>
-      <Text>, Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,6 +531,15 @@
       <Forenames>J. H.</Forenames>
       <Text>(Lieut,;</Text>
       <PageNumber>4005</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lyon</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. R. D.</Forenames>
+      <Text>(ceases to belong to Reserve of Officers through illhealth)</Text>
+      <PageNumber>1235</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -662,7 +672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, 2nd Lieut.~RrSE. (ceases to belong to Reserve of Officers)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>~RrSE. (ceases to belong to Reserve of Officers)</Text>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +790,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford</Key>
-      <Text>, Col. R, D. B. (Col. to command the 26th and the 71st Regimental Districts)</Text>
+      <Title>Col.</Title>
+      <Forenames>R</Forenames>
+      <Text>, D. B. (Col. to command the 26th and the 71st Regimental Districts)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>

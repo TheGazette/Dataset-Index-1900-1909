@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Text>,.Rev. H. W</Text>
+      <Text>.Rev. H. W</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>,. Rev. W. H. ..</Text>
+      <Text>. Rev. W. H. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,8 +174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoskyns</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon B. G.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>B. G.</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelrnan</Key>
-      <Text>, Rev.J</Text>
+      <Title>Rev.</Title>
+      <Text>J</Text>
       <PageNumber>7201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Layng</Key>
-      <Text>,Rev. J. W</Text>
+      <Text>Rev. J. W</Text>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Medd</Key>
-      <Text>,Rev. C. F</Text>
+      <Text>Rev. C. F</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noott</Key>
-      <Text>,-Rev. W. L. O</Text>
+      <Text>-Rev. W. L. O</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkyn</Key>
-      <Text>,.Rev. F. L. C</Text>
+      <Text>.Rev. F. L. C</Text>
       <PageNumber>5912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powles</Key>
-      <Text>,.Rcv. E</Text>
+      <Text>.Rcv. E</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +540,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rabone</Key>
-      <Text>, Rev. X, H</Text>
+      <Title>Rev.</Title>
+      <Forenames>X</Forenames>
+      <Text>, H</Text>
       <PageNumber>5912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,21 +557,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Rev..B. K</Text>
+      <Title>Rev.</Title>
+      <Text>.B. K</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rowland</Key>
-      <Text>, Rev..E</Text>
+      <Title>Rev.</Title>
+      <Text>.E</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>iSacre</Key>
-      <Text>,' Rev. A. J</Text>
+      <Text>' Rev. A. J</Text>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +660,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Canon J. R.</Forenames>
+      <Title>Canon</Title>
+      <Forenames>J. R.</Forenames>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sylvester</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon S. A. K.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>S. A. K.</Forenames>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Text>, Rev. OB</Text>
+      <Title>Rev.</Title>
+      <Text>OB</Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, Rev. H</Text>
+      <Title>Rev.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, C-. W. (Capt.)</Text>
+      <Text>C-. W. (Capt.)</Text>
       <PageNumber>5068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooks</Key>
-      <Text>,.AV. T. (Maj.)</Text>
+      <Text>.AV. T. (Maj.)</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>,.C. P. (Lieut.)</Text>
+      <Text>.C. P. (Lieut.)</Text>
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1085,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, ,T. F. (2nd Lieut.)</Text>
+      <Text>,T. F. (2nd Lieut.)</Text>
       <PageNumber>5068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mead</Key>
-      <Text>,.C. W. (Maj.)</Text>
+      <Text>.C. W. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1199,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.).</Text>
+      <Title>(Capt.)</Title>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>,.E. M. (Capt.)</Text>
+      <Text>.E. M. (Capt.)</Text>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somers</Key>
-      <Text>,. J. P. (2nd Lieut.) .. . ..</Text>
+      <Text>. J. P. (2nd Lieut.) .. . ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>, VV. A. G. (Lieut.) ..</Text>
+      <Text>VV. A. G. (Lieut.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,7 +1444,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1453,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,8 +1707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowser</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. E. (caucella, ' tion). '</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. E. (caucella, ' tion). '</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>

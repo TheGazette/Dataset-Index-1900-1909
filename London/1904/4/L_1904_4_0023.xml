@@ -6,7 +6,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, !Maj. A. F. (retired and Hon. Lieut.-Col.)</Text>
+      <Text>!Maj. A. F. (retired and Hon. Lieut.-Col.)</Text>
       <PageNumber>8296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagbino</Key>
-      <Text>, 2ndXieut. J. J. (resigned)</Text>
+      <Text>2ndXieut. J. J. (resigned)</Text>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +262,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Text>, 2nd Lieut. J,.H. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>,.H. (resigned)</Text>
       <PageNumber>7944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wise</Key>
-      <Text>,.Capt. A. (seconded)</Text>
+      <Text>.Capt. A. (seconded)</Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blood</Key>
-      <Text>, Lieut.' E. N;, junr. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>' E. N;, junr. (resigned)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, A: A. L. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: A. L. (2nd Lieut.)</Text>
       <PageNumber>6519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>, Lieut.-B. J. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>-B. J. (seconded)</Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Text>, Qrmr. and Hon. Capt.' R. (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Text>' R. (resigned)</Text>
       <PageNumber>7948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Machines</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. .J. (resigned).. ' .. '</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>.J. (resigned).. ' .. '</Text>
       <PageNumber>8296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomerie</Key>
-      <Text>, dipt. W. G. (temporary half-pay)</Text>
+      <Text>dipt. W. G. (temporary half-pay)</Text>
       <PageNumber>8379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerans</Key>
-      <Forenames>Capt</Forenames>
-      <Text>.and Instr. of Musketry , W. H. (seconded)</Text>
+      <Title>Capt.and Instr.</Title>
+      <Text>of Musketry , W. H. (seconded)</Text>
       <PageNumber>7203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alkin</Key>
-      <Text>,J. E. (Capt.) .. ';</Text>
+      <Text>J. E. (Capt.) .. ';</Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +732,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ . —</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>, dipt, J. L. (seconded)</Text>
+      <Text>dipt, J. L. (seconded)</Text>
       <PageNumber>7944</PageNumber>
     </MainItem>
   </ItemGroup>

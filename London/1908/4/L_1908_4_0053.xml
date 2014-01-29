@@ -131,6 +131,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Pixley</Key>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>S. A.</Forenames>
+      <Text>| (resigned)</Text>
+      <PageNumber>9471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Acland</Key>
       <Title>Lieut.</Title>
       <Forenames>F. D.</Forenames>
@@ -186,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, Capt. and Hon.Maj. S. G. (resigned) .. .. .. ..</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>Maj. S. G. (resigned) .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,8 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ware</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. M. (resigned)</Text>
       <PageNumber>8283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>, Lieut.. A. C. (resigned) ..</Text>
+      <Title>Lieut.</Title>
+      <Text>. A. C. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

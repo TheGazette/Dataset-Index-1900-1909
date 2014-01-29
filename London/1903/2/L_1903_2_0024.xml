@@ -23,7 +23,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Text>Capt. and Brev. Maj; R. (temporary half-pay)</Text>
+      <Title>Capt. and Brev. Maj</Title>
+      <Text>; R. (temporary half-pay)</Text>
       <PageNumber>2525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seadeld</Key>
-      <Text>Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>3153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,9 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Criinbdrrie</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Tisot</Forenames>
-      <Text>. (Aidede-Camp to the King)</Text>
+      <Title>Lieut.-Col. Tisot. (Aidede-Camp to the King)</Title>
       <PageNumber>4010</PageNumber>
       <PageNumber>4093</PageNumber>
     </MainItem>
@@ -749,7 +749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jogensen</Key>
-      <Text>Capt. (correction)</Text>
+      <Title>Capt. (correction)</Title>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +800,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. and to command)</Text>
+      <Title>(Lieut.-Col. and to command)</Title>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillibrand</Key>
-      <Text>Capt. (resigned and Qrmr. and Hon. Capt.) .. .. ..</Text>
+      <Title>Capt. (resigned and Qrmr. and Hon. Capt.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorlt</Key>
-      <Text>,F. de S. (Capt.) ... ;. ,j</Text>
+      <Text>.,F. de S. (Capt.) ... ;. ,j</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,7 +1286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>W; H. (Hon. Col.) ..</Text>
+      <Forenames>W</Forenames>
+      <Text>; H. (Hon. Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

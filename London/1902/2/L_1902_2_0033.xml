@@ -114,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wicklow</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>5959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +447,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ —: .</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>7937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +651,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(removal cancelled)</Text>
+      <Title>(removal cancelled)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +775,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>7937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1067,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>5959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,9 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Lieut. Visct. (resigned)</Title>
       <PageNumber>5682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1285,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>8841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1441,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

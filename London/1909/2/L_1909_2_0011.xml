@@ -98,8 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greyi</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl, a Privy Councillor</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guerin</Key>
-      <Text>, 2.id Lieut. P. J., Hon. Fifth Class. Royal Victorian Order</Text>
+      <Text>2.id Lieut. P. J., Hon. Fifth Class. Royal Victorian Order</Text>
       <PageNumber>3041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giuliano</Key>
-      <Text>, H.E. Marquis di San, Hon. Knight Grand Cross, Royal Victorian Order..</Text>
+      <Title>H.E. Marquis</Title>
+      <Text>di San, Hon. Knight Grand Cross, Royal Victorian Order..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>,. sir R., Companion of the Bath</Text>
+      <Text>. sir R., Companion of the Bath</Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +366,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>, Lieut.-Col. and Hon. Col.,</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>,</Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keene</Key>
-      <Text>, VV., Fourth Class, Royal Victorian Order</Text>
+      <Text>VV., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>3469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kempe</Key>
-      <Text>,. J. A., Knight Commander of ' the ,Bath</Text>
+      <Text>. J. A., Knight Commander of ' the ,Bath</Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanesborough</Key>
-      <Text>, Maj., Earl of, Fourth Class, Royal Victorian Order</Text>
+      <Title>Maj., Earl</Title>
+      <Text>of, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leech</Key>
-      <Text>,'S., H.M-'s Minister Resident to Cuba and H.M.'s Consul-General at Havana</Text>
+      <Text>'S., H.M-'s Minister Resident to Cuba and H.M.'s Consul-General at Havana</Text>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>, C, Companion of the Imperial Service Order .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Imperial Service Order .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luck</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Sir &amp;., Knight Grand. Cross of the Bath</Text>
+      <Title>Gen. Sir</Title>
+      <Text>&amp;., Knight Grand. Cross of the Bath</Text>
       <PageNumber>4853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, YV., Nominated Aleniber of the Legislative Council of Jamaica</Text>
+      <Text>YV., Nominated Aleniber of the Legislative Council of Jamaica</Text>
       <PageNumber>4178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,6 +855,14 @@
       <Forenames>Pasha H. E. Marshal G. A</Forenames>
       <Text>,, Hon. Knight, Grand Cross, St. Michael and at. George</Text>
       <PageNumber>4861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Muklrarji</Key>
+      <Forenames>A.</Forenames>
+      <Text>., Companion of the Star of India</Text>
+      <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

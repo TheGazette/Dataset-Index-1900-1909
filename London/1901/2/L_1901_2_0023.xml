@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denbigh</Key>
-      <Text>, Earl of, Lord in Waiting</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord in Waiting</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,8 +75,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denyer</Key>
-      <Forenames>Civ</Forenames>
-      <Text>.-Surg. S. E., Companion of St. Michael and St. George</Text>
+      <Title>Civ.</Title>
+      <Text>-Surg. S. E., Companion of St. Michael and St. George</Text>
       <PageNumber>6325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,8 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rev. Canon</Title>
       <Text>, Chaplain in Ordinary to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -201,7 +201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundonald</Key>
-      <Text>, Earl of, Commander of the Royal Victorian Order</Text>
+      <Title>Earl</Title>
+      <Text>of, Commander of the Royal Victorian Order</Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Text>, Viscount, Deputy Governor and Constable of Windsor Castle ..</Text>
+      <Title>Viscount</Title>
+      <Text>, Deputy Governor and Constable of Windsor Castle ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,14 +410,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Exham</Key>
-      <Text>, Col. R, Companion of St. Michael and St. George</Text>
+      <Title>Col.</Title>
+      <Forenames>R</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pairtlough</Key>
-      <Text>, Lieut.-Col. and Hon. Col.|F. H., Companion of St. Michael and St. George</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>|F. H., Companion of St. Michael and St. George</Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>, Lord, Master of H.M.'s Household .. ,</Text>
+      <Title>Lord, Master</Title>
+      <Text>of H.M.'s Household .. ,</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +506,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzroy</Key>
-      <Text>, Rev. Lord C, Hon. Chaplain to His Majesty</Text>
+      <Title>Rev. Lord</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Chaplain to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,8 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rev. Canon</Title>
       <Text>, Chaplain in Ordinary to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -563,7 +570,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Frederick</Key>
-      <Text>, Maj. C, Deputy-Master ot H.M.'s Household</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Deputy-Master ot H.M.'s Household</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gee</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon R.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>R.</Forenames>
       <Text>, Hon. Chaplain to His. Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -720,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldmann</Key>
-      <Text>, Hon. Mrs., Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Hon. Mrs., Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>8639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,8 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rev. Canon</Title>
       <Text>, Chaplain in Ordinary to His Majesty..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -773,7 +782,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Viscount, H.M.'s Minister Resident at the Courts of Saxony and Saxe-Coburg and Gotha, and Charge dAffaires at the Courts of Waldeck and Pyrmont G</Text>
+      <Title>Viscount</Title>
+      <Text>, H.M.'s Minister Resident at the Courts of Saxony and Saxe-Coburg and Gotha, and Charge dAffaires at the Courts of Waldeck and Pyrmont G</Text>
       <PageNumber>710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,22 +912,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>Leut</Forenames>
-      <Text>.-Col. Douglas, Companion of the Bath</Text>
+      <Title>Leut.</Title>
+      <Text>-Col. Douglas, Companion of the Bath</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamel</Key>
-      <Text>, Dr. &amp;., Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Title>Dr.</Title>
+      <Text>&amp;., Royal Victorian Order, Fifth Class (Hon.)</Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, SirE. W., Knight Commander of the Royal Victorian Order</Text>
+      <Text>SirE. W., Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +969,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harbord</Key>
-      <Text>, Lieut.-Col. Hon. O, Companion of the Bath</Text>
+      <Title>Lieut.-Col. Hon.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1038,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Healey</Key>
-      <Text>, Lieut.-Col. C, Companion of St. Michael and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>

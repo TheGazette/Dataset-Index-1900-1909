@@ -86,8 +86,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir C, Companion, Imperial Service Order</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion, Imperial Service Order</Text>
       <PageNumber>4462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henrion</Key>
-      <Text>C, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>Col. Marquis of, Companion of the Bath</Text>
+      <Title>Col. Marquis</Title>
+      <Text>of, Companion of the Bath</Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,8 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. A., Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. A., Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,8 +458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keogh</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. A., Knight Commander of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. A., Knight Commander of the Bath</Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +769,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>Mrs., Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Mrs., Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martorell</Key>
-      <Text>Capt. Marquis of, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Title>Capt. Marquis</Title>
+      <Text>of, Royal Victorian Order, Hon. Fourth Class</Text>
       <PageNumber>4147</PageNumber>
     </MainItem>
   </ItemGroup>

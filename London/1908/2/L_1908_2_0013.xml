@@ -53,7 +53,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brieka</Key>
-      <Text>, Madame, Lady Vice-President, League of Mercy</Text>
+      <Title>Madame, Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucknill</Key>
-      <Text>, Lady, Lady Vice-President, League of Mercy</Text>
+      <Title>Lady, Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,8 +125,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Forenames>Caret</Forenames>
-      <Text>.te, C. P., Hon. Fifth Class, Eoyal Victorian Order</Text>
+      <Title>Caret.</Title>
+      <Text>te, C. P., Hon. Fifth Class, Eoyal Victorian Order</Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,8 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawdor</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl, a Member of H.R.H. the Prince of Wales's Council (correction)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>, a Member of H.R.H. the Prince of Wales's Council (correction)</Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,21 +241,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>, Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>, Lady, Lady Vice-President, League of Mercy .. .. ..</Text>
+      <Title>Lady, Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnelly</Key>
-      <Text>, J A., H.M.'s Consul at Savannah</Text>
+      <Forenames>J</Forenames>
+      <Text>A., H.M.'s Consul at Savannah</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>, Co.. W., Companion of the Bath</Text>
+      <Title>Co.</Title>
+      <Text>. W., Companion of the Bath</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +497,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, GovernorGeneral and Commander-in-Chief of Arstral a</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, GovernorGeneral and Commander-in-Chief of Arstral a</Text>
       <PageNumber>8479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Errington</Key>
-      <Text>, Viscount, Fourth Class, Eoyal Victorian Order</Text>
+      <Title>Viscount</Title>
+      <Text>, Fourth Class, Eoyal Victorian Order</Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, Admiral of the Fleet Sir J. A., Commissioner of the Admiralty</Text>
+      <Title>Admiral</Title>
+      <Text>of the Fleet Sir J. A., Commissioner of the Admiralty</Text>
       <PageNumber>2937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +834,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuerst</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +938,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj.-Gen. T„ Knight Commander of the Bath</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>T</Forenames>
+      <Text>„ Knight Commander of the Bath</Text>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>

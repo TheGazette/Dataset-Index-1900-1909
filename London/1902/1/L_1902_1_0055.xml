@@ -79,7 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blewitt</Key>
-      <Text>Lieut. C-. T. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>C-. T. (antedated)</Text>
       <PageNumber>297</PageNumber>
       <PageNumber>1540</PageNumber>
     </MainItem>
@@ -477,7 +478,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. an I Hon. Lieut.-Col. A. P. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>an I Hon. Lieut.-Col. A. P. (resigned)</Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +765,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>3383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,14 +904,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollen</Key>
-      <Text>Capt. S H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>S</Forenames>
+      <Text>H. (seconded)</Text>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>Earl of (Hon. Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Capt.)</Text>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +957,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +966,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conyngham</Key>
-      <Text>Marquis (2nd Lieut.)</Text>
+      <Title>Marquis (2nd Lieut.)</Title>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,7 +1514,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1739,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birley</Key>
-      <Text>Lieut. II. K. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. K. (resigned)</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgford</Key>
-      <Text>Lieut.-Col. ComJt. and Hon. Col. R. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>ComJt. and Hon. Col. R. (resigned)</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1832,8 +1839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rateliff-Gaylard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>3464</PageNumber>
     </MainItem>
   </ItemGroup>

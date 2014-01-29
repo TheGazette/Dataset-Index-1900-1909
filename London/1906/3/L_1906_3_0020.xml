@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenmare</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>0116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ske</Key>
-      <Text>ton, G. (Lieut.) .. .. -</Text>
+      <Text>.ton, G. (Lieut.) .. .. -</Text>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +196,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. and Hon. Lieut.-Col. DA. B. (resigned) ..</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>DA. B. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight-Bruce</Key>
-      <Text>J: H. W. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: H. W. (2nd Lieut.)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marten</Key>
-      <Text>R. (Adj.)</Text>
+      <Text>. R. (Adj.)</Text>
       <PageNumber>5135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, O. C. (2nd Lieut.)..</Text>
+      <Text>. John, O. C. (2nd Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1135,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5804</PageNumber>
     </MainItem>
   </ItemGroup>

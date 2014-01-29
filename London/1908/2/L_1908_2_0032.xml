@@ -13,7 +13,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arran</Key>
-      <Text>, Earl of (Lieut.-Col. and to command) »</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command) »</Text>
       <PageNumber>4559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +72,6 @@
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Lieutenant-Generals</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -392,14 +392,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, VV. A</Text>
+      <Text>VV. A</Text>
       <PageNumber>2759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>,,l.M.T</Text>
+      <Text>,l.M.T</Text>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Red</Key>
-      <Text>I, E. A. F</Text>
+      <Forenames>I</Forenames>
+      <Text>, E. A. F</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +873,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson-Glasgow</Key>
-      <Text>, A W</Text>
+      <Forenames>A</Forenames>
+      <Text>W</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torrie</Key>
-      <Text>, (J. J.</Text>
+      <Text>(J. J.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1080,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, CCS. .. .. ..</Text>
+      <Text>CCS. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,14 +1138,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>, 11. ,</Text>
+      <Text>11. ,</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clerk</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingdon</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1443,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>

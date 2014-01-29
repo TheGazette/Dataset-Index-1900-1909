@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bor</Key>
-      <Text>, Lieut.-CoJ. A. (retired pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-CoJ. A. (retired pay)</Text>
       <PageNumber>5036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carleton</Key>
-      <Text>, Capt. il. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>il. C. (seconded)</Text>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,14 +276,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ __ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>5968</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eorshaw</Key>
-      <Text>, 3. H. (2nd Lieut.) .. .. f</Text>
+      <Text>3. H. (2nd Lieut.) .. .. f</Text>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +390,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +426,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +555,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Malins</Key>
-      <Text>, Capt. D; P. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>D</Forenames>
+      <Text>; P. (retired)</Text>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, Lieut.-Coh and Brev. Col. J. W.A. (to command a Battalion)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Coh and Brev. Col. J. W.A. (to command a Battalion)</Text>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>. A. E. (2nd Lieut.)</Text>
+      <Text>A. E. (2nd Lieut.)</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogle</Key>
-      <Text>, E: C. (Lieut.) .. :</Text>
+      <Forenames>E</Forenames>
+      <Text>: C. (Lieut.) .. :</Text>
       <PageNumber>4787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +683,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>, A! (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>! (2nd Lieut.)</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1073,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Jemadar)</Text>
+      <Title>(Jemadar)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1112,6 @@
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SubSectionTitle>Lieutenant-General</SubSectionTitle>
   <ItemGroup>
@@ -1120,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>. B</Text>
+      <Text>B</Text>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1454,14 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>C. J. W</Forenames>
-      <Text>,, 4436 ' Grant, F. C</Text>
+      <Text>,,</Text>
+      <PageNumber>4436</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grant</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Text>, J, S ..</Text>
+      <Forenames>J</Forenames>
+      <Text>, S ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, dA. C</Text>
+      <Text>dA. C</Text>
       <PageNumber>7825</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ . ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Amendment) Order of 1901</Text>
+      <Title>(Amendment)</Title>
+      <Forenames>Order</Forenames>
+      <Text>of 1901</Text>
       <PageNumber>6391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehaven</Key>
-      <Text>, borough of, regulations prohibiting the driving of motor cars upon certain highways in the</Text>
+      <Text>borough of, regulations prohibiting the driving of motor cars upon certain highways in the</Text>
       <PageNumber>7117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willaston</Key>
-      <Text>, a portion of the parish of, annexed to the parish of Wistaston</Text>
+      <Text>a portion of the parish of, annexed to the parish of Wistaston</Text>
       <PageNumber>7470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ampthill</Key>
-      <Text>, Lord, Knight Grand Commander of the Star of India</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Grand Commander of the Star of India</Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Asseca</Key>
-      <Text>, Viscount, Hon., Fourth Class, Royal Victorian Order</Text>
+      <Title>Viscount, Hon.</Title>
+      <Text>, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>7605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>, Maj: J. G., H.M.'s ConsulGeneral at Lourenco Marques</Text>
+      <Title>Maj</Title>
+      <Text>: J. G., H.M.'s ConsulGeneral at Lourenco Marques</Text>
       <PageNumber>8639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Breteuil</Key>
-      <Text>, Marquis de, Hon. Knight Commander of the Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Text>de, Hon. Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +611,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Delme-Radcliffe</Key>
-      <Text>, Maj. and Brevet Lieut.-Col. C, Fourth Class. Royal Victorian Order .. ..</Text>
+      <Title>Maj. and Brevet Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Fourth Class. Royal Victorian Order .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,6 +737,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Fuchs</Key>
+      <Forenames>E.</Forenames>
+      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <PageNumber>6363</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fuller</Key>
+      <Forenames>T. E.</Forenames>
+      <Text>, Knight Commander of St. Michael and St. George</Text>
+      <PageNumber>7255</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fuller-Acland-</Key>
       <Forenames>Hood</Forenames>
       <Text>, Sir A., Bart., a Privy Councillor</Text>
@@ -745,10 +769,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Gerotimato</Key>
+      <Forenames>J.</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
+      <PageNumber>7256</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gilbert</Key>
       <Forenames>F.</Forenames>
       <Text>, Hon.' Fourth Class, Royal Victorian Order</Text>
       <PageNumber>6363</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gosselin</Key>
+      <Title>Sir</Title>
+      <Forenames>M. Le M. H.</Forenames>
+      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
+      <PageNumber>7605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -760,13 +801,32 @@
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>S.</Forenames>
+      <Text>, LieutenantGovernor of Jersey</Text>
+      <PageNumber>6363</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graf</Key>
       <Forenames>G.</Forenames>
       <Text>, Unofficial Member of the Legislative Council of St. Lucia</Text>
       <PageNumber>6927</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grey</Key>
+      <Title>Rt. Hon. Earl, Governor.</Title>
+      <Forenames>General</Forenames>
+      <Text>of Canada</Text>
+      <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>

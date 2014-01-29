@@ -28,7 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>, Mrs., Lady Vice-President,. League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>,. League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,14 +45,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>, Col. C.H., Companion of the Bath</Text>
+      <Title>Col.</Title>
+      <Text>C.H., Companion of the Bath</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whait</Key>
-      <Text>, Dr., President, League of Mercy</Text>
+      <Title>Dr.</Title>
+      <Text>, President, League of Mercy</Text>
       <PageNumber>4640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +112,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,9 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Title>Gen.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, FieldMarshal</Text>
+      <Title>Gen. Rt. Hon. Lord</Title>
+      <Text>, FieldMarshal</Text>
       <PageNumber>2752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +335,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemmis</Key>
-      <Text>, Lieut.-Col. and Hon. Col., W</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>, W</Text>
       <PageNumber>3884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipley</Key>
-      <Text>, Lieut.-Col. CO</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>CO</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +566,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Text>, Col. C, Director of Recruiting at Headquarters and temporary Brig.-Gen</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Director of Recruiting at Headquarters and temporary Brig.-Gen</Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Text>, 11. W. E., Staff Capt... . ..</Text>
+      <Text>11. W. E., Staff Capt... . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +759,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard-Vyse</Key>
-      <Text>, Capt. C, Staff Capt. for Royal Artill ery</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Staff Capt. for Royal Artill ery</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,8 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord, General Officer Commanding-in-Cbief, South Africa</Text>
+      <Title>Gen. Lord</Title>
+      <Text>, General Officer Commanding-in-Cbief, South Africa</Text>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +872,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, Capt. C R. B., Staff Capt. at Headquarters .. .. ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>R. B., Staff Capt. at Headquarters .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +951,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shawe</Key>
-      <Text>, Capt. C, Aide-de-Camp. to Gen. Hon. Sir N. G. Lyttelton</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Aide-de-Camp. to Gen. Hon. Sir N. G. Lyttelton</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Text>,. Capt. and Brevet .Maj. C, Asst. Military Secretary to Lieut.Geu. Sir H. L. Smith-Dorrien</Text>
+      <Text>. Capt. and Brevet .Maj. C, Asst. Military Secretary to Lieut.Geu. Sir H. L. Smith-Dorrien</Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>, G: H. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: H. (Capt.)</Text>
       <PageNumber>418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Text>, A: G. (Adj.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: G. (Adj.)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,14 +353,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>, E: H. (2nd Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: H. (2nd Lieut.)</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, G: (Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: (Lieut.)</Text>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moiesworth</Key>
-      <Text>, A, St. A. (Capt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, St. A. (Capt.)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Passy</Key>
-      <Text>, 2nd, Lieut. L. D. . (seconded)</Text>
+      <Text>2nd, Lieut. L. D. . (seconded)</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WreyiW</Key>
-      <Text>. A. B. (2rid Lieiifc)</Text>
+      <Text>A. B. (2rid Lieiifc)</Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosanquet</Key>
-      <Text>, Capt., J. T. I. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>, J. T. I. (seconded)</Text>
       <PageNumber>1846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +820,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Col.) ..</Text>
+      <Title>(Surg.-Col.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1009,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon; Maj.) .. ..</Text>
+      <Title>(Hon; Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1070,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacTier</Key>
-      <Text>, Maj..H. C. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>.H. C. (retired)</Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1404,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broun</Key>
-      <Text>, Lieut.-Col. and Hon. CoLCoindt. M; A. W. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>CoLCoindt. M; A. W. (resigned)</Text>
       <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>

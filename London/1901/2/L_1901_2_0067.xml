@@ -162,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennismore</Key>
-      <Text>, Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>7224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Limerick</Key>
-      <Text>, Capt. and Hon. Maj. Earl of (resigned) ... . .'</Text>
+      <Title>Capt. and Hon. Maj. Earl</Title>
+      <Text>of (resigned) ... . .'</Text>
       <PageNumber>6924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, Lieut. B, D. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>B</Forenames>
+      <Text>, D. (seconded)</Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +449,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerrard</Key>
-      <Text>, Lieut. H, V. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H</Forenames>
+      <Text>, V. (seconded)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope-Johnstone</Key>
-      <Text>, Capt. and Instr. of . Musketry J. A. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of . Musketry J. A. (seconded)</Text>
       <PageNumber>5130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +551,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>8089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1086,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nugent</Key>
-      <Text>, 2nd Lieut, C. C. (cancellation)</Text>
+      <Text>2nd Lieut, C. C. (cancellation)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1095,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ —. ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1206,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Maj.)</Text>
+      <Title>(local rank of Maj.)</Title>
       <PageNumber>6399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1345,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Ad.;.) .. ..</Text>
+      <Title>(Ad.;.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple-Hay</Key>
-      <Text>, .I. R, M. (Lieut.-Col.)</Text>
+      <Text>.I. R, M. (Lieut.-Col.)</Text>
       <PageNumber>5811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eppes</Key>
-      <Text>, 2nd Lieut, D. D. R. (correction)</Text>
+      <Text>2nd Lieut, D. D. R. (correction)</Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greville</Key>
-      <Text>, 3. A. F. (2nd Lieut.)</Text>
+      <Text>3. A. F. (2nd Lieut.)</Text>
       <PageNumber>8566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1644,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>

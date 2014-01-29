@@ -12,7 +12,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Text>, 0. C. (local Lieut.-Col.)</Text>
+      <Text>0. C. (local Lieut.-Col.)</Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lngard</Key>
-      <Text>, Lieut.-Col., and Brev. Col. Sir F. J. D. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>, and Brev. Col. Sir F. J. D. (retired)</Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,14 +467,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, Hon, J. T. (Col.)</Text>
+      <Text>Aubyn, Hon, J. T. (Col.)</Text>
       <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salis-Schwabe</Key>
-      <Text>, Maj:-Gen. G. (retired pay)</Text>
+      <Title>Maj</Title>
+      <Text>:-Gen. G. (retired pay)</Text>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, Lieut.-.Col. A. L. M. (con. tinued in appointment on promotion)</Text>
+      <Title>Lieut.</Title>
+      <Text>-.Col. A. L. M. (con. tinued in appointment on promotion)</Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Text>,.Lieut.-Col. and Brev. Col. J. C. (retired)</Text>
+      <Text>.Lieut.-Col. and Brev. Col. J. C. (retired)</Text>
       <PageNumber>6056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Honman</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rankin</Key>
-      <Text>, CD. W</Text>
+      <Text>CD. W</Text>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisdee</Key>
-      <Text>. J. H. .. '</Text>
+      <Text>J. H. .. '</Text>
       <PageNumber>6060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, W: L</Text>
+      <Forenames>W</Forenames>
+      <Text>: L</Text>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,6 +1524,14 @@
       <Key>Clerk</Key>
       <Forenames>E.G.</Forenames>
       <PageNumber>6059</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cleveland</Key>
+      <Forenames>L. A.</Forenames>
+      <Text>'</Text>
+      <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1677,8 +1689,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Downes</Key>
+      <Text>' H. M</Text>
+      <PageNumber>6061</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dowse</Key>
-      <Text>,</Text>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>

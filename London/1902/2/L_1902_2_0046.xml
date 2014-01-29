@@ -953,7 +953,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Capt. -A. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>-A. C. (seconded)</Text>
       <PageNumber>6079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1007,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, F. (Capt,)</Text>
+      <Forenames>R</Forenames>
+      <Text>, F. (Capt,)</Text>
       <PageNumber>6743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1073,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E, H. R, (Maj.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, H. R, (Maj.)</Text>
       <PageNumber>5101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1100,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>7016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1194,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>

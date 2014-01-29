@@ -193,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Headlam</Key>
-      <Text>,.H. R. (Capt,)</Text>
+      <Text>.H. R. (Capt,)</Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plumer</Key>
-      <Text>, 2nd Lieut, C. Or. M. (seconded)</Text>
+      <Text>2nd Lieut, C. Or. M. (seconded)</Text>
       <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,8 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaytor</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Lieut.) C. A. (resigned)</Text>
+      <Title>Super. Lieut.</Title>
+      <Text>) C. A. (resigned)</Text>
       <PageNumber>1697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, 2nd Lieut, C. H. (resigned)</Text>
+      <Text>2nd Lieut, C. H. (resigned)</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +475,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>, Capt. II. R. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>II. R. (resigned)</Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +509,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col., correction)</Text>
+      <Title>(Lieut.-Col., correction)</Title>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slieibrooke</Key>
-      <Text>, R, L. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, L. (2nd Lieut.)</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,8 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergus</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. F. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. F. (correction)</Text>
       <PageNumber>115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newington</Key>
-      <Text>, 11. A. H. (Hon. Lieut.)</Text>
+      <Text>11. A. H. (Hon. Lieut.)</Text>
       <PageNumber>240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1078,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, j. (Capl.)</Text>
+      <Text>j. (Capl.)</Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kean</Key>
-      <Text>, 2nd Lieut. VV. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>VV. (resigned)</Text>
       <PageNumber>1509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,9 +1135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Title>Brig.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. (resigned)</Text>
+      <Title>Brig. Surg.</Title>
+      <Text>-Lieut.-Col. W. (resigned)</Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,8 +1284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Forenames>Oa</Forenames>
-      <Text>.pt. A. W. (resigned)</Text>
+      <Title>Oa.</Title>
+      <Text>pt. A. W. (resigned)</Text>
       <PageNumber>1506</PageNumber>
     </MainItem>
   </ItemGroup>

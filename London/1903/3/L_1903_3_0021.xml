@@ -122,7 +122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Craster</Key>
-      <Text>Qrmr. (Capt.) R. G. (correction)</Text>
+      <Title>Qrmr. (Capt.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,8 +132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Liut. G. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Liut. G. A. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +160,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>J ___ Lieut. G. (antedated)</Text>
+      <Forenames>J</Forenames>
+      <Text>___ Lieut. G. (antedated)</Text>
       <PageNumber>5786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +243,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. and to command)</Text>
+      <Title>(Lieut.-Col. and to command)</Title>
       <PageNumber>5155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodges</Key>
-      <Text>W? L. (2nd Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>? L. (2nd Lieut.)</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarleton</Key>
-      <Text>F: R. (Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: R. (Lieut.)</Text>
       <PageNumber>5787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1169,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmillan</Key>
-      <Text>2nd Lieut. H: M. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>H</Forenames>
+      <Text>: M. (resigned)</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,8 +1188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Agnew</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. H. (resigned)</Text>
       <PageNumber>4356</PageNumber>
     </MainItem>
   </ItemGroup>

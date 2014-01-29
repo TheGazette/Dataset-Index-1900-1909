@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irons</Key>
-      <Text>, 2nd Lieut A. C. (resigned)</Text>
+      <Text>2nd Lieut A. C. (resigned)</Text>
       <PageNumber>1985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +44,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ibid. . ___ ___ H. A. (Capt.)</Text>
+      <Title>(Lieut.)</Title>
+      <Text>ibid. . ___ ___ H. A. (Capt.)</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,21 +76,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicolls</Key>
-      <Text>, Maj. and Brev. Lieut.-Col E. G. (Professor)</Text>
+      <Title>Maj. and Brev. Lieut.</Title>
+      <Text>-Col E. G. (Professor)</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paris</Key>
-      <Text>, Maj. and Brev. Lieut.-Col. (Professor)</Text>
+      <Title>Maj. and Brev. Lieut.-Col. (Professor)</Title>
       <PageNumber>309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perceval</Key>
-      <Text>, Maj. and Brev. Lieut.-Col E. M. (Professor)</Text>
+      <Title>Maj. and Brev. Lieut.</Title>
+      <Text>-Col E. M. (Professor)</Text>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +176,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, Capt. G '..</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
+      <Text>'..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells-Cole</Key>
-      <Text>, Maj. H</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevers</Key>
-      <Text>, II. L. G. (Maj.)</Text>
+      <Text>II. L. G. (Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +878,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lelean</Key>
-      <Text>, Lieut.. P. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>. P. S. (seconded)</Text>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>

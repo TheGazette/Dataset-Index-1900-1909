@@ -39,7 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>, 2nd Lieut. Marquis of (resigned)</Text>
+      <Title>2nd Lieut. Marquis</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>4481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>, Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +213,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. M_ S. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>M</Forenames>
+      <Text>_ S. (resigned)</Text>
       <PageNumber>4163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +383,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falcon</Key>
-      <Text>, it. W</Text>
+      <Text>it. W</Text>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>,' J. W</Text>
+      <Text>' J. W</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,14 +673,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Newnham</Key>
-      <Text>, C C</Text>
+      <Forenames>C</Forenames>
+      <Text>C</Text>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norie</Key>
-      <Text>.F. H</Text>
+      <Text>F. H</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Text>. R. W...</Text>
+      <Text>R. W...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>, R G</Text>
+      <Forenames>R</Forenames>
+      <Text>G</Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,7 +1372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>, JR. W ..</Text>
+      <Text>JR. W ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birkbeck</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,14 +1530,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulliken</Key>
-      <Text>.E. M '..</Text>
+      <Text>E. M '..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

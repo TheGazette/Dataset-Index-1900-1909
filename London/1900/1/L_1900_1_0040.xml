@@ -140,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inchiquin</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +287,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +388,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>1524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +680,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +738,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Braithwaite</Key>
-      <Text>Maj. E L. (Second in Command)</Text>
+      <Title>Maj.</Title>
+      <Forenames>E</Forenames>
+      <Text>L. (Second in Command)</Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1011,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1052,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesham</Key>
-      <Text>Lieut.-Col. and Hon. Col. Lord (to command Battalion)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (to command Battalion)</Title>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1135,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord (temporary rank of Col. in the Army)</Text>
+      <Title>Lord (temporary rank of Col. in the Army)</Title>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1197,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowley</Key>
-      <Text>Earl (Lieut.)</Text>
+      <Title>Earl (Lieut.)</Title>
       <PageNumber>1077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,8 +1472,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. (correction)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. (correction)</Text>
       <PageNumber>1001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1851,7 +1853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennismore</Key>
-      <Text>Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1862,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,7 +1879,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,14 +1896,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>Maj. the Earl of (Second in Command)</Text>
+      <Title>Maj.</Title>
+      <Text>the Earl of (Second in Command)</Text>
       <PageNumber>1001</PageNumber>
     </MainItem>
   </ItemGroup>

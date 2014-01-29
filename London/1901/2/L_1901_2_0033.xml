@@ -24,7 +24,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ — ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(retired pay)</Text>
+      <Title>(retired pay)</Title>
       <PageNumber>6851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,6 +124,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Bell</Key>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
+      <PageNumber>6713</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bor</Key>
+      <Forenames>E. J.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>6400</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Chapman</Key>
       <Forenames>A. J.</Forenames>
       <Text>(Lieut.-Col.)</Text>
@@ -140,10 +156,34 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Ooates</Key>
+      <Forenames>G. H. B</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>8090</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Collette</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>6229</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Cotter</Key>
       <Forenames>E. W.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>9066</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Druitt</Key>
+      <Forenames>P. S.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>4955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -180,10 +220,34 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hare</Key>
+      <Forenames>F. S. C.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>5129</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Harrison</Key>
       <Forenames>S. H.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>5592</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hervey</Key>
+      <Forenames>C. R. W.</Forenames>
+      <Text>(Gol.)</Text>
+      <PageNumber>5982</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hogge</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>6645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -222,6 +286,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Law</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>8643</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lomax</Key>
       <Forenames>S. H.</Forenames>
       <Text>(Col.)</Text>
@@ -234,6 +306,14 @@
       <Forenames>J.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>8090</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>May</Key>
+      <Forenames>G. L. E.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>6572</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -394,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, H.H. (Lieut.-Col.)</Text>
+      <Title>H.H. (Lieut.-Col.)</Title>
       <PageNumber>8564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,10 +693,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Campbell</Key>
+      <Title>Hon.</Title>
+      <Forenames>A</Forenames>
+      <Text>: F. H. (temporary Lieut.)</Text>
+      <PageNumber>6401</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>)</Text>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,11 +749,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Churcher</Key>
+      <Forenames>B. T.</Forenames>
+      <Text>(local rank of Capt.)</Text>
+      <PageNumber>5672</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Clarke</Key>
       <Title>Lieut.-Col. and Brer. Col. Sir</Title>
       <Forenames>G. S.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>6851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coates</Key>
+      <Text>1). R. (temporary Maj.)</Text>
+      <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -685,6 +790,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Corbett</Key>
+      <Title>Col.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(retired pay)</Text>
+      <PageNumber>6400</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cornwallis</Key>
+      <Text>West, Lieut. G. F. M. (resigned)</Text>
+      <PageNumber>6920</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cowen</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Capt.)</Text>
+      <PageNumber>6400</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Cox</Key>
       <Title>Maj.</Title>
       <Forenames>C. H.</Forenames>
@@ -698,6 +827,31 @@
       <Forenames>S. L.</Forenames>
       <Text>(local rank of Lieut.Col. in China)</Text>
       <PageNumber>6229</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Crofton</Key>
+      <Title>Lieut.-Col. and Brer. Col.</Title>
+      <Forenames>M. E.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>4404</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cummins</Key>
+      <Forenames>J. T.</Forenames>
+      <Text>(Hon. Maj.-Gen.)</Text>
+      <PageNumber>6296</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dawson</Key>
+      <Title>Lieut.-Col.</Title>
+      <Text>aud Brev. Col. D. F. R. (half-pay)</Text>
+      <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -827,7 +981,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosset</Key>
-      <Text>, Maj.-(Jen. M. W. E. (retired</Text>
+      <Title>Maj.</Title>
+      <Text>-(Jen. M. W. E. (retired</Text>
       <PageNumber>6486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>, Col. Sir 8. M., Bart, (half-pay)</Text>
+      <Title>Col. Sir</Title>
+      <Text>8. M., Bart, (half-pay)</Text>
       <PageNumber>4783</PageNumber>
     </MainItem>
   </ItemGroup>

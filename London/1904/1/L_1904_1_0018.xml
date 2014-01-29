@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morel</Key>
-      <Text>Capt. AY. G. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>AY. G. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,8 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgar</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. L. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. J. L. (resigned)</Text>
       <PageNumber>1446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,8 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. A. (resigned)</Text>
       <PageNumber>1794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,8 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. P. (resigned)</Text>
       <PageNumber>1795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Text>R,,G. (Adj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>,,G. (Adj.)</Text>
       <PageNumber>701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +566,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +831,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +865,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hime</Key>
-      <Text>F/ R, (2nd Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>/ R, (2nd Lieut.)</Text>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1096,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>J,. KT. (Hon. Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>,. KT. (Hon. Maj.)</Text>
       <PageNumber>1250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1106,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>1622</PageNumber>
     </MainItem>
   </ItemGroup>

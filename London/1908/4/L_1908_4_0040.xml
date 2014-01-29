@@ -35,7 +35,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>, E; M. (Surg.-Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>; M. (Surg.-Lieut.)</Text>
       <PageNumber>8171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>. Qrmr. and Hon. Capt. A. (resigned)</Text>
+      <Text>Qrmr. and Hon. Capt. A. (resigned)</Text>
       <PageNumber>9297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickie</Key>
-      <Text>. C. J. (Adj.)</Text>
+      <Text>C. J. (Adj.)</Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,30 +250,29 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ,</Text>
+      <Title>(Capt.)</Title>
+      <Text>,</Text>
       <PageNumber>9948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bathurst</Key>
-      <Forenames>Eari</Forenames>
-      <Text>.(Hon. Col.)</Text>
+      <Title>Eari.(Hon. Col.)</Title>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blood</Key>
-      <Text>,. J. N. (Capt. and Hon. Maj.)</Text>
+      <Text>. J. N. (Capt. and Hon. Maj.)</Text>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campden</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +331,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +348,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Text>, J: F. (Capt.) .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>: F. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +490,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwin</Key>
-      <Text>. N. P. (Lieut.) .. ..</Text>
+      <Text>N. P. (Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +677,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>)</Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>, P; (2nd Lieut.) ..</Text>
+      <Forenames>P</Forenames>
+      <Text>; (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carus-Wilspn</Key>
-      <Text>,.T. (Capt.) .. ..</Text>
+      <Text>.T. (Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1551,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1568,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. -Col. and Hon. Col. W. H. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col. and Hon. Col. W. H. (retired)</Text>
       <PageNumber>9759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>, A N. (Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>N. (Lieut.)</Text>
       <PageNumber>9759</PageNumber>
     </MainItem>
   </ItemGroup>

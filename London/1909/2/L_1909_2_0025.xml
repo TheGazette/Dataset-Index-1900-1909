@@ -62,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>. J. (Lieut.)</Text>
+      <Text>J. (Lieut.)</Text>
       <PageNumber>4482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, VV. G. (Maj.)</Text>
+      <Text>VV. G. (Maj.)</Text>
       <PageNumber>4166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>, 6\ E. (Lieut.)</Text>
+      <Text>6\ E. (Lieut.)</Text>
       <PageNumber>2594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
-      <Text>, VV. (Lieut.-Col.)</Text>
+      <Text>VV. (Lieut.-Col.)</Text>
       <PageNumber>3206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +574,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. VV. (correction)</Text>
+      <Title>Maj.</Title>
+      <Text>VV. (correction)</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, G G. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>G. (Capt.)</Text>
       <PageNumber>4166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodman</Key>
-      <Text>, Capt. VV. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. J. (resigned)</Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, CP. (2nd Lieut.)</Text>
+      <Text>CP. (2nd Lieut.)</Text>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>. P. J. S. (Lieut.)</Text>
+      <Text>P. J. S. (Lieut.)</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1087,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt). ..</Text>
+      <Title>(temporary Capt)</Title>
+      <Text>. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1194,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Text>, Maj: A. F. (resigned)</Text>
+      <Title>Maj</Title>
+      <Text>: A. F. (resigned)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>, II. M. (2nd Lieut.)</Text>
+      <Text>II. M. (2nd Lieut.)</Text>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1502,7 +1508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, Maj. and' Hon. Lieut.-Col. J. V, (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>and' Hon. Lieut.-Col. J. V, (resigned)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,14 +1549,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskain</Key>
-      <Text>, VV. D. (Lieut.)</Text>
+      <Text>VV. D. (Lieut.)</Text>
       <PageNumber>2711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Giil</Key>
-      <Text>, VV. R. de H. (2nd Lieut.) ..</Text>
+      <Text>VV. R. de H. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,7 +1665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribble</Key>
-      <Text>, 11. C. (2nd Lieut.)</Text>
+      <Text>11. C. (2nd Lieut.)</Text>
       <PageNumber>3044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiliyard</Key>
-      <Text>, ,1. W. (2ud Lieut.)</Text>
+      <Text>,1. W. (2ud Lieut.)</Text>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1937,14 +1944,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyilin-Taylor</Key>
-      <Text>.G. (iion. Col.)</Text>
+      <Text>G. (iion. Col.)</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Latham</Key>
-      <Text>, H: R. (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: R. (Lieut.)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1983,7 +1991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leyesou-Govver</Key>
-      <Text>, 0. C. (Lieut.-Col.)</Text>
+      <Text>0. C. (Lieut.-Col.)</Text>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>

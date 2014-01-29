@@ -201,7 +201,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>6744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +598,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clothier</Key>
-      <Text>2nd Lieut. R, F. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, F. (resigned)</Text>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +677,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Col.)</Text>
+      <Title>(Col.)</Title>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,8 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemm</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. St. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. St. J. (resigned)</Text>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1016,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>Lieut.-L. G. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>-L. G. (antedated)</Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Text>Hon. Capt. ¥. J. (resigned)</Text>
+      <Title>Hon. Capt.</Title>
+      <Text>¥. J. (resigned)</Text>
       <PageNumber>8446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. H. (resigned)</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1310,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seafield</Key>
-      <Text>Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1541,7 +1546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Text>C, jun. (Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, jun. (Lieut.)</Text>
       <PageNumber>6744</PageNumber>
     </MainItem>
   </ItemGroup>

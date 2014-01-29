@@ -175,8 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sowerby</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +353,8 @@
       <Key>
         <KeyDitto>—— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +379,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,14 +405,15 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>.C. E. (Capt.)</Text>
+      <Text>C. E. (Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,8 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Hon. Col. P. W. T. (retired)</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Hon. Col. P. W. T. (retired)</Text>
       <PageNumber>9185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +505,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,14 +529,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Holdich</Key>
-      <Text>, T, W. (Maj.)</Text>
+      <Forenames>T</Forenames>
+      <Text>, W. (Maj.)</Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ingleby</Key>
-      <Text>, (Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrill</Key>
-      <Text>. T...T. (2nd Lieut.) ..</Text>
+      <Text>T...T. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +571,8 @@
       <Key>
         <KeyDitto>—-—-. ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Lieut.) .-. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.-. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +629,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +990,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Maj.)</Text>
+      <Title>(Surg.-Maj.)</Title>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>

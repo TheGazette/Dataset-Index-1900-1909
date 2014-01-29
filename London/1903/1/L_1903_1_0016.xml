@@ -27,8 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nairne</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.-Maj. E. S. (seconded)</Text>
+      <Title>Brev.</Title>
+      <Text>-Maj. E. S. (seconded)</Text>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raper</Key>
-      <Text>,' G. E. (2nd Lieut.)</Text>
+      <Text>' G. E. (2nd Lieut.)</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,14 +101,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>, VV. R, (Lieut.)</Text>
+      <Text>VV. R, (Lieut.)</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rickai-ds</Key>
-      <Text>, Lieut. M.C. A. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>M.C. A. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schrottky</Key>
-      <Text>, Lieut.' C. E. Gr. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>' C. E. Gr. (seconded)</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,14 +247,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, j. F. (Lieut.) ibid. .Wilson, H. S. (Capt.)</Text>
+      <Text>j. F. (Lieut.) ibid. .Wilson, H. S. (Capt.)</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Text>, G-. F. R. (2nd Lieut.) ..</Text>
+      <Text>G-. F. R. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +364,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>, J, &gt;C. (Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, &gt;C. (Maj.)</Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +473,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. in Gunnery)</Text>
+      <Title>(Instr. in Gunnery)</Title>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>ICock</Key>
-      <Text>,.Capt. H. C. L. (seconded)</Text>
+      <Text>.Capt. H. C. L. (seconded)</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>, .W. H. (2nd Lieut.)</Text>
+      <Text>.W. H. (2nd Lieut.)</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gundry</Key>
-      <Text>, 11. B. (Lieut.-Cql.)</Text>
+      <Text>11. B. (Lieut.-Cql.)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>,. J. H. H..(Gapt.)</Text>
+      <Text>. J. H. H..(Gapt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +875,7 @@
       <Key>
         <KeyDitto>___ ___ -___ ___</KeyDitto>
       </Key>
-      <Text>(lnstr. in Gunnery)</Text>
+      <Title>(lnstr. in Gunnery)</Title>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland-Addison</Key>
-      <Text>, J:F. R. N. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>:F. R. N. (Lieut.)</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,14 +1234,15 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>I Sturges, C. H. M. (2nd Lieut.)</Text>
+      <Forenames>I</Forenames>
+      <Text>Sturges, C. H. M. (2nd Lieut.)</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>,-D. (Qrmr. andHon.Lieut.)</Text>
+      <Text>-D. (Qrmr. andHon.Lieut.)</Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,8 +1360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.' Col. H. C. C. (retired pay)</Text>
+      <Title>Brev.</Title>
+      <Text>' Col. H. C. C. (retired pay)</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1521,7 +1526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eddis</Key>
-      <Text>, B^ L. (2nd Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>^ L. (2nd Lieut.)</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>, -Hon. F. G. (Lieut.)</Text>
+      <Text>-Hon. F. G. (Lieut.)</Text>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,7 +1837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nanron</Key>
-      <Text>, Maj. and Brev: Lieut.-Col. H. C. (antedated)</Text>
+      <Title>Maj.</Title>
+      <Text>and Brev: Lieut.-Col. H. C. (antedated)</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>

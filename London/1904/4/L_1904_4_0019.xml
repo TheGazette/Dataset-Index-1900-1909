@@ -150,7 +150,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) .. .. .. ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,8 +201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. J. (resigned)</Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +247,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutton</Key>
-      <Text>, Capt. J H. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>H. (retired)</Text>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northesk</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>, Qrmr. and Hon. Maj. (retired)</Text>
+      <Title>Qrmr. and Hon. Maj. (retired)</Title>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nickson</Key>
-      <Text>, II. (Lieut.)</Text>
+      <Text>II. (Lieut.)</Text>
       <PageNumber>8296</PageNumber>
     </MainItem>
   </ItemGroup>

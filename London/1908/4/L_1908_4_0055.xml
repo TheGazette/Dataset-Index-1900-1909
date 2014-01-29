@@ -148,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wethey</Key>
-      <Text>, EH</Text>
+      <Text>EH</Text>
       <PageNumber>7224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,8 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Segrue</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. E</Text>
+      <Title>Gt.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,14 +281,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>. J. B</Text>
+      <Text>J. B</Text>
       <PageNumber>9027</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>. B</Text>
+      <Text>B</Text>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,8 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowlands</Key>
-      <Forenames>Bev</Forenames>
-      <Text>. P</Text>
+      <Title>Bev.</Title>
+      <Forenames>P</Forenames>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colley</Key>
-      <Text>. P. H. (Capt.)</Text>
+      <Text>P. H. (Capt.)</Text>
       <PageNumber>7309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,8 +369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drage</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. (Maj.)</Text>
+      <Title>Gt. (Maj.)</Title>
       <PageNumber>7309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vine</Key>
-      <Text>, 3. W. S. (Sub-Lieut.)</Text>
+      <Text>3. W. S. (Sub-Lieut.)</Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +904,6 @@
       <PageNumber>7554</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agricultural</Key>
@@ -949,7 +947,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Albion</Key>
-      <Text>(Transvaal) Gold Mines, notice of winding-up</Text>
+      <Title>(Transvaal)</Title>
+      <Forenames>Gold Mines</Forenames>
+      <Text>, notice of winding-up</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>

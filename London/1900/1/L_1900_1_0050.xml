@@ -79,8 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. J..C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. J..C. (resigned)</Text>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortimer</Key>
-      <Text>Capt. and Instr. of Musketry J. (super.)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. (super.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +466,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +549,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +745,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Text>C, jun. (2nd Lieut, super.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, jun. (2nd Lieut, super.)</Text>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +941,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>A C. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>C. (2nd Lieut.)</Text>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibbetson</Key>
-      <Text>Capt. and Instr. of Musketry C. O. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry C. O. (seconded)</Text>
       <PageNumber>292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,7 +1805,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1955,7 +1959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langford</Key>
-      <Text>Capt. and Instr. of Musketry C. (seconded) .,</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry C. (seconded) .,</Text>
       <PageNumber>1880</PageNumber>
     </MainItem>
   </ItemGroup>

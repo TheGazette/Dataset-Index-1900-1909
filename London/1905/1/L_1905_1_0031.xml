@@ -14,8 +14,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. (resigned)</Text>
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLennan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned; .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned; .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmau</Key>
-      <Text>, G-. E. (Lieut.-Col. and to command)</Text>
+      <Text>G-. E. (Lieut.-Col. and to command)</Text>
       <PageNumber>2187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bice</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berridge</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Queripel</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>

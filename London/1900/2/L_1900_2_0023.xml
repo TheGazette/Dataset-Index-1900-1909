@@ -68,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>, Hon. Sir 8. W., Lieut.-Governor of Queensland, Ac</Text>
+      <Title>Hon. Sir</Title>
+      <Text>8. W., Lieut.-Governor of Queensland, Ac</Text>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,14 +205,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopetoun</Key>
-      <Text>, Earl of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>6252</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>, Earl, Lord in Waiting in Ordinary to Her Majesty</Text>
+      <Title>Earl, Lord</Title>
+      <Text>in Waiting in Ordinary to Her Majesty</Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord, one of the Lords in Waiting in Ordinary to Her Majesty</Text>
+      <Title>Lord</Title>
+      <Text>, one of the Lords in Waiting in Ordinary to Her Majesty</Text>
       <PageNumber>8211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +371,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>, Lord, Governor of Queensland, &amp;c</Text>
+      <Title>Lord</Title>
+      <Text>, Governor of Queensland, &amp;c</Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lennard</Key>
-      <Text>, Lady, Order of Mercy '</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy '</Text>
       <PageNumber>4712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, Lieut. C, Companion of the Distinguished Service Order</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Distinguished Service Order</Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +613,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel-Jones</Key>
-      <Text>, Capt. C, Victoria Cross</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Victoria Cross</Text>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +940,9 @@
   <ItemGroup>
     <MainItem>
       <Key>ReuBS</Key>
-      <Text>, H.S.H. Prince, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>H.S.H. Prince, Honorary</Title>
+      <Forenames>Knight Grand Cross</Forenames>
+      <Text>of the Royal Victorian Order</Text>
       <PageNumber>4510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,9 +974,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Ritchie</Key>
+      <Forenames>Right</Forenames>
+      <Text>Hon. C. T, one of . H.M.'s Principal Secretaries of State</Text>
+      <PageNumber>6923</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Robertson</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. (now Qrmr. and Hon. Lieut.) W., Victoria Cross</Text>
+      <Title>Sergt.</Title>
+      <Text>-Maj. (now Qrmr. and Hon. Lieut.) W., Victoria Cross</Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1065,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selborne</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,6 +1114,15 @@
       <Forenames>Vice-</Forenames>
       <Text>Admiral Sir E. H., Knight Grand Cross of the Bath</Text>
       <PageNumber>6858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shaul</Key>
+      <Title>Corpl.</Title>
+      <Forenames>J.</Forenames>
+      <Text>, Victoria Cross</Text>
+      <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

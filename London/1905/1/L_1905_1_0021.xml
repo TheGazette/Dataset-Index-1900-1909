@@ -303,7 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, 2ud Lieut. B. (resigned)</Text>
+      <Text>2ud Lieut. B. (resigned)</Text>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>JoneB-Vaughan</Key>
-      <Text>. E. N. (2nd Lieut.)</Text>
+      <Text>E. N. (2nd Lieut.)</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byford</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Lieut. W. F. (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Lieut. W. F. (resigned)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +494,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Text>, 2ud Lieut. M. de W. (resigned)</Text>
+      <Text>2ud Lieut. M. de W. (resigned)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1057,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Malone</Key>
-      <Text>, Maj. C, R. R. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, R. R. (retired)</Text>
       <PageNumber>1845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burcher</Key>
-      <Text>, ¥. E. (Capt.) .. ,</Text>
+      <Text>¥. E. (Capt.) .. ,</Text>
       <PageNumber>2186</PageNumber>
     </MainItem>
   </ItemGroup>

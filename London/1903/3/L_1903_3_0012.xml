@@ -36,17 +36,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>Capt., W. D., Victoria Cross conferred on</Text>
+      <Title>Capt.</Title>
+      <Text>, W. D., Victoria Cross conferred on</Text>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wynyard</Key>
-      <Text>Lieut.-Col., R., Royal Victorian Order, Fourth Class</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>, R., Royal Victorian Order, Fourth Class</Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS,</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Field-Marshals</Key>
@@ -131,7 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>F; (2nd Lieut.) .. ..</Text>
+      <Forenames>F</Forenames>
+      <Text>; (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlayson</Key>
-      <Text>Qrmr. and. Hon. Capt. D., Recruiting Staff. Officer</Text>
+      <Title>Qrmr.</Title>
+      <Text>and. Hon. Capt. D., Recruiting Staff. Officer</Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce-Serocold</Key>
-      <Text>C^pt. E., Staff Capt. (for Musketry)</Text>
+      <Forenames>C</Forenames>
+      <Text>^pt. E., Staff Capt. (for Musketry)</Text>
       <PageNumber>5788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +646,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>Capt. and Brev. Maj. C, Deputy-Assist. Qrmr.-Gen</Text>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Deputy-Assist. Qrmr.-Gen</Text>
       <PageNumber>5478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +747,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Staff</Key>
-      <Text>Captain for Intelligence : Robiuson, Capt. S. W</Text>
+      <Title>Captain</Title>
+      <Text>for Intelligence : Robiuson, Capt. S. W</Text>
       <PageNumber>5788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,8 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Lord-</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Title>Lord(2nd Lieut.)</Title>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +991,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Friedberger</Key>
-      <Text>Capt. (Hon. Maj.) W. S. (resigned)</Text>
+      <Title>Capt. (Hon. Maj.)</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>Lieut. VV. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>VV. (resigned)</Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>

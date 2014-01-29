@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushmore</Key>
-      <Text>, p; M. (Capt.)</Text>
+      <Text>p; M. (Capt.)</Text>
       <PageNumber>7927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,8 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gt. (2nd Lieut.)</Title>
       <PageNumber>7926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,8 +960,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holman</Key>
-      <Text>, K; R. C. (2nd Lieut.) .-</Text>
+      <Forenames>K</Forenames>
+      <Text>; R. C. (2nd Lieut.) .-</Text>
       <PageNumber>9565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellersh</Key>
-      <Text>.JackKOn, L. (2nd Lieut.) ..</Text>
+      <Text>JackKOn, L. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1706,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut-Col.) .. ..</Text>
+      <Title>(Lieut-Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1775,7 +1776,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>9566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2049,7 +2050,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

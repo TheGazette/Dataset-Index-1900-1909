@@ -4,14 +4,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>,, Capt. J. W. (resigned) .. ,</Text>
+      <Text>, Capt. J. W. (resigned) .. ,</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>, 0. A. (Capt.)</Text>
+      <Text>0. A. (Capt.)</Text>
       <PageNumber>2946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>, 8. J. (2nd Lieut.)</Text>
+      <Text>8. J. (2nd Lieut.)</Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +247,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +349,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lafone</Key>
-      <Text>, Capt.. E. M. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. E. M. (seconded)</Text>
       <PageNumber>1764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +850,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lieut. IT. H. (cancellation)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>IT. H. (cancellation)</Text>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>, 2nd A. Lieut. E. S. L. (seconded)</Text>
+      <Text>2nd A. Lieut. E. S. L. (seconded)</Text>
       <PageNumber>1147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>, fl. (2nd Lieut.)</Text>
+      <Text>fl. (2nd Lieut.)</Text>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1655,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>

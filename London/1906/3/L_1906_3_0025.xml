@@ -47,7 +47,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>Lieut.. C. T. (temporary halfpay)</Text>
+      <Title>Lieut.</Title>
+      <Text>. C. T. (temporary halfpay)</Text>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, Capt. Hon. C. H. M. (seconded)</Text>
+      <Text>. Clair, Capt. Hon. C. H. M. (seconded)</Text>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,8 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craver</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. P. (resigned)</Text>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,15 +619,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>Lieut. J. G. S. (resigned)</Text>
+      <Text>. Lieut. J. G. S. (resigned)</Text>
       <PageNumber>5874</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. B. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. B. (correction)</Text>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +923,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>J. H. (Lieut.)</Text>
+      <Text>.J. H. (Lieut.)</Text>
       <PageNumber>4889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MoCulloch</Key>
-      <Text>I). (Lieut.) ,.</Text>
+      <Forenames>I</Forenames>
+      <Text>). (Lieut.) ,.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lefroy</Key>
-      <Text>F. B. (Lieut.)</Text>
+      <Text>.F. B. (Lieut.)</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -207,7 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanhope</Key>
-      <Text>, Earl CCapt.)</Text>
+      <Title>Earl</Title>
+      <Text>CCapt.)</Text>
       <PageNumber>6450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>,L. S. L. (Lieut.) .. ..</Text>
+      <Text>L. S. L. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Begbie</Key>
-      <Text>, Lieut..E. P. G</Text>
+      <Title>Lieut.</Title>
+      <Text>.E. P. G</Text>
       <PageNumber>6749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, Lieut. Hon.. R. (Adj. and Qrmr.)</Text>
+      <Title>Lieut. Hon.</Title>
+      <Text>. R. (Adj. and Qrmr.)</Text>
       <PageNumber>6360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1004,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacomb</Key>
-      <Text>, Qrmr. and Hon. Lieut. T, (retired)</Text>
+      <Title>Qrmr. and Hon. Lieut.</Title>
+      <Forenames>T</Forenames>
+      <Text>, (retired)</Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>

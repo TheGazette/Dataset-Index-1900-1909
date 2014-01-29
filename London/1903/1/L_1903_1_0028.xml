@@ -480,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giffard</Key>
-      <Text>, Maj.. and Brev. Lieut.-Col. W. C. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Text>. and Brev. Lieut.-Col. W. C. (retired pay)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairweather</Key>
-      <Text>, ft. W. (Capt.)</Text>
+      <Text>ft. W. (Capt.)</Text>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +819,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>1422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,8 +910,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haldane</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. (resigned)</Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, ft. R. (2nd Lieut.)</Text>
+      <Text>ft. R. (2nd Lieut.)</Text>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,14 +986,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuyler</Key>
-      <Text>, Sir C, Bart. (Capt.)</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart. (Capt.)</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cuyley</Key>
-      <Text>, Capt. Sir C, Bart, (correction)</Text>
+      <Title>Capt. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart, (correction)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1039,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orkney</Key>
-      <Text>, Lieut.-Col. Earl of (resigned)</Text>
+      <Title>Lieut.-Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1364,7 +1371,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>1136</PageNumber>
     </MainItem>
   </ItemGroup>

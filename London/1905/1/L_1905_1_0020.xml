@@ -275,8 +275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitley</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Gt. (Lieut.)</Title>
       <PageNumber>2279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>,.T. N. S. M. (Capt.)</Text>
+      <Text>.T. N. S. M. (Capt.)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Speight</Key>
-      <Text>, Capt.. C. H. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. C. H. (resigned)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1056,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowring</Key>
-      <Text>,Capt J. F. E. (resigned)</Text>
+      <Text>Capt J. F. E. (resigned)</Text>
       <PageNumber>2184</PageNumber>
     </MainItem>
   </ItemGroup>

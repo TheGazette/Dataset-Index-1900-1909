@@ -40,7 +40,8 @@
       <Key>
         <KeyDitto>___ ———— ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbins</Key>
-      <Text>. W. A. (Lieut.)</Text>
+      <Text>W. A. (Lieut.)</Text>
       <PageNumber>6294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +208,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,8 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. Y. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. Y. (resigned)</Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +439,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ :— ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +592,7 @@
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>KOYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SectionTitle>lst Aberdeenshire</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -662,8 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. P. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LeMay</Key>
-      <Text>.T. D. (Capt.)</Text>
+      <Text>T. D. (Capt.)</Text>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1044,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>, Lieut.-Col. and Brevet Col. Sir C, Bart, (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart, (half-pay)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>, Maj. Viscount (retired)</Text>
+      <Title>Maj. Viscount (retired)</Title>
       <PageNumber>6232</PageNumber>
     </MainItem>
   </ItemGroup>

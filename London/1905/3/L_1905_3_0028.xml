@@ -6,7 +6,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>, 2nd Lieui. H. P. (temporary half-pay)</Text>
+      <Text>2nd Lieui. H. P. (temporary half-pay)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Salmon</Key>
-      <Text>, Capt. G^ N. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
+      <Text>^ N. (seconded) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,8 +704,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Voisin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. B. (resigned)</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +723,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +737,6 @@
       <PageNumber>6474</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SubSectionTitle>Colonels</SubSectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -765,7 +766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>, CP... .. .. ..</Text>
+      <Text>CP... .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobb</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Khan</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4636</PageNumber>
     </MainItem>
   </ItemGroup>

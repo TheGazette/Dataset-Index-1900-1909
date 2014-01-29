@@ -87,7 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>Lieut.-Col.T. E. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col.T. E. (resigned)</Text>
       <PageNumber>8841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchins</Key>
-      <Text>Lieut.. A. M. (resigned and Hon. Lieut.) .. .&lt;</Text>
+      <Title>Lieut.</Title>
+      <Text>. A. M. (resigned and Hon. Lieut.) .. .&lt;</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingle</Key>
-      <Text>Capt.. J. C. (resigned and Hon. Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>. J. C. (resigned and Hon. Capt.)</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +588,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +654,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +681,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +733,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp-Potter</Key>
-      <Text>Lieut. F\ H. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>F</Forenames>
+      <Text>\ H. (resigned and Hon. Lieut.)</Text>
       <PageNumber>6078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +801,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,9 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loekwood</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. J. H. (resigned and Hon. Vet.-Capt.)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Capt. J. H. (resigned and Hon. Vet.-Capt.)</Text>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>Temporary Maj. Lord (resigned and Hon. Maj.)</Text>
+      <Title>Temporary Maj. Lord (resigned and Hon. Maj.)</Title>
       <PageNumber>7634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1175,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1229,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned and Hon. Capt.)</Text>
+      <Title>(resigned and Hon. Capt.)</Title>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>

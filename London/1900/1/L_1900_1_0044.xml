@@ -968,7 +968,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1026,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1360,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,6 +1473,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Caffin</Key>
+      <Forenames>K. G.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2922</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Coles</Key>
       <Forenames>R. G.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1484,7 +1492,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,6 +1533,14 @@
       <Forenames>B.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2507</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fishbourne</Key>
+      <Forenames>C. E.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1619,6 +1635,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hull</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2549</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Isaac</Key>
       <Forenames>J. E. V.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1641,6 +1665,14 @@
       <Forenames>G. M.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>3250</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jones</Key>
+      <Forenames>A. C. L. H.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1718,7 +1750,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,7 +1773,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pennington</Key>
-      <Text>Lieut.-CoL R. L. A. (temporary half pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>-CoL R. L. A. (temporary half pay)</Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,7 +1837,7 @@
       <Key>
         <KeyDitto>___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>

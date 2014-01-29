@@ -488,7 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>Duke of, Order of Mercy</Text>
+      <Title>Duke</Title>
+      <Text>of, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Capt. J. M. C, Royal Victorian Order, Fourth Class</Text>
+      <Title>Eng.</Title>
+      <Text>-Capt. J. M. C, Royal Victorian Order, Fourth Class</Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +689,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulnois</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bright</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>C, Companion of the Indian Empire</Text>
+      <Forenames>C</Forenames>
+      <Text>, Companion of the Indian Empire</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +791,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs., Order.of Mercy</Text>
+      <Title>Mrs., Order.</Title>
+      <Text>of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burdett</Key>
-      <Text>Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>Lieut.-Gen. andHon. Gen. F., Knight Commander of the Bath</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Text>andHon. Gen. F., Knight Commander of the Bath</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>

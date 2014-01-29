@@ -93,7 +93,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fellowes</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>, H.R.H. the Duke of</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +542,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>, C: F. '.. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>: F. '.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casement</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaunt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Text>, B, G</Text>
+      <Forenames>B</Forenames>
+      <Text>, G</Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leith</Key>
-      <Text>,.G. P ..</Text>
+      <Text>.G. P ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Col. W</Text>
+      <Title>Col.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casement</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dasent</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

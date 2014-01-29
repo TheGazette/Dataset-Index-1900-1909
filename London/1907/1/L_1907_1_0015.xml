@@ -94,7 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Text>, .T. (Capt.)</Text>
+      <Text>.T. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +654,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. and Hon. Lieut.Col. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.Col. (resigned)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Text>, R J. M. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>J. M. (Lieut.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Text>, «T. D. (Capt. super.)</Text>
+      <Text>«T. D. (Capt. super.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +769,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,8 +778,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. A. (resigned)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darby</Key>
-      <Text>,-J. T. (Hon. Maj.)</Text>
+      <Text>-J. T. (Hon. Maj.)</Text>
       <PageNumber>967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,17 +842,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Halton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. (resigned)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Title>Capt.</Title>
-      <Forenames>If</Forenames>
-      <Text>. \\. (resigned)</Text>
+      <Title>Capt. If.</Title>
+      <Text>\\. (resigned)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +877,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Text>, Capt. B P. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>B</Forenames>
+      <Text>P. (resigned)</Text>
       <PageNumber>2102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,8 +952,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg . Lieut.-Col. C. H. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg . Lieut.-Col. C. H. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +966,7 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Clyde Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1122,7 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Text>, H, D</Text>
+      <Forenames>H</Forenames>
+      <Text>, D</Text>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>

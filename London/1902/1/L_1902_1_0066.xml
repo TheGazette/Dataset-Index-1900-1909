@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Annaly</Key>
-      <Text>Lord (Lieut.-Col. and to command)</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +45,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>Earl (Hon. Col.)</Text>
+      <Title>Earl (Hon. Col.)</Title>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,8 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. (resigned)</Text>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +348,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +373,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +400,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +436,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +453,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +521,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +933,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,8 +1007,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dungarvan</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.-Col.)</Text>
+      <Title>Visct. (Lieut.-Col.)</Title>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,23 +1022,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. G. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. G. D. (resigned)</Text>
       <PageNumber>1524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saville</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J.J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J.J. (resigned)</Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Symonds</Key>
-      <Text>Lieut. (Hon. Capt.) T. R. (resigned)</Text>
+      <Title>Lieut. (Hon. Capt.)</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,8 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewisham</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1207,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1233,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1298,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>Capt. (Hon. Maj.) Sir S. H. L. I Stuart, Bart, (resigned)</Text>
+      <Title>Capt. (Hon. Maj.) Sir</Title>
+      <Forenames>S. H. L. I</Forenames>
+      <Text>Stuart, Bart, (resigned)</Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1342,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1399,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,8 +1503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. and Instr. of Musketry F. B. (resigned and Hon. Maj.)</Text>
+      <Title>Super. Capt. and Instr.</Title>
+      <Text>of Musketry F. B. (resigned and Hon. Maj.)</Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
   </ItemGroup>

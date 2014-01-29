@@ -74,7 +74,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sclater-Booth</Key>
-      <Text>Maj. Hon. \V. V. (antedated)</Text>
+      <Title>Maj. Hon.</Title>
+      <Text>\V. V. (antedated)</Text>
       <PageNumber>1590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,16 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___ .</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ .</KeyDitto>
+      </Key>
+      <Forenames>W. R. H.</Forenames>
+      <Text>(2nd Lien:; .. iii id. Chartres, Capt. R. C. (retired)</Text>
+      <PageNumber>5914</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Comyn</Key>
@@ -982,7 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>Capt..R. E. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>.R. E. (seconded)</Text>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,8 +1350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hellard</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.. Col. B, C.(half-pay)</Text>
+      <Title>Brev.</Title>
+      <Text>. Col. B, C.(half-pay)</Text>
       <PageNumber>5153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,8 +1438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Forenames>Brev</Forenames>
-      <Text>..Col. F S. (half-pay) .,</Text>
+      <Title>Brev.</Title>
+      <Text>.Col. F S. (half-pay) .,</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Midwinter</Key>
-      <Text>E, C. (Capt.) .. ';</Text>
+      <Forenames>E</Forenames>
+      <Text>, C. (Capt.) .. ';</Text>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,8 +1673,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col.C. L. (half-pay)</Text>
+      <Title>Brev. Col.</Title>
+      <Text>C. L. (half-pay)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>

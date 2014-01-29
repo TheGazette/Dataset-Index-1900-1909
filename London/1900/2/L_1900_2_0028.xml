@@ -196,7 +196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albemarle</Key>
-      <Text>, Earl of (Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.)</Text>
       <PageNumber>6480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +459,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) (correction)</Text>
+      <Title>(Lieut.) (correction)</Title>
       <PageNumber>4860</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -209,7 +209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>Maj.-Gen., Divisional Commander</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>, Divisional Commander</Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hehir</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,14 +488,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fooks</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cretin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mnlvany</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stodart</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrew</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corridon</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullen</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4308</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -39,8 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. J. (resigned)</Text>
       <PageNumber>1393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,8 +180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beresford</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. R. de la P.(super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. R. de la P.(super.)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +299,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sells</Key>
-      <Text>, li. J., j-mr., (2nd Lieut.)</Text>
+      <Text>li. J., j-mr., (2nd Lieut.)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,14 +552,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Dansey</Key>
-      <Text>, Capt. P H. (correction)</Text>
+      <Title>Capt.</Title>
+      <Forenames>P</Forenames>
+      <Text>H. (correction)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wimberley</Key>
-      <Text>, Capt. GN. I. (cancellation) .. .. .. .. ..</Text>
+      <Title>Capt.</Title>
+      <Text>GN. I. (cancellation) .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +759,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +935,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Net</Key>
-      <Text>, Capt. ,T. W. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>,T. W. (seconded)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1052,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1086,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davey</Key>
-      <Text>, 2nd Lieut, A. C. (resigned)</Text>
+      <Text>2nd Lieut, A. C. (resigned)</Text>
       <PageNumber>1286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>

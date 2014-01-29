@@ -75,8 +75,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. VV. C. T. (retired)</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. VV. C. T. (retired)</Text>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,8 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pewar</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.-Col. C. (Chief Paymaster and Col.)</Text>
+      <Title>Brev.</Title>
+      <Text>-Col. C. (Chief Paymaster and Col.)</Text>
       <PageNumber>309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandes</Key>
-      <Text>, 0. (Lieut.-Col.)</Text>
+      <Text>0. (Lieut.-Col.)</Text>
       <PageNumber>929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Text>, .T. C. (Vet.-Col.) .. ,</Text>
+      <Text>.T. C. (Vet.-Col.) .. ,</Text>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>, 0. B. (Hon. Maj.) .. ..</Text>
+      <Text>0. B. (Hon. Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Text>, Maj.-Gen. (retired pay)</Text>
+      <Title>Maj.-Gen. (retired pay)</Title>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>

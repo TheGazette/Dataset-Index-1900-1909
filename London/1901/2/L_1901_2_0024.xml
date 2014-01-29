@@ -12,15 +12,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hermann</Key>
-      <Text>, C, Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victorian Order, Fifth Class (Hon.)</Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hervey</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rev. Canon</Title>
       <Text>, Domestic Chaplain to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -184,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowe</Key>
-      <Text>,Earl, Lord in Waiting</Text>
+      <Title>Earl, Lord</Title>
+      <Text>in Waiting</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, Col. O, Knight of Justice of St. John of Jerusalem</Text>
+      <Title>Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Knight of Justice of St. John of Jerusalem</Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ilchester</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +320,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jerome</Key>
-      <Text>, Lieut.-Col. H, J. W., Companion of the Bath '</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>H</Forenames>
+      <Text>, J. W., Companion of the Bath '</Text>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemmis</Key>
-      <Text>, Lieut.-Col. W, Companion of St. Michael and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,21 +461,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenmare</Key>
-      <Text>, Earl of, a Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, Private C, Victoria Cross conferred on</Text>
+      <Title>Private</Title>
+      <Forenames>C</Forenames>
+      <Text>, Victoria Cross conferred on</Text>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord, Lord in Waiting</Text>
+      <Title>Lord, Lord</Title>
+      <Text>in Waiting</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kintore</Key>
-      <Text>, Earl of, Lord in Waiting</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord in Waiting</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,14 +666,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Larking</Key>
-      <Text>, Col. C, Gentleman Usher to His MajeBty'</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Gentleman Usher to His MajeBty'</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>, Lord, Lord in Waiting ..</Text>
+      <Title>Lord, Lord</Title>
+      <Text>in Waiting ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,8 +959,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McComh</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. R, B., Companion of the Bath</Text>
+      <Title>Brev. Col.</Title>
+      <Forenames>R</Forenames>
+      <Text>, B., Companion of the Bath</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,8 +1003,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Magill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J., Companion of the Bath</Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>,.Maj. S., Companion of St. Michael . and St. George</Text>
+      <Text>.Maj. S., Companion of St. Michael . and St. George</Text>
       <PageNumber>6330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meyrich</Key>
-      <Text>, Lieut.-Col. F-.-C, Companion of the Bath</Text>
+      <Text>Lieut.-Col. F-.-C, Companion of the Bath</Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>

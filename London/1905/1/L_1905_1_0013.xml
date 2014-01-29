@@ -299,7 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>,' H. A. (temporary Maj.)</Text>
+      <Text>' H. A. (temporary Maj.)</Text>
       <PageNumber>1579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>, j. C. (Hon. Capt.)</Text>
+      <Text>j. C. (Hon. Capt.)</Text>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomerie</Key>
-      <Text>, Lieut. Lord (seconded)</Text>
+      <Title>Lieut. Lord (seconded)</Title>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +878,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>580</PageNumber>
     </MainItem>
   </ItemGroup>

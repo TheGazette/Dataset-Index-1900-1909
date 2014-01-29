@@ -32,8 +32,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Forenames>Hon</Forenames>
-      <Text>.Lieut.-Col.CP.(resigned)</Text>
+      <Title>Hon.Lieut.</Title>
+      <Text>-Col.CP.(resigned)</Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,15 +53,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon. Maj. . J. B. (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>. J. B. (resigned)</Text>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maenaughtori</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. A. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,8 +80,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. Col. and Hon. Surg.-Col. W. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>Lieut. Col. and Hon. Surg.-Col. W. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,8 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hermon</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. I. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. I. K. (resigned)</Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Qrmr. . and Hon. Capt. H. (resigned)</Text>
+      <Title>Qrmr.</Title>
+      <Text>. and Hon. Capt. H. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,8 +332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. E. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,8 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned) ... ___ ——r Paul, Capt. and Hon. Maj. A. C S. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned) ... ___ ——r Paul, Capt. and Hon. Maj. A. C S. (resigned) .. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,8 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. M. (resigned)..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. M. (resigned)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>Maj. and Hon. Lieut.-Col. J. A. (resigned) .... .. .. ...</Text>
+      <Text>.Maj. and Hon. Lieut.-Col. J. A. (resigned) .... .. .. ...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,8 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dotchin</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. (resigned) ,</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. W. (resigned) ,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,15 +634,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>Capt. T. (resigned)..</Text>
+      <Text>.Capt. T. (resigned)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. R. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. R. C. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hind</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,14 +665,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>Capt. and Hon. Maj. J, W. (resigned) ., .. .,</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>J</Forenames>
+      <Text>, W. (resigned) ., .. .,</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGill</Key>
-      <Text>Qrmr. A (resigned) .. ..</Text>
+      <Title>Qrmr.</Title>
+      <Forenames>A</Forenames>
+      <Text>(resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +726,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>Capt. and Hon. Maj. ' S. (resigned) .. ..</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>' S. (resigned) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronaldshay</Key>
-      <Text>Capt. Earl of (resigned)</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,13 +766,13 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS ' (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>' (VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>.lst Aberdeenshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,8 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lansdown</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C E. (resigned) .. '</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C E. (resigned) .. '</Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>

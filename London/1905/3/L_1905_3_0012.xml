@@ -197,8 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. and Brev. Col W. B., Assist. Adj.-Gen. and Col</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. and Brev. Col W. B., Assist. Adj.-Gen. and Col</Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glancy</Key>
-      <Text>,.Col. J. G., Col. in charge of . Infantry records</Text>
+      <Text>.Col. J. G., Col. in charge of . Infantry records</Text>
       <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,16 +232,16 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>Qrmr.-Gen</Text>
+      <Title>Qrmr.</Title>
+      <Text>-Gen</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Title>Gen.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, General Officer Commanding-in-Chief the Forces in Ireland</Text>
+      <Title>Gen. Rt. Hon. Lord</Title>
+      <Text>, General Officer Commanding-in-Chief the Forces in Ireland</Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guernsey</Key>
-      <Text>, Lieut. Lord, Aide-de-Camp to Gen. Sir F. W. E. F. ForestierWalker</Text>
+      <Title>Lieut. Lord</Title>
+      <Text>, Aide-de-Camp to Gen. Sir F. W. E. F. ForestierWalker</Text>
       <PageNumber>6330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, Lieut.-Col. and Bre.v. Col. J. T., Assist. Adj.-Gen. and Col</Text>
+      <Title>Lieut.-Col. and Bre.</Title>
+      <Text>v. Col. J. T., Assist. Adj.-Gen. and Col</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddon</Key>
-      <Text>,' Capt. M. R., Recruiting Staff Officer (Class II)</Text>
+      <Text>' Capt. M. R., Recruiting Staff Officer (Class II)</Text>
       <PageNumber>5978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Surtees</Key>
-      <Text>, Lieut.-Col.' and Brev. Col. H. O, Military Attache</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>' and Brev. Col. H. O, Military Attache</Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>. Gen. Rt. Hon. Lord</Text>
+      <Text>Gen. Rt. Hon. Lord</Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Playfair</Key>
-      <Text>, Col. Lord .. .. ..</Text>
+      <Title>Col. Lord .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, Col. CD —</Text>
+      <Title>Col.</Title>
+      <Text>CD —</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridley</Key>
-      <Text>, Col. CP —</Text>
+      <Title>Col.</Title>
+      <Text>CP —</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Text>. Brev. Col. F. W. B</Text>
+      <Text>Brev. Col. F. W. B</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,9 +1045,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Title>Col.</Title>
-      <Forenames>St</Forenames>
-      <Text>. L</Text>
+      <Title>Col. St.</Title>
+      <Forenames>L</Forenames>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1071,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrott</Key>
-      <Text>, Col. T</Text>
+      <Title>Col.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>

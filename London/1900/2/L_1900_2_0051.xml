@@ -228,7 +228,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +247,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +355,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haywood</Key>
-      <Text>. J. R. I. (Surg.-Capt.)</Text>
+      <Text>J. R. I. (Surg.-Capt.)</Text>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Todhunter</Key>
-      <Text>, B: W. (Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>: W. (Lieut.)</Text>
       <PageNumber>6478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1033,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>, G, W. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, W. (Capt.)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGlade</Key>
-      <Text>, Capt. and Instr. of Musketry F. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry F. (resigned)</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, H. M. (2nd Lieut.)</Text>
+      <Text>John, H. M. (2nd Lieut.)</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1772,7 +1775,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>

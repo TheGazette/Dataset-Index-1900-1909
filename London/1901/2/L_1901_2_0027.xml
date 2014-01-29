@@ -73,8 +73,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. A, Victoria Cross conferred on</Text>
+      <Title>Sergt.</Title>
+      <Text>-Maj. A, Victoria Cross conferred on</Text>
       <PageNumber>7221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +314,16 @@
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. M.</Forenames>
+      <Text>(Brev. Maj.)</Text>
+      <PageNumber>4916</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blore</Key>
@@ -337,6 +346,14 @@
       <Forenames>W. N.</Forenames>
       <Text>(Brev. Maj.)</Text>
       <PageNumber>6318</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bower</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Brev. Lieut.-Col.)</Text>
+      <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

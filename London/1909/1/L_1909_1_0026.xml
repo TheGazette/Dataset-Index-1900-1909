@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrett</Key>
-      <Text>J. E. (2nd Lieut.)</Text>
+      <Text>. J. E. (2nd Lieut.)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,8 +148,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Pag</Key>
-      <Text>-, J. E. (Capt.)</Text>
+      <Text>.-, J. E. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pole-Carew</Key>
+      <Title>Sir</Title>
+      <Forenames>B.</Forenames>
+      <Text>(Hon. Col.)</Text>
+      <PageNumber>1758</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>Duke of Wellington's ( West Riding Regiment)</SectionTitle>
@@ -189,7 +198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leurovd</Key>
-      <Text>E. P. (2nd Lieut.)</Text>
+      <Text>. E. P. (2nd Lieut.)</Text>
       <PageNumber>1313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>, W. M. (2nd Lieut.)</Text>
+      <Text>., W. M. (2nd Lieut.)</Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,6 +287,14 @@
       <Forenames>A. B.</Forenames>
       <Text>(2nd Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mallalieu</Key>
+      <Forenames>C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1028</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>Border Regiment</SectionTitle>
@@ -431,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stnffnrth</Key>
-      <Text>E. H. (Lieut.) .. -..</Text>
+      <Text>. E. H. (Lieut.) .. -..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zouche</Key>
-      <Text>Lord (Capt.) .. .. ..</Text>
+      <Title>Lord (Capt.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +547,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boughton</Key>
-      <Text>D. T. A. (2nd Lieut.)</Text>
+      <Text>. D. T. A. (2nd Lieut.)</Text>
       <PageNumber>2352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +918,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +1000,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buyers</Key>
-      <Text>Maj. and Hon. Lieut.-Col. J (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>J</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1954</PageNumber>
     </MainItem>
   </ItemGroup>

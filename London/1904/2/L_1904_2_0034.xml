@@ -20,8 +20,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Gen</Forenames>
-      <Text>. II. C</Text>
+      <Title>Gen.</Title>
+      <Text>II. C</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>Maj.-Gen. B</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Text>Maj.-Gen Sir C. C. Elliot, Maj.-Gen. Sir E. L Elton, M»j.-Gen. H. S Evans, Gen. H. M Eirth, Maj.-Gen. R. F Forbes, Gen. Sir J. Fraser-Tytler, Gen. Sir J. M. B. ..</Text>
+      <Title>Maj.</Title>
+      <Text>-Gen Sir C. C. Elliot, Maj.-Gen. Sir E. L Elton, M»j.-Gen. H. S Evans, Gen. H. M Eirth, Maj.-Gen. R. F Forbes, Gen. Sir J. Fraser-Tytler, Gen. Sir J. M. B. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaipore</Key>
-      <Text>H.H. the Maharajah-of</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharajah-of</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +291,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Text>Lieut.-Gen. R, M</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Forenames>R</Forenames>
+      <Text>, M</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>Lieut.-Gen. J</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>3089</PageNumber>
       <PageNumber>3356</PageNumber>
     </MainItem>
@@ -392,7 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pennington</Key>
-      <Text>Lieut.-Gen. OR.</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Text>OR.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Protherof</Key>
-      <Text>Maj.-Gen. M</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Field-Marshal Earl, V.C. ..</Text>
+      <Title>Field-Marshal Earl</Title>
+      <Text>, V.C. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruggles</Key>
-      <Text>Maj.-Geu. J.</Text>
+      <Title>Maj.</Title>
+      <Text>-Geu. J.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheriff</Key>
-      <Text>Lieut.-Geu. J. P,</Text>
+      <Title>Lieut.</Title>
+      <Text>-Geu. J. P,</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,8 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Gen</Forenames>
-      <Text>.' Sir J., V.C</Text>
+      <Title>Gen.</Title>
+      <Text>' Sir J., V.C</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baternan-Champain</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

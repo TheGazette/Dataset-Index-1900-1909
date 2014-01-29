@@ -328,8 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoskyns</Key>
-      <Title>Eev.</Title>
-      <Forenames>Canon B. G.</Forenames>
+      <Title>Eev. Canon</Title>
+      <Forenames>B. G.</Forenames>
       <Text>(Acting Chaplain)</Text>
       <PageNumber>2866</PageNumber>
     </MainItem>
@@ -610,8 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. (resigned)</Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,8 +684,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Considine</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. B. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. B. G. (resigned)</Text>
       <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +863,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instructor of Mus. ketry) .. '</Text>
+      <Title>(Instructor of Mus. ketry)</Title>
+      <Text>.. '</Text>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +898,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,16 +986,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>Hon.F. B. (2nd Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Text>F. B. (2nd Lieut.)</Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southwell</Key>
-      <Title>Capt.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Capt. Visct. (resigned)</Title>
       <PageNumber>719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,8 +1260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (retired)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,8 +1341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wohlmann</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. S. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

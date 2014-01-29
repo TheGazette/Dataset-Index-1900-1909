@@ -184,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>,' A. S. M. (Sub-Lieut.)</Text>
+      <Text>' A. S. M. (Sub-Lieut.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,8 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rusack</Key>
-      <Forenames>Sub</Forenames>
-      <Text>.-Lieut. W. J. (retired , list)</Text>
+      <Title>Sub.</Title>
+      <Text>-Lieut. W. J. (retired , list)</Text>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +423,6 @@
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agricultural</Key>
@@ -461,8 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allinson</Key>
-      <Forenames>Geo</Forenames>
-      <Text>., &amp; Sons, notice of winding-up</Text>
+      <Title>Geo.</Title>
+      <Text>, &amp; Sons, notice of winding-up</Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,8 +716,9 @@
         <PageNumber>1310</PageNumber>
         <PageNumber>ibid.</PageNumber>
         <PageNumber>___ ___ ___</PageNumber>
+        <PageNumber>___ ___</PageNumber>
       </Text>
-      <PageNumber>___ ___</PageNumber>
+      <PageNumber>131</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

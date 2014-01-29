@@ -285,7 +285,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's Own (Yorkshire Light Infantry). Brooke, W. H. (2nd Lieut.)</Text>
+      <Title>King</Title>
+      <Text>'s Own (Yorkshire Light Infantry). Brooke, W. H. (2nd Lieut.)</Text>
       <PageNumber>6721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. (seconded)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's (Shropshire Light Infantry). Bell, H. C. F. (Lieut.)</Text>
+      <Title>King</Title>
+      <Text>'s (Shropshire Light Infantry). Bell, H. C. F. (Lieut.)</Text>
       <PageNumber>7017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Text>P: F. (Capt.)</Text>
+      <Forenames>P</Forenames>
+      <Text>: F. (Capt.)</Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +696,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon! Maj. F. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon! Maj. F. J. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bigge</Key>
-      <Text>J. N.. (2nd Lieut.)</Text>
+      <Text>.J. N.. (2nd Lieut.)</Text>
       <PageNumber>6721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fortescue</Key>
-      <Text>Lieut.-Col. and Brevet Col. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col. (half-pay)</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,8 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mockett</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>8973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +844,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L, (2nd Lieut.) .</Text>
+      <Forenames>L</Forenames>
+      <Text>, (2nd Lieut.) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +905,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,14 +1070,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>W: (Hon. Lieut.-Col.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: (Hon. Lieut.-Col.)</Text>
       <PageNumber>7632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's (North Staffordshire Regiment). LyonC:H: (Adj.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's (North Staffordshire Regiment). LyonC:H: (Adj.)</Text>
       <PageNumber>7218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>Capt., E.H. (seconded). .,</Text>
+      <Title>Capt.</Title>
+      <Text>, E.H. (seconded). .,</Text>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>

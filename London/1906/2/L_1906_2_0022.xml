@@ -369,7 +369,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>Lieut.. A. E. (resigned) ..</Text>
+      <Title>Lieut.</Title>
+      <Text>. A. E. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,8 +579,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDougall</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolly</Key>
-      <Text>Maj. and Hon. Lieut.-Col, T. R. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Col, T. R. (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +955,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt:) ..</Text>
+      <Title>(temporary Capt:)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,8 +999,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cureton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. E. (resigned)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,8 +1065,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scatliff</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. H. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. H. E. (resigned)</Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,8 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Draper</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. A. (resigned)</Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1269,7 @@
       <PageNumber>2981</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Aberdeenshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>

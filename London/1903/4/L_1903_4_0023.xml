@@ -62,9 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcester</Key>
-      <Title>Acting</Title>
-      <Forenames>Chap</Forenames>
-      <Text>., Dean of (resigned)</Text>
+      <Title>Acting Chap.</Title>
+      <Text>, Dean of (resigned)</Text>
       <PageNumber>8025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,8 +107,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. (resigned)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trench</Key>
-      <Text>Lieut..Col. S. J. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. S. J. (half-pay)</Text>
       <PageNumber>8338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,8 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. B. (super.).. G</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. B. (super.).. G</Text>
       <PageNumber>785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loekhurt</Key>
-      <Text>B, S. (2nd Lieut.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, S. (2nd Lieut.)</Text>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paine</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. R. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. R. K. (resigned)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +921,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>A M. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>M. (2nd Lieut.)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>

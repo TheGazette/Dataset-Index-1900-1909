@@ -158,7 +158,8 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E,.N. Gunsaulus, Consul at Toronto for the</Text>
+      <Forenames>E</Forenames>
+      <Text>,.N. Gunsaulus, Consul at Toronto for the</Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>H.R.H. the 'Prince Of: Appointment of H.R.H. as General, supernumerary to Establishment</Text>
+      <Title>H.R.H.</Title>
+      <Text>the 'Prince Of: Appointment of H.R.H. as General, supernumerary to Establishment</Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,16 +325,9 @@
       <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ —— ___</KeyDitto>
-      </Key>
-      <Forenames>Commission</Forenames>
-      <Text>of Lieutenancy forthe City of London</Text>
-      <PageNumber>447</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>
+    <KeyDitto>___ ___ ___ —— ___</KeyDitto>
+  </CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Warminster</Key>
@@ -500,9 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windmill-hill</Key>
-      <Title>St.</Title>
-      <Forenames>Michael</Forenames>
-      <Text>.and All Angels, district chapelry, -Order in Council</Text>
+      <Title>St. Michael .</Title>
+      <Text>and All Angels, district chapelry, -Order in Council</Text>
       <PageNumber>2045</PageNumber>
     </MainItem>
   </ItemGroup>

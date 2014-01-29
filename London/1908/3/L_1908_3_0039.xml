@@ -446,7 +446,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +650,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +691,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +766,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edridge</Key>
-      <Text>Sir F. T. (Hon. Col.)</Text>
+      <Text>. Sir F. T. (Hon. Col.)</Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashcombe</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranbrook</Key>
-      <Text>Earl of, (Hon. Col.) '</Text>
+      <Title>Earl</Title>
+      <Text>of, (Hon. Col.) '</Text>
       <PageNumber>7032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Text>Viscount (Lieut.-Col. and Hon. Col.) .. .. .. ..</Text>
+      <Title>Viscount (Lieut.-Col. and Hon. Col.)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murton</Key>
-      <Text>C. D. (Capt.)..</Text>
+      <Text>. C. D. (Capt.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

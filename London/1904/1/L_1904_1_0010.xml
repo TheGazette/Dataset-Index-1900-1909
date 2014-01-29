@@ -156,7 +156,7 @@
       <Key>
         <KeyDitto>-.</KeyDitto>
       </Key>
-      <Forenames>Glass</Forenames>
+      <Title>Glass.</Title>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>Maj.-Geh. A. H. W., Knight Commander, Royal Victorian Order'</Text>
+      <Title>Maj.</Title>
+      <Text>-Geh. A. H. W., Knight Commander, Royal Victorian Order'</Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,6 +250,7 @@
       <PageNumber>1869</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS,</CategoryTitle>
   <SubSectionTitle>'Army Council</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -262,7 +264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayly</Key>
-      <Text>Lieut.-Col. and Brev..Col, A. . W. L., Asst:-Qrmr.-Gen. at HeadQuarters in India</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>.Col, A. . W. L., Asst:-Qrmr.-Gen. at HeadQuarters in India</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +315,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burroughs</Key>
-      <Text>Qrmr. and Hon. Capt. C, Assist. Provost Marshal at the Curragh</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Assist. Provost Marshal at the Curragh</Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabbe</Key>
-      <Text>Col., E. M, S., ChiefStaff Officer, lst-Army-Corps</Text>
+      <Title>Col.</Title>
+      <Text>, E. M, S., ChiefStaff Officer, lst-Army-Corps</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duperier</Key>
-      <Text>Col.(temporary Maj.-Gen.) H. 'W., Director-Gen. of -Military . Works in India</Text>
+      <Title>Col.</Title>
+      <Text>(temporary Maj.-Gen.) H. 'W., Director-Gen. of -Military . Works in India</Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +393,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonds</Key>
-      <Text>Maj. J^. E., Staff-Captain at Head-Quarters</Text>
+      <Title>Maj.</Title>
+      <Forenames>J</Forenames>
+      <Text>^. E., Staff-Captain at Head-Quarters</Text>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fasken</Key>
-      <Text>Lieut.-Col; C. G. M., to command a Brigade and localrank of Brig.-Gen. ill India</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col; C. G. M., to command a Brigade and localrank of Brig.-Gen. ill India</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grierson</Key>
-      <Text>Col. (temporary Brig.-Gen.) j. -M., Director of Operations at Head-Quarters...'</Text>
+      <Title>Col. (temporary Brig.-Gen.)</Title>
+      <Text>j. -M., Director of Operations at Head-Quarters...'</Text>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>

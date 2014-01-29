@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastard</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,8 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson-Buehanan</Key>
-      <Forenames>Or</Forenames>
-      <Text>. J</Text>
+      <Title>Or.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>3149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Locoek</Key>
-      <Text>H: F. L</Text>
+      <Forenames>H</Forenames>
+      <Text>: F. L</Text>
       <PageNumber>3970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marten</Key>
-      <Forenames>Or</Forenames>
-      <Text>. E</Text>
+      <Title>Or.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,14 +406,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q Q ^</Text>
+      <Forenames>Q</Forenames>
+      <Text>Q ^</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southey</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheen</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,14 +486,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Windham</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorbum</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1014,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cusack</Key>
-      <Text>R, O. (Lieut.-Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, O. (Lieut.-Col.)</Text>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1428,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,6 +1635,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Sewell</Key>
+      <Forenames>E. P.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Smith</Key>
       <Forenames>J. W.</Forenames>
       <Text>(temporary Lieut.)</Text>
@@ -1823,6 +1834,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Wheeler</Key>
+      <Forenames>A.</Forenames>
+      <Text>(Qrmr) .. ..-</Text>
+      <PageNumber>3893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>White</Key>
       <Forenames>H. L. E.</Forenames>
       <Text>(Lieut.-Col.)</Text>
@@ -1865,8 +1884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bate</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. P. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. P. (resigned)</Text>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1881,8 +1900,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cureton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. (resigned)</Text>
       <PageNumber>431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1905,8 +1924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. D. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. D. L. (resigned)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1921,8 +1940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. C. (re-appointed)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. C. (re-appointed)</Text>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1947,7 +1966,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Maj.)</Text>
+      <Title>(Surg.-Maj.)</Title>
       <PageNumber>2686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,16 +1997,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>2044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Phelps</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. H. G. (removed from List by seniority)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. H. G. (removed from List by seniority)</Text>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>

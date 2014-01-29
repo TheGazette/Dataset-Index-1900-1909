@@ -309,7 +309,7 @@
       <Key>
         <KeyDitto>___ ___ ___ : ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fosbery</Key>
-      <Text>Lieut.-C. T. V. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-C. T. V. (resigned)</Text>
       <PageNumber>1005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,14 +423,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutton-Riddell</Key>
-      <Text>R (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +512,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +553,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ... . ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. S. (resigned)</Text>
       <PageNumber>295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>H, (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radclyffe</Key>
-      <Text>Capt. and Instr. of Musketry C. R. E. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry C. R. E. (seconded)</Text>
       <PageNumber>2203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,7 +1810,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>

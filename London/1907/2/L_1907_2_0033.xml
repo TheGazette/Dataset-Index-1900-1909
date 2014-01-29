@@ -122,7 +122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>, Hon. B</Text>
+      <Title>Hon.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Begnart</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>2414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eoberts-West</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wishart</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>.J</Text>
+      <Text>J</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Legier, A. S. .. .. ..</Text>
+      <Text>Legier, A. S. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wormell</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gavin</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>3191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferris</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, Capt. CT. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Text>CT. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

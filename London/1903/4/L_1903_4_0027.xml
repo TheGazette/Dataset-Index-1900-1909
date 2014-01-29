@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvest</Key>
-      <Text>Capt.' H. D. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>' H. D. (retired)</Text>
       <PageNumber>6090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +122,8 @@
       <Key>
         <KeyDitto>--</KeyDitto>
       </Key>
-      <Text>(resigned)' ..' ..</Text>
+      <Title>(resigned)</Title>
+      <Text>' ..' ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +157,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aleri-Mahon</Key>
-      <Text>Capt. L: (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>L</Forenames>
+      <Text>: (resigned)</Text>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +277,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Hon;' Maj. R. R. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon;' Maj. R. R. (resigned)</Text>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +366,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>J). G. (Adj.) i</Text>
+      <Forenames>J</Forenames>
+      <Text>). G. (Adj.) i</Text>
       <PageNumber>8268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>C J.^</Text>
+      <Forenames>C</Forenames>
+      <Text>J.^</Text>
       <PageNumber>8501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>G:,S...</Text>
+      <Forenames>G</Forenames>
+      <Text>:,S...</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

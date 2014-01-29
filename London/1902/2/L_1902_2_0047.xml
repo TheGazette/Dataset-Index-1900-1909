@@ -341,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>Capt.. A. S. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>. A. S. (resigned)</Text>
       <PageNumber>4672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,8 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. H. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. H. (super.)</Text>
       <PageNumber>8445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,8 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Masson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. B. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. B. (super.)</Text>
       <PageNumber>8445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,8 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. (resigned)</Text>
       <PageNumber>8445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. C. A. (Hon. Col.)</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. C. A. (Hon. Col.)</Text>
       <PageNumber>7538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +937,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Text>Capt. and Instr. of Musketry G. P. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry G. P. (resigned)</Text>
       <PageNumber>8593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,8 +1096,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. (super.)</Text>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,8 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manning</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. B. (resigned)</Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,8 +1364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuppaidge</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-t.apt. J. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-t.apt. J. L. (resigned)</Text>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>

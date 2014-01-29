@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, Lieut. II. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. C. (resigned)</Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +75,8 @@
       <Key>
         <KeyDitto>___ ___ :—!-</KeyDitto>
       </Key>
-      <Text>Lieut. G-. A. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. A. C. (resigned)</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +290,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>9064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +561,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +716,8 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Capt.) .. .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +744,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Cant.)</Text>
+      <Title>(Cant.)</Title>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zouche</Key>
-      <Text>, Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +964,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1090,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulton-Barrett</Key>
-      <Text>, H P. (Second in Command and temporary vlaj.)</Text>
+      <Forenames>H</Forenames>
+      <Text>P. (Second in Command and temporary vlaj.)</Text>
       <PageNumber>8916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>, D C. H. (Capt.)</Text>
+      <Forenames>D</Forenames>
+      <Text>C. H. (Capt.)</Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,7 +1461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Menzies</Key>
-      <Text>, F (Hon. Capt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falcon</Key>
-      <Text>, f. (Lieut.)</Text>
+      <Text>f. (Lieut.)</Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>, Capt. VV. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. (resigned)</Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>

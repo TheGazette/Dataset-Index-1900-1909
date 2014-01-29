@@ -119,7 +119,6 @@
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SubSectionTitle>Promotions</SubSectionTitle>
   <SubSectionTitle>Colonel of Regiment</SubSectionTitle>
   <SubSectionTitle>101st Grenadiers</SubSectionTitle>
@@ -294,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, OR... ...</Text>
+      <Text>OR... ...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovell</Key>
-      <Text>,.AN</Text>
+      <Text>.AN</Text>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blane</Key>
-      <Text>.H. S. ..</Text>
+      <Text>H. S. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harboard</Key>
-      <Text>. L. B</Text>
+      <Text>L. B</Text>
       <PageNumber>653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,14 +897,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Text>,.A. W</Text>
+      <Text>.A. W</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>. H. F. F.</Text>
+      <Text>H. F. F.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1087,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toker</Key>
-      <Text>, R, G. ..</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeats-Brown</Key>
-      <Text>,' F. C. C,</Text>
+      <Text>' F. C. C,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>.T.A. ..</Text>
+      <Text>T.A. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

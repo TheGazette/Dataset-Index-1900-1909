@@ -134,7 +134,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) .. ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,8 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>ChristieMOlar</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Capt.) .. ..</Text>
+      <Title>Gr. (Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Q.rmr. and Hon. Capt.) .</Text>
+      <Title>Gr. (Q.rmr. and Hon. Capt.)</Title>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>C; H. F. (Lieut.-Col. and</Text>
+      <Forenames>C</Forenames>
+      <Text>; H. F. (Lieut.-Col. and</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +618,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ -. ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,14 +658,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Text>Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>W. C. (Capt.)</Text>
+      <Text>. W. C. (Capt.)</Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +879,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>7029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,8 +943,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Forenames>Right</Forenames>
-      <Text>. Hon. Duke of (Hon. Col.)</Text>
+      <Title>Right. Hon. Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1082,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) .. ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1349,7 +1354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolley</Key>
-      <Text>T. H. C. (Lieut.) ., ..</Text>
+      <Text>.T. H. C. (Lieut.) ., ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1414,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. and Hon. Col.)</Text>
+      <Title>(Lieut.-Col. and Hon. Col.)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1431,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,8 +1473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Althorp</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Viscount (Maj. and Hon. Lieut.-Col.)</Text>
+      <Title>Rt. Hon. Viscount (Maj. and Hon. Lieut.-Col.)</Title>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1583,7 +1588,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Euston</Key>
-      <Text>Earl of (Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.)</Text>
       <PageNumber>5640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1598,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>6952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1607,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon. Col. Earl of (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>5640</PageNumber>
     </MainItem>
   </ItemGroup>

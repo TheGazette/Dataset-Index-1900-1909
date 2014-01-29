@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, S;</Text>
+      <Forenames>S</Forenames>
+      <Text>;</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +589,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +615,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +641,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Braithwaite</Key>
-      <Text>, Lieut.-Col. . W. P., General Staff Officer, lst Grade</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>. W. P., General Staff Officer, lst Grade</Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +921,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired) ..</Text>
+      <Title>(retired)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +945,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>, Lieut.-.Col. D. F. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-.Col. D. F. (retired)</Text>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,8 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleby</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. F. H. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. F. H. (retired)</Text>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,8 +1055,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. S. M. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. S. M. (cancellation)</Text>
       <PageNumber>2851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,8 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. J. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. J. (retired pay)</Text>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,8 +1113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. J. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. J. (retired pay)</Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,8 +1155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. R. H. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. R. H. (retired pay)</Text>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>

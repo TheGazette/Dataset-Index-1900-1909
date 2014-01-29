@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>, Qrmr. and Hon. 'Capt. A. E., CampQrmr. at Aldershot and Hon. Maj</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>'Capt. A. E., CampQrmr. at Aldershot and Hon. Maj</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, Lieut.-Cbl. and Brev. Col. A. R., Assist. Adj.-Gen. in India, and Col</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cbl. and Brev. Col. A. R., Assist. Adj.-Gen. in India, and Col</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stawell</Key>
-      <Text>, Lieut.-Col. and Brev. Col. G: D., Director of Military Education inIndia, and Col</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>G</Forenames>
+      <Text>: D., Director of Military Education inIndia, and Col</Text>
       <PageNumber>6571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Text>, .Maj. and Brev. Liout.-Col. and Deputy-Assist. Adj.-Gen</Text>
+      <Text>.Maj. and Brev. Liout.-Col. and Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>6400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +270,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorke</Key>
-      <Text>, Col. F; A., Col. on the Staff for Royal Artillery .. .. ..</Text>
+      <Title>Col.</Title>
+      <Forenames>F</Forenames>
+      <Text>; A., Col. on the Staff for Royal Artillery .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baggage</Key>
-      <Text>Master and Intelligence Officer: Shute, Capt. C. D. D</Text>
+      <Title>Master</Title>
+      <Text>and Intelligence Officer: Shute, Capt. C. D. D</Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Battine</Key>
-      <Text>, Capt.. C. W„ Railway Staff Officer</Text>
+      <Title>Capt.</Title>
+      <Text>. C. W„ Railway Staff Officer</Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,8 +467,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Text>, Maj.-Gen. O'M., General Officer Commanding</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>O</Forenames>
+      <Text>'M., General Officer Commanding</Text>
       <PageNumber>6172</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Delamain</Key>
+      <Title>Maj.</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>, Special Service Officer</Text>
+      <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -520,7 +539,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norie</Key>
-      <Text>, Maj. K! W. M., Assist. Qrmr.Gen. '</Text>
+      <Title>Maj.</Title>
+      <Forenames>K</Forenames>
+      <Text>! W. M., Assist. Qrmr.Gen. '</Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Text>,' Capt. A. W. S.,. DeputyAssist. Qrmr.-Gen</Text>
+      <Text>' Capt. A. W. S.,. DeputyAssist. Qrmr.-Gen</Text>
       <PageNumber>6172</PageNumber>
     </MainItem>
   </ItemGroup>

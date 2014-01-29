@@ -138,7 +138,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kohout</Key>
-      <Text>Col. O, Hon. Commander, Royal Victorian Order</Text>
+      <Title>Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Hon. Commander, Royal Victorian Order</Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leese</Key>
-      <Text>'Sir J. F., created a Baronet</Text>
+      <Text>.'Sir J. F., created a Baronet</Text>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +321,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullaly</Key>
-      <Text>Col. (Brig.-Gen.) H Com.pariion of the Star of India</Text>
+      <Title>Col. (Brig.-Gen.)</Title>
+      <Forenames>H</Forenames>
+      <Text>Com.pariion of the Star of India</Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +492,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>Lieut.-Col. and Brevet Col. W E., Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>E., Companion of the Bath</Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pipe</Key>
-      <Text>J, Commander of the Royal Vietorian Order</Text>
+      <Forenames>J</Forenames>
+      <Text>, Commander of the Royal Vietorian Order</Text>
       <PageNumber>6894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Aldwyn, Viscount, Land Transfer Acts Commissioner</Text>
+      <Text>. Aldwyn, Viscount, Land Transfer Acts Commissioner</Text>
       <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,8 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteley</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. &amp;., created Baron Marchamley of Hawkstone</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>&amp;., created Baron Marchamley of Hawkstone</Text>
       <PageNumber>4938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1065,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>Col. (Brig.-Gen.) C. A., Maj.-Gen. super</Text>
+      <Title>Col. (Brig.-Gen.)</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>, Maj.-Gen. super</Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>

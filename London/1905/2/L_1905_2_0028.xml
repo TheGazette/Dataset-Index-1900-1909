@@ -90,7 +90,6 @@
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SubSectionTitle>Promotions</SubSectionTitle>
   <SubSectionTitle>LieutenantGeneral</SubSectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -150,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lampen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coape-Smith</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nurse</Key>
-      <Text>, H.H</Text>
+      <Title>H.H.</Title>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>, 0. E. N</Text>
+      <Text>0. E. N</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, 0. W. G</Text>
+      <Text>0. W. G</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweddell</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DOyly</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ussher</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathew</Key>
-      <Text>, Lieut. T</Text>
+      <Title>Lieut.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1083,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prall</Key>
-      <Text>, OB</Text>
+      <Text>OB</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

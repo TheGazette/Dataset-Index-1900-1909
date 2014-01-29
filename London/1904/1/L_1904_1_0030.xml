@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +25,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>(correction) ;; ..</Text>
+      <Title>(correction)</Title>
+      <Text>;; ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMahon</Key>
-      <Text>(correction) ;;</Text>
+      <Title>(correction)</Title>
+      <Text>;;</Text>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenaway</Key>
-      <Text>Lieut.-G61. T</Text>
+      <Title>Lieut.</Title>
+      <Text>-G61. T</Text>
       <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +198,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ -— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannerman</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,21 +262,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarkies</Key>
-      <Text>(correction) „ .. .</Text>
+      <Title>(correction)</Title>
+      <Text>„ .. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shone</Key>
-      <Text>(correction) ....</Text>
+      <Title>(correction)</Title>
+      <Text>....</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>(correction).!</Text>
+      <Title>(correction)</Title>
+      <Text>.!</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,15 +434,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>W; J;</Text>
+      <Forenames>W</Forenames>
+      <Text>; J;</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
-      <Forenames>Hi</Forenames>
-      <Text>.. .. .. ..</Text>
+      <Title>Hi .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>Maj.-G: R. de H. .. ..</Text>
+      <Title>Maj.</Title>
+      <Text>-G: R. de H. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +527,7 @@
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>; BEDFORDSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>BEDFORDSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
@@ -566,7 +574,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuyler</Key>
-      <Text>Sir C, Bart. (Adj/)' .. .;</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart. (Adj/)' .. .;</Text>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +590,7 @@
       <PageNumber>183</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>CAMBRIDGE. UNIVERSITY</SubCategoryTitle>
+  <SubCategoryTitle>UNIVERSITY</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
@@ -615,7 +625,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browning</Key>
-      <Text>Capt. and Ihstr. of Musketry K. C. (resignqd) . ' :</Text>
+      <Title>Capt. and Ihstr.</Title>
+      <Text>of Musketry K. C. (resignqd) . ' :</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrar</Key>
-      <Text>Lieut.. J. E. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. J. E. (resigned)</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +738,7 @@
     </MainItem>
   </ItemGroup>
   <SubCategoryTitle>' CINQUE PORTS.</SubCategoryTitle>
-  <SubCategoryTitle>DENBIGHSHIRE;</SubCategoryTitle>
-  <SubCategoryTitle>' DEVONSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>DEVONSHIRE</SubCategoryTitle>
   <SubCategoryTitle>DORSETSHIRE</SubCategoryTitle>
   <SubCategoryTitle>DUMBARTONSHIRE</SubCategoryTitle>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

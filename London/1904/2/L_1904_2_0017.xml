@@ -155,7 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Text>Maj.-Glen. R. S. R. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>-Glen. R. S. R. (retired)</Text>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>Lord (Gen.)</Text>
+      <Title>Lord (Gen.)</Title>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>R A. (local rank of Lieut, in South Africa)</Text>
+      <Forenames>R</Forenames>
+      <Text>A. (local rank of Lieut, in South Africa)</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>Lieut.-Col. and Brev. Col. . H. T. (retired)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>. H. T. (retired)</Text>
       <PageNumber>3555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Text>Lord (Gen.)</Text>
+      <Title>Lord (Gen.)</Title>
       <PageNumber>3413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quill</Key>
-      <Text>Lieut.-tol. B. C. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-tol. B. C. (retired)</Text>
       <PageNumber>2927</PageNumber>
     </MainItem>
   </ItemGroup>

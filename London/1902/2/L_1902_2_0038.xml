@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craik</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. G. (resigned) ..</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. G. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,8 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Or. (Capt.)</Title>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,9 +186,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Forenames>Or</Forenames>
-      <Text>., jun. (resigned)</Text>
+      <Title>Capt. Or.</Title>
+      <Text>, jun. (resigned)</Text>
       <PageNumber>7017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,8 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. S. (resigned)</Text>
       <PageNumber>7538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>Duke of (resigned)</Text>
+      <Title>Duke</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>7538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +377,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Earl (correction)</Text>
+      <Title>Earl (correction)</Title>
       <PageNumber>8368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +510,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoffman</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. and Hon. Col. G. J. J. (retired) .. .. .. ..</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. and Hon. Col. G. J. J. (retired) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,8 +552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Licut. E. Gr. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Licut. E. Gr. (resigned)</Text>
       <PageNumber>8593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burbey</Key>
-      <Text>J; L. (Lieut.) .. .. .. ——</Text>
+      <Forenames>J</Forenames>
+      <Text>; L. (Lieut.) .. .. .. ——</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,8 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyflin</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned)</Text>
       <PageNumber>8846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,8 +1230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. O. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. O. (resigned)</Text>
       <PageNumber>7538</PageNumber>
     </MainItem>
   </ItemGroup>

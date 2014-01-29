@@ -165,7 +165,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooker</Key>
-      <Forenames>Gt</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gt. (2nd Lieut.)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>C. E. (Lieut.-Col.)</Text>
+      <Text>. C. E. (Lieut.-Col.)</Text>
       <PageNumber>6231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +740,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +968,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>S, H. (2nd Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>, H. (2nd Lieut.)</Text>
       <PageNumber>7029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>C. M. (Capt. and Hon. Maj.)</Text>
+      <Text>. C. M. (Capt. and Hon. Maj.)</Text>
       <PageNumber>6952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archbutt</Key>
-      <Text>W. H. (Capt.)</Text>
+      <Text>. W. H. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1620,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

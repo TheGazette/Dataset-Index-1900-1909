@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Musgrave</Key>
-      <Text>, Hon. Lady, Lady in Waiting to H.R.H. Princess Victoria</Text>
+      <Title>Hon. Lady, Lady</Title>
+      <Text>in Waiting to H.R.H. Princess Victoria</Text>
       <PageNumber>2111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of, Earl Marshal</Text>
+      <Title>Duke</Title>
+      <Text>of, Earl Marshal</Text>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perak</Key>
-      <Text>, H.H. the Sultan of, Honorary Knight Grand Cross of St. Michael and St. George</Text>
+      <Title>H.H.</Title>
+      <Text>the Sultan of, Honorary Knight Grand Cross of St. Michael and St. George</Text>
       <PageNumber>2945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plumer</Key>
-      <Text>, Brig.-Gen.H. C. O., Companion of the Bath</Text>
+      <Title>Brig.</Title>
+      <Text>-Gen.H. C. O., Companion of the Bath</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poltimore</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>3122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Portal</Key>
-      <Text>,' W. S., created a Baronet</Text>
+      <Text>' W. S., created a Baronet</Text>
       <PageNumber>2776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>, Duke of, Master of the Horse</Text>
+      <Title>Duke</Title>
+      <Text>of, Master of the Horse</Text>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +598,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Bart., Physician Extraordinary to His Majesty</Text>
+      <Title>Bart.</Title>
+      <Text>, Physician Extraordinary to His Majesty</Text>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ravenhill</Key>
-      <Text>, PrivateC, Victoria Cross</Text>
+      <Text>PrivateC, Victoria Cross</Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,16 +819,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Reineck</Key>
-      <Forenames>Gen</Forenames>
-      <Text>., Hon. Knight Commander of the Royal Victorian Order</Text>
+      <Title>Gen., Hon.</Title>
+      <Forenames>Knight</Forenames>
+      <Text>Commander of the Royal Victorian Order</Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Renvers</Key>
-      <Forenames>Prof</Forenames>
-      <Text>., Hon. Knight Commander of the Royal Victorian Order.. ..</Text>
+      <Title>Prof., Hon.</Title>
+      <Forenames>Knight</Forenames>
+      <Text>Commander of the Royal Victorian Order.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rimington</Key>
-      <Text>, Lieut.-Col, M. F., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col, M. F., Companion of the Bath</Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +964,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Earl, of Kandahar, Knight Companion of the Garter</Text>
+      <Title>Earl</Title>
+      <Text>, of Kandahar, Knight Companion of the Garter</Text>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +974,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Field-Marshal Earl, Knight of Grace of St. John of Jerusalem</Text>
+      <Title>Field-Marshal Earl</Title>
+      <Text>, Knight of Grace of St. John of Jerusalem</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1064,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rookwood</Key>
-      <Text>, Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>1575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,15 +1142,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. C, Companion of St. Michael and St. George</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. C, Companion of St. Michael and St. George</Text>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Text>, Duke of, a Privy Councillor</Text>
+      <Title>Duke</Title>
+      <Text>of, a Privy Councillor</Text>
       <PageNumber>4093</PageNumber>
     </MainItem>
   </ItemGroup>

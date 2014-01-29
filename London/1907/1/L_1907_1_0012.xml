@@ -19,32 +19,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Nettle</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.. Lieut.-Col. W</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.. Lieut.-Col. W</Text>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicol</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Maj. A... .. ..</Text>
+      <Title>Surgn.</Title>
+      <Text>-Maj. A... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Purcell</Key>
-      <Text>, HOD. Chaplain Her. Canon H.N</Text>
+      <Text>HOD. Chaplain Her. Canon H.N</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. A. T.</Text>
+      <Title>Maj. and Hon. Lient.</Title>
+      <Text>-Col. A. T.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibbald</Key>
-      <Text>, F E</Text>
+      <Forenames>F</Forenames>
+      <Text>E</Text>
       <PageNumber>1194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winzer</Key>
-      <Text>,H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>, Earl of (Lieut.-Col.) ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerard</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1067</PageNumber>
       <PageNumber>2003</PageNumber>
     </MainItem>
@@ -484,7 +485,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1067</PageNumber>
       <PageNumber>2003</PageNumber>
     </MainItem>
@@ -718,7 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, Lieut.-Col.. and Brevet Col. C. W. (half-pay)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>. and Brevet Col. C. W. (half-pay)</Text>
       <PageNumber>1927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +886,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>,.Capt. M. R. H. (seconded)</Text>
+      <Text>.Capt. M. R. H. (seconded)</Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1123,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>

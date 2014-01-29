@@ -40,7 +40,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +77,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrne</Key>
-      <Text>, BT. (Comdt. and Lieut.-Col.)</Text>
+      <Text>BT. (Comdt. and Lieut.-Col.)</Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
     <SubItem>
@@ -136,7 +136,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +364,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Text>, . Temporary Lieut.-Col. E. B. (leaves Corps)</Text>
+      <Text>. Temporary Lieut.-Col. E. B. (leaves Corps)</Text>
       <PageNumber>3771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cory</Key>
-      <Text>, E: J. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: J. (Capt.)</Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,8 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coudrough</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Or. (Lieut.)</Title>
       <PageNumber>3199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowley</Key>
-      <Text>, Lieut. Earl (resigned)</Text>
+      <Title>Lieut. Earl (resigned)</Title>
       <PageNumber>1147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +510,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Second in Command and temporary Maj.)</Text>
+      <Title>(Second in Command and temporary Maj.)</Title>
       <PageNumber>3381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>, Capt. Lord (antedated)</Text>
+      <Title>Capt. Lord (antedated)</Title>
       <PageNumber>1148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +621,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +647,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dore</Key>
-      <Text>, E; J. Or. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>; J. Or. (Lieut.)</Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>, Temporary Maj. Earl of (Deputy-Assist, Adj.-Gen.)</Text>
+      <Title>Temporary Maj. Earl</Title>
+      <Text>of (Deputy-Assist, Adj.-Gen.)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dungarvan</Key>
-      <Text>, Viscount (Second in Command and temporary Maj.)</Text>
+      <Title>Viscount (Second in Command and temporary Maj.)</Title>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,14 +809,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmerson</Key>
-      <Text>, G-. (Lieut.)</Text>
+      <Text>G-. (Lieut.)</Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ennismore</Key>
-      <Text>, Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>, Earl, Temporary Maj. (resigned)</Text>
+      <Title>Earl, Temporary Maj. (resigned)</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +966,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Comdt. and temporary Lieut.-Col.)</Text>
+      <Title>(Comdt. and temporary Lieut.-Col.)</Title>
       <PageNumber>3198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1088,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr.)</Text>
+      <Title>(Qrmr.)</Title>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1239,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1377,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1710,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt; and Adj.)</Text>
+      <Title>(Capt; and Adj.)</Title>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1862,9 +1864,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jagger</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. H. C. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. H. C. (resigned)</Text>
       <PageNumber>1651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1898,7 +1899,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Comdt. and temporary Lieut.-Col.)</Text>
+      <Title>(Comdt. and temporary Lieut.-Col.)</Title>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>

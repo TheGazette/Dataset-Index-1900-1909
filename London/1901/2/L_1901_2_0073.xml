@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="073" pageID="https://www.thegazette.co.uk/id/London/index/year/1901/volume/2/page/073" pagePDF="https://www.thegazette.co.uk/London/index/year/1901/volume/2/page/073" pageRDF="https://www.thegazette.co.uk/London/index/year/1901/volume/2/page/073?view=linked-data" type="index" volume="2" year="1901">
-  <SubCategoryTitle>LANARKSHIRE. Volunteer Corps. LONDON</SubCategoryTitle>
+  <SubCategoryTitle>LONDON</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Imperial</Key>
@@ -20,8 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jardine</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,14 +435,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>,' W. G: (Vet.-Lieut.)</Text>
+      <Text>' W. G: (Vet.-Lieut.)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harrissbnj</Key>
-      <Text>D: (Surg:-Maj.)</Text>
+      <Forenames>D</Forenames>
+      <Text>: (Surg:-Maj.)</Text>
       <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>tfeiwtohyLord</Key>
-      <Text>(Maj:) v. . .;</Text>
+      <Title>(Maj:)</Title>
+      <Text>v. . .;</Text>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +476,8 @@
       <Key>
         <KeyDitto>___ ___ \ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W; L. (Maj.)</Text>
+      <Forenames>W</Forenames>
+      <Text>; L. (Maj.)</Text>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. (resigned)</Text>
       <PageNumber>7399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, R: M. (Hon. Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>: M. (Hon. Maj.)</Text>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,8 +785,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. D. (resigned)</Text>
       <PageNumber>0175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, Earl (Hon. Col.)</Text>
+      <Title>Earl (Hon. Col.)</Title>
       <PageNumber>5259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,14 +912,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kesteven</Key>
-      <Text>, Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Larken</Key>
-      <Text>,' E. (2nd Lieut.)</Text>
+      <Text>' E. (2nd Lieut.)</Text>
       <PageNumber>5596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +936,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Maj:),</Text>
+      <Title>(Maj:)</Title>
+      <Text>,</Text>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +969,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willougbby</Key>
-      <Text>, Lord de Eresby (Capt.)</Text>
+      <Title>Lord</Title>
+      <Text>de Eresby (Capt.)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarborough</Key>
-      <Text>, Earl of (Lieut.-Col. and to command) ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, Maj. (Hon. Lieut.-Col. on retire. ment into Veteran Company)</Text>
+      <Title>Maj. (Hon. Lieut.-Col. on retire. ment into Veteran Company)</Title>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodges</Key>
-      <Text>, 0. C. (Capt.)</Text>
+      <Text>0. C. (Capt.)</Text>
       <PageNumber>7048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, .Capt. J. M. (resigned)</Text>
+      <Text>.Capt. J. M. (resigned)</Text>
       <PageNumber>8643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,8 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitllnd</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.-Col. and to ,, . '. command) .. -</Text>
+      <Title>Visct. (Lieut.-Col. and to ,, . '. command)</Title>
+      <Text>.. -</Text>
       <PageNumber>5259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1140,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1182,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,8 +1231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Magniac</Key>
-      <Forenames>Qrinr</Forenames>
-      <Text>. (correction)</Text>
+      <Title>Qrinr. (correction)</Title>
       <PageNumber>8644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>,-H. W: (Surg.-Lieut.)</Text>
+      <Text>-H. W: (Surg.-Lieut.)</Text>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,8 +1289,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. W. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. W. (seconded)</Text>
       <PageNumber>8644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of (Hon. Col.)</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of (Hon. Col.)</Text>
       <PageNumber>8644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,14 +1441,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>9069</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hepworth</Key>
-      <Text>, Maj. arid Hon. Lieut.-Col. j. S. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>arid Hon. Lieut.-Col. j. S. (resigned)</Text>
       <PageNumber>4959</PageNumber>
     </MainItem>
   </ItemGroup>

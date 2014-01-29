@@ -106,7 +106,6 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Lancashire</SubSectionTitle>
-  <SubCategoryTitle>SURREY. Hon. Captain</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Imperial</Key>
@@ -240,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, G-. R. (2nd Lieut.)</Text>
+      <Text>G-. R. (2nd Lieut.)</Text>
       <PageNumber>1392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>, Admiral of the Fleet Sir J. E</Text>
+      <Title>Admiral</Title>
+      <Text>of the Fleet Sir J. E</Text>
       <PageNumber>1579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,14 +398,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of</Text>
       <PageNumber>1874</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aldrich</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkings</Key>
-      <Text>, *A. B</Text>
+      <Text>*A. B</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>, Sir F</Text>
+      <Title>Sir</Title>
+      <Forenames>F</Forenames>
       <PageNumber>899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>, Sir F</Text>
+      <Title>Sir</Title>
+      <Forenames>F</Forenames>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +766,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, Hon. -F. G. P.</Text>
+      <Title>Hon.</Title>
+      <Text>-F. G. P.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powlev</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +953,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodilly</Key>
-      <Text>, fi, B. ..</Text>
+      <Text>fi, B. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Call</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greer</Key>
-      <Text>, 0. I</Text>
+      <Text>0. I</Text>
       <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>

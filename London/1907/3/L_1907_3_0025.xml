@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byers</Key>
-      <Text>, 0. B</Text>
+      <Text>0. B</Text>
       <PageNumber>5122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>, CO-</Text>
+      <Text>CO-</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craster</Key>
-      <Forenames>Or</Forenames>
+      <Title>Or.</Title>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lakin</Key>
-      <Text>.J. H.F</Text>
+      <Text>J. H.F</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timbrell</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackburn</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, CCS</Text>
+      <Text>CCS</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prendergast</Key>
-      <Text>, X H.</Text>
+      <Forenames>X</Forenames>
+      <Text>H.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +848,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, Maj, V. B. (Military Secretary)</Text>
+      <Title>Maj</Title>
+      <Text>, V. B. (Military Secretary)</Text>
       <PageNumber>5458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cann</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bussell</Key>
-      <Forenames>Vety</Forenames>
-      <Text>.-Capt. R. W. (resigned)</Text>
+      <Title>Vety .</Title>
+      <Text>-Capt. R. W. (resigned)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>

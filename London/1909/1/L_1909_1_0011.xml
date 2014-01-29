@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobell</Key>
-      <Text>Brevet' Lieut.-Col. C. M., General Staff Officer at Headquarters, 2nd Grade .. .. S</Text>
+      <Title>Brevet</Title>
+      <Text>' Lieut.-Col. C. M., General Staff Officer at Headquarters, 2nd Grade .. .. S</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,14 +65,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>Capt. II. W., General Staff Officer, 3rd Grade</Text>
+      <Title>Capt.</Title>
+      <Text>II. W., General Staff Officer, 3rd Grade</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>Maj.-Gen. YV. du G., InspectorGen, of Volunteers</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>YV. du G., InspectorGen, of Volunteers</Text>
       <PageNumber>944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meikle</Key>
-      <Text>john, Capt. M. F. M., General Staff Officer, 3rd Grade, at Headquarters .. ,</Text>
+      <Text>.john, Capt. M. F. M., General Staff Officer, 3rd Grade, at Headquarters .. ,</Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Hill, Maj. G. H., Governor and Commander-in-Chief of Barbados, Sclater, Maj.-Gen. H. C, to command a Division</Text>
+      <Text>. Hill, Maj. G. H., Governor and Commander-in-Chief of Barbados, Sclater, Maj.-Gen. H. C, to command a Division</Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wodehouse</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Gen. J. H., to command the Northern Ar.ny</Text>
+      <Title>Lient.</Title>
+      <Text>-Gen. J. H., to command the Northern Ar.ny</Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,8 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. L. F. (resigned)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. L. F. (resigned)</Text>
       <PageNumber>480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grewing</Key>
-      <Text>R J. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>J. (Capt.)</Text>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftesburv</Key>
-      <Text>Capt. Earl of (resigned) S</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (resigned) S</Text>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donovan</Key>
-      <Text>Capt.. S. J. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Text>. S. J. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, O. C. (2nd Lieut.).. ..</Text>
+      <Text>. John, O. C. (2nd Lieut.).. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +998,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Galwey</Key>
-      <Text>Capt.. R. H. (Instructor) ..</Text>
+      <Title>Capt.</Title>
+      <Text>. R. H. (Instructor) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1249,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -153,7 +153,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj-) .. .. H&gt;id. Porter, W. S. (Maj.) ..'</Text>
+      <Title>(Maj-)</Title>
+      <Text>.. .. H&gt;id. Porter, W. S. (Maj.) ..'</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riselly</Key>
-      <Text>S. (Capt.)</Text>
+      <Text>.S. (Capt.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Vincent-Ryan, E. W. (Maj.)</Text>
+      <Text>. Vincent-Ryan, E. W. (Maj.)</Text>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Qrmr. and Hon. Lieut.)</Text>
+      <Title>(Qrmr. and Hon. Lieut.)</Title>
       <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sidebottom</Key>
-      <Text>R, B. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. (Capt.)</Text>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +519,8 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) ,. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>,. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitelocke</Key>
-      <Text>R, H. A. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. A. (Maj.)</Text>
       <PageNumber>1664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1040,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.) ..</Text>
+      <Title>(Lieut.-Col.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1066,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clement</Key>
-      <Text>S. R. (Capt.)</Text>
+      <Text>. S. R. (Capt.)</Text>
       <PageNumber>1027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,8 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeen</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1232,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,14 +1366,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickerdike</Key>
-      <Text>R, B. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. (2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Birley</Key>
-      <Text>Lieut.-Col.' and Hon. Col. R. K. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>' and Hon. Col. R. K. (retired)</Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,7 +1711,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

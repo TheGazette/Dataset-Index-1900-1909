@@ -42,14 +42,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmslow</Key>
-      <Text>, benefice, Order in Council, transfer of patronage</Text>
+      <Text>benefice, Order in Council, transfer of patronage</Text>
       <PageNumber>7212</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wiltshire</Key>
-      <Text>, extension of limits of infected area in</Text>
+      <Text>extension of limits of infected area in</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcestershire</Key>
-      <Text>, infected area, revocation of Order</Text>
+      <Text>infected area, revocation of Order</Text>
       <PageNumber>8424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,8 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. A., Victoria Cross conferred on</Text>
+      <Title>Sergt.</Title>
+      <Text>-Maj. A., Victoria Cross conferred on</Text>
       <PageNumber>7221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zetland</Key>
-      <Text>, revocation of Order as to Strangles in .. .. -</Text>
+      <Text>revocation of Order as to Strangles in .. .. -</Text>
       <PageNumber>6714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ede</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon W. M.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>W. M.</Forenames>
       <Text>, presented to the Rectory of Whitburn</Text>
       <PageNumber>5979</PageNumber>
     </MainItem>
@@ -214,15 +214,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>, Rev. C, recommended to the Bishopric of Worcester</Text>
+      <Title>Rev.</Title>
+      <Forenames>C</Forenames>
+      <Text>, recommended to the Bishopric of Worcester</Text>
       <PageNumber>8979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E. E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E. E.</Forenames>
       <Text>, presented to the Vicarage of Sonning</Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
@@ -379,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>aCourt</Key>
-      <Text>,.Lieut.-Col. Charles, Companion of the Bath</Text>
+      <Text>.Lieut.-Col. Charles, Companion of the Bath</Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, Rev. 'J. W., Chaplain in Ordinary to His Majesty '</Text>
+      <Title>Rev.</Title>
+      <Text>'J. W., Chaplain in Ordinary to His Majesty '</Text>
       <PageNumber>7045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,8 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainger</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rev. Canon</Title>
       <Text>, Chaplain in Ordinary to His Majesty .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -446,7 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albemarle</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Earl of, Companion of the Bath</Text>
+      <Title>Lieut.-Col. and Hon. Col. Earl</Title>
+      <Text>of, Companion of the Bath</Text>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,14 +535,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>, Duke of, Governor and Constable of WindsorCastle</Text>
+      <Title>Duke</Title>
+      <Text>of, Governor and Constable of WindsorCastle</Text>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arthur</Key>
-      <Text>, Capt.. L. R. S., Colonial Secretary of the Gold Coast</Text>
+      <Title>Capt.</Title>
+      <Text>. L. R. S., Colonial Secretary of the Gold Coast</Text>
       <PageNumber>7291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,9 +641,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Title>Rev.</Title>
-      <Forenames>Preb</Forenames>
-      <Text>., Hon. Chaplain to His Majesty</Text>
+      <Title>Rev. Preb., Hon.</Title>
+      <Forenames>Chaplain</Forenames>
+      <Text>to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,15 +709,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bees</Key>
-      <Text>, Private' W., Victoria Cross conferred on</Text>
+      <Title>Private</Title>
+      <Text>' W., Victoria Cross conferred on</Text>
       <PageNumber>8915</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beevor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. C, Companion of St. Michael and St. George</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. C, Companion of St. Michael and St. George</Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belper</Key>
-      <Text>, Lord, Capt. of H.M.'s Corps of Gentlemen-at-Arms</Text>
+      <Title>Lord, Capt.</Title>
+      <Text>of H.M.'s Corps of Gentlemen-at-Arms</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +768,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Benzon</Key>
-      <Text>, Capt. C, Royal Victorian Order, Fourth Class (Hon.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victorian Order, Fourth Class (Hon.)</Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E. R.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E. R.</Forenames>
       <Text>, Hon. Chaplain to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -786,7 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bertie</Key>
-      <Text>, Lieut.-Cpl. Hon. R. H., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cpl. Hon. R. H., Companion of the Bath</Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bikanir</Key>
-      <Text>, Maj. H.H. the Bahadur of, Knight Commander of the Indian . Empire</Text>
+      <Title>Maj. H.H.</Title>
+      <Text>the Bahadur of, Knight Commander of the Indian . Empire</Text>
       <PageNumber>4917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>, .Lieut.-Col. F. G.,Companion of the Bath ,</Text>
+      <Text>.Lieut.-Col. F. G.,Companion of the Bath ,</Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blanc</Key>
-      <Text>,.Deputy Surg.-Gen.iH.J.,!Knight Commander of the Royal Victorian Order</Text>
+      <Text>.Deputy Surg.-Gen.iH.J.,!Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>

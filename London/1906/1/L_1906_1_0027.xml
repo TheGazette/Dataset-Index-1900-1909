@@ -49,7 +49,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned) .. .. ..</Text>
+      <Title>(resigned)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beatson</Key>
-      <Text>Lieut.-Col. and Brev.-Col. F.C. (half-pay) ;</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. F.C. (half-pay) ;</Text>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Text>G, M. (Hon. Maj.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, M. (Hon. Maj.)</Text>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>

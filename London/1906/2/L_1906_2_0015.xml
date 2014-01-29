@@ -290,7 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>J, G., Unofficial Member of the Legislative Council of St. Vincent</Text>
+      <Forenames>J</Forenames>
+      <Text>, G., Unofficial Member of the Legislative Council of St. Vincent</Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,8 +315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. S., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. S., Companion of the Bath</Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>Mrs., Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Mrs., Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +623,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>Admiral of the Fleet Sir E. H., Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Admiral</Title>
+      <Text>of the Fleet Sir E. H., Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +641,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Earl of, Knight Com mander, Royal Victorian Order</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight Com mander, Royal Victorian Order</Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,9 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shenton</Key>
-      <Title>Sir</Title>
-      <Forenames>Geo</Forenames>
-      <Text>., permitted to retain the title of Honourable</Text>
+      <Title>Sir Geo.</Title>
+      <Text>, permitted to retain the title of Honourable</Text>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +760,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sokoto</Key>
-      <Text>H.H., Sultan of, Hon. Companion, St. Michael and St. George</Text>
+      <Title>H.H.</Title>
+      <Text>, Sultan of, Hon. Companion, St. Michael and St. George</Text>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +897,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Brev; Col. H. C, Companion of the Bath</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and Brev; Col. H. C, Companion of the Bath</Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1054,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuffnell</Key>
-      <Text>Mrs., Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Mrs., Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>

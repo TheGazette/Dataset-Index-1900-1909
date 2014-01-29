@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="075" pageID="https://www.thegazette.co.uk/id/London/index/year/1901/volume/2/page/075" pagePDF="https://www.thegazette.co.uk/London/index/year/1901/volume/2/page/075" pageRDF="https://www.thegazette.co.uk/London/index/year/1901/volume/2/page/075?view=linked-data" type="index" volume="2" year="1901">
-  <SubCategoryTitle>NORFOLK (KING'S OWN)</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -111,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,11 +206,10 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>NORTHUMBERLAND (HUSSARS)</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -593,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Text>, Duke of (Maj.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>8615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +696,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut-Col.)</Text>
+      <Title>(Hon. Lieut-Col.)</Title>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>, Brig.-Surg.-Lieut.-Col. G. H. . (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. G. H. . (seconded)</Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>, Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spanton</Key>
-      <Text>, J: W. (Lieut.).. .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>: W. (Lieut.).. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blagrave</Key>
-      <Text>, Capt. and Hon. Maj. (absorbed into Establishment)</Text>
+      <Title>Capt. and Hon. Maj. (absorbed into Establishment)</Title>
       <PageNumber>8935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagot</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. Lord (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col. Lord (resigned)</Title>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. R, B. (absorbed into Establishment)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>R</Forenames>
+      <Text>, B. (absorbed into Establishment)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,7 +1288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abergavenny</Key>
-      <Text>, Marquis of (Hon. Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1307,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leconfield</Key>
-      <Text>, Lord (Lieut.-Col. and to command)</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1398,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Highet</Key>
-      <Text>, 2nd Lieut. JVC. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>JVC. (resigned)</Text>
       <PageNumber>9090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +169,7 @@
       <PageNumber>9176</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Forth Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -235,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Text>,.A. F. A.N. (Lieut.)</Text>
+      <Text>.A. F. A.N. (Lieut.)</Text>
       <PageNumber>6864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>, Viscount.(Lieut.)</Text>
+      <Title>Viscount.(Lieut.)</Title>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerry</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>6932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portarlinaton</Key>
-      <Text>, 2nd Lieut. Earl of (resigned)</Text>
+      <Title>2nd Lieut. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +438,6 @@
       <PageNumber>6778</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Line Battalions</SubCategoryTitle>
   <SectionTitle>The Royal Scots (.Lothian Regiment)</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -483,7 +485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackley</Key>
-      <Text>, Viscount (Maj.)</Text>
+      <Title>Viscount (Maj.)</Title>
       <PageNumber>8903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abernethy</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. (resigned)</Text>
       <PageNumber>8904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,14 +567,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddell</Key>
-      <Text>, 2nd Lieut N. (removed)</Text>
+      <Text>2nd Lieut N. (removed)</Text>
       <PageNumber>9322</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLaren</Key>
-      <Text>, dipt, and Hon. Maj; J. . (resigned) .. .. ,</Text>
+      <Text>dipt, and Hon. Maj; J. . (resigned) .. .. ,</Text>
       <PageNumber>8904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Titterton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. T. (resigned)</Text>
       <PageNumber>9176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, Capt..C.-L. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Text>.C.-L. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rackham-Bullard</Key>
-      <Text>, : 2nd 'Lieut. RA. (resigned) ., .. ... ..,</Text>
+      <Text>: 2nd 'Lieut. RA. (resigned) ., .. ... ..,</Text>
       <PageNumber>9174</PageNumber>
     </MainItem>
   </ItemGroup>

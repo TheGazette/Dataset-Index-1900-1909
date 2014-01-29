@@ -140,8 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walthamstow</Key>
-      <Forenames>St</Forenames>
-      <Text>. .John's Industrial School for Roman Catholic Boys. Certificate resigned</Text>
+      <Title>St.</Title>
+      <Text>.John's Industrial School for Roman Catholic Boys. Certificate resigned</Text>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S«ine-Fever Order of 1903 applied to an area in</Text>
+      <Forenames>S</Forenames>
+      <Text>«ine-Fever Order of 1903 applied to an area in</Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +358,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldroyd</Key>
-      <Text>Rev. C, presented to the Rectory of Snitterby</Text>
+      <Title>Rev.</Title>
+      <Forenames>C</Forenames>
+      <Text>, presented to the Rectory of Snitterby</Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Althorp</Key>
-      <Text>Viscount, Lord Chamberlain</Text>
+      <Title>Viscount, Lord</Title>
+      <Forenames>Chamberlain</Forenames>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +418,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>Maj. C, Companion, Indian Empire</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion, Indian Empire</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,14 +470,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>Rear-Adml. H. D., Knight Commander, Royal Victorian Order</Text>
+      <Text>. Rear-Adml. H. D., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beauchamp</Key>
-      <Text>Earl, A. Privy Councillor</Text>
+      <Title>Earl</Title>
+      <Text>, A. Privy Councillor</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +487,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Captain of the GentJemen-at-Arms</Text>
+      <Title>Captain</Title>
+      <Text>of the GentJemen-at-Arms</Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,8 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Forenames>Ot</Forenames>
-      <Text>.pt. E. E., Commander, .Royal Victorian Order .. ,</Text>
+      <Title>Ot.</Title>
+      <Text>pt. E. E., Commander, .Royal Victorian Order .. ,</Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,8 +563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. R., Companion, Indian Empire</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. R., Companion, Indian Empire</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +596,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>Lieut.-Gon. O. J., Knight Commander of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Gon. O. J., Knight Commander of the Bath</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell-Bannerman</Key>
-      <Text>Rt. Hon. Sir H., Commissioner of H.M.'s Treasury</Text>
+      <Text>.Rt. Hon. Sir H., Commissioner of H.M.'s Treasury</Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colebrooke</Key>
-      <Text>Lord, one f H.M.'s Lordi-in-Waiting in Ordinary</Text>
+      <Title>Lord</Title>
+      <Text>, one f H.M.'s Lordi-in-Waiting in Ordinary</Text>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -162,8 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rateliff-Gaylard</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (resigned and Capt.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (resigned and Capt.)</Text>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birley</Key>
-      <Text>, Rev. H.H. (Acting Chap.)</Text>
+      <Title>Rev. H.H. (Acting Chap.)</Title>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Text>,.F. G. (Lieut.)</Text>
+      <Text>.F. G. (Lieut.)</Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,8 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. G. G. (re' signed and Hon. Surg.-Col.) '</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. G. G. (re' signed and Hon. Surg.-Col.) '</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>,.Lieut. T. M. (resigned)</Text>
+      <Text>.Lieut. T. M. (resigned)</Text>
       <PageNumber>5780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bean</Key>
-      <Text>, J: H. (2hd Lieut.) .. '</Text>
+      <Forenames>J</Forenames>
+      <Text>: H. (2hd Lieut.) .. '</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillerns</Key>
-      <Text>, 0. H. W. (Lieut.) .. .. ~—=</Text>
+      <Text>0. H. W. (Lieut.) .. .. ~—=</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowe</Key>
-      <Text>. Capt. F. J. W. (resigned)</Text>
+      <Text>Capt. F. J. W. (resigned)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>

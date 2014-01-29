@@ -252,7 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsmie</Key>
-      <Text>, Capt. and Instr. of Musketry J. B. E. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. B. E. (resigned)</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,8 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortimer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. Col. W. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. Col. W. (retired)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,9 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Title>Maj.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Maj. Or. (resigned)</Title>
       <PageNumber>2864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bristow</Key>
-      <Text>, 2nd Lieut, S. F. (seconded)</Text>
+      <Text>2nd Lieut, S. F. (seconded)</Text>
       <PageNumber>2620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conyers</Key>
-      <Text>,' Capt. C. (seconded)</Text>
+      <Text>' Capt. C. (seconded)</Text>
       <PageNumber>2440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bashleigh</Key>
-      <Text>, J: K. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: K. (Lieut.)</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,6 +1559,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>O</Key>
+      <Text>'Sullivan, C. J. (2nd Lieut.)</Text>
+      <PageNumber>3037</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Owen</Key>
       <Forenames>A. E. L.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1653,7 +1660,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>, 2nd Lieut. A,C. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A</Forenames>
+      <Text>,C. (seconded)</Text>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>

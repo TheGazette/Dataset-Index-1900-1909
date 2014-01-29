@@ -30,7 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>Col. (temporary Brig.-Gen.) A. R., Second Class District Commander in India</Text>
+      <Title>Col. (temporary Brig.-Gen.)</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>, Second Class District Commander in India</Text>
       <PageNumber>2301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,15 +48,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>Col. (temporary Brig.-Gen.) Sir J. Or., to be Staff Officer to the Inspector-General of the Forces, and temporary Brig.-Gen</Text>
+      <Title>Col. (temporary Brig.-Gen.) Sir</Title>
+      <Forenames>J. Or</Forenames>
+      <Text>., to be Staff Officer to the Inspector-General of the Forces, and temporary Brig.-Gen</Text>
       <PageNumber>3555</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord, temporary Commander of the 4th Army Corps</Text>
+      <Title>Gen. Lord, temporary Commander</Title>
+      <Text>of the 4th Army Corps</Text>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,8 +183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruck</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brev. Col. E. M., Director of Fortifications and Works, and Col</Text>
+      <Title>Lt.-Col. and Brev. Col.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>, Director of Fortifications and Works, and Col</Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalhousie</Key>
-      <Text>Earl of (Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +820,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Chief Instructor)</Text>
+      <Title>(Chief Instructor)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

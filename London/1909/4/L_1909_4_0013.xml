@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>,ose, Capt. F. S. (seconded)</Text>
+      <Text>ose, Capt. F. S. (seconded)</Text>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +179,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capfc.)</Text>
+      <Title>(Capfc.)</Title>
       <PageNumber>8667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>, Lieut. G-. N. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>G-. N. (seconded)</Text>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,14 +576,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, Maj: C. (seconded)</Text>
+      <Title>Maj</Title>
+      <Text>: C. (seconded)</Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, II. G. (Capt.)</Text>
+      <Text>II. G. (Capt.)</Text>
       <PageNumber>9766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>, ,H. S..(Capt:)</Text>
+      <Text>,H. S..(Capt:)</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levita</Key>
-      <Text>,.Maj. C..B. (retired)</Text>
+      <Text>.Maj. C..B. (retired)</Text>
       <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +882,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Onslow</Key>
-      <Text>, VV. H. (Lieut.-Col.)</Text>
+      <Text>VV. H. (Lieut.-Col.)</Text>
       <PageNumber>9860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>,.Maj. E. P. (retired)</Text>
+      <Text>.Maj. E. P. (retired)</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>,Capt. R. L. (seconded)</Text>
+      <Text>Capt. R. L. (seconded)</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>, ,Lieut.-Col. and Brevet Col. F. H. J. (retired)</Text>
+      <Text>,Lieut.-Col. and Brevet Col. F. H. J. (retired)</Text>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, 'Lieut. C. W. (seconded)</Text>
+      <Text>'Lieut. C. W. (seconded)</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>

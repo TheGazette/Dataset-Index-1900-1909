@@ -215,9 +215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Title>Asst.</Title>
-      <Forenames>Commy</Forenames>
-      <Text>. and Hon. Lieut., S. (removed)</Text>
+      <Title>Asst. Commy. and Hon. Lieut.</Title>
+      <Text>, S. (removed)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Text>, Lieut.-Col. and Brevet Col., G. E., Commandant and Col</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Text>, G. E., Commandant and Col</Text>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +825,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>, 0. (Lieut.) .. .. ..</Text>
+      <Text>0. (Lieut.) .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +851,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.) .. ..</Text>
+      <Title>(Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scaife</Key>
-      <Text>, C, (Lieut.) .. .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>, (Lieut.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1289,8 +1291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>England</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Lieut.-Col. G. (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Lieut.-Col. G. (resigned)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>

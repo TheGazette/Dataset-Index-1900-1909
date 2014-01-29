@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>, Lieut.-Coi. B. B. (correction)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Coi. B. B. (correction)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +97,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired) ..</Text>
+      <Title>(retired)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +134,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H, H. (Maj.) .. .. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>, H. (Maj.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyslop</Key>
-      <Text>,* W. C. (Maj. and to command)</Text>
+      <Text>* W. C. (Maj. and to command)</Text>
       <PageNumber>6443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,8 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. B. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. B. B. (resigned)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denne</Key>
-      <Text>,' R. T. (2nd Lieut.)</Text>
+      <Text>' R. T. (2nd Lieut.)</Text>
       <PageNumber>8295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oats</Key>
-      <Text>,.G. (Lieut.)</Text>
+      <Text>.G. (Lieut.)</Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,8 +675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. H. (resigned)</Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sale</Key>
-      <Text>, Lieut. II. B. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. B. (resigned)</Text>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,8 +1034,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Way</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. H.F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. H.F. (resigned)</Text>
       <PageNumber>8643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,8 +1043,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. G. (resigned)</Text>
       <PageNumber>8796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1099,6 @@
       <Forenames>E.</Forenames>
       <Text>.T. (resigned)</Text>
       <PageNumber>8452</PageNumber>
-      <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

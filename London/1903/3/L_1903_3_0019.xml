@@ -204,7 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>L\ (Hon. Col.)</Text>
+      <Forenames>L</Forenames>
+      <Text>\ (Hon. Col.)</Text>
       <PageNumber>1907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +340,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +673,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>2nd Lieut. R, (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, (resigned)</Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,8 +683,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armour</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Licut. T. R. W. (resigned)'</Text>
+      <Title>Surg.</Title>
+      <Text>-Licut. T. R. W. (resigned)'</Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +710,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Text>Maj. R, C. (resigned) .,</Text>
+      <Title>Maj.</Title>
+      <Forenames>R</Forenames>
+      <Text>, C. (resigned) .,</Text>
       <PageNumber>5076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>Capt.. A. P. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>. A. P. (seconded)</Text>
       <PageNumber>5076</PageNumber>
     </MainItem>
   </ItemGroup>

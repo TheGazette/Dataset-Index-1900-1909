@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>TJmav</Key>
-      <Text>Hon.-Lieat. M., Companion, Indian Empire</Text>
+      <Title>Hon.</Title>
+      <Text>-Lieat. M., Companion, Indian Empire</Text>
       <PageNumber>4162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Villalobar</Key>
-      <Text>Marquis de Hong, Knight Commander, Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Text>de Hong, Knight Commander, Royal Victorian Order</Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vournasos</Key>
-      <Text>C, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>Maj. PI. S. N., Royal Victorian Oruer, Fourth Class</Text>
+      <Title>Maj.</Title>
+      <Text>PI. S. N., Royal Victorian Oruer, Fourth Class</Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Agar</Key>
-      <Text>2nd Lieut., J. A. S. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>, J. A. S. (resigned)</Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>Maj -Gen. J. O, Inspector of Royal Garrison Artillery</Text>
+      <Title>Maj</Title>
+      <Text>-Gen. J. O, Inspector of Royal Garrison Artillery</Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklyn</Key>
-      <Forenames>Mnj</Forenames>
-      <Text>.-Gen. W. E., to command the 4th Division</Text>
+      <Title>Mnj.</Title>
+      <Text>-Gen. W. E., to command the 4th Division</Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelham</Key>
-      <Text>Lieut.-Col. and Brev.-Col. H. R. Brig.-Gen. to command the Lowland Grouped Regimental District and Col</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. H. R. Brig.-Gen. to command the Lowland Grouped Regimental District and Col</Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teck</Key>
-      <Text>Capt. and Brev. Maj. H.S.H. Duke of, Military Attache</Text>
+      <Title>Capt. and Brev. Maj. H.S.H. Duke</Title>
+      <Text>of, Military Attache</Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +829,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>2nd Lieut., Lord, Aide-deCamp to the Rt. Hon. Earl of Selborne</Text>
+      <Title>2nd Lieut., Lord</Title>
+      <Text>, Aide-deCamp to the Rt. Hon. Earl of Selborne</Text>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +882,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>Col. Earl .. .. ..</Text>
+      <Title>Col. Earl .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,15 +981,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. R</Text>
+      <Title>Brev. Col.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>Col. W</Text>
+      <Title>Col.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manvers</Key>
-      <Text>Col. Earl</Text>
+      <Title>Col. Earl</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

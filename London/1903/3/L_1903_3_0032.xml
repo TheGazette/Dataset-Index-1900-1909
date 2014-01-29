@@ -26,15 +26,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. II. C. A. (resigned and Lieut.) .. ..'</Text>
+      <Title>Lieut.</Title>
+      <Text>II. C. A. (resigned and Lieut.) .. ..'</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dungarvon</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>5076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolverton</Key>
-      <Text>Lord (Lieut.) .. ..</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horton</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. T. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. T. (resigned)</Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludlow</Key>
-      <Text>Lord (Capt. Super.)</Text>
+      <Title>Lord (Capt. Super.)</Title>
       <PageNumber>5601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,8 +345,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eidley</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. J. (correction)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. J. J. (correction)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellish</Key>
-      <Text>Lieut.-Col. H</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldrich</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earl</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gipps</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owens</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,7 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

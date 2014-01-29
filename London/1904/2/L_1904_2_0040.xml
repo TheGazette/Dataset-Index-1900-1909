@@ -19,14 +19,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sogers</Key>
-      <Text>B Hid. Turner, A. .. .. . . ..</Text>
+      <Forenames>B</Forenames>
+      <Text>Hid. Turner, A. .. .. . . ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Titheridge</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +727,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Text>Lieut. R, A. (retired list)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, A. (retired list)</Text>
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1314,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Albion</Key>
-      <Text>(Burton-on-Trent) Brewery, notice to debenture holders</Text>
+      <Title>(Burton-on-Trent)</Title>
+      <Forenames>Brewery</Forenames>
+      <Text>, notice to debenture holders</Text>
       <PageNumber>2318</PageNumber>
     </MainItem>
   </ItemGroup>

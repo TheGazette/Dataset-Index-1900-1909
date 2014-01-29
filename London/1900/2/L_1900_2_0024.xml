@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>, Sir ,1., a Privy Councillor</Text>
+      <Title>Sir</Title>
+      <Text>,1., a Privy Councillor</Text>
       <PageNumber>7817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,14 +36,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tambaei</Key>
-      <Text>, C, Unofficial Member of the Legislative Council of Lagos</Text>
+      <Forenames>C</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of Lagos</Text>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tennyson</Key>
-      <Text>, Lord, Governor of South Australia, &amp;c</Text>
+      <Title>Lord</Title>
+      <Text>, Governor of South Australia, &amp;c</Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>, Duchess of, Orderof Mercy</Text>
+      <Title>Duchess</Title>
+      <Text>of, Orderof Mercy</Text>
       <PageNumber>4712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +209,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Willcocks</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. (local Col.) J., Knight Commaiider of St. Michael and St. George</Text>
+      <Title>Brev. Col. (local Col.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, Knight Commaiider of St. Michael and St. George</Text>
       <PageNumber>4712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coat</Key>
-      <Text>.es, V. (2nd Lieut.)</Text>
+      <Text>es, V. (2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goad</Key>
-      <Text>, II. J. (2nd Lieut.)</Text>
+      <Text>II. J. (2nd Lieut.)</Text>
       <PageNumber>4656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>. A. D. (2nd Lieut.) .. ..</Text>
+      <Text>A. D. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandiford</Key>
-      <Text>, Viscount. (2nd Lieut.) ..</Text>
+      <Title>Viscount. (2nd Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonham</Key>
-      <Text>, dipt. W. F. (correction)</Text>
+      <Text>dipt. W. F. (correction)</Text>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +873,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Text>, Lieut.-Col. (temporary Col.) C. (Col.)</Text>
+      <Title>Lieut.-Col. (temporary Col.)</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>7825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford</Key>
-      <Text>, dpt. W. T , Aide-He-Camp to Maj.-Gen. Hon. R. A. J. Talbot</Text>
+      <Text>dpt. W. T , Aide-He-Camp to Maj.-Gen. Hon. R. A. J. Talbot</Text>
       <PageNumber>5117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1016,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancel lat ion)</Text>
+      <Title>(cancel lat ion)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, Maj. d. C. N., resumes appointment of Deputy-Assist. Adj.-Gen. at Head-Quarters</Text>
+      <Title>Maj.</Title>
+      <Text>d. C. N., resumes appointment of Deputy-Assist. Adj.-Gen. at Head-Quarters</Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,15 +1103,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>, Capt. E~ H., Deputy-Assist, Adj.Gen. at Head-Quarters</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
+      <Text>~ H., Deputy-Assist, Adj.Gen. at Head-Quarters</Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>Lieul</Forenames>
-      <Text>. C, G. VV. (correction)</Text>
+      <Title>Lieul.</Title>
+      <Forenames>C</Forenames>
+      <Text>, G. VV. (correction)</Text>
       <PageNumber>7826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kensington</Key>
-      <Text>, Lieut. Lord, Aide-de-Camp to Maj.-Gen. (temporary Lieut.-Gen!)</Text>
+      <Title>Lieut. Lord</Title>
+      <Text>, Aide-de-Camp to Maj.-Gen. (temporary Lieut.-Gen!)</Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,8 +1166,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord, General Officer Commanding-in-Chief of the Forces in South Africa</Text>
+      <Title>Gen. Lord</Title>
+      <Text>, General Officer Commanding-in-Chief of the Forces in South Africa</Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,8 +1183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leach</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. II. P., to command a Second Class District in India, with temporary rank of Brig.-Gen., &amp;c</Text>
+      <Title>Brev. Col.</Title>
+      <Text>II. P., to command a Second Class District in India, with temporary rank of Brig.-Gen., &amp;c</Text>
       <PageNumber>5176</PageNumber>
     </MainItem>
   </ItemGroup>

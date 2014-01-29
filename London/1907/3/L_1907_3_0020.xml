@@ -53,7 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>. E! W. (Instr. of Musketry)</Text>
+      <Text>E! W. (Instr. of Musketry)</Text>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawle</Key>
-      <Text>, J: (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: (Lieut.)</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirr</Key>
-      <Text>, W:G-.(Lieut.ij</Text>
+      <Forenames>W</Forenames>
+      <Text>:G-.(Lieut.ij</Text>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>.F. C. (Lieut.)</Text>
+      <Text>F. C. (Lieut.)</Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>, Capt.:A.:J-.(resigned): ,. &gt;</Text>
+      <Title>Capt.</Title>
+      <Text>:A.:J-.(resigned): ,. &gt;</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,8 +508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of (Capt.)</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassilis</Key>
-      <Text>, Earl of (Hon. Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Maj.)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,9 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Title>Gr.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Gr. Gr. (Lieut.)</Title>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schultz</Key>
-      <Text>, Q-. E. (2nd Lieut.)</Text>
+      <Text>Q-. E. (2nd Lieut.)</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +763,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Gapt.)</Text>
+      <Title>(temporary Gapt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>,. Lieut.-Col. and Brevet Col. H; T. (half-pay)</Text>
+      <Text>. Lieut.-Col. and Brevet Col. H; T. (half-pay)</Text>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mante</Key>
-      <Text>,ll,,P..R. (Lieut.-Coh)</Text>
+      <Text>ll,,P..R. (Lieut.-Coh)</Text>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penrhyn</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>1615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,8 +871,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J.E.H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J.E.H. (resigned)</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanusk</Key>
-      <Text>, Lord (Hon. CoL)</Text>
+      <Title>Lord (Hon. CoL)</Title>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Lieut. Hon. M. St. A. T. (temporary half-pay) .. ..</Text>
+      <Text>John, Lieut. Hon. M. St. A. T. (temporary half-pay) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,6 +1219,14 @@
       <Forenames>R.</Forenames>
       <Text>.C. (resigned)</Text>
       <PageNumber>6022</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dudgeon</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

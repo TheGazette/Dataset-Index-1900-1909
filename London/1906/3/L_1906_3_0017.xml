@@ -86,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies-Evans</Key>
-      <Text>H. (Capt.)</Text>
+      <Text>. H. (Capt.)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Artillery) ..</Text>
+      <Title>(Instr. of Artillery)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +233,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +350,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Instr. of Artillery)</Text>
+      <Title>(Instr. of Artillery)</Title>
       <PageNumber>5133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +486,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +545,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.Col. A. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.Col. A. M. (resigned)</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyde</Key>
-      <Text>Lieut. MP. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>MP. (resigned)</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>

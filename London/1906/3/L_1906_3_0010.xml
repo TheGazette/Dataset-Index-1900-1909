@@ -417,7 +417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>H.R.H. the Prince of .Appointments : Equerries to H.R.H.: Beatson, Maj.-Gen. Sir S. B</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of .Appointments : Equerries to H.R.H.: Beatson, Maj.-Gen. Sir S. B</Text>
       <PageNumber>4719</PageNumber>
     </MainItem>
     <SubItem>
@@ -432,7 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warneford</Key>
-      <Text>B&gt;. A. L., Consul at St. John for Norway .. .. ..</Text>
+      <Forenames>B</Forenames>
+      <Text>&gt;. A. L., Consul at St. John for Norway .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,8 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welldon</Key>
-      <Title>Rt. Rev.</Title>
-      <Forenames>Canon</Forenames>
+      <Title>Rt. Rev. Canon</Title>
       <Text>, Dean of Manchester</Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
@@ -679,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnhold</Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +697,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>

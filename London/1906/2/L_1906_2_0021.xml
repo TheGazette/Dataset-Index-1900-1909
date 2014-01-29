@@ -245,7 +245,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bealey</Key>
-      <Text>Capt. and Hon. Maj. A F. (resigned)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>A</Forenames>
+      <Text>F. (resigned)</Text>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +301,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +540,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +599,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instructor of Artillery)</Text>
+      <Title>(Instructor of Artillery)</Title>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +791,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. W. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. W. M. (resigned)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1171,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N: (2nd Lieut.)</Text>
+      <Forenames>N</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>

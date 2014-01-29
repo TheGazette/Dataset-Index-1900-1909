@@ -20,9 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Title>Capt.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Capt. Or. (seconded)</Title>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lutyens</Key>
-      <Text>Lieut.-Lol. J. G. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Lol. J. G. (antedated)</Text>
       <PageNumber>8440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawdor</Key>
-      <Text>Col. Earl (r tiiv.i)</Text>
+      <Title>Col. Earl (r tiiv.i)</Title>
       <PageNumber>7016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>Maj. (resigned and Hon. Lieut.Col.)</Text>
+      <Title>Maj. (resigned and Hon. Lieut.Col.)</Title>
       <PageNumber>6743</PageNumber>
     </MainItem>
   </ItemGroup>

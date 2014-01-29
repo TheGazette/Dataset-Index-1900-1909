@@ -67,7 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WriglitNooth</Key>
-      <Text>. R. Gr. (2nd Lieut.) ..</Text>
+      <Text>R. Gr. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burt</Key>
-      <Text>, P: T. (Hon. Lieut-Col.)</Text>
+      <Forenames>P</Forenames>
+      <Text>: T. (Hon. Lieut-Col.)</Text>
       <PageNumber>3201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coplan</Key>
-      <Text>. V. D.R. (Lieut.)</Text>
+      <Text>V. D.R. (Lieut.)</Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +741,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Gol.)</Text>
+      <Title>(Lieut.-Gol.)</Title>
       <PageNumber>4770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>. A. St. H. (Hon. Lieut.-Col.)</Text>
+      <Text>A. St. H. (Hon. Lieut.-Col.)</Text>
       <PageNumber>4660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grano</Key>
-      <Text>,-J. P. (Hon. Maj.)</Text>
+      <Text>-J. P. (Hon. Maj.)</Text>
       <PageNumber>2922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurdon</Key>
-      <Text>, 3. (Lieut.) .. .. -</Text>
+      <Text>3. (Lieut.) .. .. -</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moon</Key>
-      <Text>, .Maj. and Hon. Lieut.-Col. Sir F. S. G. (resigned)</Text>
+      <Text>.Maj. and Hon. Lieut.-Col. Sir F. S. G. (resigned)</Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moon</Key>
-      <Text>,..Maj. and Hon. Lieut.-Col. G. M. G. (resigned)</Text>
+      <Text>..Maj. and Hon. Lieut.-Col. G. M. G. (resigned)</Text>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,14 +1465,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Newland</Key>
-      <Text>, 2ud Lieut. R. C. B. (resigned)</Text>
+      <Text>2ud Lieut. R. C. B. (resigned)</Text>
       <PageNumber>2592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newport</Key>
-      <Text>, Viscount (Hon. Maj.)</Text>
+      <Title>Viscount (Hon. Maj.)</Title>
       <PageNumber>2921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piers</Key>
-      <Text>, CP. (Hon. Maj.)</Text>
+      <Text>CP. (Hon. Maj.)</Text>
       <PageNumber>2922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,7 +1675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Healing</Key>
-      <Text>, Capt.. R. K., Deputy Asst.Adj. and Q.rmr-Gen</Text>
+      <Title>Capt.</Title>
+      <Text>. R. K., Deputy Asst.Adj. and Q.rmr-Gen</Text>
       <PageNumber>4770</PageNumber>
     </MainItem>
   </ItemGroup>

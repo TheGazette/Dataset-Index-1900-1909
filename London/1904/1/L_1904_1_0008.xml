@@ -211,7 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sussex</Key>
-      <Text>(East), infected area in, Revocation Order</Text>
+      <Title>(East)</Title>
+      <Text>, infected area in, Revocation Order</Text>
       <PageNumber>867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +228,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R\ Strelitz., Consul at Fremantle, W.A., for</Text>
+      <Forenames>R</Forenames>
+      <Text>\ Strelitz., Consul at Fremantle, W.A., for</Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +595,16 @@
       <Key>Dick</Key>
       <Title>Rev.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, presented to the rectory of St. Lukes's, Miles Platting 1615 . Pereira, Rev. H. H. Bishop Suffragan of Croydon</Text>
+      <Text>, presented to the rectory of St. Lukes's, Miles Platting</Text>
+      <PageNumber>1615</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pereira</Key>
+      <Title>Rev.</Title>
+      <Forenames>H. H. Bishop Suffragan</Forenames>
+      <Text>of Croydon</Text>
       <PageNumber>471</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -80,9 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spanton</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. J. P. (resigned and Hon. Vet.-Capt.)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Capt. J. P. (resigned and Hon. Vet.-Capt.)</Text>
       <PageNumber>6343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strickland</Key>
-      <Text>Lieut. VV. R. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>VV. R. (resigned)</Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +306,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +442,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. H. O. (resigned and Hon. Vet.-Lieut.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. H. O. (resigned and Hon. Vet.-Lieut.)</Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,9 +726,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Temporary</Title>
-      <Forenames>Lient</Forenames>
-      <Text>.-CoL J. G. (relinquishes command)</Text>
+      <Title>Temporary Lient.</Title>
+      <Text>-CoL J. G. (relinquishes command)</Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +736,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,9 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verney</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. L. M. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. L. M. (resigned)</Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,9 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weathrall</Key>
-      <Title>Temporary</Title>
-      <Forenames>Yet</Forenames>
-      <Text>. Lieut. C. H. G. (resigned)</Text>
+      <Title>Temporary Yet.</Title>
+      <Text>Lieut. C. H. G. (resigned)</Text>
       <PageNumber>8439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1022,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>Temporary Capt. BL W. (resigned and Hon. Capt.)</Text>
+      <Title>Temporary Capt.</Title>
+      <Text>BL W. (resigned and Hon. Capt.)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1059,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1125,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolff</Key>
-      <Text>Capt. H, P (resigned and Hon. Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>, P (resigned and Hon. Capt.)</Text>
       <PageNumber>6343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1136,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned and Hon. Lieut.)</Text>
+      <Title>(resigned and Hon. Lieut.)</Title>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1163,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,14 +1280,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. fi. B. (resigned and Hon. Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>fi. B. (resigned and Hon. Capt.)</Text>
       <PageNumber>7937</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>Temporary Lieut.-Col. Earl of (resigns Command)</Text>
+      <Title>Temporary Lieut.-Col. Earl</Title>
+      <Text>of (resigns Command)</Text>
       <PageNumber>8680</PageNumber>
     </MainItem>
   </ItemGroup>

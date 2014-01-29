@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>G, K. &lt;2rid Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, K. &lt;2rid Lieut.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Text>E. J. (Capt.)</Text>
+      <Text>.E. J. (Capt.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulliner</Key>
-      <Text>A R. (2nd Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>R. (2nd Lieut.)</Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +629,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>Hon.-R. T. G. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Text>-R. T. G. (Capt.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neave</Key>
-      <Text>C. A. (Capt.)</Text>
+      <Text>.C. A. (Capt.)</Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,9 +1164,16 @@
       <PageNumber>6224</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. W. R.</Forenames>
+      <Text>(Lieut.-CoL and Hon. Col.)</Text>
+      <PageNumber>6536</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
@@ -1175,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkyn</Key>
-      <Text>H. G. (Capt.)</Text>
+      <Text>. H. G. (Capt.)</Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawles</Key>
-      <Text>H. O. L. (Lieut.)</Text>
+      <Text>. H. O. L. (Lieut.)</Text>
       <PageNumber>6224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1977,7 +1987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rollo</Key>
-      <Text>Master of (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Master</Title>
+      <Text>of (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2000,7 +2011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rouse</Key>
-      <Text>€r. C. M. (Capt.)</Text>
+      <Text>. €r. C. M. (Capt.)</Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>

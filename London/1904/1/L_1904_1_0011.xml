@@ -5,7 +5,7 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Forenames>Leach</Forenames>
+      <Title>Leach .</Title>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,8 +14,8 @@
       <Key>
         <KeyDitto>-'</KeyDitto>
       </Key>
-      <Forenames>Gen</Forenames>
-      <Text>.-on the Staff, to command the Troops in South Africa, and Lieut.Gen</Text>
+      <Title>Gen.</Title>
+      <Text>-on the Staff, to command the Troops in South Africa, and Lieut.Gen</Text>
       <PageNumber>1948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +48,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>Lieut.-Col. and Brev.-Col. H. M., Director of Works at HeadQuarters, and Col. and temporary Brig.-Gen</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>-Col. H. M., Director of Works at HeadQuarters, and Col. and temporary Brig.-Gen</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,8 +72,8 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Cpl. E. S., Assist. Adj.Gen., at Headquarters</Text>
+      <Title>Licut.</Title>
+      <Text>-Cpl. E. S., Assist. Adj.Gen., at Headquarters</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +112,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogg</Key>
-      <Text>Capt. W, M., Brig.-Maj. Boyal Artillery, Western District</Text>
+      <Title>Capt.</Title>
+      <Forenames>W</Forenames>
+      <Text>, M., Brig.-Maj. Boyal Artillery, Western District</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,14 +167,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Teek</Key>
-      <Text>Captain*andBrev. Maj: H.S.H. Duke of, Temporary Military ___ Attache and Temporary Lieut.-Col,</Text>
+      <Title>Captain</Title>
+      <Text>*andBrev. Maj: H.S.H. Duke of, Temporary Military ___ Attache and Temporary Lieut.-Col,</Text>
       <PageNumber>1948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>Maj. and Brev. . Lieut.Col. W. A: M., Deputy Assist. Adj.Gen., 4th Division, 2nd Army Corps.. '' .. .. ,</Text>
+      <Title>Maj. and Brev.</Title>
+      <Text>. Lieut.Col. W. A: M., Deputy Assist. Adj.Gen., 4th Division, 2nd Army Corps.. '' .. .. ,</Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Capt..E. E. M-, Deputy Assist. Adj.-Gen., North Western District</Text>
+      <Title>Capt.</Title>
+      <Text>.E. E. M-, Deputy Assist. Adj.-Gen., North Western District</Text>
       <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,8 +229,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -.</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.rCol. H. St. L., Deputy Assist. Adj.-Gen. .. .,</Text>
+      <Title>Lieut.</Title>
+      <Text>rCol. H. St. L., Deputy Assist. Adj.-Gen. .. .,</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>Lieut.-Col. and Brev.. Col. C. D. (Col. to command the 102nd Regimental District)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>. Col. C. D. (Col. to command the 102nd Regimental District)</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guinness</Key>
-      <Text>Lieut.-Col. arid Brev. Col. H.W. N. (Col. to command the 18th Regimental District) .. '</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>arid Brev. Col. H.W. N. (Col. to command the 18th Regimental District) .. '</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quick</Key>
-      <Text>Col.' J. O: (half-pay)</Text>
+      <Title>Col.</Title>
+      <Text>' J. O: (half-pay)</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +519,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>

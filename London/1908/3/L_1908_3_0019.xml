@@ -166,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lock</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanhope</Key>
-      <Text>Earl (Capt.)</Text>
+      <Title>Earl (Capt.)</Title>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. Earl (resigned)</Text>
+      <Title>Capt. Earl (resigned)</Title>
       <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +454,6 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Line Battalions</SubCategoryTitle>
   <SubCategoryTitle>INFANTRY REGIMENTS</SubCategoryTitle>
   <SectionTitle>The Royal Scots (Lothian Regiment)</SectionTitle>
   <ItemGroup>
@@ -640,16 +639,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. B. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. B. (resigned) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Horsburgh</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. H. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. H. (resigned) .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +768,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Text>Lieut.. A. B. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. A. B. (resigned)</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +955,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Text>Capt.. E. A. (resigned) .</Text>
+      <Title>Capt.</Title>
+      <Text>. E. A. (resigned) .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>Maj. and Hon. Lieut. Col. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut. Col. (resigned)</Title>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,8 +1056,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. (resigned)</Text>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,8 +1074,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickery</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. H. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

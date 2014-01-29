@@ -59,7 +59,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>Lieut. G, H. (cancellation)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G</Forenames>
+      <Text>, H. (cancellation)</Text>
       <PageNumber>8780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>Maj. and Hon. Lieut.-CoL A. B. (retired) ..</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-CoL A. B. (retired) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,23 +410,24 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) .. . . .. ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>.. . . .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. (resigned)</Text>
       <PageNumber>8302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Falla</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. (Principal Medical Officer)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. (Principal Medical Officer)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +480,6 @@
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Jang</Key>
@@ -525,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulley</Key>
-      <Text>C Lieutenant-Colonels. Acton, H. L. B</Text>
+      <Forenames>C</Forenames>
+      <Text>Lieutenant-Colonels. Acton, H. L. B</Text>
       <PageNumber>7632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>F.B</Text>
+      <Text>.F.B</Text>
       <PageNumber>6724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ralph</Key>
-      <Text>A. C. ..</Text>
+      <Text>. A. C. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

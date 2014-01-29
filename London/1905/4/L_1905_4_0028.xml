@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spooner</Key>
-      <Text>, 3. de 3</Text>
+      <Text>3. de 3</Text>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>Or</Forenames>
-      <Text>. H</Text>
+      <Title>Or.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,8 +236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Comyn</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. V</Text>
+      <Title>Gr.</Title>
+      <Forenames>V</Forenames>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Masters</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thyne</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wace</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McConaghey</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCloghry</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crofts</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewtas</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,10 +1517,12 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J£</Text>
+      <Forenames>J</Forenames>
+      <Text>£</Text>
       <PageNumber>_ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>QUEEN ALEXANDRA'S MILITARY</CategoryTitle>
   <SubSectionTitle>Nursing Sisters</SubSectionTitle>
   <ItemGroup>
     <MainItem>

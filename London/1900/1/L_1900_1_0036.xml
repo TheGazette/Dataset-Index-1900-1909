@@ -249,7 +249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darke</Key>
-      <Text>H: C. (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: C. (2nd Lieut.)</Text>
       <PageNumber>2511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +893,7 @@
       <Key>
         <KeyDitto>-— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,8 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Terrv</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. M. (resigned)</Text>
       <PageNumber>3410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,8 +1272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dotchin</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. (super.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. W. (super.)</Text>
       <PageNumber>2044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,8 +1441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wreford</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. (super.) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. (super.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

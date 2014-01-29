@@ -458,7 +458,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +754,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,8 +1600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. Lieut. Col. G. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>Lieut. Col. G. W. (resigned)</Text>
       <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1719,8 +1719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessop</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capti. J. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capti. J. W. (resigned)</Text>
       <PageNumber>436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1836,8 +1836,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.rCol.. H. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.rCol.. H. (super.)</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>

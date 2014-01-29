@@ -70,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Text>, Master of (2nd Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,14 +258,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerry</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>, Earl of (Lieut.) .. .. Hid. McCalmont, R. C. A. (Lieut.) .. ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.) .. .. Hid. McCalmont, R. C. A. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Settrington</Key>
-      <Text>, Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>, Capt. Earl of (leaves Regiment) .. .. .. . . ..</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of (leaves Regiment) .. .. .. . . ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stavordale</Key>
-      <Text>, Lieut. Lord (leaves Regi. ment) .. .. .. . . . .</Text>
+      <Title>Lieut. Lord (leaves Regi. ment)</Title>
+      <Text>.. .. .. . . . .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +498,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +579,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotes</Key>
-      <Text>, Maj. A; (leaves Regiment)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
+      <Text>; (leaves Regiment)</Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +767,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
-      <Text>, Maj. H, C. (ceases to belong to the Regiment)</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
+      <Text>, C. (ceases to belong to the Regiment)</Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1045,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,9 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aulton</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W.. T. (resigned)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. W.. T. (resigned)</Text>
       <PageNumber>2777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,9 +1178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bate</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. A. (re' signed)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. A. (re' signed)</Text>
       <PageNumber>1148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,6 +1189,14 @@
       <Forenames>R. C.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>4249</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bazley</Key>
+      <Forenames>W. N.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1217,13 +1232,23 @@
       <PageNumber>159</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Lieut.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>1651</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(leaves Corps)</Text>
+      <Title>(leaves Corps)</Title>
       <PageNumber>3199</PageNumber>
     </MainItem>
   </ItemGroup>

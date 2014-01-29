@@ -62,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollond</Key>
-      <Text>, 8. E. (Capt.)</Text>
+      <Text>8. E. (Capt.)</Text>
       <PageNumber>3201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Philpot</Key>
-      <Text>,' P. G. IT. (2nd Lieut.)</Text>
+      <Text>' P. G. IT. (2nd Lieut.)</Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +717,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +842,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +859,7 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +938,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.) .. ..</Text>
+      <Title>(Adj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1231,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1393,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>, Capt. H, E. M. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>, E. M. (antedated)</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1523,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1838,7 +1842,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>

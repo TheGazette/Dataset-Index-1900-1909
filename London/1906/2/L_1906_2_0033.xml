@@ -43,7 +43,6 @@
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -69,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>Maj.-Gen. C</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>3471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tritton</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyllie</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland-Pryor</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rattray</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emins</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,28 +984,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carnegy</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chaucey</Key>
-      <Text>(correction) .. .. ..</Text>
+      <Title>(correction)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
-      <Text>(correction) .. .. ..</Text>
+      <Title>(correction)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mactavish</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ommaney</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1274,14 +1276,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jahanger</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,23 +1297,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Sundar</Key>
-      <Forenames>Singh</Forenames>
-      <Text>.. ., .. ..</Text>
+      <Title>Singh .</Title>
+      <Text>. ., .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Umdar</Key>
-      <Forenames>Singh</Forenames>
-      <Text>.. .. .. ..</Text>
+      <Title>Singh .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>W; S</Text>
+      <Forenames>W</Forenames>
+      <Text>; S</Text>
       <PageNumber>3472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barge</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2337</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -678,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, 2nd.Lieut. G. H. S. (seconded)</Text>
+      <Text>2nd.Lieut. G. H. S. (seconded)</Text>
       <PageNumber>7652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathallan</Key>
-      <Text>, Capt. Viscount (resigned)</Text>
+      <Title>Capt. Viscount (resigned)</Title>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,8 +1352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howatson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. W. (resigned)</Text>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>, A: T. (Hon. Maj.)</Text>
+      <Forenames>A</Forenames>
+      <Text>: T. (Hon. Maj.)</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>

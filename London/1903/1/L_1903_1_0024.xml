@@ -123,8 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Lieut. W. E. M. . (resigned)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Lieut. W. E. M. . (resigned)</Text>
       <PageNumber>1422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,8 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendle</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. R. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,8 +208,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Ji</Forenames>
-      <Text>.ennav.ay, Lieut.-Col. and Hon. Col. Rt. Hon. Sir J. H., Bart, (retired) and Hon. Col.)</Text>
+      <Title>Ji.</Title>
+      <Text>ennav.ay, Lieut.-Col. and Hon. Col. Rt. Hon. Sir J. H., Bart, (retired) and Hon. Col.)</Text>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Text>, C JVC. (Lieut.-Col. and to comman</Text>
+      <Forenames>C</Forenames>
+      <Text>JVC. (Lieut.-Col. and to comman</Text>
       <PageNumber>1136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>,, Surgn.-Lieut.-Col. J. S. (resigned)</Text>
+      <Text>, Surgn.-Lieut.-Col. J. S. (resigned)</Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +407,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,8 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairweatber</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. F. A., (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. F. A., (retired)</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Text>, P: A. K. (2nd Lieut.)</Text>
+      <Forenames>P</Forenames>
+      <Text>: A. K. (2nd Lieut.)</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>

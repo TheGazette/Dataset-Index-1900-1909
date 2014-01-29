@@ -33,7 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eates</Key>
-      <Text>.W</Text>
+      <Text>W</Text>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pais</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heywood</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Highway</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battman</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,14 +210,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Boss</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aires</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rao</Key>
-      <Text>, I). B. (Lieut.)</Text>
+      <Forenames>I</Forenames>
+      <Text>). B. (Lieut.)</Text>
       <PageNumber>5178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>, Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans-Lloyd</Key>
-      <Text>, lion. Col. E. (resigned)</Text>
+      <Text>lion. Col. E. (resigned)</Text>
       <PageNumber>4129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +832,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffery</Key>
-      <Text>, 11. W. A. (Lieut.)</Text>
+      <Text>11. W. A. (Lieut.)</Text>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +841,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,14 +946,17 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, 8. (Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, 8. (Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>, Qrmr. (Hon. Maj.) S. T. (resigned)</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>S. T.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downshire</Key>
-      <Text>, Marquis of (Lieut.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaton</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>

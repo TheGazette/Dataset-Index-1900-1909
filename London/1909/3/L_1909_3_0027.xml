@@ -162,7 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>, Capt. arid Hon. Maj. W. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>arid Hon. Maj. W. J. (resigned)</Text>
       <PageNumber>7124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>, G-. W. (Hon. Maj.)</Text>
+      <Text>G-. W. (Hon. Maj.)</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Text>,-H. W. (Lieut.)</Text>
+      <Text>-H. W. (Lieut.)</Text>
       <PageNumber>6452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Widdows</Key>
-      <Text>, 2nd Lieut. A.E. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>A.E. (resigned)</Text>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinder</Key>
-      <Text>,-J. R. (2nd Lieut.)</Text>
+      <Text>-J. R. (2nd Lieut.)</Text>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Text>, DA. J. (2nd Lieut.)</Text>
+      <Text>DA. J. (2nd Lieut.)</Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +614,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bratt</Key>
-      <Text>, Lieut. J). Or. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>). Or. (resigned)</Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>, VV. S. (Capt.)</Text>
+      <Text>VV. S. (Capt.)</Text>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +858,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) Foster, IS. C.(Lieut.).. Greenwood, C. F. H. (Lieut.) Higham, S. S. (Capt. and Hon. Maj.)</Text>
+      <Title>(Capt.)</Title>
+      <Forenames>Foster</Forenames>
+      <Text>, IS. C.(Lieut.).. Greenwood, C. F. H. (Lieut.) Higham, S. S. (Capt. and Hon. Maj.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +893,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +953,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1003,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>, W; G. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>; G. (Lieut.)</Text>
       <PageNumber>6815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, VV. (Hon. Maj.)'</Text>
+      <Text>VV. (Hon. Maj.)'</Text>
       <PageNumber>6751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carson</Key>
-      <Text>, .W. H. L. (Lieut.) .. ..</Text>
+      <Text>.W. H. L. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melgund</Key>
-      <Text>, Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,15 +1538,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Rintoul</Key>
-      <Text>, 2nd Lieut. A; J. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A</Forenames>
+      <Text>; J. (resigned)</Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ruston</Key>
-      <Text>, VV. (2nd Lieut.) .-</Text>
+      <Text>VV. (2nd Lieut.) .-</Text>
       <PageNumber>5465</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rycroft</Key>
+      <Forenames>A. R. H.</Forenames>
+      <Text>(Capt.) .,</Text>
+      <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1556,7 +1573,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Text>,-Maj. and Hon. Lieut. H. C. (resigned) .. .. .. ..</Text>
+      <Text>-Maj. and Hon. Lieut. H. C. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1627,8 +1645,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>, 2nd Lieut. Marquis of (cancellation) .. .. ,</Text>
+      <Title>2nd Lieut. Marquis</Title>
+      <Text>of (cancellation) .. .. ,</Text>
       <PageNumber>5909</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stewart</Key>
+      <Forenames>W. E. L.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

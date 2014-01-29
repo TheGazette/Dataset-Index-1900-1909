@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blundell</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon F. B. H.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>F. B. H.</Forenames>
       <Text>, Hon. Chaplain to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -127,7 +127,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brake</Key>
-      <Text>, Capt. and Brev. Maj. (temporary Lieut.-Col.) H. E. J., Companion of the Bath</Text>
+      <Title>Capt. and Brev. Maj. (temporary Lieut.-Col.)</Title>
+      <Forenames>H. E. J.</Forenames>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>7395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +205,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, Sir O, Knight Grand Cross of St. Michael and St. George</Text>
+      <Title>Sir</Title>
+      <Forenames>O</Forenames>
+      <Text>, Knight Grand Cross of St. Michael and St. George</Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carbone</Key>
-      <Text>, Sir &amp;., Knight Grand Cross of St. Michael and St. George</Text>
+      <Title>Sir</Title>
+      <Text>&amp;., Knight Grand Cross of St. Michael and St. George</Text>
       <PageNumber>7287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Catoni</Key>
-      <Text>, A„ H.M.'s Vice-Consul at Alexandrettu</Text>
+      <Forenames>A</Forenames>
+      <Text>„ H.M.'s Vice-Consul at Alexandrettu</Text>
       <PageNumber>6395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,8 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cayley</Key>
-      <Forenames>Dep</Forenames>
-      <Text>.-Surg. Gen. H., Companion of St. Michael and St. George</Text>
+      <Title>Dep.</Title>
+      <Text>-Surg. Gen. H., Companion of St. Michael and St. George</Text>
       <PageNumber>6324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesliam</Key>
-      <Text>, Lady, Lady of Grace of St. John of Jerusalem</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Grace of St. John of Jerusalem</Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +551,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord, a Privy Councillor</Text>
+      <Title>Lord</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>4919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +561,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord of the Bedchamber to H.R.H. the Prince of Wales</Text>
+      <Title>Lord</Title>
+      <Text>of the Bedchamber to H.R.H. the Prince of Wales</Text>
       <PageNumber>7472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,21 +588,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, Lord, Lord in Waiting</Text>
+      <Title>Lord, Lord</Title>
+      <Text>in Waiting</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clarendon</Key>
-      <Text>, Earl of, Lord Chamberlain..</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord Chamberlain..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>, Maj. O, Member of the Fourth Class, Royal Victorian Order</Text>
+      <Title>Maj.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Member of the Fourth Class, Royal Victorian Order</Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +615,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon E</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>E</Forenames>
       <Text>, Hon. Chaplain to His Majesty</Text>
       <PageNumber>4839</PageNumber>
     </MainItem>
@@ -622,7 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>, Lieut.-Col/F. T., Companion of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col/F. T., Companion of the Bath</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +791,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke-Collis</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. and Hon. Col. W., Companion of St. Michael and St. George</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. and Hon. Col. W., Companion of St. Michael and St. George</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +887,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranborne</Key>
-      <Text>, Lieut.-Col. Viscount, Companion of the Bath</Text>
+      <Title>Lieut.-Col. Viscount</Title>
+      <Text>, Companion of the Bath</Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>, Capt. Viscount, Equerry in Ordinary to H.R.H. the Prince of Wales</Text>
+      <Title>Capt. Viscount</Title>
+      <Text>, Equerry in Ordinary to H.R.H. the Prince of Wales</Text>
       <PageNumber>7473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cromer</Key>
-      <Text>, Viscount, created Viscount Errington and Earl of Cromer</Text>
+      <Title>Viscount</Title>
+      <Text>, created Viscount Errington and Earl of Cromer</Text>
       <PageNumber>5257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,8 +1037,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon J.N.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>J.N.</Forenames>
       <Text>, Deputy Clerk of the Closet</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>

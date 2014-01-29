@@ -14,7 +14,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rastrick</Key>
-      <Text>, IT. (2nd Lieut.)</Text>
+      <Text>IT. (2nd Lieut.)</Text>
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, 2nd Liout. C. P. G. (resigned)</Text>
+      <Text>2nd Liout. C. P. G. (resigned)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +640,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +699,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry) ,</Text>
+      <Title>(Instr. of Musketry)</Title>
+      <Text>,</Text>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Philpott</Key>
-      <Text>,' J. P. (2nd Lieut.)</Text>
+      <Text>' J. P. (2nd Lieut.)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toogood</Key>
-      <Text>, 0. (Capt.)</Text>
+      <Text>0. (Capt.)</Text>
       <PageNumber>422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>, II. C. (Lieut.)</Text>
+      <Text>II. C. (Lieut.)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wasbrough</Key>
-      <Text>, S: V. (Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>: V. (Lieut.)</Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale-Glossop</Key>
-      <Text>, dpt. II. W. (seconded)</Text>
+      <Text>dpt. II. W. (seconded)</Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>

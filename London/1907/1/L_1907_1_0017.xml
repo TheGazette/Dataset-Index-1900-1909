@@ -72,8 +72,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Airport</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. (resigned)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosniead</Key>
-      <Text>, Lord (Hon. Lieut.-Col.)</Text>
+      <Title>Lord (Hon. Lieut.-Col.)</Title>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Searson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,8 +550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.:Maj. N. E. (super)</Text>
+      <Title>Surg.</Title>
+      <Text>:Maj. N. E. (super)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilker</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. M. (resigned)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, (super. Capt. T. W. (resigned)</Text>
+      <Text>(super. Capt. T. W. (resigned)</Text>
       <PageNumber>2102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +729,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Acting Adj.) ..</Text>
+      <Title>(Acting Adj.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,6 +849,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>3rd Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coxon</Key>
+      <Forenames>S. A. T.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>662</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cubitt</Key>
@@ -1067,7 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>, E, (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,8 +1147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. R. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. R. (super.)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>

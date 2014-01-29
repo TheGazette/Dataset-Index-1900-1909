@@ -222,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jobson</Key>
-      <Text>, f. S. (2nd Lieut.) .. ..</Text>
+      <Text>f. S. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +800,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shute</Key>
-      <Forenames>Lient</Forenames>
-      <Text>..Col. and Brevet Col. G. E., Chief Engineer and Col</Text>
+      <Title>Lient.</Title>
+      <Text>.Col. and Brevet Col. G. E., Chief Engineer and Col</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodney</Key>
-      <Text>, Capt., Lord (removed on age limit)</Text>
+      <Title>Capt., Lord (removed on age limit)</Title>
       <PageNumber>1756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1029,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wicklow</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1077,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gawthorne</Key>
-      <Text>, Qrmr. and -Hon. Lieut. W. H. (retired)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and -Hon. Lieut. W. H. (retired)</Text>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>

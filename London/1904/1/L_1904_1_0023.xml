@@ -63,7 +63,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +86,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>2nd Lieut. G-. E. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>G-. E. (seconded)</Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,8 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodyatt</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. B. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. B. H. (resigned)</Text>
       <PageNumber>702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +722,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..' .. ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..' .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +765,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

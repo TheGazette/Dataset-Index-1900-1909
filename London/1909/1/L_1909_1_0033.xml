@@ -64,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hume</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +93,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morshead</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruse</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelsev</Key>
-      <Text>V. C. M. (Lieut.)</Text>
+      <Text>. V. C. M. (Lieut.)</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>AV. (Lieut.)</Text>
+      <Text>. AV. (Lieut.)</Text>
       <PageNumber>2218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +589,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>Lieut. AV. R. D. (cancellation)</Text>
+      <Title>Lieut.</Title>
+      <Text>AV. R. D. (cancellation)</Text>
       <PageNumber>131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shelford</Key>
-      <Text>Lieut. W. S. (retired list)</Text>
+      <Text>. Lieut. W. S. (retired list)</Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +899,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Speakmau</Key>
-      <Text>E. M. (Lieut.)</Text>
+      <Text>. E. M. (Lieut.)</Text>
       <PageNumber>131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,11 +970,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitine</Key>
-      <Text>Lieut. R, P</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, P</Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abingdon-Ecco</Key>

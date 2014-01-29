@@ -13,7 +13,8 @@
       <Key>
         <KeyDitto>___ ___ ___ : ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) '</Text>
+      <Title>(correction)</Title>
+      <Text>'</Text>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,9 +38,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roupell</Key>
-      <Title>Col.</Title>
-      <Forenames>If</Forenames>
-      <Text>. F; F. (retired)</Text>
+      <Title>Col. If.</Title>
+      <Forenames>F</Forenames>
+      <Text>; F. (retired)</Text>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +56,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Townley</Key>
-      <Text>Col. C, R. (to command 42th Regimental District)</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, R. (to command 42th Regimental District)</Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +150,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.).. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,9 +166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denny</Key>
-      <Title>Capt. and Brev.</Title>
-      <Forenames>Ma</Forenames>
-      <Text>.j. W. A. C. (seconded)</Text>
+      <Title>Capt. and Brev. Ma.</Title>
+      <Text>j. W. A. C. (seconded)</Text>
       <PageNumber>4277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +300,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.) ..</Text>
+      <Title>(2nd Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>Qrmr. and Hon. Capt. ft. (retired)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Text>ft. (retired)</Text>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +343,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) .. .. ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,16 +435,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolt</Key>
-      <Title>Maj. and Brev.</Title>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. S. P. (Commandant) '</Text>
+      <Title>Maj. and Brev. Liout.</Title>
+      <Text>-Col. S. P. (Commandant) '</Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>Maj.H. B. (Assist: Commandant) .. '</Text>
+      <Title>Maj.</Title>
+      <Text>H. B. (Assist: Commandant) .. '</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +510,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldock</Key>
-      <Text>Lieut.-Col. and Brev. Col. . T. S. (Member) .. ... . '</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>. T. S. (Member) .. ... . '</Text>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,8 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagnold</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. and Brev. Col. A. H. (Superintendent of Building Works, Royal Arsenal, and.Col.)</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. and Brev. Col. A. H. (Superintendent of Building Works, Royal Arsenal, and.Col.)</Text>
       <PageNumber>5350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,8 +546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. S. M. (retired pay)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. S. M. (retired pay)</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1298,8 @@
       <Key>
         <KeyDitto>——— ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) .. .. _</Text>
+      <Title>(correction)</Title>
+      <Text>.. .. _</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,8 +1590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. J. (ceases to belong to the A. M. R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. J. (ceases to belong to the A. M. R.)</Text>
       <PageNumber>4905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,15 +1622,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>W: J. (Surg.-Gen.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: J. (Surg.-Gen.)</Text>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir W. D. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. Sir W. D. (super.)</Text>
       <PageNumber>5599</PageNumber>
     </MainItem>
     <SubItem>

@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinnaird</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>6154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +161,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. .T. O. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Text>.T. O. (antedated)</Text>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northland</Key>
-      <Text>Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>8115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Text>Capt. Hon. the Master of (resigned as Regimental Adj.)</Text>
+      <Title>Capt. Hon.</Title>
+      <Text>the Master of (resigned as Regimental Adj.)</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>Lieut.-Col. and Hon. Col. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. (resigned)</Title>
       <PageNumber>8341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bottomley</Key>
-      <Text>Capt. and Brev.-Maj. H. R. (seconded)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. H. R. (seconded)</Text>
       <PageNumber>6089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,6 +1129,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>2nd Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hoare</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6032</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Joyce</Key>

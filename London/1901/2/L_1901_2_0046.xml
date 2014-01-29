@@ -65,7 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Emanuel</Key>
-      <Text>, Capt.' C. A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>' C. A. (resigned)</Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boberte</Key>
-      <Text>, Field-Marshal Bt. Hon. Earl (Hon. Col.)</Text>
+      <Title>Field-Marshal Bt. Hon. Earl (Hon. Col.)</Title>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +133,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,14 +193,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>,. R. H. (Hon. Col.)</Text>
+      <Text>. R. H. (Hon. Col.)</Text>
       <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Station</Key>
-      <Text>,. V. H. (Hon, Lieut.-Col.)</Text>
+      <Text>. V. H. (Hon, Lieut.-Col.)</Text>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,8 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. H. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. H. (resigned)</Text>
       <PageNumber>9068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillett</Key>
-      <Text>,R. W. (2nd Lieut.)</Text>
+      <Text>R. W. (2nd Lieut.)</Text>
       <PageNumber>6131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawous</Key>
-      <Text>, J: S. (Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: S. (Maj.)</Text>
       <PageNumber>6647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Antill</Key>
-      <Forenames>Ii</Forenames>
-      <Text>. (Hon. Maj.)</Text>
+      <Title>Ii. (Hon. Maj.)</Title>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Text>, S; G. (Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>; G. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, 0. G. (2nd Lieut.)</Text>
+      <Text>0. G. (2nd Lieut.)</Text>
       <PageNumber>4783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Huth</Key>
-      <Text>,-P. S. (Capt.)</Text>
+      <Text>-P. S. (Capt.)</Text>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,9 +1043,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. R. (absorbed into Establishment)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Capt. J. R. (absorbed into Establishment)</Text>
       <PageNumber>6597</PageNumber>
     </MainItem>
   </ItemGroup>

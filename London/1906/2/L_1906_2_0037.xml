@@ -332,9 +332,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut -Col. and Hon. Surg.-Col. A. (resigned) ..</Text>
+      <Title>Super. Surg.</Title>
+      <Text>-Lieut -Col. and Hon. Surg.-Col. A. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binning</Key>
-      <Text>Lord (Lieut.-Col. and to command)</Text>
+      <Title>Lord (Lieut.-Col. and to command)</Title>
       <PageNumber>2980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roxburghe</Key>
-      <Text>Duke of (Maj.) .. ..</Text>
+      <Title>Duke</Title>
+      <Text>of (Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +645,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. D (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>D</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Rev. (Hon. Col.)</Text>
+      <Title>Rev. (Hon. Col.)</Title>
       <PageNumber>3471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +903,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>(Surg.-Maj.) H. M. (resigned)</Text>
+      <Title>(Surg.-Maj.)</Title>
+      <Forenames>H. M.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,8 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. S. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. S. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

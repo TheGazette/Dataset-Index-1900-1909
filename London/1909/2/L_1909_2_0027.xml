@@ -75,15 +75,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, ,F. L. (2nd Lieut.)</Text>
+      <Text>,F. L. (2nd Lieut.)</Text>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. II. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. II. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +199,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>4660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turned</Key>
-      <Text>. Lieut. A. E. (resigned)</Text>
+      <Text>Lieut. A. E. (resigned)</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranston</Key>
-      <Text>, R, E. (Hon. Lieut.-Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (Hon. Lieut.-Col.)</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclagan</Key>
-      <Text>, R, C. (Hon. Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. (Hon. Col.)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedie</Key>
-      <Text>, R, W. (Hon. Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. (Hon. Maj.)</Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Straehan</Key>
-      <Text>,' G. S. (2nd Lieut.);</Text>
+      <Text>' G. S. (2nd Lieut.);</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Queen's (Royal West Surrey Regiment). 4th Battalion. Bennett, G. R. (Lieut.)</Text>
+      <Title>Queen</Title>
+      <Text>'s (Royal West Surrey Regiment). 4th Battalion. Bennett, G. R. (Lieut.)</Text>
       <PageNumber>3281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,9 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned) .. .. . -</Text>
+      <Title>Lieut.-Col. and Hon. Col. Visct. (resigned)</Title>
+      <Text>.. .. . -</Text>
       <PageNumber>3654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +754,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>3969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1051,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instructor of Musketry)</Text>
+      <Title>(Instructor of Musketry)</Title>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,8 +1365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. D. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. D. M. (resigned)</Text>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>

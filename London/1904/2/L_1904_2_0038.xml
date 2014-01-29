@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>Capt. ST. P. (resigned) ..</Text>
+      <Title>Capt.</Title>
+      <Text>ST. P. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,12 +54,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. E. (resigned)</Text>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. PEMBROKESHIRE</SubCategoryTitle>
+  <SubCategoryTitle>PEMBROKESHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Harford</Key>
@@ -265,7 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>Marquis of (correction)</Text>
+      <Title>Marquis</Title>
+      <Text>of (correction)</Text>
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,8 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. H. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. H. (resigned)</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +307,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>Capt. R, T. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, T. (resigned)</Text>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tollemache</Key>
-      <Text>Maj. HoniD. A. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>HoniD. A. (resigned)</Text>
       <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwynne</Key>
-      <Text>E, V. (2nd Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, V. (2nd Lieut.)</Text>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarmouth</Key>
-      <Text>Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>2588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>Maj., Earl of (resigned)</Text>
+      <Title>Maj., Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deramore</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +781,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Text>(East Riding) Imperial Yeomanry. Cadman, P. S. C. (2nd Lieut.)</Text>
+      <Title>(East Riding)</Title>
+      <Forenames>Imperial Yeomanry</Forenames>
+      <Text>. Cadman, P. S. C. (2nd Lieut.)</Text>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenlock</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Hon. Col.)</Text>
+      <Title>Rt. Hon. Lord (Hon. Col.)</Title>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,21 +1018,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Meldrum</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Preedy</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Prothero</Key>
-      <Text>R, C</Text>
+      <Forenames>R</Forenames>
+      <Text>, C</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2193</PageNumber>
     </MainItem>
   </ItemGroup>

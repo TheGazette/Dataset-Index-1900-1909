@@ -92,7 +92,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated) .. .</Text>
+      <Title>(antedated)</Title>
+      <Text>.. .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +111,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +969,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pengree</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. Col. (half-pay)</Text>
+      <Title>Brev. Col. (half-pay)</Title>
       <PageNumber>2690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1075,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>2691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,7 +1365,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1760,7 +1760,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Betenson</Key>
-      <Text>A, (Qrmr.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, (Qrmr.)</Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1985,7 +1986,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>

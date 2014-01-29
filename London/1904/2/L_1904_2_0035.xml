@@ -537,7 +537,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Q</Text>
+      <Forenames>Q</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maedonalcf</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +605,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbefc</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +895,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wileox</Key>
-      <Text>H; B. F</Text>
+      <Forenames>H</Forenames>
+      <Text>; B. F</Text>
       <PageNumber>3355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +932,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melliss</Key>
-      <Text>Col. Sir H</Text>
+      <Title>Col. Sir</Title>
+      <Forenames>H</Forenames>
       <PageNumber>2586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,14 +1281,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McKey</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garstin</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,6 +1322,7 @@
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>INDIAN CIVIL VETERINARY</CategoryTitle>
   <SubCategoryTitle>DEPARTMENT</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
@@ -1348,14 +1351,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallett</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Billing</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>

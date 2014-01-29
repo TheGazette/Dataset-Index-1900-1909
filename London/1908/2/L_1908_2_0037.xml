@@ -139,7 +139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creber</Key>
-      <Text>,J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>8757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,14 +329,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Parfitt</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Puvdy</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>, Lieut.. W. B. (retired list)</Text>
+      <Title>Lieut.</Title>
+      <Text>. W. B. (retired list)</Text>
       <PageNumber>3883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,8 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountmorres</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Viscount (Lieut.)</Text>
+      <Title>Rt. Hon. Viscount (Lieut.)</Title>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1005,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>, M»j. G. A. (Recruiting Staff Officer, Royal Marines, Bristol District</Text>
+      <Forenames>M</Forenames>
+      <Text>»j. G. A. (Recruiting Staff Officer, Royal Marines, Bristol District</Text>
       <PageNumber>3994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1036,6 @@
       <PageNumber>3318</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Accrington</Key>

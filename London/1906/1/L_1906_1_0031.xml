@@ -40,8 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tumour</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Lieut.)</Text>
+      <Title>Visct. (Lieut.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>Lord (Hon. Lieut.-Col.)</Text>
+      <Title>Lord (Hon. Lieut.-Col.)</Title>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halifax</Key>
-      <Text>Rt. Hon. Viscount</Text>
+      <Text>. Rt. Hon. Viscount</Text>
       <PageNumber>876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,8 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Tnsp</Forenames>
-      <Text>.-Gen. of Hospitals and Fleets H. M. (relative rank)</Text>
+      <Title>Tnsp.</Title>
+      <Text>-Gen. of Hospitals and Fleets H. M. (relative rank)</Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardv</Key>
-      <Forenames>Or</Forenames>
-      <Text>. C</Text>
+      <Title>Or.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stansbury</Key>
-      <Text>H, ..</Text>
+      <Forenames>H</Forenames>
+      <Text>, ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambton</Key>
-      <Text>Hon. DA</Text>
+      <Title>Hon.</Title>
+      <Text>DA</Text>
       <PageNumber>382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>

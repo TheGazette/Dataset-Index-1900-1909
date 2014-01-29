@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>, regulations as to</Text>
+      <Text>regulations as to</Text>
       <PageNumber>9652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vancouver</Key>
-      <Text>, SeSor Don G. F. de la Vega, Vice-Consul for Mexico at</Text>
+      <Text>SeSor Don G. F. de la Vega, Vice-Consul for Mexico at</Text>
       <PageNumber>9370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingham</Key>
-      <Text>, notice of meeting to appoint Commissioners of Income Tax</Text>
+      <Text>notice of meeting to appoint Commissioners of Income Tax</Text>
       <PageNumber>9371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcestershire</Key>
-      <Text>, infected area in, Bevocation Order</Text>
+      <Text>infected area in, Bevocation Order</Text>
       <PageNumber>8414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>, Miss 3. M., Lady-in-Waiting to H.R.H. Princess Victoria Patricia of Connaught</Text>
+      <Title>Miss</Title>
+      <Text>3. M., Lady-in-Waiting to H.R.H. Princess Victoria Patricia of Connaught</Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Althorp</Key>
-      <Text>, Viscount, H.M.'s Lieutenant of Northamptonshire</Text>
+      <Title>Viscount</Title>
+      <Text>, H.M.'s Lieutenant of Northamptonshire</Text>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,8 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.-Col. H. J., Esquire, St. John of Jerusalem</Text>
+      <Title>Lieut .</Title>
+      <Text>-Col. H. J., Esquire, St. John of Jerusalem</Text>
       <PageNumber>9465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodington</Key>
-      <Text>, N, Knighted</Text>
+      <Forenames>N</Forenames>
+      <Text>, Knighted</Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burt</Key>
-      <Text>, C, Knighted</Text>
+      <Forenames>C</Forenames>
+      <Text>, Knighted</Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +638,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheveleff</Key>
-      <Text>, Lieut. C, Hon. Fourth Class, Boyal Victorian Order</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Fourth Class, Boyal Victorian Order</Text>
       <PageNumber>9369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>, Viscount, Knight Grand Cross, Boyal Victorian Order</Text>
+      <Title>Viscount</Title>
+      <Text>, Knight Grand Cross, Boyal Victorian Order</Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crewe</Key>
-      <Text>, Bt. Hon. Earl of, Lord Privy Seal</Text>
+      <Title>Bt. Hon. Earl</Title>
+      <Text>of, Lord Privy Seal</Text>
       <PageNumber>7551</PageNumber>
       <PageNumber>7552</PageNumber>
     </MainItem>
@@ -773,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>, 11. A. F., Companion of St. Michael and St. George</Text>
+      <Text>11. A. F., Companion of St. Michael and St. George</Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,14 +813,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Deksbach</Key>
-      <Text>, Capt. C, Hon. Fifth Class, Boyal Victorian Order</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Fifth Class, Boyal Victorian Order</Text>
       <PageNumber>9369</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>, Earl of, Knight Grand Oroes, Boyal Victorian Order</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight Grand Oroes, Boyal Victorian Order</Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Text>, Viscount, Knight Grand Cross of the Bath</Text>
+      <Title>Viscount</Title>
+      <Text>, Knight Grand Cross of the Bath</Text>
       <PageNumber>8161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,8 +946,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Forenames>Adml</Forenames>
-      <Text>. of the Fleet Sir J. A., Admiralty Commissioner</Text>
+      <Title>Adml.</Title>
+      <Text>of the Fleet Sir J. A., Admiralty Commissioner</Text>
       <PageNumber>7467</PageNumber>
     </MainItem>
   </ItemGroup>

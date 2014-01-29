@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>2nd Lieut. D</Text>
+      <Text>. 2nd Lieut. D</Text>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +211,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —.. ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>We</Key>
-      <Text>therall, H. E. de R. (Lieut.)</Text>
+      <Text>.therall, H. E. de R. (Lieut.)</Text>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lundie</Key>
-      <Text>R. C. (2nd Lieut.) ..</Text>
+      <Text>. R. C. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,16 +420,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. H.R.H. the Prince of, Hon. Col</Text>
+      <Title>Gen. H.R.H.</Title>
+      <Text>the Prince of, Hon. Col</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adkins</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. and Hon. Maj. A. S. (resigned)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. and Hon. Maj. A. S. (resigned)</Text>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +464,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coone</Key>
-      <Text>y, C. W. (2nd Lieut.)</Text>
+      <Text>.y, C. W. (2nd Lieut.)</Text>
       <PageNumber>832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunalley</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,15 +762,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Eckerslcy</Key>
-      <Text>Maj. and Hon. Lieut.-Col. ]S(. ff. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>]S(. ff. (resigned)</Text>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Forenames>Vise</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Vise. (Hon. Col.)</Title>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallagher</Key>
-      <Text>AVE. (Capt.)</Text>
+      <Text>. AVE. (Capt.)</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,8 +1116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlborough</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of</Text>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -247,7 +247,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +534,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut.-Col.)</Text>
+      <Title>(Hon. Lieut.-Col.)</Title>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +559,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +851,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>Lieut. C: G. D. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>: G. D. (resigned)</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. L. (resigned)</Text>
       <PageNumber>874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,16 +887,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Skirving</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. A. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. A. S. (resigned)</Text>
       <PageNumber>548</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. M. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +932,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col. and to command)</Text>
+      <Title>(Lieut.-Col. and to command)</Title>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +985,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1045,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Attlay</Key>
-      <Text>W; H. (Lieut-Col. and to command)</Text>
+      <Forenames>W</Forenames>
+      <Text>; H. (Lieut-Col. and to command)</Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1071,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rumboll</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (resigned)</Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>

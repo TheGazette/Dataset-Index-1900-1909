@@ -48,7 +48,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. J£. St. M. (seconded)..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>£. St. M. (seconded)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallowes</Key>
-      <Text>, K, O. (Lieut.)</Text>
+      <Forenames>K</Forenames>
+      <Text>, O. (Lieut.)</Text>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meaden</Key>
-      <Text>,.A. A. (Lieut.)</Text>
+      <Text>.A. A. (Lieut.)</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,14 +503,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Millar</Key>
-      <Text>,-C. E. (Lieut.).. '</Text>
+      <Text>-C. E. (Lieut.).. '</Text>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, E:H. M. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>:H. M. (Lieut.)</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>. Capt; H. M. (temporary half-pay)</Text>
+      <Text>Capt; H. M. (temporary half-pay)</Text>
       <PageNumber>4978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ommanney</Key>
-      <Text>, . Lieut. F. ,M. M. (seconded) .. .. ' .. '</Text>
+      <Text>. Lieut. F. ,M. M. (seconded) .. .. ' .. '</Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>,-H. (Capt.) '. ,</Text>
+      <Text>-H. (Capt.) '. ,</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +659,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>, Maj. G; B. (retired) '</Text>
+      <Title>Maj.</Title>
+      <Forenames>G</Forenames>
+      <Text>; B. (retired) '</Text>
       <PageNumber>4978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>,-Lieut. W. B. (resigned), . .... '</Text>
+      <Text>-Lieut. W. B. (resigned), . .... '</Text>
       <PageNumber>5129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, 0. H. (Lieut.) .. ..</Text>
+      <Text>0. H. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,8 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. P. (removed. on age limit)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. P. (removed. on age limit)</Text>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,8 +930,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. E. L. B. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. E. L. B. (cancellation)</Text>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,8 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saville</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. G. (ceases to belong to the A.M.R.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. G. (ceases to belong to the A.M.R.)</Text>
       <PageNumber>5056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1054,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Text>, Brig.-Surg.-Lieut.-Col. C. . (seconded)</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Col. C. . (seconded)</Text>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,6 +1065,14 @@
       <Forenames>J.</Forenames>
       <Text>(Capt.) .. '</Text>
       <PageNumber>4343</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jones</Key>
+      <Forenames>H. C.</Forenames>
+      <Text>(Qrmr.)</Text>
+      <PageNumber>6136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1104,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddell</Key>
-      <Text>,. Maj. J.S. (to command)</Text>
+      <Text>. Maj. J.S. (to command)</Text>
       <PageNumber>5848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1162,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(provisional Capt.) ..</Text>
+      <Title>(provisional Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1196,8 @@
       <Key>
         <KeyDitto>___ —! ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(provisional Capt.)..</Text>
+      <Title>(provisional Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ '.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1214,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(provisional Capt.) ..</Text>
+      <Title>(provisional Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,14 +1246,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Minchin</Key>
-      <Text>,.W. C(Lieut.-Col.)</Text>
+      <Text>.W. C(Lieut.-Col.)</Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>,.C.B. (Paymaster). .. ..</Text>
+      <Text>.C.B. (Paymaster). .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,14 +1302,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Treffry</Key>
-      <Text>,. Col. F. (retired pay) '-</Text>
+      <Text>. Col. F. (retired pay) '-</Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>TuPoh</Key>
-      <Text>,. Capt. R. Hi W. (temporary half-pay)</Text>
+      <Text>. Capt. R. Hi W. (temporary half-pay)</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1326,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(provisional Capt.) .. .. .. ..</Text>
+      <Title>(provisional Capt.)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Basing</Key>
-      <Text>, Lord (Col.)'</Text>
+      <Title>Lord (Col.)</Title>
+      <Text>'</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,21 +1694,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandbach</Key>
-      <Text>,' A. E. (Col.) '</Text>
+      <Text>' A. E. (Col.) '</Text>
       <PageNumber>5056</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>,.G. G. (Col.)</Text>
+      <Text>.G. G. (Col.)</Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sitwell</Key>
-      <Text>, W :H. (Col.)</Text>
+      <Forenames>W</Forenames>
+      <Text>:H. (Col.)</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,7 +1724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>, C.B. (Maj.)</Text>
+      <Text>C.B. (Maj.)</Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,6 +1761,13 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Half-Pay.</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cavaye</Key>
+      <Text>; A..H.B. (Lieut-Col.)</Text>
+      <PageNumber>6040</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSubSectionTitle>Retired Pay. ' :</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1779,15 +1807,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>,-W. E. H.' (locar.rankiof.eAp.tJ-. . : ' With the King's African.Rifles) ;.v„.;</Text>
+      <Text>-W. E. H.' (locar.rankiof.eAp.tJ-. . : ' With the King's African.Rifles) ;.v„.;</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Forenames>Gol</Forenames>
-      <Text>.xH. (Super,), .,-:,,</Text>
+      <Title>Gol.</Title>
+      <Text>xH. (Super,), .,-:,,</Text>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>

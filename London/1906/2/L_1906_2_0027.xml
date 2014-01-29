@@ -144,7 +144,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +774,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northesk</Key>
-      <Text>Maj. and Hon. Lieut.-Col., Earl of (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col., Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>2979</PageNumber>
     </MainItem>
   </ItemGroup>

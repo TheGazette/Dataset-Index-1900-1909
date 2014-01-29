@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>, 0. W. A</Text>
+      <Text>0. W. A</Text>
       <PageNumber>5376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>.J. P</Text>
+      <Text>J. P</Text>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,15 +174,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridgeway</Key>
-      <Forenames>Or</Forenames>
-      <Text>. E</Text>
+      <Title>Or.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saxby-Thomas</Key>
-      <Text>, I). R</Text>
+      <Forenames>I</Forenames>
+      <Text>). R</Text>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, 0. E. H</Text>
+      <Text>0. E. H</Text>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,14 +248,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Or</Forenames>
+      <Title>Or .</Title>
       <PageNumber>6196</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, 0. J. F</Text>
+      <Text>0. J. F</Text>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bevis</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>.R. G</Text>
+      <Text>R. G</Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkes</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,21 +1233,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Banbury</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4809</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johns</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stears</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>.Col. Comdt. T. F. D. (retired und Hon. Maj.-Gen.)</Text>
+      <Text>Col. Comdt. T. F. D. (retired und Hon. Maj.-Gen.)</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>

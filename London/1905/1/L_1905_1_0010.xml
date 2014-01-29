@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roscoe</Key>
-      <Text>, Sir TI. E., reappointed Member of the Senate of the University of London</Text>
+      <Title>Sir</Title>
+      <Text>TI. E., reappointed Member of the Senate of the University of London</Text>
       <PageNumber>1499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of. Constable of Dover Castle and Warden and Keeper of H.M.'s Cinque Ports, &amp;c</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of. Constable of Dover Castle and Warden and Keeper of H.M.'s Cinque Ports, &amp;c</Text>
       <PageNumber>1843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>,'Sir H. T., Lieut.-Govemor of Burma</Text>
+      <Text>'Sir H. T., Lieut.-Govemor of Burma</Text>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>, 1). B. (2nd Lieut.)</Text>
+      <Text>1). B. (2nd Lieut.)</Text>
       <PageNumber>419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>. H. C. (2nd Lieut.) .. ..</Text>
+      <Text>H. C. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey-Kelly</Key>
-      <Text>, 0. H. G.H. (2ndLieut.)</Text>
+      <Text>0. H. G.H. (2ndLieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Text>G. (2nd Lieut.)</Text>
       <PageNumber>419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>, Lieut.' Viscount, Aide-de-Camp to Earl Grey</Text>
+      <Title>Lieut.</Title>
+      <Text>' Viscount, Aide-de-Camp to Earl Grey</Text>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +855,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclnnes</Key>
-      <Text>, Capt. D: S., Deputy-Assist. Qrmr.-Gen.-</Text>
+      <Title>Capt.</Title>
+      <Forenames>D</Forenames>
+      <Text>: S., Deputy-Assist. Qrmr.-Gen.-</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Maj. and Brev. .Lieut.-Col. G. F. W., Brig.-Maj., Royal Artillery</Text>
+      <Text>John, Maj. and Brev. .Lieut.-Col. G. F. W., Brig.-Maj., Royal Artillery</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Text>, Capt. VV. H. (Staff Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. H. (Staff Capt.)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lennox</Key>
-      <Text>, Capt. (removed)</Text>
+      <Title>Capt. (removed)</Title>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1325,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(j)</Text>
+      <Title>(j)</Title>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,6 +1401,14 @@
       <Forenames>W. G.</Forenames>
       <Text>(seconded).-</Text>
       <PageNumber>581</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hutchinson</Key>
+      <Forenames>T. M.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

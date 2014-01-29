@@ -29,7 +29,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, AV. (Maj.-Gen.)</Text>
+      <Text>AV. (Maj.-Gen.)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eady</Key>
-      <Text>,*Maj. F. W. E. (temporary halfpay) ..'</Text>
+      <Text>*Maj. F. W. E. (temporary halfpay) ..'</Text>
       <PageNumber>6296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, .Barrack-Master and Maj. F. C. (retired list)</Text>
+      <Text>.Barrack-Master and Maj. F. C. (retired list)</Text>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,14 +475,14 @@
   <ItemGroup>
     <MainItem>
       <Key>BevisVF</Key>
-      <Text>. AV. W. (Sub-Lieut.) '</Text>
+      <Text>AV. W. (Sub-Lieut.) '</Text>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Biair</Key>
-      <Text>, JD. (Sub-Lieut.)</Text>
+      <Text>JD. (Sub-Lieut.)</Text>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +876,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Niles</Key>
-      <Text>,.Lieut. W. H. (retired list)</Text>
+      <Text>.Lieut. W. H. (retired list)</Text>
       <PageNumber>5053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +885,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Triege</Key>
-      <Text>, Lieut. AV. H. B. (retired . list)</Text>
+      <Title>Lieut.</Title>
+      <Text>AV. H. B. (retired . list)</Text>
       <PageNumber>5053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1388,6 @@
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agricultural</Key>

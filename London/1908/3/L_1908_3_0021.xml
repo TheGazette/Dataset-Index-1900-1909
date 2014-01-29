@@ -87,8 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. R. B. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. R. B. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +107,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seagrave</Key>
-      <Text>Lieut. O'N. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>O</Forenames>
+      <Text>'N. (resigned)</Text>
       <PageNumber>6451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,8 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. (resigned) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,16 +559,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>Mi</Forenames>
-      <Text>.j. and Hon. Lieut.-Col. H. (resigned) .. .,</Text>
+      <Title>Mi.</Title>
+      <Text>j. and Hon. Lieut.-Col. H. (resigned) .. .,</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacLennan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>7035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +576,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fennell</Key>
-      <Forenames>Liev</Forenames>
-      <Text>.t. H. R. P. (resigned)</Text>
+      <Title>Liev.</Title>
+      <Text>t. H. R. P. (resigned)</Text>
       <PageNumber>7035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothwell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. A. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +796,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Antrobus</Key>
-      <Text>C A. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>A. (Capt.)</Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>Capt. J. S. (temporary halfpay)</Text>
+      <Text>. Capt. J. S. (temporary halfpay)</Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +876,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,8 +955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marr</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,8 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullen</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. F. St. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. F. St. J. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -135,7 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Text>, Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>6876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,14 +236,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, G-. R. (Col.)</Text>
+      <Text>G-. R. (Col.)</Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Danglish</Key>
-      <Text>, G-. V. (Col.)</Text>
+      <Text>G-. V. (Col.)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>,L. (Col.) . .. ..</Text>
+      <Text>L. (Col.) . .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +335,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>, Earl of (Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +728,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eustace</Key>
-      <Text>, Maj.-Geu. F. J. W. (retired)</Text>
+      <Title>Maj.</Title>
+      <Text>-Geu. F. J. W. (retired)</Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,8 +1181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Forenames>Lieat</Forenames>
-      <Text>.-Col. and Brevet Col. F. R. (retired)</Text>
+      <Title>Lieat.</Title>
+      <Text>-Col. and Brevet Col. F. R. (retired)</Text>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprot</Key>
-      <Text>, Lieut.-Col. (retired pay)</Text>
+      <Title>Lieut.-Col. (retired pay)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kearnev</Key>
-      <Text>, M:</Text>
+      <Forenames>M</Forenames>
+      <Text>:</Text>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>6469</PageNumber>
     </MainItem>
   </ItemGroup>

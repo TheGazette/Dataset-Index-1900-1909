@@ -355,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chittenden</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. H. (resigned) .. .. .. .:</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. H. (resigned) .. .. .. .:</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>ST. H</Text>
+      <Text>. ST. H</Text>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
-      <Text>Rev. M</Text>
+      <Title>Rev.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,14 +1103,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McKelvie</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNiven</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mill</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>W '</Text>
+      <Forenames>W</Forenames>
+      <Text>'</Text>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,14 +1257,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Royston</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>Earl .. .. .. ..</Text>
+      <Title>Earl .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1355,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,21 +1453,23 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned) .. ,. ,</Text>
+      <Title>(resigned)</Title>
+      <Text>.. ,. ,</Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waycott</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>K Hid. Wilkinson, S. W</Text>
+      <Forenames>K</Forenames>
+      <Text>Hid. Wilkinson, S. W</Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>

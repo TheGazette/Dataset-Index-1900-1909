@@ -164,7 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Firth</Key>
-      <Text>, Qrmr. and Hon.: Maj. S. (retired pay)</Text>
+      <Title>Qrmr. and Hon.</Title>
+      <Text>: Maj. S. (retired pay)</Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montague</Key>
-      <Text>, 8. F. (Lieut.)</Text>
+      <Text>8. F. (Lieut.)</Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,9 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emlyn</Key>
-      <Title>Capt.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned and Hon. Maj.)</Text>
+      <Title>Capt. Visct. (resigned and Hon. Maj.)</Title>
       <PageNumber>3941</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, 2nd Lieut Lord (seconded)</Text>
+      <Text>2nd Lieut Lord (seconded)</Text>
       <PageNumber>6170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ripley</Key>
-      <Text>, 2ud Lieut. F. H. (resigned)</Text>
+      <Text>2ud Lieut. F. H. (resigned)</Text>
       <PageNumber>4780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>, 2nd Lieut. Duke of (resigned)</Text>
+      <Title>2nd Lieut. Duke</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>8560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +292,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>8982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +955,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Text>, Hon. Master of (Capt.) ..</Text>
+      <Title>Hon. Master</Title>
+      <Text>of (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1334,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>6170</PageNumber>
     </MainItem>
   </ItemGroup>

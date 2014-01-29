@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullineux</Key>
-      <Text>Rev. M</Text>
+      <Title>Rev.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +202,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pease</Key>
-      <Text>Maj. L.T. (absorbed into Establishment)</Text>
+      <Title>Maj.</Title>
+      <Text>L.T. (absorbed into Establishment)</Text>
       <PageNumber>5631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +235,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Text>Col. C»ndt. W. G. (retired list and Hon. Maj.-Gen.)</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>»ndt. W. G. (retired list and Hon. Maj.-Gen.)</Text>
       <PageNumber>6211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +509,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(half-pay)</Text>
+      <Title>(half-pay)</Title>
       <PageNumber>8510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1375,6 @@
       <PageNumber>8256</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
@@ -1476,7 +1479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alhambra</Key>
-      <Text>(Blackpool), notice of winding up</Text>
+      <Title>(Blackpool)</Title>
+      <Text>, notice of winding up</Text>
       <PageNumber>7275</PageNumber>
       <PageNumber>8613</PageNumber>
     </MainItem>

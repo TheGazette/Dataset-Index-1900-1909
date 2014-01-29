@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Duke of Edinburgh's ( Wiltshire Regiment). Bearer, P. S. L. (2nd Lieut.)</Text>
+      <Title>Duke</Title>
+      <Text>of Edinburgh's ( Wiltshire Regiment). Bearer, P. S. L. (2nd Lieut.)</Text>
       <PageNumber>6748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Prince of Wales's (North shire Regiment). 4th Battalion. Troughton, ,0. C. W. (Hon. Lieut.Col.)</Text>
+      <Title>Prince</Title>
+      <Text>of Wales's (North shire Regiment). 4th Battalion. Troughton, ,0. C. W. (Hon. Lieut.Col.)</Text>
       <PageNumber>8779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>. J. F. S. (Capt.)</Text>
+      <Text>J. F. S. (Capt.)</Text>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,8 +336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. T. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. T. (retired)</Text>
       <PageNumber>7045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, Lieut.-Col. and Brevet Col.</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +944,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, R (Hon. Col.)</Text>
+      <Forenames>R</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patten</Key>
-      <Text>, 0..H. (2nd Lieut.)</Text>
+      <Text>0..H. (2nd Lieut.)</Text>
       <PageNumber>8609</PageNumber>
     </MainItem>
   </ItemGroup>

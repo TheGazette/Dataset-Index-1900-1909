@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>, 2hd Lieut. Hon. A. B. S. (resigned)</Text>
+      <Text>2hd Lieut. Hon. A. B. S. (resigned)</Text>
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimsdale</Key>
-      <Text>, G, C. (2nd Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, C. (2nd Lieut.)</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinnerton</Key>
-      <Text>, H: (Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: (Lieut.)</Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jagger</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. H. C. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. H. C. (resigned)</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -262,8 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Forenames>Assist</Forenames>
-      <Text>.-Paymaster P. (Retired List)</Text>
+      <Title>Assist.</Title>
+      <Text>-Paymaster P. (Retired List)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,8 +546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Forenames>Assist</Forenames>
-      <Text>..Paymaster F. C.(correction)</Text>
+      <Title>Assist.</Title>
+      <Text>.Paymaster F. C.(correction)</Text>
       <PageNumber>2934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>Maj.-Gen., Deputy Adj.-Gen. of the Royal Marine Forces</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>, Deputy Adj.-Gen. of the Royal Marine Forces</Text>
       <PageNumber>4119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +784,6 @@
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Absolute</Key>
@@ -855,7 +855,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Albion</Key>
-      <Text>(Burton-on-Trent) Brewery, notice to debenture holders</Text>
+      <Title>(Burton-on-Trent)</Title>
+      <Forenames>Brewery</Forenames>
+      <Text>, notice to debenture holders</Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>

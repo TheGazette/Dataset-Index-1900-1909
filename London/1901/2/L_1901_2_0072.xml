@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramwell</Key>
-      <Text>, II. D. (Adj.)</Text>
+      <Text>II. D. (Adj.)</Text>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,8 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. J. (absorbed into the Establishment)</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. J. (absorbed into the Establishment)</Text>
       <PageNumber>5259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +79,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Birrell</Key>
-      <Text>, Qrmr. (Hon. Maj.) J. (resigned and Maj.)</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigned and Maj.)</Text>
       <PageNumber>4959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,11 +324,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7398</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. FIFESHIRE</SubCategoryTitle>
+  <SubCategoryTitle>FIFESHIRE</SubCategoryTitle>
   <SubSectionTitle>Volunteer Corps</SubSectionTitle>
   <SubSectionTitle>Artillery</SubSectionTitle>
   <ItemGroup>
@@ -369,7 +372,7 @@
       <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>FIFESHIRE AND. FORFARSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>FORFARSHIRE</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -414,8 +417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palm</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. S. (resigned)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,8 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Soutar</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. (resigned)</Text>
       <PageNumber>5130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +601,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +642,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>7398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>5596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,8 +797,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon C. J.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>C. J.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>6104</PageNumber>
     </MainItem>
@@ -931,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashburton</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,8 +1126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. G. (resigned)</Text>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sondes</Key>
-      <Text>, Capt. and Hon. Maj. Earl (resigned)</Text>
+      <Title>Capt. and Hon. Maj. Earl (resigned)</Title>
       <PageNumber>7224</PageNumber>
     </MainItem>
   </ItemGroup>

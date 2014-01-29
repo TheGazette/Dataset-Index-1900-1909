@@ -89,8 +89,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. C. (resigned)</Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +148,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Clyde Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -365,7 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Granard</Key>
-      <Text>, Lieut. Earl of (seconded)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (seconded)</Text>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powerscourt</Key>
-      <Text>, Lieut. Viscount (resigned)</Text>
+      <Title>Lieut. Viscount (resigned)</Title>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Text>, Capt. and Hon. Maj: J. (retired)</Text>
+      <Title>Capt. and Hon. Maj</Title>
+      <Text>: J. (retired)</Text>
       <PageNumber>4262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wightman</Key>
-      <Text>. A. J. (Lieut.)</Text>
+      <Text>A. J. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,8 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickley</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. M. (resigned)</Text>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>

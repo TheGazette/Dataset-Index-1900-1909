@@ -417,7 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Text>Lieut. G. P. L. (resigned)</Text>
+      <Text>. Lieut. G. P. L. (resigned)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,8 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl (Hon. Col.)</Title>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +530,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kite</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. A. (resigned)</Text>
       <PageNumber>748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Gattv</Key>
-      <Text>C. C. S. (Capt.)</Text>
+      <Text>. C. C. S. (Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,9 +689,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.. Col. C. W. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Surg.</Title>
+      <Text>. Col. C. W. (resigned)</Text>
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>

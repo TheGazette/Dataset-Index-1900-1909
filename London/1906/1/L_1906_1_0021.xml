@@ -339,7 +339,9 @@
       <Key>
         <KeyDitto>___ ___ — ___</KeyDitto>
       </Key>
-      <Text>Lieut. G, C. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G</Forenames>
+      <Text>, C. (antedated)</Text>
       <PageNumber>1137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,16 +383,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>Hon. T W. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>T</Forenames>
+      <Text>W. (Capt.)</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Title>Capt.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Capt. Visct. (seconded)</Title>
       <PageNumber>951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerry</Key>
-      <Text>Maj., 3arl of (resigned)</Text>
+      <Title>Maj.</Title>
+      <Text>, 3arl of (resigned)</Text>
       <PageNumber>1517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rarnage</Key>
-      <Text>F (Capt.) .. .. .. ' 8?</Text>
+      <Forenames>F</Forenames>
+      <Text>(Capt.) .. .. .. ' 8?</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +567,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgar</Key>
-      <Text>Capt. and Hon. M*j. F. (seconded)</Text>
+      <Title>Capt. and Hon.</Title>
+      <Forenames>M</Forenames>
+      <Text>*j. F. (seconded)</Text>
       <PageNumber>549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,8 +838,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. H. (resigned)</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>

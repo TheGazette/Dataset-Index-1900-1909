@@ -173,8 +173,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. (correction)</Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>D C. (2nd Lieut.)</Text>
+      <Forenames>D</Forenames>
+      <Text>C. (2nd Lieut.)</Text>
       <PageNumber>8571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>Capt. E 3. M. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
+      <Text>3. M. (seconded)</Text>
       <PageNumber>3247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1040,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3247</PageNumber>
     </MainItem>
   </ItemGroup>

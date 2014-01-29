@@ -90,7 +90,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everitt</Key>
-      <Text>, 8. O. (Capt.)</Text>
+      <Text>8. O. (Capt.)</Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunalley</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>4393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,8 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luttman-Johnson</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. K. (resigned)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. K. (resigned)</Text>
       <PageNumber>3330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1097,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1287,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry) ..</Text>
+      <Title>(Instr. of Musketry)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

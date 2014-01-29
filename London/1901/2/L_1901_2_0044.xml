@@ -348,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>,.H. ,T. (Lieut.-Col.)</Text>
+      <Text>.H. ,T. (Lieut.-Col.)</Text>
       <PageNumber>8916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, 0. G. W. (Capt.)</Text>
+      <Text>0. G. W. (Capt.)</Text>
       <PageNumber>4472</PageNumber>
       <PageNumber>5127</PageNumber>
     </MainItem>
@@ -622,8 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Forenames>Brev</Forenames>
-      <Text>. CoI.N. M. (half-pay)</Text>
+      <Title>Brev.</Title>
+      <Text>CoI.N. M. (half-pay)</Text>
       <PageNumber>6849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +728,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>, Maj. C:E. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>:E. (retired)</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>, Qrmr. and Hon: Capt. C. (super.)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and Hon: Capt. C. (super.)</Text>
       <PageNumber>4472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>, Maj. i.R. (date of promotion)</Text>
+      <Title>Maj.</Title>
+      <Text>i.R. (date of promotion)</Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +923,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Speranza</Key>
-      <Text>, W; S. (Mnj.) .. .. ..</Text>
+      <Forenames>W</Forenames>
+      <Text>; S. (Mnj.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1186,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1327,7 @@
       <Key>
         <KeyDitto>— —</KeyDitto>
       </Key>
-      <Text>(Instr. of Artillery)</Text>
+      <Title>(Instr. of Artillery)</Title>
       <PageNumber>8412</PageNumber>
     </MainItem>
     <SubItem>

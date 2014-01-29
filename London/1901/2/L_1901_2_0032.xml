@@ -58,7 +58,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +115,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, Lieut.-Col. R, W. (Deputy Surg.)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>R</Forenames>
+      <Text>, W. (Deputy Surg.)</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>,.A. V. (Lieut.-Col.) .. ..</Text>
+      <Text>.A. V. (Lieut.-Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Younge</Key>
-      <Text>, &lt;&gt;. H. (Lieut.-Col.) .. ..</Text>
+      <Text>&lt;&gt;. H. (Lieut.-Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucknill</Key>
-      <Forenames>Sure</Forenames>
-      <Text>.-Capt C. E. R. (resigned)</Text>
+      <Title>Sure.</Title>
+      <Text>-Capt C. E. R. (resigned)</Text>
       <PageNumber>8984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. (ceases to belong to the Army Medical Reserve)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. (ceases to belong to the Army Medical Reserve)</Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,8 +943,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hough</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C.H. (ceases to belong to the Army Medical Reserve)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C.H. (ceases to belong to the Army Medical Reserve)</Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,16 +959,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. S. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. S. H. (resigned)</Text>
       <PageNumber>8984</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. H. M. (ceases to belong to the Army Medical Reserve)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. H. M. (ceases to belong to the Army Medical Reserve)</Text>
       <PageNumber>8918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,8 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. H. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. H. (seconded)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,8 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gierke</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (seconded)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,8 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. B. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. B. (correction)</Text>
       <PageNumber>6298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,8 +1161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. M. (supernumerary)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. M. (supernumerary)</Text>
       <PageNumber>8987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorling</Key>
-      <Text>, Maj. L</Text>
+      <Title>Maj.</Title>
+      <Forenames>L</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Delacombe</Key>
-      <Text>, Capt. A</Text>
+      <Title>Capt.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>6296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,8 +1478,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nuun</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut.-Col. J. A. (Deputy Director-Gen.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut.-Col. J. A. (Deputy Director-Gen.)</Text>
       <PageNumber>8090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,8 +1541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. S. M. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. S. M. (resigned)</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>

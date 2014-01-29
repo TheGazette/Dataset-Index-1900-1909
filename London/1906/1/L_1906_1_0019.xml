@@ -109,7 +109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Low</Key>
-      <Text>Capt. V: F. G. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>V</Forenames>
+      <Text>: F. G. (seconded)</Text>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,6 +234,14 @@
       <Forenames>E. G.</Forenames>
       <Text>(Lieut.-Col.)</Text>
       <PageNumber>383</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nugent</Key>
+      <Forenames>G. R. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>286</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -711,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McEnery</Key>
-      <Text>J A. (Capt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>A. (Capt.)</Text>
       <PageNumber>383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Text>E. (Lieut.)</Text>
+      <Text>. E. (Lieut.)</Text>
       <PageNumber>1517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhagirat</Key>
-      <Text>(Jemadar)</Text>
+      <Title>(Jemadar)</Title>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1029,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunphy</Key>
-      <Text>L O. A. (2nd Lieut)</Text>
+      <Forenames>L</Forenames>
+      <Text>O. A. (2nd Lieut)</Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>

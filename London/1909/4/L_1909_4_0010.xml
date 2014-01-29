@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, Rev. &amp;., a Principal of the University of Aberdeen</Text>
+      <Title>Rev.</Title>
+      <Text>&amp;., a Principal of the University of Aberdeen</Text>
       <PageNumber>8013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Titheridge</Key>
-      <Text>. Lieut. B:, Fifth Class, Royal Victorian Order .. '</Text>
+      <Text>Lieut. B:, Fifth Class, Royal Victorian Order .. '</Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>, Col.. W. T. G., Brig.-Gen. to command a Brigade</Text>
+      <Title>Col.</Title>
+      <Text>. W. T. G., Brig.-Gen. to command a Brigade</Text>
       <PageNumber>8246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +498,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, Maj. O, General Staff Officer, 3rd Grade, at Headquarters</Text>
+      <Title>Maj.</Title>
+      <Forenames>O</Forenames>
+      <Text>, General Staff Officer, 3rd Grade, at Headquarters</Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +643,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodern</Key>
-      <Text>, Capt. C, Aide-de-Camp to Maj.-Gen G. Barker</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Aide-de-Camp to Maj.-Gen G. Barker</Text>
       <PageNumber>9231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanesborough</Key>
-      <Text>, Maj., Earl of, Military Secretary to Rt. Hon. Earl Grey</Text>
+      <Title>Maj., Earl</Title>
+      <Text>of, Military Secretary to Rt. Hon. Earl Grey</Text>
       <PageNumber>9766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Col. C. W. R., Chief Engineer</Text>
+      <Text>John, Col. C. W. R., Chief Engineer</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,14 +1016,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackburne</Key>
-      <Text>, C.H. tCapt.)</Text>
+      <Text>C.H. tCapt.)</Text>
       <PageNumber>8555</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>,TMCapt. Lord A. E. (resigned)</Text>
+      <Text>TMCapt. Lord A. E. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamis</Key>
-      <Text>, Lord (Lieut)</Text>
+      <Title>Lord (Lieut)</Title>
       <PageNumber>9768</PageNumber>
     </MainItem>
   </ItemGroup>

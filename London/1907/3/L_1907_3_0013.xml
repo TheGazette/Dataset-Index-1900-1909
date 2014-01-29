@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>.E.W. St. V. (Surg.-Maj.)</Text>
+      <Text>E.W. St. V. (Surg.-Maj.)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,8 +52,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. E. W. St. V. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. E. W. St. V. (resigned)</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,9 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Title>Capt.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Capt. Visct. (retired)</Title>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cremen</Key>
-      <Text>.J. (Hon. Capt.)</Text>
+      <Text>J. (Hon. Capt.)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +997,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired) .-</Text>
+      <Title>(retired)</Title>
+      <Text>.-</Text>
       <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,7 +1438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vines</Key>
-      <Text>, Lieut.-Col. aad Brevet Col. C. J. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>aad Brevet Col. C. J. (retired)</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>. Qrmr. and Hon. Capt. J. W</Text>
+      <Text>Qrmr. and Hon. Capt. J. W</Text>
       <PageNumber>5950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,8 +1638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollies</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. . ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. . ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,8 +1664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMunn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C. A</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C. A</Text>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,8 +1697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plomley</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. W</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. W</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selmes</Key>
-      <Text>, Capt. and Hon. Maj. OA...</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Text>OA...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

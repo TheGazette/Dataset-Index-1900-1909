@@ -85,7 +85,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. S. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. S. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,8 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Visct. (Hon. Col.)</Title>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +488,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Skere</Key>
-      <Text>, Rev. R, E. (Acting Chaplain)</Text>
+      <Title>Rev.</Title>
+      <Forenames>R</Forenames>
+      <Text>, E. (Acting Chaplain)</Text>
       <PageNumber>2333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunkett</Key>
-      <Text>. E. A. (Capt.) .. ..</Text>
+      <Text>E. A. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>. R. B. F. S. (2nd Lieut.)</Text>
+      <Text>R. B. F. S. (2nd Lieut.)</Text>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, 0. B. (Adj.)</Text>
+      <Text>0. B. (Adj.)</Text>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1170,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,6 +1261,14 @@
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilson</Key>
+      <Forenames>A. H.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>4253</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1315,8 +1324,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Auld</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. (resigned)</Text>
       <PageNumber>3195</PageNumber>
     </MainItem>
   </ItemGroup>

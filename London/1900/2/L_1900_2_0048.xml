@@ -3,14 +3,14 @@
   <ItemGroup>
     <MainItem>
       <Key>ThomBB</Key>
-      <Text>, 2nd Lieut, H. E. (seconded)</Text>
+      <Text>2nd Lieut, H. E. (seconded)</Text>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>. G. W. (2nd Lieut.)</Text>
+      <Text>G. W. (2nd Lieut.)</Text>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +34,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Packard</Key>
-      <Text>, Capt. and Instr. of Musketry C. T. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry C. T. (resigned)</Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentice</Key>
-      <Text>. W. H. (2nd Lieut.)</Text>
+      <Text>W. H. (2nd Lieut.)</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,14 +292,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, J: C. (Lieut.) .. ..</Text>
+      <Forenames>J</Forenames>
+      <Text>: C. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryres</Key>
-      <Text>,. W. N. (2nd Lieut.)</Text>
+      <Text>. W. N. (2nd Lieut.)</Text>
       <PageNumber>4947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langtoh</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Esdaile</Key>
-      <Text>. P. C. (2nd Lieut.)</Text>
+      <Text>P. C. (2nd Lieut.)</Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,15 +686,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mayor</Key>
-      <Forenames>Instr</Forenames>
-      <Text>. of Musketry E. J. (resigned)</Text>
+      <Title>Instr.</Title>
+      <Text>of Musketry E. J. (resigned)</Text>
       <PageNumber>5179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, 8. J. (2nd Lieut, super.)</Text>
+      <Text>8. J. (2nd Lieut, super.)</Text>
       <PageNumber>4788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barff</Key>
-      <Text>. F. R. (Lieut.)</Text>
+      <Text>F. R. (Lieut.)</Text>
       <PageNumber>4791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1313,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Text>, 2nd Lieut, F. T. L. (resigned)</Text>
+      <Text>2nd Lieut, F. T. L. (resigned)</Text>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1521,7 +1523,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Londesborough</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>

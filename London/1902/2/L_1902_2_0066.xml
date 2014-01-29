@@ -108,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birkin</Key>
-      <Text>B, L. (Maj.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, L. (Maj.)</Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,8 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. R. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. R. (resigned)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>C; H. (Maj.)</Text>
+      <Forenames>C</Forenames>
+      <Text>; H. (Maj.)</Text>
       <PageNumber>6024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. (resigned)</Text>
       <PageNumber>7093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +367,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>Lieut.-Gen. Lord (resigns as Hon. Col.)</Text>
+      <Title>Lieut.-Gen. Lord (resigns as Hon. Col.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>Marquis of (Col.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,8 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowser</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. E. (cancellation)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. E. (cancellation)</Text>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,8 +797,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilks</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. L. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. L. E. (resigned)</Text>
       <PageNumber>8763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>Earl of (Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,21 +954,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheshire</Key>
-      <Text>(Earl of Chester's)</Text>
+      <Title>(Earl of Chester's)</Title>
       <PageNumber>4971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denbighshire</Key>
-      <Text>(Hussars)</Text>
+      <Title>(Hussars)</Title>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>(Queen's Own)</Text>
+      <Title>(Queen's Own)</Title>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,15 +991,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lancashire</Key>
-      <Forenames>Hussars</Forenames>
-      <Text>.. .. .,</Text>
+      <Title>Hussars .</Title>
+      <Text>. .. .,</Text>
       <PageNumber>5605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leicestershire</Key>
-      <Text>( Prince Albert's Own)</Text>
+      <Title>( Prince Albert's Own)</Title>
       <PageNumber>5889</PageNumber>
       <PageNumber>7241</PageNumber>
     </MainItem>
@@ -1010,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>(King's Own)</Text>
+      <Title>(King's Own)</Title>
       <PageNumber>4971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>(HusBars)</Text>
+      <Title>(HusBars)</Title>
       <PageNumber>4741</PageNumber>
       <PageNumber>7241</PageNumber>
     </MainItem>
@@ -1032,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nottinghamshire</Key>
-      <Text>(Sherwood Rangers)</Text>
+      <Title>(Sherwood Rangers)</Title>
       <PageNumber>5101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1045,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Southern Nottinghamshire)</Text>
+      <Title>(Southern Nottinghamshire)</Title>
       <PageNumber>7015</PageNumber>
       <PageNumber>7538</PageNumber>
     </MainItem>
@@ -1049,15 +1053,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxfordshire</Key>
-      <Text>(Queen's Own Oxfordshire Hussars) ,</Text>
+      <Title>(Queen's Own Oxfordshire Hussars)</Title>
+      <Text>,</Text>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Forenames>North</Forenames>
-      <Text>.. .. . . ..</Text>
+      <Title>North .</Title>
+      <Text>. .. . . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,15 +1071,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>West</Forenames>
-      <Text>.. .. ,</Text>
+      <Title>West .</Title>
+      <Text>. .. ,</Text>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Staffordshire</Key>
-      <Text>(Queen's Own Royal Regiment)</Text>
+      <Title>(Queen's Own Royal Regiment)</Title>
       <PageNumber>5334</PageNumber>
       <PageNumber>5752</PageNumber>
     </MainItem>
@@ -1082,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffolk</Key>
-      <Text>(Duke of York's Own Loyal Suffolk Hussars)</Text>
+      <Title>(Duke of York's Own Loyal Suffolk Hussars)</Title>
       <PageNumber>5101</PageNumber>
       <PageNumber>8443</PageNumber>
     </MainItem>
@@ -1090,7 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>(the Princess of Wales's)</Text>
+      <Title>(the Princess of Wales's)</Title>
       <PageNumber>7092</PageNumber>
     </MainItem>
   </ItemGroup>

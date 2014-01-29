@@ -21,7 +21,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Msj.)</Text>
+      <Title>(Msj.)</Title>
       <PageNumber>6763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bai</Key>
-      <Text>lv, E. C. R. (2nd Lieut.).. ..</Text>
+      <Text>.lv, E. C. R. (2nd Lieut.).. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prowse</Key>
-      <Text>C. B. (Adj.)</Text>
+      <Text>. C. B. (Adj.)</Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyssen</Key>
-      <Text>.T. H. S. (2nd Lieut.) ..</Text>
+      <Text>. .T. H. S. (2nd Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burridge</Key>
-      <Text>W. T. (Capt.) .. ..</Text>
+      <Text>. W. T. (Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +913,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>R, E. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. (Lieut.)</Text>
       <PageNumber>6950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1061,8 @@
       <Key>
         <KeyDitto>-——.— ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>

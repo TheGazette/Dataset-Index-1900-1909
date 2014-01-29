@@ -18,6 +18,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Gorman</Key>
+      <Title>Capt.</Title>
+      <Text>\V. H. (retired pay)</Text>
+      <PageNumber>1040</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gregson</Key>
       <Forenames>F. E.</Forenames>
       <Text>(temporary Capt.)</Text>
@@ -29,8 +37,17 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon.-Capt.) ..</Text>
+      <Title>(Hon.-Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid. .</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Harding</Key>
+      <Forenames>J. S. G.</Forenames>
+      <Text>(local rank of Capt,)</Text>
+      <PageNumber>2601</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
@@ -70,9 +87,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Forenames>Mnj</Forenames>
-      <Text>.-Gcn. F. T. (retired pay)</Text>
+      <Title>Mnj.</Title>
+      <Text>-Gcn. F. T. (retired pay)</Text>
       <PageNumber>2339</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hogg</Key>
+      <Forenames>J.</Forenames>
+      <Text>II. G. G. (Hon. Capt.)</Text>
+      <PageNumber>719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -133,6 +158,15 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hunter</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>3609</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
@@ -230,7 +264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathern</Key>
-      <Text>Lieut.-Col. and^Brev. Col. G. H. (half-pay) .. . . ^</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and^Brev. Col. G. H. (half-pay) .. . . ^</Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +291,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ — ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Commandant of the School of Instruction for Imperial Yeomanry Officers)</Text>
+      <Title>(Commandant of the School of Instruction for Imperial Yeomanry Officers)</Title>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +407,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(local rank of Capt.) ..</Text>
+      <Title>(local rank of Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>Lieut.-Col. B, L. (holf-pay)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>B</Forenames>
+      <Text>, L. (holf-pay)</Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +868,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>E, S. F. (local rank of Lieut.Col. in the Malay Slates)</Text>
+      <Forenames>E</Forenames>
+      <Text>, S. F. (local rank of Lieut.Col. in the Malay Slates)</Text>
       <PageNumber>2938</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -129,7 +129,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(.-econded)</Text>
+      <Title>(.-econded)</Title>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +138,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>Capt. G\ Gr. K. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>G</Forenames>
+      <Text>\ Gr. K. (seconded)</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +197,7 @@
       <Key>
         <KeyDitto>___ ___ ___ . ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +233,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +517,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Ma.].)</Text>
+      <Title>(Ma.].)</Title>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>

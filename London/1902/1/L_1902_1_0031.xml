@@ -344,7 +344,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj. and Hon. Lieut.-Col.)</Text>
+      <Title>(Maj. and Hon. Lieut.-Col.)</Title>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,6 +607,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Thomson</Key>
+      <Forenames>T. H.</Forenames>
+      <Text>(Surg.-Capt.)</Text>
+      <PageNumber>3017</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Barr</Key>
       <Title>Capt.</Title>
       <Forenames>B.</Forenames>
@@ -633,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murchland</Key>
-      <Text>C, jun. (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, jun. (2nd Lieut.)</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,8 +950,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allport</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (resigned)</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1028,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1112,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lt.-Col. and to command)</Text>
+      <Title>(Lt.-Col. and to command)</Title>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,9 +1127,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Apthorp</Key>
-      <Title>Acting Chop.</Title>
-      <Forenames>Bev</Forenames>
-      <Text>. C P. (resigned)</Text>
+      <Title>Acting Chop. Bev.</Title>
+      <Forenames>C</Forenames>
+      <Text>P. (resigned)</Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1154,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon. Col. W (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2081</PageNumber>
     </MainItem>
   </ItemGroup>

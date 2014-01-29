@@ -223,31 +223,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Falmouth</Key>
-      <Forenames>Division</Forenames>
+      <Title>Division .</Title>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harwich</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Division .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Humber</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. .. .</Text>
+      <Title>Division .</Title>
+      <Text>. .. .. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Medway</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. .. .</Text>
+      <Title>Division .</Title>
+      <Text>. .. .. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,40 +262,40 @@
   <ItemGroup>
     <MainItem>
       <Key>Needles</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Division .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Division .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Portsmouth</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Division .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thames</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Division .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Western</Key>
-      <Forenames>Division</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Division .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +403,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. B. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. B. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +714,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.) ..</Text>
+      <Title>(Temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,9 +1003,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. R. A. S. (refj&amp;ag signed)</Text>
+      <Title>Hon. Surg.</Title>
+      <Text>-Col. R. A. S. (refj&amp;ag signed)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1093,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

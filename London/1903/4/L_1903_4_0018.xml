@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flamank</Key>
-      <Text>Lieut..Col. and Hon. Col. J. A. (resigned) .. .. ..</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. and Hon. Col. J. A. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,8 +121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. E. (resigned)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loud</Key>
-      <Forenames>Sure</Forenames>
-      <Text>.-Lieut. F. (resigned and Capt.)</Text>
+      <Title>Sure.</Title>
+      <Text>-Lieut. F. (resigned and Capt.)</Text>
       <PageNumber>6154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alton</Key>
-      <Text>2nd Lieut. VV. H. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>VV. H. (resigned)</Text>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +482,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,8 +697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward-Humphreys</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. G. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. G. H. (resigned)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vallance</Key>
-      <Text>R«v. W. (Acting Chap.) ..</Text>
+      <Forenames>R</Forenames>
+      <Text>«v. W. (Acting Chap.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -20,8 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunbar-Brunton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. .T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. .T. (resigned)</Text>
       <PageNumber>3257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +563,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +647,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambton</Key>
-      <Text>Hon. DA. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Text>DA. (Capt.)</Text>
       <PageNumber>2046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1640,7 +1641,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.)</Text>
+      <Title>(Hon. Maj.)</Title>
       <PageNumber>2510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1658,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1702,7 +1703,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1744,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,7 +1786,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodburne</Key>
-      <Text>Capt. and Instr. of Musketry R. W. H. (secondod)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry R. W. H. (secondod)</Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1865,7 +1867,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,7 +1884,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. H. H. B. (retired with rank of Surg.-Capt.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. H. H. B. (retired with rank of Surg.-Capt.)</Text>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,8 +121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Munro</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. (resigned)</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>, W, (2nd Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +893,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,9 +1119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbet</Key>
-      <Title>Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (retired)</Text>
+      <Title>Hon. Surg.</Title>
+      <Text>-Maj. J. (retired)</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, Qrmr. and Hon. Capt. (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt. (resigned)</Title>
       <PageNumber>5180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Capt. aud Brev. Maj. W. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>aud Brev. Maj. W. (seconded)</Text>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1231,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>6033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1460,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Lieut..Col.)</Text>
+      <Title>(Hon. Lieut..Col.)</Title>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Margets</Key>
-      <Text>, Qrmr. and Hon. Capt. (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt. (resigned)</Title>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,8 +1532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. and Instr. of Musketry A. W. (super)</Text>
+      <Title>Lt. and Instr.</Title>
+      <Text>of Musketry A. W. (super)</Text>
       <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,7 +1682,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Hon. R, A. (seconded)</Text>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>R</Forenames>
+      <Text>, A. (seconded)</Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -311,7 +311,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>Col. (temporary Brig.-Gen.) J. A. (retired pay)</Text>
+      <Title>Col. (temporary Brig.-Gen.)</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>8682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bikauir</Key>
-      <Text>Maj. H.H. the Bahadur of, Hon. Aide-de-Camp to Gen. H.R.H. the Prince of Wales</Text>
+      <Title>Maj. H.H.</Title>
+      <Text>the Bahadur of, Hon. Aide-de-Camp to Gen. H.R.H. the Prince of Wales</Text>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Capt. Tt. W. (retired pay)</Text>
+      <Title>Vet.</Title>
+      <Text>-Capt. Tt. W. (retired pay)</Text>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +632,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>Lieut.-Col. and Brcv. C). A. (retired)</Text>
+      <Title>Lieut.-Col. and Brcv.</Title>
+      <Forenames>C</Forenames>
+      <Text>). A. (retired)</Text>
       <PageNumber>6278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,9 +686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Title>Col.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (retired pay)</Text>
+      <Title>Col. Visct. (retired pay)</Title>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +695,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (Hon. Maj.-Geu.)</Text>
+      <Title>Visct. (Hon. Maj.-Geu.)</Title>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,9 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falmouth</Key>
-      <Title>Maj.-Gen.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Maj.-Gen. Visct. (retired)</Title>
       <PageNumber>5101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +845,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,14 +972,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>I; (Hon.Capt.)</Text>
+      <Forenames>I</Forenames>
+      <Text>; (Hon.Capt.)</Text>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haycock</Key>
-      <Text>Lieut.-Col. and Brev. Col. S M. (retired)</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>S</Forenames>
+      <Text>M. (retired)</Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1017,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction) ,</Text>
+      <Title>(correction)</Title>
+      <Text>,</Text>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1125,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(half-pay)</Text>
+      <Title>(half-pay)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,6 +1590,13 @@
       <Forenames>T.</Forenames>
       <Text>(correction)</Text>
       <PageNumber>7537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ricket</Key>
+      <Text>ts, Capt. T. F. W. (retired pay)</Text>
+      <PageNumber>8760</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -29,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>H.R.H. the Prince of: Appointed Honorary Colonel of the Corps of Imperial Yeomanry</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of: Appointed Honorary Colonel of the Corps of Imperial Yeomanry</Text>
       <PageNumber>146</PageNumber>
     </MainItem>
     <SubItem>
@@ -379,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wraggoe</Key>
-      <Text>(Lincoln), notice of meeting to appoint Commissioners of Income Tax</Text>
+      <Title>(Lincoln)</Title>
+      <Text>, notice of meeting to appoint Commissioners of Income Tax</Text>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +463,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(East Riding) and town and county of KingBton-upon-Hull: Deputy Lieutenant of: Cholmley, A. J</Text>
+      <Title>(East Riding)</Title>
+      <Text>and town and county of KingBton-upon-Hull: Deputy Lieutenant of: Cholmley, A. J</Text>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +493,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(West Riding) and city and county of York : Deputy Lieutenant of: Harewood, Earl of</Text>
+      <Title>(West Riding)</Title>
+      <Text>and city and county of York : Deputy Lieutenant of: Harewood, Earl of</Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +521,8 @@
       <Key>Adams</Key>
       <Title>Rev.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, Honorary Chaplain to the Prince of Wale3 ,</Text>
+      <Text>, Honorary Chaplain to the Prince of Wale</Text>
+      <PageNumber>3</PageNumber>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,8 +538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderson</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon F. C</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>F. C</Forenames>
       <Text>, Chaplain in Ordinary to Her Majesty</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
@@ -542,8 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon J. A.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>J. A.</Forenames>
       <Text>, presented to the Vicarage of St. Hichael's, Coventry</Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
@@ -614,8 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C</Forenames>
       <Text>, Chaplain in Ordinary to Her Majesty</Text>
       <PageNumber>2997</PageNumber>
     </MainItem>

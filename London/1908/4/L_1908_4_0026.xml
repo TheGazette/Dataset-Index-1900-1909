@@ -239,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bushell</Key>
-      <Text>, \V. F. (2nd Lieut.)</Text>
+      <Text>\V. F. (2nd Lieut.)</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>, H.H. (Lieut.)</Text>
+      <Title>H.H. (Lieut.)</Title>
       <PageNumber>9564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durkin</Key>
-      <Text>.H. (Lieut.)</Text>
+      <Text>H. (Lieut.)</Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +911,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbon</Key>
-      <Text>, VV. D. (2nd Lieut.) .. ..</Text>
+      <Text>VV. D. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1130,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Vet.-Capt.) .. ..</Text>
+      <Title>(Vet.-Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurtingford</Key>
-      <Text>, fiev. E. W. (Lieut.) ..</Text>
+      <Text>fiev. E. W. (Lieut.) ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,7 +1742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Text>, E: W. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: W. (Capt.)</Text>
       <PageNumber>8548</PageNumber>
     </MainItem>
   </ItemGroup>

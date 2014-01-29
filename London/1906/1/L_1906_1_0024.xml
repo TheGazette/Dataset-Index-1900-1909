@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Text>Qrmr. and Hon. Capt. ,0. O. (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Text>,0. O. (resigned)</Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,8 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatt-Cook</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teller</Key>
-      <Text>W. D. (Lieut.)</Text>
+      <Text>. W. D. (Lieut.)</Text>
       <PageNumber>2066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,9 +551,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.Col. R. T. C. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Surg.</Title>
+      <Text>Col. R. T. C. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,8 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilsou-Gunn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. F. (resigned)</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>

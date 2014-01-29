@@ -165,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphery</Key>
-      <Text>, ,T. (2nd Lieut.)</Text>
+      <Text>,T. (2nd Lieut.)</Text>
       <PageNumber>3928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. and Qrmr.)</Text>
+      <Title>(Capt. and Qrmr.)</Title>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, Lieut.,H. (resigned) ..</Text>
+      <Title>Lieut.</Title>
+      <Text>,H. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,14 +653,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>, Marquis of (Hon. Col.) .. —— Leigh, Hon. F. D. (Hon. Maj.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Hon. Col.) .. —— Leigh, Hon. F. D. (Hon. Maj.)</Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +772,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +834,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>, Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, 2nd Lieut, Hon. E. F. L. (resigned)</Text>
+      <Text>2nd Lieut, Hon. E. F. L. (resigned)</Text>
       <PageNumber>3928</PageNumber>
     </MainItem>
   </ItemGroup>

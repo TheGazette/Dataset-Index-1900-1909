@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bate</Key>
-      <Text>R, F</Text>
+      <Forenames>R</Forenames>
+      <Text>, F</Text>
       <PageNumber>5242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>W: H</Text>
+      <Forenames>W</Forenames>
+      <Text>: H</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rashleigh</Key>
-      <Forenames>Or</Forenames>
-      <Text>. V</Text>
+      <Title>Or.</Title>
+      <Forenames>V</Forenames>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,14 +347,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Elstob</Key>
-      <Text>E. B</Text>
+      <Text>.E. B</Text>
       <PageNumber>5515</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trenaman</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gattey</Key>
-      <Text>Lieut.; J. R. H. (temporary half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>; J. R. H. (temporary half-pay)</Text>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +642,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(retired) ..</Text>
+      <Title>(retired)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +652,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resignation cancelled)</Text>
+      <Title>(resignation cancelled)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +712,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Super. Capt.)</Text>
+      <Title>(Super. Capt.)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,8 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Forenames>Sub</Forenames>
-      <Text>.-Lieut. A. (retired list)</Text>
+      <Title>Sub.</Title>
+      <Text>-Lieut. A. (retired list)</Text>
       <PageNumber>5804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton-Stapleton</Key>
-      <Text>(Sub-Lieut.)</Text>
+      <Title>(Sub-Lieut.)</Title>
       <PageNumber>5581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +911,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,8 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frazer</Key>
-      <Forenames>Asst</Forenames>
-      <Text>..Paymaster J. (retired list)</Text>
+      <Title>Asst.</Title>
+      <Text>.Paymaster J. (retired list)</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Remnant</Key>
-      <Text>Lieut. W. (retired list)</Text>
+      <Text>. Lieut. W. (retired list)</Text>
       <PageNumber>6560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,8 +1383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tinney</Key>
-      <Forenames>Sub</Forenames>
-      <Text>.-Lieut. L. H. J. (retired list)</Text>
+      <Title>Sub.</Title>
+      <Text>-Lieut. L. H. J. (retired list)</Text>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>

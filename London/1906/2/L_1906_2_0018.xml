@@ -351,7 +351,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired) ..</Text>
+      <Title>(retired)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>H, de la P. (Col.)</Text>
+      <Forenames>H</Forenames>
+      <Text>, de la P. (Col.)</Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Text>Earl of (Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.)</Text>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,7 +1286,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Playfair</Key>
-      <Text>Col. Lord (retired pay)</Text>
+      <Title>Col. Lord (retired pay)</Title>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,7 +1422,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired)</Text>
+      <Title>(retired)</Title>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,15 +1495,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. A. M</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. A. M</Text>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Text>Lieut.-Col.-Comdt. and Hon. Col., J. E. B</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-Comdt. and Hon. Col., J. E. B</Text>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,9 +1562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. and Hon. Col. C.H..F</Text>
+      <Title>Lieut.-Col. Comdt. and Hon. Col.</Title>
+      <Text>C.H..F</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>Col. Sir ff. W., Bart. ..</Text>
+      <Title>Col. Sir</Title>
+      <Text>ff. W., Bart. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,8 +1676,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.Lieut.-Col. M. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.Lieut.-Col. M. J</Text>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>

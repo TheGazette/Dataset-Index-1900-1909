@@ -187,7 +187,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ -.— ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>5155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>Col. Lord (Hon. Col.)</Text>
+      <Title>Col. Lord (Hon. Col.)</Title>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>Earl (Capt.)</Text>
+      <Title>Earl (Capt.)</Title>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>Lieut.-Col. and Hon. Col. (resigned) ,</Text>
+      <Title>Lieut.-Col. and Hon. Col. (resigned)</Title>
+      <Text>,</Text>
       <PageNumber>5077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,8 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Firth</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon E. B.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>E. B.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>5669</PageNumber>
     </MainItem>
@@ -1190,7 +1191,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>4901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,8 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranborne</Key>
-      <Forenames>Viset</Forenames>
-      <Text>. (Col.)</Text>
+      <Title>Viset. (Col.)</Title>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Text>C, jun. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, jun. (Capt.)</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>

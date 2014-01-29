@@ -332,7 +332,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Hon. Lieut.-Col</Text>
+      <Title>Hon. Lieut.-Col.</Title>
       <PageNumber>5661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lie.it.-Col. (correction)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lie.it.-Col. (correction)</Text>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastwood</Key>
-      <Text>R (Lieut.).. Hid. Gledhill, J. J. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>(Lieut.).. Hid. Gledhill, J. J. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogarth</Key>
-      <Text>L B. (Lieut.) .. ..</Text>
+      <Forenames>L</Forenames>
+      <Text>B. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,8 +1090,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miles</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. P. (resigned) 580S The King's Own Scottish Borderers. Cooper, Lieut. A. S. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. P. (resigned) 580S The King's Own Scottish Borderers. Cooper, Lieut. A. S. (seconded)</Text>
       <PageNumber>4555</PageNumber>
     </MainItem>
   </ItemGroup>

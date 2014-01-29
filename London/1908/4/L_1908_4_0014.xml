@@ -363,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sawney</Key>
-      <Text>, Lieut.-Col. (retired)</Text>
+      <Title>Lieut.-Col. (retired)</Title>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,16 +404,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. Q. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. Q. (resigned)</Text>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>BawBon</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. E. A. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. E. A. (retired)</Text>
       <PageNumber>7555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bere</Key>
-      <Text>.-ford, R. de la P.</Text>
+      <Text>-ford, R. de la P.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MoFad</Key>
-      <Text>.i en, D</Text>
+      <Text>i en, D</Text>
       <PageNumber>9028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coffin</Key>
-      <Text>. R-J-M</Text>
+      <Text>R-J-M</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickie</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,14 +1165,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mitchells</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1505,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritchie</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

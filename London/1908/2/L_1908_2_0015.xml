@@ -12,14 +12,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Muller</Key>
-      <Text>, VV. G. M., Fourth Class, Royal Victorian Order</Text>
+      <Text>VV. G. M., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>3392</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakes</Key>
-      <Text>, Mrs., Leagne of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Leagne of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +189,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldenburg</Key>
-      <Text>, H.H., Prince P. A. of Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>H.H., Prince</Title>
+      <Forenames>P. A.</Forenames>
+      <Text>of Hon. Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>, Commander W, D.. Fourth Class, Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Forenames>W</Forenames>
+      <Text>, D.. Fourth Class, Royal Victorian Order</Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarjeant</Key>
-      <Text>, Dr., Vice-President, League of Mercy</Text>
+      <Title>Dr.</Title>
+      <Text>, Vice-President, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sepeleke</Key>
-      <Text>, 1st, Lieut. C, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>1st, Lieut. C, Hon. Fifth Class, Royal Victorian Order</Text>
       <PageNumber>3135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>, Duchess of, Lady of Justice, St. John of Jerusalem</Text>
+      <Title>Duchess</Title>
+      <Text>of, Lady of Justice, St. John of Jerusalem</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>, Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +917,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tchernycheff</Key>
-      <Text>, C, Hon. Fifth Class, Eoyal Victorian Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Fifth Class, Eoyal Victorian Order</Text>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +976,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trendell</Key>
-      <Text>, Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Lady, Lady</Title>
+      <Text>of Grace, St. John of Jerusalem</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1059,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.. Baron, Hon. Fourth Class, Boyal Victorian Order</Text>
+      <Title>Capt.</Title>
+      <Text>. Baron, Hon. Fourth Class, Boyal Victorian Order</Text>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1121,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>, Miss, Lady Vice-President, League of Mercy .. .. .,</Text>
+      <Title>Miss, Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy .. .. .,</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>

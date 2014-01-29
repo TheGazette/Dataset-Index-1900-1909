@@ -114,8 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. P</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. P</Text>
       <PageNumber>7370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,9 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunfee</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. and Hon. Col. V</Text>
+      <Title>Lieut.-Col. Comdt. and Hon. Col.</Title>
+      <Forenames>V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,8 +189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J. R. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J. R. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>, Lieut.-Col. and Hon. Col. &lt;T. G</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>&lt;T. G</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,8 +246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon J. D.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>J. D.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rovcroft</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. M. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. M. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,15 +321,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. W</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +576,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vicary</Key>
-      <Text>, 2nd Lieut, li. S. (seconded)</Text>
+      <Text>2nd Lieut, li. S. (seconded)</Text>
       <PageNumber>7026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underwood</Key>
-      <Text>, i. W. (Capt.)</Text>
+      <Text>i. W. (Capt.)</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,9 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maiden</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>2nd Lieut. Visct. (resigned)</Title>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1012,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kincaid-Smith</Key>
-      <Text>, . Capt.. S. M. H. (temporary half-pay)</Text>
+      <Text>. Capt.. S. M. H. (temporary half-pay)</Text>
       <PageNumber>8558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1054,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Text>, Maj, Hon. T„ W. (retired) ..</Text>
+      <Title>Maj, Hon.</Title>
+      <Forenames>T</Forenames>
+      <Text>„ W. (retired) ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,6 +1070,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>11 th Dragoons (Hussars)</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blakiston-Houston</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6365</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
@@ -1106,7 +1115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Text>, C (Gapfc.) .. .. .,</Text>
+      <Forenames>C</Forenames>
+      <Text>(Gapfc.) .. .. .,</Text>
       <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,6 +1157,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Metcalfe</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6365</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Pepys</Key>
       <Title>Lieut.</Title>
       <Forenames>W.</Forenames>
@@ -1173,6 +1191,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>14th Dragoons (Hussars)</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Combe</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>B. A.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>6651</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grosvenor</Key>

@@ -4,9 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Rt. Hon. Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>8303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helmsley</Key>
-      <Text>Viscount (Maj.) .. ..</Text>
+      <Title>Viscount (Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,14 +188,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>Sir C</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Langley</Key>
-      <Text>G. C</Text>
+      <Text>. G. C</Text>
       <PageNumber>8300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halah</Key>
-      <Text>ui, R. C</Text>
+      <Text>.ui, R. C</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>F. M</Text>
+      <Text>. F. M</Text>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penfound</Key>
-      <Text>H</Text>
+      <Text>. H</Text>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Text>J. ,</Text>
+      <Text>.J. ,</Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,14 +810,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Selwood</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +859,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Text>Capt. C</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>7017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramble</Key>
-      <Text>F. G</Text>
+      <Text>. F. G</Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hordein</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillimore</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Text>R. H</Text>
+      <Text>. R. H</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kobertson-Glasgow</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Youge</Key>
-      <Text>W. H. N</Text>
+      <Text>.W. H. N</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

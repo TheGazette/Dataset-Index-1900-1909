@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>, Lieut.-Col. and. Hon. Col. W. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>and. Hon. Col. W. (retired)</Text>
       <PageNumber>471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazlerigg</Key>
-      <Text>, 2nd Lieut. G-. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>G-. (resigned)</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pragnell</Key>
-      <Text>, 2nd Lieut. CI. S. (temporary half-pay)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>CI. S. (temporary half-pay)</Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Text>, Duke of (Eon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Eon. Col.)</Text>
       <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,8 +422,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. T. (resigned)</Text>
       <PageNumber>114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,14 +482,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Kunhardt</Key>
-      <Text>, 2nd Lieut. . F. Or. (seconded) .. ..</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. F. Or. (seconded) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Text>, Capt. and Brev.-Maj. F. C. L. (resigns as Adj.)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. F. C. L. (resigns as Adj.)</Text>
       <PageNumber>468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, Capt. and Brev.-Maj. J. (seconded)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj. J. (seconded)</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,8 +745,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Airy</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. A. L. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. A. L. (resigned)</Text>
       <PageNumber>930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>, 2ndLieut. Gr. II. J. (seconded)</Text>
+      <Text>2ndLieut. Gr. II. J. (seconded)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1014,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>,.E. L. H. (Capt.)</Text>
+      <Text>.E. L. H. (Capt.)</Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,17 +1188,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Title>Capt.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Capt. Gr. (seconded)</Title>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Hon. Col.)</Text>
+      <Title>Gr. (Hon. Col.)</Title>
       <PageNumber>114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1204,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon.. Col. G. (retired) .. .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>. Col. G. (retired) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1392,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>, Capt. C: E. H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>: E. H. (seconded)</Text>
       <PageNumber>468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, Capt. and Brev. Maj. (antedated) '</Text>
+      <Title>Capt. and Brev. Maj. (antedated)</Title>
+      <Text>'</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>

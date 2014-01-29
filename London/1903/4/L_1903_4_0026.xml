@@ -208,7 +208,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .-. ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr.joXMu'sketry) ,</Text>
+      <Title>(Instr.joXMu'sketry)</Title>
+      <Text>,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marr</Key>
-      <Text>J, H.Capt.) .. .;.. ..... ,</Text>
+      <Forenames>J</Forenames>
+      <Text>, H.Capt.) .. .;.. ..... ,</Text>
       <PageNumber>8343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannerman</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Lieut. &amp; (resigned)' ... .. :}l</Text>
+      <Title>Super.</Title>
+      <Text>-Lieut. &amp; (resigned)' ... .. :}l</Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +629,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharman-Crawford</Key>
-      <Text>Lieut.-Col. and Hon. Col. HI G. (retired) .: . /</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>HI G. (retired) .: . /</Text>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainslie</Key>
-      <Text>C, M. (Lieut.)'</Text>
+      <Forenames>C</Forenames>
+      <Text>, M. (Lieut.)'</Text>
       <PageNumber>6030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +759,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oweri</Key>
-      <Text>A\-E. L.(Lieut.)</Text>
+      <Forenames>A</Forenames>
+      <Text>\-E. L.(Lieut.)</Text>
       <PageNumber>7748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,14 +942,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamont</Key>
-      <Text>Lieut.-Cbi. and Hon. Col. ., W. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cbi. and Hon. Col. ., W. (retired)</Text>
       <PageNumber>8202</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>W^. TJ. (Lieut.-Col.and to.,.command) . .. .. ...</Text>
+      <Forenames>W</Forenames>
+      <Text>^. TJ. (Lieut.-Col.and to.,.command) . .. .. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

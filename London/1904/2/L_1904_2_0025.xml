@@ -507,7 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Text>G H. (Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>H. (Lieut.)</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Text>Duke of (Capt,;</Text>
+      <Title>Duke</Title>
+      <Text>of (Capt,;</Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,14 +1292,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robertson-Glasgow</Key>
-      <Text>Lieut..Col. E. P. (retired and Hon. Col.)</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. E. P. (retired and Hon. Col.)</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cramer-Roberts</Key>
-      <Text>2nd Lieut. ___ ___ M. ___ T. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>___ ___ M. ___ T. (seconded)</Text>
       <PageNumber>2480</PageNumber>
     </MainItem>
     <SubItem>

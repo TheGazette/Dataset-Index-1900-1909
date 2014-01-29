@@ -12,9 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlater</Key>
-      <Title>Super.</Title>
-      <Forenames>Qnrir</Forenames>
-      <Text>. and' Hon. Capt. A. K. (resigned, appointed Capt. and remains seconded)</Text>
+      <Title>Super. Qnrir.</Title>
+      <Text>and' Hon. Capt. A. K. (resigned, appointed Capt. and remains seconded)</Text>
       <PageNumber>5918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,8 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Or. (Capt.)</Title>
       <PageNumber>4355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burleigh</Key>
-      <Text>Master of (Lieut.)</Text>
+      <Title>Master</Title>
+      <Text>of (Lieut.)</Text>
       <PageNumber>5074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moyes</Key>
-      <Text>Capt. and Instr. of Musketry J. B. N. (resigned) .. ... ..</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. B. N. (resigned) .. ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +787,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Annesley</Key>
-      <Text>Capt. A, S. E. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A</Forenames>
+      <Text>, S. E. (retired)</Text>
       <PageNumber>4277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +813,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>Capt., Hon. C. F.. H. (seconded)</Text>
+      <Title>Capt., Hon.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>. H. (seconded)</Text>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett-Young</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5671</PageNumber>
     </MainItem>
   </ItemGroup>

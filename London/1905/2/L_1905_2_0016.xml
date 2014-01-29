@@ -4,8 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. M</Text>
+      <Title>Gr.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>3158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blew</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,14 +64,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartigan</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hepple</Key>
-      <Text>, M, J</Text>
+      <Forenames>M</Forenames>
+      <Text>, J</Text>
       <PageNumber>3940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roscoe</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,8 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Col.)</Text>
+      <Title>Rt. Hon. Lord (Col.)</Title>
       <PageNumber>3518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Text>, Marquis of (2nd Lieut.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>3248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerard</Key>
-      <Text>, Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1194,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj.)</Text>
+      <Title>(Adj.)</Title>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnaughten</Key>
-      <Text>,. E. B. (Adj.)</Text>
+      <Text>. E. B. (Adj.)</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,7 +1468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutt</Key>
-      <Text>, OR. (Capt)</Text>
+      <Text>OR. (Capt)</Text>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>

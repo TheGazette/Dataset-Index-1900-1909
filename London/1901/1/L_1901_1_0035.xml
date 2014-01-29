@@ -81,7 +81,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +224,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +318,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +487,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)'</Text>
+      <Title>(Lieut.)</Title>
+      <Text>'</Text>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +532,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +618,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +697,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +852,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>2440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +988,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1134,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1285,16 @@
       <Key>Craig</Key>
       <Title>Capt.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>(Experimental Officer) 1234 Davies, Maj. W. T. (continued as Ord. Officer, 4th Class)</Text>
+      <Text>(Experimental Officer)</Text>
+      <PageNumber>1234</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Davies</Key>
+      <Title>Maj.</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>(continued as Ord. Officer, 4th Class)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,6 +1305,14 @@
       <Forenames>A. B.</Forenames>
       <Text>(Assist. Inspector)</Text>
       <PageNumber>2779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Donohue</Key>
+      <Forenames>W. E.</Forenames>
+      <Text>(Insp. of Ord. Machinery, 1st Class, and Hon. Maj.)</Text>
+      <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1479,7 +1497,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Ord. Officer, 2nd Class, and Lieut.-Col.)</Text>
+      <Title>(Ord. Officer, 2nd Class, and Lieut.-Col.)</Title>
       <PageNumber>2294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,6 +1529,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Peile</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(temporary Ord. Officer, 4th Class)</Text>
+      <PageNumber>2023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Phipps</Key>
       <Title>Capt.</Title>
       <Forenames>C. F.</Forenames>
@@ -1530,7 +1557,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pym</Key>
-      <Text>, Capt. J: B. (Ord. Officer, 4th Class)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>: B. (Ord. Officer, 4th Class)</Text>
       <PageNumber>3202</PageNumber>
     </MainItem>
   </ItemGroup>

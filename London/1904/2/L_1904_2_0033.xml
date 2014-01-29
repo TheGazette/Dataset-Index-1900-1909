@@ -28,7 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tighe</Key>
-      <Text>R, D. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. (2nd Lieut.)</Text>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +143,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>Lieut. J: H. (removed)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>: H. (removed)</Text>
       <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr-Pearse</Key>
-      <Text>Capt. ±i. A. T. .(retired)</Text>
+      <Title>Capt.</Title>
+      <Text>±i. A. T. .(retired)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Overton</Key>
-      <Text>Qrmr. and .Hon. Maj. E. F. (vacates as Qrmr.)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and .Hon. Maj. E. F. (vacates as Qrmr.)</Text>
       <PageNumber>2245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +899,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Surg.-Maj.)</Text>
+      <Title>(Surg.-Maj.)</Title>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Voisin</Key>
-      <Text>A, B. (Surg.-Maj.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, B. (Surg.-Maj.)</Text>
       <PageNumber>2250</PageNumber>
       <PageNumber>2847</PageNumber>
     </MainItem>
@@ -981,7 +987,6 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>

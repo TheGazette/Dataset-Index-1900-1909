@@ -157,9 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brichta</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. j. O. (resigned) .. .. .. ...</Text>
+      <Title>2nd Lieut. Or.</Title>
+      <Text>j. O. (resigned) .. .. .. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,9 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weitzmann</Key>
-      <Title>Capt. Or.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Capt. Or. Or. (resigned)</Title>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +288,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>2nd Lieut. B, E. (resigned) ..</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>B</Forenames>
+      <Text>, E. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byass</Key>
-      <Text>H. N. (Lieut.-Col.)</Text>
+      <Text>.H. N. (Lieut.-Col.)</Text>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>Kinahan, Lieut. G. F. (seconded)</Text>
+      <Text>. Kinahan, Lieut. G. F. (seconded)</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,8 +575,8 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. andHon. Surg. Lieut.-Col. A. A. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. andHon. Surg. Lieut.-Col. A. A. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poulett</Key>
-      <Text>2nd Lieut. Earl (resigned)</Text>
+      <Title>2nd Lieut. Earl (resigned)</Title>
       <PageNumber>6080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,16 +761,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>. -Lieut. W. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. S. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sandeman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +796,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunsmuir</Key>
-      <Text>2nd Lieut. II. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>II. (resigned)</Text>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,8 +895,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>7036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,9 +1033,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Surg. Lieut.-Col. and Hon.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Col. A. (resigned)</Text>
+      <Title>Surg. Lieut.-Col. and Hon. Surg.</Title>
+      <Text>-Col. A. (resigned)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,8 +1105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S.G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S.G. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,8 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. (resigned) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,8 +1139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howie</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. P. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. P. E. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

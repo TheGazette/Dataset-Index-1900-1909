@@ -174,7 +174,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +407,8 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.) .. ..</Text>
+      <Title>(2nd Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +739,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Feversham</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +782,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>(Instr. of Musketry)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCosh</Key>
-      <Text>. J. (Hon. Maj.)</Text>
+      <Text>J. (Hon. Maj.)</Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,8 +1083,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fennell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. and Hon. Surg.Lieut.-Col. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.Lieut.-Col. T. (resigned)</Text>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bikaner</Key>
-      <Text>H.H. the Maharaja of, KahAri-Hind Gold Medal ... .. Bingley, Capt. A. H., KaJfiir-i-Hind Gold Medal .. iiirf. Birch, E. W., Companion of St. Michael . and St. George.. .. Bonham, Sir G. F., Bart., Envoy Extraordinary and Minister Plenipotentiary to the King of Servia</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharaja of, KahAri-Hind Gold Medal ... .. Bingley, Capt. A. H., KaJfiir-i-Hind Gold Medal .. iiirf. Birch, E. W., Companion of St. Michael . and St. George.. .. Bonham, Sir G. F., Bart., Envoy Extraordinary and Minister Plenipotentiary to the King of Servia</Text>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Childers</Key>
-      <Text>Maj. and Brev. Lieut.-CoI. E. S. E</Text>
+      <Title>Maj. and Brev. Lieut.</Title>
+      <Text>-CoI. E. S. E</Text>
       <PageNumber>8328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Churcnfll</Key>
-      <Text>Lord, Knight Commander of the Royal Victorian Order</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>C, Companion of St. Michael and St. George</Text>
+      <Forenames>C</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>3498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Text>Duke of, President of the Board of Education</Text>
+      <Title>Duke</Title>
+      <Text>of, President of the Board of Education</Text>
       <PageNumber>1609</PageNumber>
       <PageNumber>2195</PageNumber>
     </MainItem>
@@ -729,7 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fife</Key>
-      <Text>Duke of, Lieutenant and CustoB Rotulorum of the county of London</Text>
+      <Title>Duke</Title>
+      <Text>of, Lieutenant and CustoB Rotulorum of the county of London</Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>

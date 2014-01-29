@@ -13,7 +13,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(retired Commander)</Text>
+      <Title>(retired Commander)</Title>
       <PageNumber>1947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +144,7 @@
       <Key>
         <KeyDitto>—: ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macaulav</Key>
-      <Text>(Sub-Lieut.)</Text>
+      <Title>(Sub-Lieut.)</Title>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +492,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,9 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Title>Rt. Hon. Lord</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (SubLieut.)</Text>
+      <Title>Rt. Hon. Lord Visct. (SubLieut.)</Title>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +549,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +639,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +674,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,8 +689,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lathom</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Lieut. commanding Liverpool Division)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Lieut. commanding Liverpool Division)</Text>
       <PageNumber>261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +699,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(commander)</Text>
+      <Title>(commander)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +751,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +834,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +851,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +895,6 @@
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>

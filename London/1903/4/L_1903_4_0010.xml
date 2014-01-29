@@ -124,7 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>G, W., H.M.'s Agent and Consul-General in Bulgaria</Text>
+      <Forenames>G</Forenames>
+      <Text>, W., H.M.'s Agent and Consul-General in Bulgaria</Text>
       <PageNumber>7936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +158,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Calabrini</Key>
-      <Text>Marquis C, Hon. Commander, Royal Victorian Order</Text>
+      <Title>Marquis</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Commander, Royal Victorian Order</Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durand</Key>
-      <Text>H.E., Right Hon. Sirll. M., H.M.'s Ambassador Extraordinary and Plenipotentiary to the United States</Text>
+      <Title>H.E.</Title>
+      <Text>, Right Hon. Sirll. M., H.M.'s Ambassador Extraordinary and Plenipotentiary to the United States</Text>
       <PageNumber>6854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +374,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>W; E., High Commissioner for Southern Nigeria</Text>
+      <Forenames>W</Forenames>
+      <Text>; E., High Commissioner for Southern Nigeria</Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Enroll</Key>
-      <Text>Earl of, Lord-in-Waiting to His Majesty</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord-in-Waiting to His Majesty</Text>
       <PageNumber>6531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>H W., Commissioner of H.M.'s Treasury</Text>
+      <Forenames>H</Forenames>
+      <Text>W., Commissioner of H.M.'s Treasury</Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gatt</Key>
-      <Text>C, Official Member of the Council of Government of Malta</Text>
+      <Forenames>C</Forenames>
+      <Text>, Official Member of the Council of Government of Malta</Text>
       <PageNumber>7030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>2nd Lieut. C, Royal Victorian Order, Fifth Class .. ..</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Royal Victorian Order, Fifth Class .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>Marquis of, Treasurer of H.M.'s Household</Text>
+      <Title>Marquis</Title>
+      <Text>of, Treasurer of H.M.'s Household</Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holroyd</Key>
-      <Text>C, Knighted</Text>
+      <Forenames>C</Forenames>
+      <Text>, Knighted</Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +711,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>Earl, resigns as Lord-in-Waiting to His Majesty</Text>
+      <Title>Earl</Title>
+      <Text>, resigns as Lord-in-Waiting to His Majesty</Text>
       <PageNumber>6027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +748,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>Col. J). A., Companion of the Bath</Text>
+      <Title>Col.</Title>
+      <Forenames>J</Forenames>
+      <Text>). A., Companion of the Bath</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +784,9 @@
       <Key>
         <KeyDitto>___ ,</KeyDitto>
       </Key>
-      <Text>Lord W; T., Admiralty Commissioner</Text>
+      <Title>Lord</Title>
+      <Forenames>W</Forenames>
+      <Text>; T., Admiralty Commissioner</Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +852,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>Lord, Knight Grand Commander of the Indian Empire</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Grand Commander of the Indian Empire</Text>
       <PageNumber>8264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +868,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laprimaudaye</Key>
-      <Text>Commander C, Official Member of the Council of Government of Malta</Text>
+      <Title>Commander</Title>
+      <Forenames>C</Forenames>
+      <Text>, Official Member of the Council of Government of Malta</Text>
       <PageNumber>7030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,14 +938,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>Lieut.-Cul. Baron, Commander, Royal fictorian Order</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cul. Baron, Commander, Royal fictorian Order</Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lueger</Key>
-      <Text>Dr. C, Hon. Commander, Royal Victorian Order</Text>
+      <Title>Dr.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Commander, Royal Victorian Order</Text>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,14 +1022,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitlnnd</Key>
-      <Text>Viscount, one of H.M.'s Gentlemen-at-Arms</Text>
+      <Title>Viscount</Title>
+      <Text>, one of H.M.'s Gentlemen-at-Arms</Text>
       <PageNumber>8499</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manby</Key>
-      <Text>Dr., A. R., Knighted</Text>
+      <Title>Dr.</Title>
+      <Text>, A. R., Knighted</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Michie</Key>
-      <Text>J, Royal Victorian Order, Fifth Class .. .. .. .,</Text>
+      <Forenames>J</Forenames>
+      <Text>, Royal Victorian Order, Fifth Class .. .. .. .,</Text>
       <PageNumber>6852</PageNumber>
     </MainItem>
   </ItemGroup>

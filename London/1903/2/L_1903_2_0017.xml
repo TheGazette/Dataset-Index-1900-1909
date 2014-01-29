@@ -201,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kensington</Key>
-      <Text>Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, A. (Riding-Master and Hon. Lieut.)</Text>
+      <Text>. George, A. (Riding-Master and Hon. Lieut.)</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Text>J. T. C. (Capt.)</Text>
+      <Text>. J. T. C. (Capt.)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Capt. II. B. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>II. B. (seconded)</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>

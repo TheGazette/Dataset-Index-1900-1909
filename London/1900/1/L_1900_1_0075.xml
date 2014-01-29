@@ -296,7 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>8974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +452,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>Qrmr. (Hon. Maj.) M. W. (resigned)</Text>
+      <Title>Qrmr. (Hon. Maj.)</Title>
+      <Forenames>M. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +625,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binning</Key>
-      <Text>Lord (super. Maj.)</Text>
+      <Title>Lord (super. Maj.)</Title>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +874,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>1080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,8 +982,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (super.)</Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>

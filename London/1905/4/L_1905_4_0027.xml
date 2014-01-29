@@ -46,7 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mcmtanaro</Key>
-      <Text>, Lieut.-Col..Comdt. A. F. (correction)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>.Comdt. A. F. (correction)</Text>
       <PageNumber>7178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +68,6 @@
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SubSectionTitle>LieutenantGenerals</SubSectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -261,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vans-Agnew</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Text>, EC...</Text>
+      <Text>EC...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lester</Key>
-      <Text>, CD...</Text>
+      <Text>CD...</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,14 +638,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Watling</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bazett</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +742,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>9010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Airy</Key>
-      <Text>, JO</Text>
+      <Text>JO</Text>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagnall</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>, 0. R. S</Text>
+      <Text>0. R. S</Text>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldwell</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,14 +1278,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dill</Key>
-      <Text>,.R. F</Text>
+      <Text>.R. F</Text>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flint</Key>
-      <Text>,-A. L. A</Text>
+      <Text>-A. L. A</Text>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,7 +1407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, R.D. O</Text>
+      <Text>R.D. O</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jotham</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>

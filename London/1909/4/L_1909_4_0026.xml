@@ -131,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marrack</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>9902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +190,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Calthrop</Key>
-      <Text>, W: H. C</Text>
+      <Forenames>W</Forenames>
+      <Text>: H. C</Text>
       <PageNumber>7565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>9675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mure</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, R, A</Text>
+      <Forenames>R</Forenames>
+      <Text>, A</Text>
       <PageNumber>8246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox-Little</Key>
-      <Text>, 0. H</Text>
+      <Text>0. H</Text>
       <PageNumber>8554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>, K '</Text>
+      <Forenames>K</Forenames>
+      <Text>'</Text>
       <PageNumber>7266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sargeant</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Titheridge</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howse</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,21 +722,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>. H. J. G</Text>
+      <Text>H. J. G</Text>
       <PageNumber>9901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ruddy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saxton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>9901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kliot</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parke</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>9516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snepp</Key>
-      <Text>, HE</Text>
+      <Text>HE</Text>
       <PageNumber>9516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>, JST</Text>
+      <Text>JST</Text>
       <PageNumber>9327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>9230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtico</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>9676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,7 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>. A. T. .. .. .. ..</Text>
+      <Text>A. T. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foden</Key>
-      <Text>.H</Text>
+      <Text>H</Text>
       <PageNumber>9592</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -32,7 +32,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donoughuiore</Key>
-      <Text>, Earl of, Super. Lieut. R. W. J., 3rd Battalion, the Royal Iris.i Regiment</Text>
+      <Title>Earl</Title>
+      <Text>of, Super. Lieut. R. W. J., 3rd Battalion, the Royal Iris.i Regiment</Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkwood</Key>
-      <Text>, Capt. and Instr. of Artillery S. F., the Waterlbrd Artillery (Southern Division) .. .. ..</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Artillery S. F., the Waterlbrd Artillery (Southern Division) .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,14 +347,18 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLellan</Key>
-      <Text>, Capt. B R. A. D. Stoddart, 3rd Battalion, the Essex Regiment ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>B</Forenames>
+      <Text>R. A. D. Stoddart, 3rd Battalion, the Essex Regiment ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, Lieut. J A. B., 4th Battalion, the Essex Regiment .. ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>A. B., 4th Battalion, the Essex Regiment .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>, 2nd Lieut J. G., 4th Battalion, the Durham Light Infantry ..</Text>
+      <Text>2nd Lieut J. G., 4th Battalion, the Durham Light Infantry ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>, 2nd Lieut, A., 3rd Battalion, the Royal Inniskilling Fusiliers .. ..</Text>
+      <Text>2nd Lieut, A., 3rd Battalion, the Royal Inniskilling Fusiliers .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Text>, 'Capt. and Instr. of Musketry B. W., 6th Battalion, the Manchester Regiment .. .. .. ..</Text>
+      <Text>'Capt. and Instr. of Musketry B. W., 6th Battalion, the Manchester Regiment .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,28 +594,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>,*Lieut.C. L., 5th Battalion, the Royal Irish Regiment.. .. ..</Text>
+      <Text>*Lieut.C. L., 5th Battalion, the Royal Irish Regiment.. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>, 2hd Lieut. C. E., 4th Battalion, the South Wales Borderers .. ..</Text>
+      <Text>2hd Lieut. C. E., 4th Battalion, the South Wales Borderers .. ..</Text>
       <PageNumber>___ -</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, 2fld Lieut. K. H., 3rd Battalifin, the Royal Inniskilling Fusiliers</Text>
+      <Text>2fld Lieut. K. H., 3rd Battalifin, the Royal Inniskilling Fusiliers</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>,' Lieut: G. F., 5th Battalion, the Worcestershire Regiment .. ..</Text>
+      <Text>' Lieut: G. F., 5th Battalion, the Worcestershire Regiment .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Text>, 2n4. Lieut. W. H., jun., lst (Pembrokeshire) Volunteer Battalion, the Welsh Regiment .. .. ..</Text>
+      <Text>2n4. Lieut. W. H., jun., lst (Pembrokeshire) Volunteer Battalion, the Welsh Regiment .. .. ..</Text>
       <PageNumber>___ ___ —— ___</PageNumber>
     </MainItem>
   </ItemGroup>

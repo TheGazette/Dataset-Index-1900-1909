@@ -134,7 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynford</Key>
-      <Text>Lord (Lieut.) .. ..</Text>
+      <Title>Lord (Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +213,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>7022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Text>B. G. M. (Lieut.)</Text>
+      <Text>. B. G. M. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Text>Duke of (Hon. Col.) ..</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashburton</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +565,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Good</Key>
-      <Text>C H. B. (2nd Lieut.)</Text>
+      <Forenames>C</Forenames>
+      <Text>H. B. (2nd Lieut.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +591,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +625,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>Lord (2nd Lieut.)</Text>
+      <Title>Lord (2nd Lieut.)</Title>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +716,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +733,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Text>P; (Capt.)</Text>
+      <Forenames>P</Forenames>
+      <Text>; (Capt.)</Text>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,14 +767,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ..</Text>
+      <Title>(Lieut.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>Earl of (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,14 +925,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut-Col.)</Text>
+      <Title>(Lieut-Col.)</Title>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Guilford</Key>
-      <Text>Earl of (Maj.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>Bt. Hon. Lord (Lieut.-Col. and Hon. Col.) ,.</Text>
+      <Title>Bt. Hon. Lord (Lieut.-Col. and Hon. Col.)</Title>
+      <Text>,.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,9 +958,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Lord (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Et. Hon. Lord (resigned)</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maidstone</Key>
-      <Text>Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1010,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prevost</Key>
-      <Text>W! (Maj.)</Text>
+      <Forenames>W</Forenames>
+      <Text>! (Maj.)</Text>
       <PageNumber>6527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1052,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranstoun</Key>
-      <Text>C J. E. (Capt.) .. ..</Text>
+      <Forenames>C</Forenames>
+      <Text>J. E. (Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,14 +1153,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunglass</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdour</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>Earl (Capt.) . .. ..</Text>
+      <Title>Earl (Capt.)</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kesteven</Key>
-      <Text>Lord (Lieut-Col.).. .. .</Text>
+      <Title>Lord (Lieut-Col.)</Title>
+      <Text>.. .. .</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

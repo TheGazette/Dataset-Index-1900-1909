@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamier</Key>
-      <Text>, .T. W. (Capt.) ibid. Meyrick, Sir T. C, Bart. (Hon. Col.)</Text>
+      <Text>.T. W. (Capt.) ibid. Meyrick, Sir T. C, Bart. (Hon. Col.)</Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Cumming</Key>
-      <Text>. L. S. (Lieut.-Col.) 8080 I Navlor, C. F. (2nd Lieut.)</Text>
+      <Text>L. S. (Lieut.-Col.) 8080 I Navlor, C. F. (2nd Lieut.)</Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,6 +30,14 @@
       <Forenames>T. F.</Forenames>
       <Text>(2nd Lieut.) ibid. | Ormathwaite, Lord (Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grimshaw</Key>
+      <Forenames>W. A. H.</Forenames>
+      <Text>(Capt,) 'J031 j Onner.id, G. L. (Lieut -Col)</Text>
+      <PageNumber>9946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -136,14 +144,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>, -----of (Hon. Col.)</Text>
+      <Text>-----of (Hon. Col.)</Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Welrige</Key>
-      <Text>.Gordon, II. G. (Capt.)</Text>
+      <Text>Gordon, II. G. (Capt.)</Text>
       <PageNumber>7643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,15 +286,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercorn</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Duke of (Hon. Col.) .. .. .. ..</Text>
+      <Title>Rt. Hon. Duke</Title>
+      <Text>of (Hon. Col.) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>, Viscount (Maj.)</Text>
+      <Title>Viscount (Maj.)</Title>
       <PageNumber>7472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,14 +317,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Farnham</Key>
-      <Text>, Lord (Capt.) ..</Text>
+      <Title>Lord (Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, Marquis of (Maj.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Maj.)</Text>
       <PageNumber>7472</PageNumber>
     </MainItem>
   </ItemGroup>

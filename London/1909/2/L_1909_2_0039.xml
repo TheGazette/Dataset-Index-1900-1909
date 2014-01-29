@@ -154,7 +154,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 190S, notices uuder : Anglo-American Copper Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 190S, notices uuder : Anglo-American Copper Company</Text>
       <PageNumber>4604</PageNumber>
       <PageNumber>4709</PageNumber>
     </MainItem>
@@ -311,7 +313,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Bateman, Davics, and Co</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Bateman, Davics, and Co</Text>
       <PageNumber>4237</PageNumber>
       <PageNumber>4238</PageNumber>
       <PageNumber>4239</PageNumber>

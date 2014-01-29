@@ -59,7 +59,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>6330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byam</Key>
-      <Text>.W. (Lieut.)</Text>
+      <Text>W. (Lieut.)</Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>, G-. B. F. (Lieut.)</Text>
+      <Text>G-. B. F. (Lieut.)</Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,8 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cree</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (Lieut-Col.)</Text>
+      <Title>Or. (Lieut-Col.)</Title>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Text>.C. E. W. S. (Lieut.) ..</Text>
+      <Text>C. E. W. S. (Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleurv</Key>
-      <Text>.C. M. (Maj.)</Text>
+      <Text>C. M. (Maj.)</Text>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>. C. A. (Lieut.-Col.)</Text>
+      <Text>C. A. (Lieut.-Col.)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>. G. S. (Lieut.)</Text>
+      <Text>G. S. (Lieut.)</Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,16 +990,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Flinn</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. D. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. D. E. (resigned)</Text>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freer</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. E. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. E. L. (resigned)</Text>
       <PageNumber>6061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,16 +1030,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hnrrett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. W. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. W. J. (resigned)</Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Job</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. P. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. P. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,16 +1070,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. L. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. L. (resigned)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. T. K. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. T. K. (resigned)</Text>
       <PageNumber>4987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther-Thoinson</Key>
-      <Text>(Col.)</Text>
+      <Title>(Col.)</Title>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,6 +1454,14 @@
       <Forenames>A. E. P.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>5066</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Congreve</Key>
+      <Forenames>W. N.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>4809</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1647,7 +1654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogle</Key>
-      <Text>, E: A. (Col.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: A. (Col.)</Text>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,8 +1816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>Liout</Forenames>
-      <Text>.-Col. and Brev. Col. H. (retired)</Text>
+      <Title>Liout.</Title>
+      <Text>-Col. and Brev. Col. H. (retired)</Text>
       <PageNumber>6330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1819,6 +1827,14 @@
       <Forenames>J. L.</Forenames>
       <Text>(Hon. Cant.)</Text>
       <PageNumber>6474</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coke</Key>
+      <Forenames>E. B.</Forenames>
+      <Text>(Brig-Gen.)</Text>
+      <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

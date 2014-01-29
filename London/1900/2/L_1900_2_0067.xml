@@ -81,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Albans, Capt. Duke of (resigned)</Text>
+      <Text>Albans, Capt. Duke of (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,8 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashwell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. H. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. H. G. (resigned)</Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,14 +267,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Philipps</Key>
-      <Text>, Lieut.-Col. and Hon. Col. . Sir C. E. Or.; Bart, (retired)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>. Sir C. E. Or.; Bart, (retired)</Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, a. R. T. (Surg.-Lieut.-Col.)</Text>
+      <Text>a. R. T. (Surg.-Lieut.-Col.)</Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>, B, E. (Capt.)</Text>
+      <Forenames>B</Forenames>
+      <Text>, E. (Capt.)</Text>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,6 +747,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Jones</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(2nd Lieut, super.)</Text>
+      <PageNumber>7829</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>North</Key>
       <Forenames>R. M.</Forenames>
       <Text>(2nd Lieut, ssuper.)</Text>
@@ -897,7 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>, Marquis of (Lieut.-Col. and to command)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Lieut.-Col. and to command)</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,8 +917,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. P. (removed)'</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. P. (removed)'</Text>
       <PageNumber>8380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goddard</Key>
-      <Text>, FitzE. P. (Maj.)</Text>
+      <Text>FitzE. P. (Maj.)</Text>
       <PageNumber>6037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,8 +1003,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingscote</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. (resigned)</Text>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1047,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Col.)</Text>
+      <Title>(Hon. Col.)</Title>
       <PageNumber>8629</PageNumber>
     </MainItem>
   </ItemGroup>

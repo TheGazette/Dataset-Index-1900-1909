@@ -178,7 +178,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rugge-Price</Key>
-      <Text>, Hon. Col. Sir C, Bart, (resigned)</Text>
+      <Title>Hon. Col. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart, (resigned)</Text>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. VY. H. F. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. VY. H. F. (resigned)</Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>, Maj. and Hon..Lieut.-Col. J. (resigned)</Text>
+      <Title>Maj. and Hon.</Title>
+      <Text>.Lieut.-Col. J. (resigned)</Text>
       <PageNumber>5984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wisden</Key>
-      <Text>, Capt. .T. F. M. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>.T. F. M. (retired)</Text>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,8 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selborne</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1382,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -74,7 +74,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Capt.) .. ..</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,8 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adeley</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Gr. (2nd Lieut.)</Title>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, Capt. and Brevet Maj. SirH. B., Bart, (retired)</Text>
+      <Title>Capt. and Brevet Maj.</Title>
+      <Text>SirH. B., Bart, (retired)</Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,14 +265,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Caspendale</Key>
-      <Text>, 2ud Lieut. F. M. (seconded)</Text>
+      <Text>2ud Lieut. F. M. (seconded)</Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Comyn</Key>
-      <Text>, L: J. (Adj.)</Text>
+      <Forenames>L</Forenames>
+      <Text>: J. (Adj.)</Text>
       <PageNumber>2568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +333,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>, Maj. B; W. (resigned) ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>B</Forenames>
+      <Text>; W. (resigned) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +610,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Adj. and Hon. Capt.)</Text>
+      <Title>(Adj. and Hon. Capt.)</Title>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +995,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyttelton</Key>
-      <Text>, Lieut. H on. J. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H</Forenames>
+      <Text>on. J. C. (resigned)</Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>

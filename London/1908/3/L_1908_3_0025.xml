@@ -197,7 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>Maj., Earl of (resigned)</Text>
+      <Title>Maj., Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,8 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whish</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. C. (resigned)</Text>
       <PageNumber>7036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>5984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conway</Key>
-      <Text>E. P. (Capt.) .. ..</Text>
+      <Text>. E. P. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>Capt. OR. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>OR. (seconded)</Text>
       <PageNumber>5220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +511,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.. T. W. (cancellation)</Text>
+      <Title>Lieut.</Title>
+      <Text>. T. W. (cancellation)</Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharp</Key>
-      <Text>P: C. (2nd Lieut.)</Text>
+      <Forenames>P</Forenames>
+      <Text>: C. (2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1257,7 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>

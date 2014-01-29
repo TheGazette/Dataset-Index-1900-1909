@@ -97,7 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>, Duke of, Chancellor, Most Distinguished Order of St. Michael and St. George</Text>
+      <Title>Duke</Title>
+      <Text>of, Chancellor, Most Distinguished Order of St. Michael and St. George</Text>
       <PageNumber>4029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beer</Key>
-      <Text>, C, Albert Medal of the Second Class conferred on</Text>
+      <Forenames>C</Forenames>
+      <Text>, Albert Medal of the Second Class conferred on</Text>
       <PageNumber>3515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,8 +440,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. and Brev. Col. E., Companion of the Bath</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. and Brev. Col. E., Companion of the Bath</Text>
       <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bute</Key>
-      <Text>, Marquis of, H.M.'s Lieutenant of Bute</Text>
+      <Title>Marquis</Title>
+      <Text>of, H.M.'s Lieutenant of Bute</Text>
       <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calley</Key>
-      <Text>, Lieut.-Col. and Brev. Col</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
       <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Choisnet</Key>
-      <Text>, &lt;E. E. H., Hon. Member, Fourth Class, Royal Victorian Order</Text>
+      <Text>&lt;E. E. H., Hon. Member, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>3401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Lient</Forenames>
-      <Text>.-Col. Sir J. R. A., Bart., Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. Sir J. R. A., Bart., Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>3515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>, Col. Viscount, Commander of the Royal Victorian Order</Text>
+      <Title>Col. Viscount, Commander</Title>
+      <Text>of the Royal Victorian Order</Text>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +712,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Text>, Dr. O, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Dr.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +746,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. C. McD., Knight Commander of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. C. McD., Knight Commander of the Bath</Text>
       <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +864,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Text>, Viscount, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Viscount</Title>
+      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +881,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farwell</Key>
-      <Text>, Sir &amp;., South African Contract Commissioner</Text>
+      <Title>Sir</Title>
+      <Text>&amp;., South African Contract Commissioner</Text>
       <PageNumber>4555</PageNumber>
     </MainItem>
   </ItemGroup>

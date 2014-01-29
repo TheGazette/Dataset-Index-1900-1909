@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goolden</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,14 +298,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tozer</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,14 +319,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3351</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,14 +498,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,14 +816,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>H ,</Text>
+      <Forenames>H</Forenames>
+      <Text>,</Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meikle</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,14 +1041,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunn</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pick</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

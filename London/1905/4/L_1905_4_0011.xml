@@ -12,14 +12,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalmahoy</Key>
-      <Text>, Lieut.-Col. andl Hon. Col. J. A., Fourth Class, Royal Victorian Order</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>andl Hon. Col. J. A., Fourth Class, Royal Victorian Order</Text>
       <PageNumber>6831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Text>, Sir C, Bart., a Privy Councillor</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart., a Privy Councillor</Text>
       <PageNumber>8892</PageNumber>
       <PageNumber>8896</PageNumber>
     </MainItem>
@@ -54,14 +57,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Delme-Radeliffe</Key>
-      <Text>, Lieut.-Col. C, Companion of St. Michael and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Companion of St. Michael and St. George</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Text>, Lord, Lord in Waiting in Ordinary to His Majesty</Text>
+      <Title>Lord, Lord</Title>
+      <Text>in Waiting in Ordinary to His Majesty</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,15 +138,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Text>, W, Knight Commander of St. Michael and St. George</Text>
+      <Forenames>W</Forenames>
+      <Text>, Knight Commander of St. Michael and St. George</Text>
       <PageNumber>7495</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elgin</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of, Principal Secretary of State</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of, Principal Secretary of State</Text>
       <PageNumber>8893</PageNumber>
       <PageNumber>8897</PageNumber>
     </MainItem>
@@ -164,7 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elibank</Key>
-      <Text>, Master of, Comptroller of H.M.'s Household</Text>
+      <Title>Master</Title>
+      <Text>of, Comptroller of H.M.'s Household</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falmouth</Key>
-      <Text>, Maj.-Gen. Viscount, Knight Commander of the Royal Victorian Order</Text>
+      <Title>Maj.-Gen. Viscount</Title>
+      <Text>, Knight Commander of the Royal Victorian Order</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, A&lt;lml. Sir j. A., H.M.'s Commissioner for the Admiralty</Text>
+      <Forenames>A</Forenames>
+      <Text>&lt;lml. Sir j. A., H.M.'s Commissioner for the Admiralty</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +362,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>Marquis of, Commander, Royal Victorian Order .. '</Text>
+      <Title>Marquis</Title>
+      <Text>of, Commander, Royal Victorian Order .. '</Text>
       <PageNumber>6631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,14 +379,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Granard</Key>
-      <Text>, Earl of, Lord in Waiting in Ordinary to His Majesty</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord in Waiting in Ordinary to His Majesty</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Granville</Key>
-      <Text>, Earl, First Secretary in H.M.'s Diplomatic Service</Text>
+      <Title>Earl</Title>
+      <Text>, First Secretary in H.M.'s Diplomatic Service</Text>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +397,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lord in Waiting in Ordinary to His Majesty</Text>
+      <Title>Lord</Title>
+      <Text>in Waiting in Ordinary to His Majesty</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, Lord (sr. F., Chairman of the Poor Law Commission</Text>
+      <Title>Lord</Title>
+      <Text>(sr. F., Chairman of the Poor Law Commission</Text>
       <PageNumber>8735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,8 +479,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir O, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>O</Forenames>
+      <Text>, Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>, L , created a Baronet</Text>
+      <Forenames>L</Forenames>
+      <Text>, created a Baronet</Text>
       <PageNumber>9263</PageNumber>
       <PageNumber>9320</PageNumber>
     </MainItem>
@@ -765,7 +782,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Marquis of, Royal Victorian Chain</Text>
+      <Title>Marquis</Title>
+      <Text>of, Royal Victorian Chain</Text>
       <PageNumber>9172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,14 +862,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Linlithgow</Key>
-      <Text>, Marquis of, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Marquis</Title>
+      <Text>of, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>8736</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Liverpool</Key>
-      <Text>, Earl of, Lord Steward</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord Steward</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luck</Key>
-      <Text>, Lieut.-Gen. Sir &amp;., Lieutenant of the Tower of London</Text>
+      <Title>Lieut.-Gen. Sir</Title>
+      <Text>&amp;., Lieutenant of the Tower of London</Text>
       <PageNumber>7819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Text>,D. S., Auditor-General of Mauritius</Text>
+      <Text>D. S., Auditor-General of Mauritius</Text>
       <PageNumber>6704</PageNumber>
     </MainItem>
   </ItemGroup>

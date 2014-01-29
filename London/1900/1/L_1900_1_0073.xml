@@ -14,8 +14,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. J. (resigned)</Text>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,8 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boringdon</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Visct. (2nd Lieut.)</Title>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deaton</Key>
-      <Text>Lord (2nd Lieut.) .,</Text>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.,</Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,8 +457,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. C. H. (correction)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. C. H. (correction)</Text>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftesburv</Key>
-      <Text>Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>2611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Forenames>Jas</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Jas. (2nd Lieut.)</Title>
       <PageNumber>3974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyle</Key>
-      <Text>Capt. and Instr. of Musketry R. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry R. (resigned)</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,8 +661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncanson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. (resigned)</Text>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnab</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. J. C. G. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. J. C. G. (super.)</Text>
       <PageNumber>2511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,8 +747,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. McL. (secouded)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. J. McL. (secouded)</Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,8 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Cupt. S. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Cupt. S. (super.)</Text>
       <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,8 +990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morland</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. C. H. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. C. H. D. (resigned)</Text>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,8 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. W. (resigned)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,7 +1272,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>

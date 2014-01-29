@@ -177,7 +177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martyr</Key>
-      <Text>Capt. and Brev. Lieut.-Col. '. G. (retired pay)</Text>
+      <Title>Capt. and Brev. Lieut.-Col.</Title>
+      <Text>'. G. (retired pay)</Text>
       <PageNumber>7536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hitchins</Key>
-      <Text>Capt. and In*tr. of Musketry M. P. (resigned and Hon. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Text>and In*tr. of Musketry M. P. (resigned and Hon. Maj.)</Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +518,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W J. (super. Maj.)</Text>
+      <Forenames>W</Forenames>
+      <Text>J. (super. Maj.)</Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,8 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Title>Acting Chap. Rev.</Title>
-      <Forenames>Canon H. L.</Forenames>
+      <Title>Acting Chap. Rev. Canon</Title>
+      <Forenames>H. L.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>8594</PageNumber>
     </MainItem>
@@ -747,8 +750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. H. (resigned)</Text>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1018,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>7242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Duke of, K.G. (Lieut.-Col. Comdt.)</Text>
+      <Title>Duke</Title>
+      <Text>of, K.G. (Lieut.-Col. Comdt.)</Text>
       <PageNumber>8847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zouche</Key>
-      <Text>Lord (Capt.)</Text>
+      <Title>Lord (Capt.)</Title>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>

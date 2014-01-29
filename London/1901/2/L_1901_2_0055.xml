@@ -39,7 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jjlewellyn</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. .E. H. (seconded)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>.E. H. (seconded)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowley</Key>
-      <Text>, Lieut.. J. S. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>. J. S. (resigned)</Text>
       <PageNumber>6590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. S. (resigned)</Text>
       <PageNumber>8646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Forenames>Surg</Forenames>
-      <Text>..Capt. E. O. (resigned) ..</Text>
+      <Title>Surg.</Title>
+      <Text>.Capt. E. O. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +831,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +885,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>7651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blunt</Key>
-      <Text>, Capt. and Instr. of Musketry J. W. (seconded)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. W. (seconded)</Text>
       <PageNumber>6174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotter</Key>
-      <Text>, J: L. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: L. (Lieut.)</Text>
       <PageNumber>6294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1489,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindesay</Key>
-      <Text>, Maj. E (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>E</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,7 +1572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donoughmore</Key>
-      <Text>, Earl of (Capt.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Capt.)</Text>
       <PageNumber>7398</PageNumber>
     </MainItem>
   </ItemGroup>

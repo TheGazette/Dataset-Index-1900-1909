@@ -22,7 +22,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,16 +97,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ampthill</Key>
-      <Forenames>Et</Forenames>
-      <Text>. Hon. Lord</Text>
+      <Title>Et. Hon. Lord</Title>
       <PageNumber>5541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ooombs</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. E. H</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. E. H</Text>
       <PageNumber>5287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>iStanyforth</Key>
-      <Text>, Lieut.-CoLE. W</Text>
+      <Title>Lieut.</Title>
+      <Text>-CoLE. W</Text>
       <PageNumber>6531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,14 +237,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stileman</Key>
-      <Text>, II. H</Text>
+      <Text>II. H</Text>
       <PageNumber>7200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, .F.M</Text>
+      <Text>.F.M</Text>
       <PageNumber>5986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leahy</Key>
-      <Text>, j. P. ..</Text>
+      <Text>j. P. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>,.J. B. ..</Text>
+      <Text>.J. B. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ham</Key>
-      <Text>, H: E. W</Text>
+      <Forenames>H</Forenames>
+      <Text>: E. W</Text>
       <PageNumber>6359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alison</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +866,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butter</Key>
-      <Text>, P ;</Text>
+      <Forenames>P</Forenames>
+      <Text>;</Text>
       <PageNumber>7200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harden</Key>
-      <Text>,-G. E</Text>
+      <Text>-G. E</Text>
       <PageNumber>6959</PageNumber>
     </MainItem>
   </ItemGroup>

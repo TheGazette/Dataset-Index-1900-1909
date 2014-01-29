@@ -827,21 +827,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>,, J. L. (2nd Lieut.) .. ..</Text>
+      <Text>, J. L. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Duus</Key>
-      <Text>, Lieut.' O. F. (resigned) j</Text>
+      <Title>Lieut.</Title>
+      <Text>' O. F. (resigned) j</Text>
       <PageNumber>5383</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>, Lieut..L. R, (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>.L. R, (resigned)</Text>
       <PageNumber>5988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +893,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,6 +992,14 @@
       <Forenames>M. H. F.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>5541</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bethune</Key>
+      <Forenames>C. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6962</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1252,7 +1262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, MMJ. E. O. (antedated)</Text>
+      <Text>MMJ. E. O. (antedated)</Text>
       <PageNumber>6750</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -71,7 +71,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramwell</Key>
-      <Text>, E; (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>; (Capt.)</Text>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, H.H. (Capt.)</Text>
+      <Title>H.H. (Capt.)</Title>
       <PageNumber>9376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burroughes</Key>
-      <Text>, II. N. (Capt.)</Text>
+      <Text>II. N. (Capt.)</Text>
       <PageNumber>8549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>. A. (Maj.)</Text>
+      <Text>A. (Maj.)</Text>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,14 +358,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>8549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. D. Gr. (Capt.)</Text>
+      <Text>D. Gr. (Capt.)</Text>
       <PageNumber>8041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caton</Key>
-      <Text>. E. (Hon. Col.)</Text>
+      <Text>E. (Hon. Col.)</Text>
       <PageNumber>7558</PageNumber>
     </MainItem>
     <SubItem>
@@ -448,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Text>. A. K. (Lieut.-Col.)</Text>
+      <Text>A. K. (Lieut.-Col.)</Text>
       <PageNumber>8042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +723,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1234,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.) ..</Text>
+      <Title>(Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>.lemming, A. L. (Maj.)</Text>
+      <Text>lemming, A. L. (Maj.)</Text>
       <PageNumber>9471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>, 0. (Capt.)</Text>
+      <Text>0. (Capt.)</Text>
       <PageNumber>9189</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -109,7 +109,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,9 +345,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Ot</Forenames>
-      <Text>. (correction)</Text>
+      <Title>2nd Lieut. Ot. (correction)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacCoukey</Key>
-      <Text>, G-. P. D. (2nd Lieut.)</Text>
+      <Text>G-. P. D. (2nd Lieut.)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,9 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Title>Ot.</Title>
-      <Forenames>Ot</Forenames>
-      <Text>. DA. (2nd Lieut.)</Text>
+      <Title>Ot. Ot.</Title>
+      <Text>DA. (2nd Lieut.)</Text>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,9 +562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MeKie</Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. W. (leaves Imperial)Yeomanry)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. W. (leaves Imperial)Yeomanry)</Text>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +756,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +816,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1038,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savile</Key>
-      <Text>, 0. R. U. (2nd Lieut.)</Text>
+      <Text>0. R. U. (2nd Lieut.)</Text>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,6 +1520,14 @@
       <Forenames>E. W. E. Or</Forenames>
       <Text>. (2nd Lieut.)</Text>
       <PageNumber>1351</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Selby</Key>
+      <Forenames>B. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1983,14 +1987,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Terry</Key>
-      <Text>,.S. D. (2nd Lieut.)</Text>
+      <Text>.S. D. (2nd Lieut.)</Text>
       <PageNumber>2528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2210,8 +2214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tylden</Key>
-      <Forenames>Or</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Or. (2nd Lieut.)</Title>
       <PageNumber>2438</PageNumber>
     </MainItem>
   </ItemGroup>

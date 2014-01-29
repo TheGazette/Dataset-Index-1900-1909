@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freaine</Key>
-      <Text>, Capt.' and Hon. Maj. B. E</Text>
+      <Title>Capt.</Title>
+      <Text>' and Hon. Maj. B. E</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,8 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. R. B</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. R. B</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,8 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>Eieut</Forenames>
-      <Text>.-Cdl. and Hon. Col. R</Text>
+      <Title>Eieut.</Title>
+      <Text>-Cdl. and Hon. Col. R</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hansell</Key>
-      <Text>, Capt. and Hon. Maj! E. M...</Text>
+      <Title>Capt. and Hon. Maj</Title>
+      <Text>! E. M...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,8 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mill</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. J</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. J</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,28 +144,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>,Capt. arid Hon. Maj. T.</Text>
+      <Title>Capt.</Title>
+      <Text>arid Hon. Maj. T.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moreton</Key>
-      <Text>, Maj. and Hon. Lieut.-Lol. D.S...</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Lol. D.S...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pollitt</Key>
-      <Text>, Lieut.-Col., Commandant and Hon. Col. J. B.</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>, Commandant and Hon. Col. J. B.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>, 'Qrmr. and Hon. Capt. A. F; G.</Text>
+      <Text>'Qrmr. and Hon. Capt. A. F; G.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sands</Key>
-      <Text>, Capt. arid Hon. Maj. J</Text>
+      <Title>Capt.</Title>
+      <Text>arid Hon. Maj. J</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wadham</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. . W. F. A</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Text>. W. F. A</Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGrath</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parke</Key>
-      <Text>, IV</Text>
+      <Text>IV</Text>
       <PageNumber>4093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willes</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,9 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfeli</Key>
-      <Title>Gen.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord (Col.)</Text>
+      <Title>Gen. Rt. Hon. Lord (Col.)</Title>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,21 +459,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundoriald</Key>
-      <Text>, Lieut.-Gen. Earl of (Col.)</Text>
+      <Title>Lieut.-Gen. Earl</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>,' H. C. S. (Capt.)</Text>
+      <Text>' H. C. S. (Capt.)</Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moutgomerie</Key>
-      <Text>, Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Text>, Lieut. Marquis of (resigned)</Text>
+      <Title>Lieut. Marquis</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>3303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,9 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingestre</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>Lieut. Visct. (resigned)</Title>
       <PageNumber>3303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebrington</Key>
-      <Text>. Viscount (2nd Lieut.)</Text>
+      <Text>Viscount (2nd Lieut.)</Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>, W, (Capt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,14 +912,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>. Maj. S. L. (resigned)</Text>
+      <Text>Maj. S. L. (resigned)</Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewes</Key>
-      <Text>, Maj.-Gen. II. C, Col.-Commandant</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>II. C, Col.-Commandant</Text>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>

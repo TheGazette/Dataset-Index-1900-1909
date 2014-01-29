@@ -37,7 +37,8 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>, Lieut.-Ge.n. Sir J. D. P., Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Lieut.</Title>
+      <Text>-Ge.n. Sir J. D. P., Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,8 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gubbins</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. W. L., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. W. L., Companion of the Bath</Text>
       <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,15 +217,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. T. E., Companion of the Bath</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. T. E., Companion of the Bath</Text>
       <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hawes</Key>
-      <Text>, lion. Maj.-Gen. G. H., Companion of the Bath .. .. ..</Text>
+      <Text>lion. Maj.-Gen. G. H., Companion of the Bath .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +464,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerry</Key>
-      <Text>, Capt. Earl of, Member, Fourth Class, Royal Victorian Order</Text>
+      <Title>Capt. Earl</Title>
+      <Text>of, Member, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +542,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Londonderry</Key>
-      <Text>, Col. Marquis of, Companion of the Bath</Text>
+      <Title>Col. Marquis</Title>
+      <Text>of, Companion of the Bath</Text>
       <PageNumber>4549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montellano</Key>
-      <Text>, Duke of, Hon. Knight Grand Cross, Eoyal Victorian Order</Text>
+      <Title>Duke</Title>
+      <Text>of, Hon. Knight Grand Cross, Eoyal Victorian Order</Text>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +972,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Lord Ordinary in Exchequer Causes</Text>
+      <Title>Rt. Hon. Lord, Lord</Title>
+      <Forenames>Ordinary</Forenames>
+      <Text>in Exchequer Causes</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1006,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pennington</Key>
-      <Text>,Lieut.-Gen. OR., Knight Commander of the Bath</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Text>OR., Knight Commander of the Bath</Text>
       <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,8 +1039,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunket</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>3515</PageNumber>
     </MainItem>
   </ItemGroup>

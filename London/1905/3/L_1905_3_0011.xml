@@ -36,7 +36,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monro</Key>
-      <Text>. H. C, Motor Car Acts Commissioner</Text>
+      <Text>H. C, Motor Car Acts Commissioner</Text>
       <PageNumber>6051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>. Capt. F. K. W., Fourth Class, Roval Victorian Order</Text>
+      <Text>Capt. F. K. W., Fourth Class, Roval Victorian Order</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Organ</Key>
-      <Text>, Maj. O, Fifth Class, Royal Victorian Order</Text>
+      <Title>Maj.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Fifth Class, Royal Victorian Order</Text>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>, MisB, League of Mercy</Text>
+      <Text>MisB, League of Mercy</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pezellen</Key>
-      <Text>, O, Hon. Commander, Royal Victorian Order</Text>
+      <Forenames>O</Forenames>
+      <Text>, Hon. Commander, Royal Victorian Order</Text>
       <PageNumber>6191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Miss, League of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +357,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodwell</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,14 +447,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Selby</Key>
-      <Text>, Viscount, Chairman of the Motor Car Acts Commission '</Text>
+      <Title>Viscount</Title>
+      <Text>, Chairman of the Motor Car Acts Commission '</Text>
       <PageNumber>6051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shaftesbury</Key>
-      <Text>, the Countess of, Extra Lady of the Bedchamber to H.R.H. Princess of Wales</Text>
+      <Text>the Countess of, Extra Lady of the Bedchamber to H.R.H. Princess of Wales</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +578,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lord, Knight Commander, Royal Victorian Order .. ..</Text>
+      <Title>Lord</Title>
+      <Text>, Knight Commander, Royal Victorian Order .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +702,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trouneer</Key>
-      <Text>, Mrs. C, League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Forenames>C</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,14 +720,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Vachell</Key>
-      <Text>.C. F., Recorder of Gloucester</Text>
+      <Text>C. F., Recorder of Gloucester</Text>
       <PageNumber>4901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. Prince of, Extra Knight Grand Commander of the Indian Empire</Text>
+      <Title>H.R.H. Prince</Title>
+      <Text>of, Extra Knight Grand Commander of the Indian Empire</Text>
       <PageNumber>6563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +806,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winchester</Key>
-      <Text>, Marquis of, Motor Car Acts Commissioner</Text>
+      <Title>Marquis</Title>
+      <Text>of, Motor Car Acts Commissioner</Text>
       <PageNumber>6051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodgate</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bignell</Key>
-      <Text>, OA;</Text>
+      <Text>OA;</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleaver</Key>
-      <Text>, OR... .. .. ..</Text>
+      <Text>OR... .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1202,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>, H: de N. .. .. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>: de N. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -371,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McElwee</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +440,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>New</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Engineer</Key>
-      <Forenames>Commanders</Forenames>
+      <Title>Commanders.</Title>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatchie</Key>
-      <Text>D ;</Text>
+      <Forenames>D</Forenames>
+      <Text>;</Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurnell</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,14 +748,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Keshane</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillard</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>Capt. E (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +873,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>

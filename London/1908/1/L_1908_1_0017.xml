@@ -12,15 +12,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. G. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bulstrode</Key>
-      <Text>, 0. V. (Capt.)</Text>
+      <Text>0. V. (Capt.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +36,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Capt. R. (resigned)</Text>
+      <Text>John, Capt. R. (resigned)</Text>
       <PageNumber>1320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +127,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Temporary Capt.)</Text>
+      <Title>(Temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackledge</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. T. (resigned)</Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Torter</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. G. (resigned)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,8 +342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wear</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. T. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. T. (resigned)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt.P. J. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt.P. J. S. (resigned)</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +534,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Fiegehen</Key>
@@ -782,8 +782,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. C. (resigned)</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cavan</Key>
-      <Text>, Earl of (Lieut.-Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col.)</Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>, Capt. and Brevet Maj. Lord (seconded)</Text>
+      <Title>Capt. and Brevet Maj. Lord (seconded)</Title>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gravea-Sawk</Key>
-      <Text>, it. C. (2nd Lieut)</Text>
+      <Text>it. C. (2nd Lieut)</Text>
       <PageNumber>1207</PageNumber>
     </MainItem>
   </ItemGroup>

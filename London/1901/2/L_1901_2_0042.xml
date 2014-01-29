@@ -47,7 +47,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosens</Key>
-      <Text>, F: W. V. (Capt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: W. V. (Capt.)</Text>
       <PageNumber>6918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +76,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +93,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. T E. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>T</Forenames>
+      <Text>E. (antedated)</Text>
       <PageNumber>7395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tristram</Key>
-      <Text>, TJ. H. (Capt.)</Text>
+      <Text>TJ. H. (Capt.)</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +248,7 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>, Lord (Lieut.)</Text>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>5385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings-Bramly</Key>
-      <Text>, Capt. and' Bret. Maj. A. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>and' Bret. Maj. A. (seconded)</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>, 2nd Lieut! C. B. H.(seconded)</Text>
+      <Text>2nd Lieut! C. B. H.(seconded)</Text>
       <PageNumber>4401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +998,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1043,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated) .</Text>
+      <Title>(antedated)</Title>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,7 +1349,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>, Capt. (temporary Maj.) D. R. (seconded)</Text>
+      <Title>Capt. (temporary Maj.)</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>4710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1728,7 +1735,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>8561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>, G-H. (2nd Lieut.)</Text>
+      <Text>G-H. (2nd Lieut.)</Text>
       <PageNumber>5669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1920,7 +1927,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>

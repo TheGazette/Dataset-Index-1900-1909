@@ -148,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>G. A. L. (2nd Lieut.)</Text>
+      <Text>. G. A. L. (2nd Lieut.)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +698,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +832,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fegen</Key>
-      <Text>Lieut..Col. and Brevet Col. M. F. (half-pay)</Text>
+      <Title>Lieut.</Title>
+      <Text>.Col. and Brevet Col. M. F. (half-pay)</Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Text>F. L. (Maj.)</Text>
+      <Text>. F. L. (Maj.)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>Lieut.-Col. and Brevet Col. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. (retired)</Title>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,8 +1442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. E. H. (retired)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. E. H. (retired)</Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>

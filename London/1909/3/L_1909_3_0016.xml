@@ -65,7 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, G-. M. (2nd Lieut.) ..</Text>
+      <Text>G-. M. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luff</Key>
-      <Text>, G-. B. (Capt.)</Text>
+      <Text>G-. B. (Capt.)</Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. Maj.) .. ..</Text>
+      <Title>(Hon. Maj.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>, W: H. C. (2nd Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: H. C. (2nd Lieut.)</Text>
       <PageNumber>6961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lorimer</Key>
-      <Text>, i. M. (Lieut.)</Text>
+      <Text>i. M. (Lieut.)</Text>
       <PageNumber>5541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,9 +392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnaughton-Jones</Key>
-      <Title>Super.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.Capt. H. M. (struck off the strength)</Text>
+      <Title>Super. Surg.</Title>
+      <Text>Capt. H. M. (struck off the strength)</Text>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,16 +611,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>, G-. C. (Lieut.)</Text>
+      <Text>G-. C. (Lieut.)</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Massy</Key>
-      <Title>Lieut.-Col. and Brevet Col.</Title>
-      <Forenames>Or</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. Or. (retired)</Title>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>, M, H. S. (Lieut.)</Text>
+      <Forenames>M</Forenames>
+      <Text>, H. S. (Lieut.)</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>,-Lieut. H. F. C. (antedated)</Text>
+      <Text>-Lieut. H. F. C. (antedated)</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,6 +1107,13 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The Bedfordshire Regiment</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Curteis</Key>
+      <Text>.Maj.-Gen. R. L. H. (Col.)</Text>
+      <PageNumber>5540</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fowle</Key>

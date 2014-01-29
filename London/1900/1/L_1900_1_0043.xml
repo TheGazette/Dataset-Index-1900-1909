@@ -134,8 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>JRyan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. W. St. V. (MedicalOfficer)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. W. St. V. (MedicalOfficer)</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. (Medical Officer) ,</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. (Medical Officer) ,</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilton</Key>
-      <Text>Lieut.-Col. and Hon. Col. (resigned) .'</Text>
+      <Title>Lieut.-Col. and Hon. Col. (resigned)</Title>
+      <Text>.'</Text>
       <PageNumber>436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +516,9 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>(resigned) Reid, H. E. (2nd Lieut.)</Text>
+      <Title>(resigned)</Title>
+      <Forenames>Reid</Forenames>
+      <Text>, H. E. (2nd Lieut.)</Text>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +706,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,23 +863,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut:-Col. C. J. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut:-Col. C. J. (resigned)</Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>Capt. and Instr. of Musketry D. W. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry D. W. (resigned)</Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ballantyne</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. A. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. A. (resigned)</Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +946,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +979,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1056,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. R. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. R. C. (resigned)</Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,7 +1658,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1698,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosanquet</Key>
-      <Text>N, E. T. (2nd Lieut.)</Text>
+      <Forenames>N</Forenames>
+      <Text>, E. T. (2nd Lieut.)</Text>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>

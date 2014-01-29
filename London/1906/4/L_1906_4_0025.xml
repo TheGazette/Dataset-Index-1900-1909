@@ -90,7 +90,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thvne</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fieldin</Key>
-      <Text>, H. C</Text>
+      <Text>., H. C</Text>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,8 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Licut</Forenames>
-      <Text>.-Col. A. B., Asst.-Adj.Gen</Text>
+      <Title>Licut.</Title>
+      <Text>-Col. A. B., Asst.-Adj.Gen</Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,8 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanuell</Key>
-      <Forenames>Li</Forenames>
-      <Text>.:ut.-Col. H. S. M., DeputyAsst. Adj.-Gen</Text>
+      <Title>Li.</Title>
+      <Text>:ut.-Col. H. S. M., DeputyAsst. Adj.-Gen</Text>
       <PageNumber>8307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, Lieut.-Col. and Brevet Col. F., Asst.-Adj.-Gen. for Musketry .. .. .. .. ..</Text>
+      <Text>., Lieut.-Col. and Brevet Col. F., Asst.-Adj.-Gen. for Musketry .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +582,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennick</Key>
-      <Text>Maj. F!, Deputy-Asst. Qrmr.-Gen</Text>
+      <Title>Maj.</Title>
+      <Forenames>F</Forenames>
+      <Text>!, Deputy-Asst. Qrmr.-Gen</Text>
       <PageNumber>7634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Annesley</Key>
-      <Text>Maj. -T. H. A</Text>
+      <Text>. Maj. -T. H. A</Text>
       <PageNumber>7634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Text>Capt. W</Text>
+      <Title>Capt.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +707,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Copeland</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyther</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1068,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelsall</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___ .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,14 +1386,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

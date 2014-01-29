@@ -158,7 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calder</Key>
-      <Text>, G-. J. (2nd Lieut.)</Text>
+      <Text>G-. J. (2nd Lieut.)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +391,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crane</Key>
-      <Text>,. J. H. G. (2nd Lieut.)</Text>
+      <Text>. J. H. G. (2nd Lieut.)</Text>
       <PageNumber>1148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +788,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +961,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furley</Key>
-      <Text>, R, G. (2nd Lient.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. (2nd Lient.)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,7 +1509,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,6 +1537,14 @@
       <Forenames>C. F.</Forenames>
       <Text>&lt;2nd Lieut:)</Text>
       <PageNumber>1418</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Guthrie</Key>
+      <Forenames>D. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1913,6 +1922,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Holberton</Key>
+      <Forenames>P. V.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>160</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Holding</Key>
       <Forenames>W.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1924,7 +1941,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1998,7 +2015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulse</Key>
-      <Text>, 0. W. (2nd Lieut.)</Text>
+      <Text>0. W. (2nd Lieut.)</Text>
       <PageNumber>1148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2042,7 +2059,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2208,7 +2225,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2242,7 +2259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, L: A. (2nd Lieut.)</Text>
+      <Forenames>L</Forenames>
+      <Text>: A. (2nd Lieut.)</Text>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2273,7 +2291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp-Potter</Key>
-      <Text>,-F. H. (2nd Lieut.)</Text>
+      <Text>-F. H. (2nd Lieut.)</Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>

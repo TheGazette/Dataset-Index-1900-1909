@@ -261,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewin</Key>
-      <Text>,.R. N. S. (Capt.)</Text>
+      <Text>.R. N. S. (Capt.)</Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, E. G. (2nd Lieut, super.)</Text>
+      <Text>Aubyn, E. G. (2nd Lieut, super.)</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +440,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maples</Key>
-      <Text>,.W. E. (Lieut.)</Text>
+      <Text>.W. E. (Lieut.)</Text>
       <PageNumber>4275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +680,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savile</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>5325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Demetriadi</Key>
-      <Text>, -L. P. (Surg.-Capt.)</Text>
+      <Text>-L. P. (Surg.-Capt.)</Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worrall</Key>
-      <Text>, 8. H. (2nd Lieut.)</Text>
+      <Text>8. H. (2nd Lieut.)</Text>
       <PageNumber>4948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>, Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,8 +1166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MaeleaD</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. S. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. S. (resigned)</Text>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Follett</Key>
-      <Text>, R, S. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rocksavage</Key>
-      <Text>, Earl of (Lieut.) ___ St. Croix, C. de St. (Lieut.) ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.) ___ St. Croix, C. de St. (Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1498,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,7 +1799,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxendale</Key>
-      <Text>, J; F. N. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>; F. N. (Lieut.)</Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>

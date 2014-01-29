@@ -278,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ampthill</Key>
-      <Text>, Lord, Governor of the Presidency of Fort St. George at Madras</Text>
+      <Title>Lord</Title>
+      <Text>, Governor of the Presidency of Fort St. George at Madras</Text>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauchamp</Key>
-      <Text>, Earl, Governor of New South Wales, &amp;c. .. .. ..</Text>
+      <Title>Earl</Title>
+      <Text>, Governor of New South Wales, &amp;c. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +547,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Commander of the Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Text>of the Royal Victorian Order</Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarendon</Key>
-      <Text>. Earl of, Lord Chamberlain of H.M.'s Household</Text>
+      <Text>Earl of, Lord Chamberlain of H.M.'s Household</Text>
       <PageNumber>5891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cromer</Key>
-      <Text>, Viscount, a Privy Councillor</Text>
+      <Title>Viscount</Title>
+      <Text>, a Privy Councillor</Text>
       <PageNumber>5829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyell</Key>
-      <Text>, E F., Official Member of the Legislative Council of Montserrat</Text>
+      <Forenames>E</Forenames>
+      <Text>F., Official Member of the Legislative Council of Montserrat</Text>
       <PageNumber>4195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +871,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egypt</Key>
-      <Text>, H.H. the Khediveof, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
+      <Title>H.H.</Title>
+      <Text>the Khediveof, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
       <PageNumber>4195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +897,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>, Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>4712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +907,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sir YV., Bart., Order of Mercy ..</Text>
+      <Title>Sir</Title>
+      <Text>YV., Bart., Order of Mercy ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +958,9 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzClarence</Key>
-      <Text>, Capt. C, Victoria Cross</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Victoria Cross</Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>

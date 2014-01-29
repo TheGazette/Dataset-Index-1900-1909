@@ -63,7 +63,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acheson</Key>
-      <Text>, Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Text>, E, C! P. (Maj.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, C! P. (Maj.)</Text>
       <PageNumber>1221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>, J: (Hon. Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: (Hon. Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalf</Key>
-      <Text>, G: J. (Capt.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: J. (Capt.)</Text>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +828,8 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>E: J. (Hon. Maj.) .. Shiell, A: (Lieut.) : Shortland, T. G: (Lieut.-Col.) Shute, C: D. D. (Maj.) Silverthorne, J-. W. B. (Maj.) Skinner, H. W. (Col.) Sparke, J. G. (Lieut.-Cbh)</Text>
+      <Forenames>E</Forenames>
+      <Text>: J. (Hon. Maj.) .. Shiell, A: (Lieut.) : Shortland, T. G: (Lieut.-Col.) Shute, C: D. D. (Maj.) Silverthorne, J-. W. B. (Maj.) Skinner, H. W. (Col.) Sparke, J. G. (Lieut.-Cbh)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +886,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, Capt. C; H. E. (correction) ;</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>; H. E. (correction) ;</Text>
       <PageNumber>110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,14 +911,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilly</Key>
-      <Text>, J: C. (Lieiit!-Cof.) '</Text>
+      <Forenames>J</Forenames>
+      <Text>: C. (Lieiit!-Cof.) '</Text>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>,-G. (Maj.) .. '</Text>
+      <Text>-G. (Maj.) .. '</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,14 +958,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>, Capt. and Hon. Maj. T: L: (resigned) .. -.. l4i</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>T</Forenames>
+      <Text>: L: (resigned) .. -.. l4i</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wane</Key>
-      <Text>,-F. J. (Lieut.)</Text>
+      <Text>-F. J. (Lieut.)</Text>
       <PageNumber>1696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiison</Key>
-      <Text>,-E. H. F. W: (Maj.).;</Text>
+      <Text>-E. H. F. W: (Maj.).;</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eichardson</Key>
-      <Text>, A: F. G., Col. to* com-mand the 8th and 40th Districts'</Text>
+      <Forenames>A</Forenames>
+      <Text>: F. G., Col. to* com-mand the 8th and 40th Districts'</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1119,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.) ...</Text>
+      <Title>(Lieut.)</Title>
+      <Text>...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1258,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1300,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>, A; S. (Lieut.) '..' .,</Text>
+      <Forenames>A</Forenames>
+      <Text>; S. (Lieut.) '..' .,</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -46,16 +46,16 @@
       <PageNumber>6029</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>.NOTTINGHAMSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>NOTTINGHAMSHIRE</SubCategoryTitle>
   <SubSectionTitle>(Sherivood Rangers.) Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>, 2ud Lieut. H..C(antedated)</Text>
+      <Text>2ud Lieut. H..C(antedated)</Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. OXFORDSHIRE</SubCategoryTitle>
+  <SubCategoryTitle>OXFORDSHIRE</SubCategoryTitle>
   <SubSectionTitle>(Queens Own Oxfordshire Hussars.) Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>JJoble</Key>
-      <Text>,' Maj. and Hon. Lieut.-Col. L. (resigned).. '</Text>
+      <Text>' Maj. and Hon. Lieut.-Col. L. (resigned).. '</Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Senhouse</Key>
-      <Text>, G J. P. (2nd Lieut.) ..</Text>
+      <Forenames>G</Forenames>
+      <Text>J. P. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Polden</Key>
-      <Text>, Capt.T. E. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>T. E. (resigned)</Text>
       <PageNumber>6727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Capper</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>,' W. St. J</Text>
+      <Text>' W. St. J</Text>
       <PageNumber>8720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guinness</Key>
-      <Text>, H: F '</Text>
+      <Forenames>H</Forenames>
+      <Text>: F '</Text>
       <PageNumber>7367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,14 +878,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt-Grubbe</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>, JV. H</Text>
+      <Text>JV. H</Text>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsden</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>

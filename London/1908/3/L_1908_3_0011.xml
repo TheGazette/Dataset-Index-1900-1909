@@ -172,14 +172,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>Col. O, Knighted,</Text>
+      <Title>Col.</Title>
+      <Forenames>O</Forenames>
+      <Text>, Knighted,</Text>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Annaly</Key>
-      <Text>Viscount, Commander of the Royal Victorian Order</Text>
+      <Title>Viscount, Commander</Title>
+      <Text>of the Royal Victorian Order</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaobamp</Key>
-      <Text>Earl, Land Transfer ActB Commissioner</Text>
+      <Title>Earl</Title>
+      <Text>, Land Transfer ActB Commissioner</Text>
       <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bessborough</Key>
-      <Text>Earl of, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgeman</Key>
-      <Text>F,. F. O., Tbird Secretary in H.M.'s Diplomatic Service</Text>
+      <Forenames>F</Forenames>
+      <Text>,. F. O., Tbird Secretary in H.M.'s Diplomatic Service</Text>
       <PageNumber>4817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchan</Key>
-      <Text>Brig.-Gen. L , Commander, Royal Victorian Order</Text>
+      <Title>Brig.-Gen.</Title>
+      <Forenames>L</Forenames>
+      <Text>, Commander, Royal Victorian Order</Text>
       <PageNumber>6857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Text>Duke of, H.M.'s Lieutenant of Eerbyshire</Text>
+      <Title>Duke</Title>
+      <Text>of, H.M.'s Lieutenant of Eerbyshire</Text>
       <PageNumber>5729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellesmere</Key>
-      <Text>Earl of, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Earl</Title>
+      <Text>of, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +762,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Falconbridge</Key>
-      <Text>(W.) G., Knighted</Text>
+      <Title>(W.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>, Knighted</Text>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeth</Key>
-      <Text>E„ Knighted</Text>
+      <Forenames>E</Forenames>
+      <Text>„ Knighted</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +896,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gliickmann</Key>
-      <Text>H.E. Lieut.-Gen. C, Hon. Knight Commander, Royal Victorian Order</Text>
+      <Title>H.E. Lieut.-Gen.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Knight Commander, Royal Victorian Order</Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +940,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gouin</Key>
-      <Text>Hon. L„ Knighted</Text>
+      <Title>Hon.</Title>
+      <Forenames>L</Forenames>
+      <Text>„ Knighted</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Text>Earl, Knight Grand Cross of the Royal Viotorian Order</Text>
+      <Title>Earl</Title>
+      <Text>, Knight Grand Cross of the Royal Viotorian Order</Text>
       <PageNumber>6894</PageNumber>
     </MainItem>
   </ItemGroup>

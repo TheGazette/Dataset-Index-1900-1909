@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. M. J. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. M. J. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, Capt. G-. W. (resigned and Surg.-Lieut.)</Text>
+      <Title>Capt.</Title>
+      <Text>G-. W. (resigned and Surg.-Lieut.)</Text>
       <PageNumber>8797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +759,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, Lieut. 'S. C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>'S. C. (resigned)</Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,8 +796,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. (resigned, 2nd Lieut.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. (resigned, 2nd Lieut.)</Text>
       <PageNumber>8454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +904,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shott</Key>
-      <Text>, 2nd Lieut, H. H. (seconded)</Text>
+      <Text>2nd Lieut, H. H. (seconded)</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Latter</Key>
-      <Text>,.B. H. (Hon. Lieut.-Col.)</Text>
+      <Text>.B. H. (Hon. Lieut.-Col.)</Text>
       <PageNumber>7116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,8 +1202,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Cat</Forenames>
-      <Text>. and Hon. Maj. (correction) '</Text>
+      <Title>Cat. and Hon. Maj. (correction)</Title>
+      <Text>'</Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>

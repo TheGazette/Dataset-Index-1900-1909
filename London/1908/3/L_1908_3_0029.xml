@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennismore</Key>
-      <Text>Viscount (Capt.)</Text>
+      <Title>Viscount (Capt.)</Title>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +637,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Text>W.C. (Lieut.-Col.)</Text>
+      <Text>.W.C. (Lieut.-Col.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzwilliaro</Key>
-      <Text>Earl (Capt. and Hon. Maj.)</Text>
+      <Title>Earl (Capt. and Hon. Maj.)</Title>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>L,(Maj.)</Text>
+      <Forenames>L</Forenames>
+      <Text>,(Maj.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanusk</Key>
-      <Text>Lord (Lieut.-Col.)</Text>
+      <Title>Lord (Lieut.-Col.)</Title>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloster</Key>
-      <Text>T. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>.T. (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gompertz</Key>
-      <Text>A. W. B. (2nd Lieut.)</Text>
+      <Text>. A. W. B. (2nd Lieut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1557,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt. and Hon. Maj.)</Text>
+      <Title>(Capt. and Hon. Maj.)</Title>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1715,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Text>Viscount (Lieut.-Col. and Hon. Col.)</Text>
+      <Title>Viscount (Lieut.-Col. and Hon. Col.)</Title>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1943,6 +1944,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Helpman</Key>
+      <Forenames>R. H. R.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>5321</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hely-Hutchinson</Key>
       <Text>OR. (Lieut.-Col.)</Text>
       <PageNumber>ibid.</PageNumber>
@@ -1970,7 +1979,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H J. M. P. P. (2nd Lieut.)</Text>
+      <Forenames>H</Forenames>
+      <Text>J. M. P. P. (2nd Lieut.)</Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1993,7 +2003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepburn</Key>
-      <Text>G. F. (Lieut.)</Text>
+      <Text>. G. F. (Lieut.)</Text>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2040,7 +2050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hesketh</Key>
-      <Text>E J. I. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>J. I. (Capt.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, B«&lt;S.(Adj;)</Text>
+      <Forenames>B</Forenames>
+      <Text>«&lt;S.(Adj;)</Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>,-J. H. M. (2nd Lieut.)</Text>
+      <Text>-J. H. M. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>,.H. H..C. (2nd Lieut.)</Text>
+      <Text>.H. H..C. (2nd Lieut.)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>, R (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,14 +413,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Muling</Key>
-      <Text>,' H. B. W. (Lieut.)</Text>
+      <Text>' H. B. W. (Lieut.)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>,' Lieut. A. W. P. T.' (antedated)</Text>
+      <Text>' Lieut. A. W. P. T.' (antedated)</Text>
       <PageNumber>4615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +437,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellew</Key>
-      <Text>, Sir H: C: G., Bart. (Hon. Maj.)</Text>
+      <Title>Sir</Title>
+      <Forenames>H</Forenames>
+      <Text>: C: G., Bart. (Hon. Maj.)</Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +532,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>, Lieut.-Col. and Brevet Col. S, (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>S</Forenames>
+      <Text>, (half-pay)</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedale</Key>
-      <Text>.-R. H. (2nd Lieut.tsuper.)</Text>
+      <Text>-R. H. (2nd Lieut.tsuper.)</Text>
       <PageNumber>5122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, J: M. (2nd Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: M. (2nd Lieut.)</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>, 0. J. (Lieut.)</Text>
+      <Text>0. J. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orozier</Key>
-      <Text>,, H. C. &lt;Lieut.)</Text>
+      <Text>, H. C. &lt;Lieut.)</Text>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +820,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conlan</Key>
-      <Text>,-iR..L. HI (Adj.)</Text>
+      <Text>-iR..L. HI (Adj.)</Text>
       <PageNumber>4948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +829,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>,-C. H. G. M. (Capt.)</Text>
+      <Text>-C. H. G. M. (Capt.)</Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joncs-Vaughan</Key>
-      <Text>, H: T. C. (Lieut.) . .-</Text>
+      <Forenames>H</Forenames>
+      <Text>: T. C. (Lieut.) . .-</Text>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1062,6 @@
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the. Indian: Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Colonels</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -1126,7 +1134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>, H;</Text>
+      <Forenames>H</Forenames>
+      <Text>;</Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tighe</Key>
-      <Text>,.M.' J. .. ..</Text>
+      <Text>.M.' J. .. ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

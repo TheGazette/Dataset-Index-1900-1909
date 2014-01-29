@@ -167,7 +167,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, Capt. J; E. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J</Forenames>
+      <Text>; E. (resigned)</Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suteliffe</Key>
-      <Text>,,J. H. (2nd Lieut.)</Text>
+      <Text>,J. H. (2nd Lieut.)</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Text>,-Maj. S. L. (cancellation of (dismissal) -.. -</Text>
+      <Text>-Maj. S. L. (cancellation of (dismissal) -.. -</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,14 +327,16 @@
       <Key>
         <KeyDitto>___ ___ ___ .—-</KeyDitto>
       </Key>
-      <Text>Maj. S-.-L. (retiredpay) ..'</Text>
+      <Title>Maj.</Title>
+      <Text>S-.-L. (retiredpay) ..'</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fynney</Key>
-      <Text>, F: A. (Lieut.)</Text>
+      <Forenames>F</Forenames>
+      <Text>: A. (Lieut.)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Witherihgton</Key>
-      <Forenames>Capt</Forenames>
-      <Text>.jV! N. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>jV! N. (resigned)</Text>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,14 +434,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Mender</Key>
-      <Text>,' G. F. (Maj.)</Text>
+      <Text>' G. F. (Maj.)</Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, Capt. and Instr. of Musketry J. L. (resigned) ' .. ..</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. L. (resigned) ' .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,8 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Forenames>Supy</Forenames>
-      <Text>..Lieut. G. (resigned)</Text>
+      <Title>Supy.</Title>
+      <Text>.Lieut. G. (resigned)</Text>
       <PageNumber>2065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>, 2nd. Lieut. K. N. (seconded)</Text>
+      <Text>2nd. Lieut. K. N. (seconded)</Text>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,14 +787,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagge</Key>
-      <Text>, ,R. L. (Maj.) ...'</Text>
+      <Text>,R. L. (Maj.) ...'</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eden</Key>
-      <Text>, Maj. and Hon. Lieut.-Cdl. H. H. F. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-Cdl. H. H. F. (resigned)</Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Text>, M T. B. (Lieut;),</Text>
+      <Forenames>M</Forenames>
+      <Text>T. B. (Lieut;),</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>,.J. C. (Capt) ... .. ibid. ., 4th Volunteer Battalion. Ayton, C. R (Qrmr.)</Text>
+      <Text>.J. C. (Capt) ... .. ibid. ., 4th Volunteer Battalion. Ayton, C. R (Qrmr.)</Text>
       <PageNumber>471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1084,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, Lieut. &amp;. dE. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Text>&amp;. dE. (seconded)</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lafore</Key>
-      <Text>,.G. A. (Adj.)</Text>
+      <Text>.G. A. (Adj.)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>

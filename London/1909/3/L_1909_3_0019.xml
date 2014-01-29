@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche-Kelly</Key>
-      <Text>,,J. (2nd Lieut.)</Text>
+      <Text>,J. (2nd Lieut.)</Text>
       <PageNumber>5385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brenan</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. (Capt.)</Text>
+      <Title>Gr. (Capt.)</Title>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,14 +490,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, Capt.' and Hon. Maj. W. D. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>' and Hon. Maj. W. D. (resigned)</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Streatfeild</Key>
-      <Text>, IT S. (Hon. Lieut.-Col.)</Text>
+      <Text>IT S. (Hon. Lieut.-Col.)</Text>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonsall</Key>
-      <Text>,T. V. (2nd Lieut.)</Text>
+      <Text>T. V. (2nd Lieut.)</Text>
       <PageNumber>5385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunton</Key>
-      <Text>, Capt..N: W. M. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>.N: W. M. (resigned)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleave</Key>
-      <Text>,.Lieut. A. (resigned)</Text>
+      <Text>.Lieut. A. (resigned)</Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,9 +1072,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Title>Lieut.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. P T. (resigned)</Text>
+      <Title>Lieut. Gr.</Title>
+      <Forenames>P</Forenames>
+      <Text>T. (resigned)</Text>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Giauusk</Key>
-      <Text>, Lieut.-Col. Lord (resigned)</Text>
+      <Title>Lieut.-Col. Lord (resigned)</Title>
       <PageNumber>6877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1369,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jupp</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. W, A. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>, A. (resigned)</Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>

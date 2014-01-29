@@ -550,7 +550,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +576,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>3131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +585,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +683,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>3926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +716,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +813,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fife</Key>
-      <Text>, Capt. R, DA. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, DA. (seconded)</Text>
       <PageNumber>1766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +911,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1887,7 +1889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>, Duke of, Hon. Col</Text>
+      <Title>Duke</Title>
+      <Text>of, Hon. Col</Text>
       <PageNumber>313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1943,7 +1946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosmead</Key>
-      <Text>, Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>

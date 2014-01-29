@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strikland</Key>
-      <Text>, G-. E. (Capt.) .. ..</Text>
+      <Text>G-. E. (Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +138,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +197,7 @@
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>ROYAL ENGINEERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>lst Aberdeenshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -372,7 +373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>, dpt. W. (resigned)</Text>
+      <Text>dpt. W. (resigned)</Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Text>, 2nd Lieut. )). E. (resigned) .. .. .. ..</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>)). E. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,9 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddell</Key>
-      <Title>2nd Lieut.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (resigned)</Text>
+      <Title>2nd Lieut. Gr. (resigned)</Title>
       <PageNumber>2417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,14 +563,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnup</Key>
-      <Text>.E. C. (Lieut.)</Text>
+      <Text>E. C. (Lieut.)</Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>,. J. W. (2nd Lieut.)</Text>
+      <Text>. J. W. (2nd Lieut.)</Text>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +614,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Gapt.) ..</Text>
+      <Title>(temporary Gapt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +637,7 @@
       <PageNumber>3306</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>SUBMARINE MINERS (VOLUNTEERS)</SubCategoryTitle>
+  <SubCategoryTitle>(VOLUNTEERS)</SubCategoryTitle>
   <SubSectionTitle>Mersey Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -775,7 +776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gort</Key>
-      <Text>, Viscount (Lieut.)</Text>
+      <Title>Viscount (Lieut.)</Title>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>, Lieut. Viscount (seconded)</Text>
+      <Title>Lieut. Viscount (seconded)</Title>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1017,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, Capt. and Hon. Maj. (resigned)</Text>
+      <Title>Capt. and Hon. Maj. (resigned)</Title>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

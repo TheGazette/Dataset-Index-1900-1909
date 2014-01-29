@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, G-.W</Text>
+      <Text>G-.W</Text>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +90,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drcwitt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windham</Key>
-      <Text>, Capt. C</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>,. D. T. &amp;</Text>
+      <Text>. D. T. &amp;</Text>
       <PageNumber>7185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>,C H. N. .. ..'</Text>
+      <Forenames>C</Forenames>
+      <Text>H. N. .. ..'</Text>
       <PageNumber>7185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,8 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMahon</Key>
-      <Forenames>Gr</Forenames>
-      <Text>. B</Text>
+      <Title>Gr.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>,-H.</Text>
+      <Text>-H.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>,-J ' '</Text>
+      <Text>-J ' '</Text>
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgetts</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,11 +1218,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Weeks</Key>
-      <Text>,. W. S. -</Text>
+      <Text>. W. S. -</Text>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Chaplains</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rorison</Key>
+      <Title>Rev.</Title>
+      <Forenames>H. G. G</Forenames>
+      <PageNumber>6518</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Chaplain and Naval Instructor</SubSectionTitle>
   <SubSubSectionTitle>Retired List.</SubSubSectionTitle>
   <ItemGroup>

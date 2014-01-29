@@ -12,14 +12,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>, Lord (Adj!)</Text>
+      <Title>Lord (Adj!)</Title>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ponsonhy</Key>
-      <Text>, Hon. CM. B. (2ndLieut.)</Text>
+      <Title>Hon.</Title>
+      <Text>CM. B. (2ndLieut.)</Text>
       <PageNumber>1131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>, R, F. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, F. (2nd Lieut.)</Text>
       <PageNumber>468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,14 +362,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Earl of (resigned)</Text>
+      <Title>Lieut. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Portarlington</Key>
-      <Text>, Earl of (2nd Lieut.) .. '</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.) .. '</Text>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +400,7 @@
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>(IMPERIAL YEOMANRY IN SOUTH AFRICA</SubCategoryTitle>
+  <SubCategoryTitle>IMPERIAL YEOMANRY IN SOUTH AFRICA</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
@@ -617,7 +621,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,14 +723,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunny</Key>
-      <Text>, Lieut..B. H. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>.B. H. (resigned)</Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>, Lieut. (C. S. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>(C. S. (resigned)</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,8 +813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clay</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. F. S. (resigned and Hon. Vet.-Lieut.)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. F. S. (resigned and Hon. Vet.-Lieut.)</Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,9 +992,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. R. A. (resijmed and Temporary Vet.Lieut,)</Text>
+      <Title>Temporary Vet.</Title>
+      <Text>-Lieut. R. A. (resijmed and Temporary Vet.Lieut,)</Text>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzmauriee</Key>
-      <Text>, Temporary Lieut.-Col. (resigned)</Text>
+      <Title>Temporary Lieut.-Col. (resigned)</Title>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,14 +1287,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
-      <Text>, .Lieut. J. R. C. (resigned) ,</Text>
+      <Text>.Lieut. J. R. C. (resigned) ,</Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henman</Key>
-      <Text>, Lieut. II. J. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>II. J. (resigned and Hon. Lieut.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1358,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>

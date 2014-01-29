@@ -208,7 +208,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ussher</Key>
-      <Text>B (Adj.)</Text>
+      <Forenames>B</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quin</Key>
-      <Text>R: T. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>: T. (2nd Lieut.)</Text>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +798,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>2nd Lieut. R, T. B. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, T. B. (resigned)</Text>
       <PageNumber>4306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1057,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

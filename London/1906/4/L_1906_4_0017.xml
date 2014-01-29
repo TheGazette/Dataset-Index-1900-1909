@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardee</Key>
-      <Text>Lord (Maj.)</Text>
+      <Title>Lord (Maj.)</Title>
       <PageNumber>7369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plevdell-Bouverie</Key>
-      <Text>Lieut.-Col. and Brevet Col. G. (half-pay)</Text>
+      <Text>. Lieut.-Col. and Brevet Col. G. (half-pay)</Text>
       <PageNumber>7369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guernsey</Key>
-      <Text>Lieut. Lord (resigned)</Text>
+      <Title>Lieut. Lord (resigned)</Title>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,8 +474,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sui-g</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Col. J. A. (resigned) ..</Text>
+      <Title>Sui-g.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Col. J. A. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +615,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosney</Key>
-      <Text>H J. (2nd Lieut.) .. ..</Text>
+      <Forenames>H</Forenames>
+      <Text>J. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +945,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Text>Duke of (Hon. Col.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>7819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,8 +1129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut.-Col. and Hon. Surg.-Uol. A. (super.)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut.-Col. and Hon. Surg.-Uol. A. (super.)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>

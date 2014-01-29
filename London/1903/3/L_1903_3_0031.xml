@@ -300,7 +300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>GifEord</Key>
-      <Text>Earl of (2nd Lieut.)</Text>
+      <Title>Earl</Title>
+      <Text>of (2nd Lieut.)</Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolverton</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>Lieut.-Col. (resigned)</Text>
+      <Title>Lieut.-Col. (resigned)</Title>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,8 +725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. E. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. E. (resigned)</Text>
       <PageNumber>4526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,9 +909,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Elder</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. G. T. D. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. G. T. D. (resigned)</Text>
       <PageNumber>5420</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hancock</Key>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. G. (resigned) .. .. ;</Text>
+      <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

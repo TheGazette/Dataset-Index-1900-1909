@@ -125,9 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Title>temporary</Title>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. A. C. (leaves Imperial Yeomanry)</Text>
+      <Title>temporary Vet.</Title>
+      <Text>-Lieut. A. C. (leaves Imperial Yeomanry)</Text>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +170,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +239,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(2nd Lieut.)</Text>
+      <Title>(2nd Lieut.)</Title>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +280,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary 2nd Lieut.)</Text>
+      <Title>(temporary 2nd Lieut.)</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, Field-Marshal the Right Hon. Earl, Commander-in-Chief</Text>
+      <Title>Field-Marshal the Right Hon. Earl, Commander-in-Chief .</Title>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Streatfeild</Key>
-      <Text>, Maj. H</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>2293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawnay</Key>
-      <Text>, Lieut. Hon..H. .. ..</Text>
+      <Title>Lieut. Hon.</Title>
+      <Text>.H. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +647,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(antedated)</Text>
+      <Title>(antedated)</Title>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +763,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chermside</Key>
-      <Text>, Maj.-Gen. SirH. C, resumes appointment of Maj.-Gen. on the Staff to command the Troops in the Curragh District</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>SirH. C, resumes appointment of Maj.-Gen. on the Staff to command the Troops in the Curragh District</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erroll</Key>
-      <Text>, Col., Earl of, temporary Assist. Adj.-Gen</Text>
+      <Title>Col., Earl</Title>
+      <Text>of, temporary Assist. Adj.-Gen</Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fincastle</Key>
-      <Text>, Capt. Viscount, Aide-de-Camp to Maj.-Gen. Sir H. C. Chermside</Text>
+      <Title>Capt. Viscount</Title>
+      <Text>, Aide-de-Camp to Maj.-Gen. Sir H. C. Chermside</Text>
       <PageNumber>397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,9 +1084,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Assist.</Title>
-      <Forenames>Adj</Forenames>
-      <Text>.-Gen</Text>
+      <Title>Assist. Adj.</Title>
+      <Text>-Gen</Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,15 +1188,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter-Blair</Key>
-      <Text>, Maj. and Brev. Lieut.Col., Brig. Maj. for Eoyal Artillery</Text>
+      <Title>Maj. and Brev. Lieut.Col., Brig. Maj.</Title>
+      <Text>for Eoyal Artillery</Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyslop</Key>
-      <Forenames>Brev</Forenames>
-      <Text>.. Col. E. M., Col. on the Staff for Eoyal Engineers, and Col</Text>
+      <Title>Brev.</Title>
+      <Text>. Col. E. M., Col. on the Staff for Eoyal Engineers, and Col</Text>
       <PageNumber>1769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1215,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1249,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, Col. C, Assist. Adj.-Gen</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Assist. Adj.-Gen</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1296,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitchener</Key>
-      <Text>, Lieut.-Col. and Brev. Col. (local Maj.-Gen.) F. W., Maj.-Gen. on the Staff</Text>
+      <Title>Lieut.-Col. and Brev. Col. (local Maj.-Gen.)</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>, Maj.-Gen. on the Staff</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacCall</Key>
-      <Text>, Col. (temporary Brig.-Gen.) H. B., Deputy Adj.-Gen. in India</Text>
+      <Title>Col. (temporary Brig.-Gen.)</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>, Deputy Adj.-Gen. in India</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>

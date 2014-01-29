@@ -68,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyndbam</Key>
-      <Text>Lieut.-Col. and Brevet Col. G-. P. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Text>G-. P. (half-pay)</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,9 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eardley-Wilmot</Key>
-      <Title>Brevet</Title>
-      <Forenames>Col</Forenames>
-      <Text>.jA. (halfpay)</Text>
+      <Title>Brevet Col.</Title>
+      <Text>jA. (halfpay)</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>Qrmr. and Hon Maj. J. (reDobbs, G. E. B. (Lieut.)</Text>
+      <Title>Qrmr.</Title>
+      <Text>and Hon Maj. J. (reDobbs, G. E. B. (Lieut.)</Text>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>

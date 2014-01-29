@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallett</Key>
-      <Text>,;P. (Hon. Lieut</Text>
+      <Text>;P. (Hon. Lieut</Text>
       <PageNumber>239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Firdell</Key>
-      <Text>, Capt. II. A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>II. A. (resigned)</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,14 +232,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>, 2ridLieut, G. (seconded)</Text>
+      <Text>2ridLieut, G. (seconded)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McClaverty</Key>
-      <Text>, 2nd Lieut.' R. J. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>' R. J. (seconded)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dibb</Key>
-      <Text>,' Lieut. A. L. (resigned)</Text>
+      <Text>' Lieut. A. L. (resigned)</Text>
       <PageNumber>1134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MokerNorrie</Key>
-      <Text>, Capt. and Hon..Maj. G. E. (resigned) OSS Ross, Lieut! W. A. (seconded) ..</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>.Maj. G. E. (resigned) OSS Ross, Lieut! W. A. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddell</Key>
-      <Text>, Lieut.-Col. and Hon.. Col. T. R. (resigned) .. .. ..</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>. Col. T. R. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,8 +530,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. T. G. (resigned) .. .. .. ..</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. G. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +633,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Text>, Lieut. J, O. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J</Forenames>
+      <Text>, O. (antedated)</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidder</Key>
-      <Text>, H; F: (Capt.)'</Text>
+      <Forenames>H</Forenames>
+      <Text>; F: (Capt.)'</Text>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Papillon</Key>
-      <Text>,-P. R. (Hon) Maj.) ,. ..</Text>
+      <Text>-P. R. (Hon) Maj.) ,. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Helme</Key>
-      <Text>,R. M. (Maj.)</Text>
+      <Text>R. M. (Maj.)</Text>
       <PageNumber>471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of (Hon; Col.) ..-</Text>
+      <Title>Duke</Title>
+      <Text>of (Hon; Col.) ..-</Text>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulkeley</Key>
-      <Text>, fiev. A. R. L. N. (2nd Lieut.) .. .. .. ..</Text>
+      <Text>fiev. A. R. L. N. (2nd Lieut.) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,8 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>IColquhoun</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. M. B. (resigned) .. .. -.. .-</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. M. B. (resigned) .. .. -.. .-</Text>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,14 +1041,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscomhej</Key>
-      <Text>.Capt. F. W. (resigned) -0 422 . O'Neill,-Lieut. H. R. (resigned) ... .</Text>
+      <Text>.Capt. F. W. (resigned) -0</Text>
+      <PageNumber>422</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Neill,-Lieut. H. R. (resigned) ... .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ticehurst</Key>
-      <Text>,.'Surg.-Capt. C: S. (resigned and Hon. Surg.-Maj.)</Text>
+      <Text>.'Surg.-Capt. C: S. (resigned and Hon. Surg.-Maj.)</Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>, Maj: F. W. (resigned)</Text>
+      <Title>Maj</Title>
+      <Text>: F. W. (resigned)</Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -127,7 +127,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Hon. R. T. (2nd Lieut.)</Text>
+      <Text>John, Hon. R. T. (2nd Lieut.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bratton</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Lieut. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. W. (resigned)</Text>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albany</Key>
-      <Text>, H.R.H. Duke of (Reigning Duke of Saxe-Coburg and Gotha) (Colonel-in-Chief)</Text>
+      <Title>H.R.H. Duke</Title>
+      <Text>of (Reigning Duke of Saxe-Coburg and Gotha) (Colonel-in-Chief)</Text>
       <PageNumber>5061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,8 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmond</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. G. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. G. M. (resigned)</Text>
       <PageNumber>5379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +781,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, Capt. and. Hon. Maj. J. N. (retired)</Text>
+      <Title>Capt.</Title>
+      <Text>and. Hon. Maj. J. N. (retired)</Text>
       <PageNumber>6199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +915,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>

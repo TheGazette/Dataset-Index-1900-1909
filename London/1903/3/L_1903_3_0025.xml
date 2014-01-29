@@ -55,7 +55,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>2nd Lieut.' W. A. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>' W. A. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Going</Key>
-      <Text>Capt. and Brev.-Maj G. N. (seconded)</Text>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Maj G. N. (seconded)</Text>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +345,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,8 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt-Barlow</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. B. F. P. (retired)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. B. F. P. (retired)</Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,8 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. W. G. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. G. (resigned)</Text>
       <PageNumber>5077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,14 +782,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Atholl</Key>
-      <Text>Duke.of (Hon. Col.) . ,</Text>
+      <Title>Duke.</Title>
+      <Text>of (Hon. Col.) . ,</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>Maj. and Hon. Lieut.-CoL J. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.</Title>
+      <Text>-CoL J. (resigned)</Text>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Field-Marshal Earl (Hon. Col.)</Text>
+      <Title>Field-Marshal Earl (Hon. Col.)</Title>
       <PageNumber>5791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,9 +997,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Title>Qrmr. and Hon. Maj.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Qrmr. and Hon. Maj. Gr. (retired)</Title>
       <PageNumber>5599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,8 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Capt. and. Hon. Maj. C. S. (resigned)</Text>
+      <Title>Super. Capt.</Title>
+      <Text>and. Hon. Maj. C. S. (resigned)</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,7 +1072,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lieut.-Super. H. C. (antedated</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>-Super. H. C. (antedated</Text>
       <PageNumber>4907</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -530,7 +530,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .. ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Brev. Maj.) (antedated)</Text>
+      <Title>(Brev. Maj.) (antedated)</Title>
       <PageNumber>6314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,14 +984,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Steward</Key>
-      <Text>, II. W. (Brov. Lieut.-Col.)</Text>
+      <Text>II. W. (Brov. Lieut.-Col.)</Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, 1). S. (Brev. Lieut.-Col.)</Text>
+      <Text>1). S. (Brev. Lieut.-Col.)</Text>
       <PageNumber>0311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1062,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudley</Key>
-      <Text>, Viscount (Brev. Maj.) ..</Text>
+      <Title>Viscount (Brev. Maj.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teck</Key>
-      <Text>, Duke of (Brev. Maj.)</Text>
+      <Title>Duke</Title>
+      <Text>of (Brev. Maj.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullibardine</Key>
-      <Text>, Marquis of (Brev. Maj.)</Text>
+      <Title>Marquis</Title>
+      <Text>of (Brev. Maj.)</Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,7 +1932,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,7 +1984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kesteven</Key>
-      <Text>, Temporary Lieut. Lord (resigned)</Text>
+      <Title>Temporary Lieut. Lord (resigned)</Title>
       <PageNumber>4472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,7 +2017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langston</Key>
-      <Text>, 2nd Lieut, N. C. B. (resigned)</Text>
+      <Text>2nd Lieut, N. C. B. (resigned)</Text>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2106,7 +2109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>, Capt. Viscount (resigned)</Text>
+      <Title>Capt. Viscount (resigned)</Title>
       <PageNumber>6127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2115,7 +2118,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ — ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>(correction)</Text>
+      <Title>(correction)</Title>
       <PageNumber>5669</PageNumber>
     </MainItem>
   </ItemGroup>

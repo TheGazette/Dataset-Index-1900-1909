@@ -151,14 +151,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Chippendall</Key>
-      <Text>Lieut.-Col. and Brev. . Col. Gr. H. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brev.</Title>
+      <Text>. Col. Gr. H. (half-pay)</Text>
       <PageNumber>110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clements</Key>
-      <Text>Col. (local Maj.-Gen. R. A. P. (half-pay)</Text>
+      <Title>Col.</Title>
+      <Text>(local Maj.-Gen. R. A. P. (half-pay)</Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanbury-Williams</Key>
-      <Text>Lieut.-Col. &lt;T. (half-jay) . '.. ., '</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>&lt;T. (half-jay) . '.. ., '</Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilliard</Key>
-      <Text>Col.' W. E. (retired)</Text>
+      <Title>Col.</Title>
+      <Text>' W. E. (retired)</Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +405,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jocelyn</Key>
-      <Text>Col..j. R. G. (half-pay)</Text>
+      <Title>Col.</Title>
+      <Text>.j. R. G. (half-pay)</Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leverson</Key>
-      <Text>Lieut.-Col. and Brev. Col. : J. J. (retired)'</Text>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Text>: J. J. (retired)'</Text>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawson</Key>
-      <Text>Col.-G. C. (retired)</Text>
+      <Title>Col.</Title>
+      <Text>-G. C. (retired)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +895,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotter</Key>
-      <Text>Maj.-Gen.' Sir H. (retired pay) .. .. :</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>' Sir H. (retired pay) .. .. :</Text>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +937,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1096,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roxburghe</Key>
-      <Text>Lieut. Duke of (resigned)'</Text>
+      <Title>Lieut. Duke</Title>
+      <Text>of (resigned)'</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockburn</Key>
-      <Text>Capt. and -Brev. Maj. W. A. C-(retired)</Text>
+      <Title>Capt.</Title>
+      <Text>and -Brev. Maj. W. A. C-(retired)</Text>
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
