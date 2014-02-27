@@ -664,7 +664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underbill</Key>
-      <Forenames>C</Forenames>
+      <Text>C</Text>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Forenames>D</Forenames>
+      <Text>D</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylcs</Key>
-      <Forenames>E</Forenames>
+      <Text>E</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daltou</Key>
-      <Forenames>W</Forenames>
+      <Text>W</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Forenames>F</Forenames>
+      <Text>F</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Killick</Key>
-      <Forenames>T</Forenames>
+      <Text>T</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rider</Key>
-      <Forenames>R</Forenames>
-      <Text>, T</Text>
+      <Text>R, T</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>T</Forenames>
+      <Text>T</Text>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1078,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbottom</Key>
-      <Forenames>T</Forenames>
+      <Text>T</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleveland</Key>
-      <Forenames>H</Forenames>
+      <Text>H</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

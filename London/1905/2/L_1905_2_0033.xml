@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Solfleet</Key>
-      <Forenames>G</Forenames>
+      <Text>G</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Forenames>B</Forenames>
+      <Text>B</Text>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdey</Key>
-      <Forenames>R</Forenames>
+      <Text>R</Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Title>Bev.</Title>
-      <Forenames>H</Forenames>
+      <Forenames>Bev</Forenames>
+      <Text>. H</Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Title>Col.</Title>
-      <Text>-Comdt. A. E. (retired list and Hon. Maj.-Gen.)</Text>
+      <Text>Col.-Comdt. A. E. (retired list and Hon. Maj.-Gen.)</Text>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hult</Key>
-      <Text>.m, M. L. .(Comdr.-Instr.)</Text>
+      <Text>m, M. L. .(Comdr.-Instr.)</Text>
       <PageNumber>2719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +967,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Comdr.</Title>
-      <Text>-Instr. M. L. (cancellation)</Text>
+      <Forenames>Comdr</Forenames>
+      <Text>.-Instr. M. L. (cancellation)</Text>
       <PageNumber>2889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,6 +1105,7 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aberystwith</Key>
@@ -1239,18 +1239,12 @@
       <PageNumber>3468</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>* Longton, freehold premises (Millington v. Walters)</Text>
-      <PageNumber>4285</PageNumber>
+      <Text>Ludgershall, Tetchwick, freehold estate (Bonghton v. Koads)</Text>
+      <PageNumber>4584</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Pembury; Lower Green, freehold property and cottages (Hatch v. Ashby)</Text>
-      <PageNumber>3814</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>
-        <PageNumber>3468</PageNumber>
-      </Text>
-      <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
+      <Text>Bayleigh, High-street, freehold premises (Swain v. Swain)</Text>
+      <PageNumber>2670</PageNumber>
     </SubItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
