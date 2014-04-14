@@ -290,8 +290,8 @@
     <MainItem>
       <Key>Weldon</Key>
       <Title>Capt.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de W. (retired)</Text>
+      <Forenames>B. de W</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,8 +325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W. (Capt.) ..</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklyn</Key>
-      <Text>H. E. (2nd Lieut.)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>G. A. (Capt.)</Text>
+      <Forenames>G. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1063,9 @@
       <Key>McMahon</Key>
       <Title>Sir</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: F. C. T. (resigned)</Text>
       <PageNumber>6198</PageNumber>
     </MainItem>

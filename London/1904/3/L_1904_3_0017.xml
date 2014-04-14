@@ -291,8 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>H. De B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>H. De B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,8 +440,8 @@
     <MainItem>
       <Key>Matthews</Key>
       <Title>Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C. (correction)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +544,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, G. J. t\ (2nd Lieut.) ..</Text>
+      <Key>St. Clair</Key>
+      <Forenames>G. J.</Forenames>
+      <Text>t\ (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Medill</Key>
-      <Text>P. M. (Lieut.)</Text>
+      <Forenames>P. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1253,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>F. C. (Capt.)</Text>
+      <Forenames>F. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,8 +1364,8 @@
     <MainItem>
       <Key>Smith</Key>
       <Title>Capt.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de H. (seconded)</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4450</PageNumber>
     </MainItem>
   </ItemGroup>

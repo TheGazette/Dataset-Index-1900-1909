@@ -310,8 +310,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loary, J. M. (Capt.)</Text>
+      <Key>O'Loary</Key>
+      <Forenames>J. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,8 +327,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretton</Key>
-      <Forenames>A. L.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>A. L. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,8 +807,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>G. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4281</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -114,8 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>A. V. St</Forenames>
-      <Text>. J. (Hon. Lieut.Col.) .. G</Text>
+      <Forenames>A. V. St. J</Forenames>
+      <Text>. (Hon. Lieut.Col.) .. G</Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodridge</Key>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Hon. Col. T. (resigned)</Text>
       <PageNumber>8540</PageNumber>
     </MainItem>

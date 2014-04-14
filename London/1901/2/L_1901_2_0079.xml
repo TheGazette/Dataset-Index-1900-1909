@@ -38,7 +38,9 @@
       <Key>Lyell</Key>
       <Title>Sir</Title>
       <Forenames>L. Munro</Forenames>
-      <Text>, Sir 0., Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>.Preke, Hon. P. C</Text>
+      <Forenames>Preke</Forenames>
+      <Text>, Hon. P. C</Text>
       <PageNumber>7400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,8 +322,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, H. C</Text>
+      <Key>St. John</Key>
+      <Forenames>H. C</Forenames>
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,16 +352,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, W. H. C</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. H. C .</Forenames>
       <PageNumber>5258</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, W. H. C</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. H. C.</Forenames>
       <PageNumber>6292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +452,9 @@
       <Key>Poore</Key>
       <Title>Capt. Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bart. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,6 +474,14 @@
       <Forenames>B.</Forenames>
       <Text>'</Text>
       <PageNumber>4780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>W.</Forenames>
+      <Text>..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -627,7 +640,9 @@
       <Key>Wrey</Key>
       <Title>Sir</Title>
       <Forenames>B. R. S.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,8 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowper</Key>
-      <Forenames>C. V.</Forenames>
-      <Text>de M</Text>
+      <Forenames>C. V. de M</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,8 +806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Satow</Key>
-      <Forenames>L.</Forenames>
-      <Text>de W</Text>
+      <Forenames>L. de W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,6 +975,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>H. H</Forenames>
+      <PageNumber>4780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fairbairn</Key>
       <Forenames>B. W. M</Forenames>
       <PageNumber>7146</PageNumber>
@@ -1007,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halahan</Key>
-      <Text>.F. C</Text>
+      <Forenames>F. C</Forenames>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,8 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>8560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,8 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>R. St. P</Forenames>
       <PageNumber>4780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,8 +1247,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, F. C. G</Text>
+      <Key>St. Clair</Key>
+      <Forenames>F. C. G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

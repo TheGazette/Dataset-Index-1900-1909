@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thacker</Key>
-      <Text>. T. V.T. (Adj.)</Text>
+      <Forenames>T. V.T.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +88,9 @@
       <Key>Wills</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>G. A. H.</Forenames>
-      <Text>, Bart. (correction)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,8 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eraser</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>5470</PageNumber>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -404,7 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCleverty</Key>
-      <Text>.P. H</Text>
+      <Forenames>P. H .</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,8 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>R.</Forenames>
-      <Text>de W.</Text>
+      <Forenames>R. de W</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,8 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Forenames>I. L. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>I. L. O'H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandilands</Key>
-      <Text>. P. I. R</Text>
+      <Forenames>P. I. R</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,8 +872,7 @@
     <MainItem>
       <Key>Skinner</Key>
       <Title>Col.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>F. St. D</Forenames>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,6 +995,15 @@
       <Title>Maj.</Title>
       <Forenames>E</Forenames>
       <PageNumber>6453</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Title>Brevet Maj.</Title>
+      <Forenames>C.</Forenames>
+      <Text>..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1158,8 +1167,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. R... ;. .. ..</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>.. ;. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,7 +1208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>.G.</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toomey</Key>
-      <Text>. P. ,.,</Text>
+      <Forenames>P.</Forenames>
+      <Text>,.,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -82,7 +82,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grotrain</Key>
-      <Text>Lieut. H. H. (resigned) ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,8 +126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouillot</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T. (Lieut.)</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,8 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,9 +280,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautoy</Forenames>
-      <Text>, F. P. (Maj.)</Text>
+      <Key>Du Sautoy</Key>
+      <Forenames>F. P.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +344,9 @@
       <Key>Hartwell</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>B. C. D. A.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Galwey</Key>
-      <Text>Capt. C. E. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,8 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haro</Key>
-      <Forenames>I. L. O</Forenames>
-      <Text>'H. (2nd Lieut.)</Text>
+      <Forenames>I. L. O'H</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,8 +1016,8 @@
     <MainItem>
       <Key>Fetherstonliaugh</Key>
       <Title>Capt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (seconded)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,8 +1103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Adj.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,8 +1204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartford</Key>
-      <Forenames>H. I. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>H. I. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>

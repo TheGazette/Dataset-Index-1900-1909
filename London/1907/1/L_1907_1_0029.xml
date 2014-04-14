@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeke</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H</Forenames>
       <PageNumber>1926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,16 +82,16 @@
     <MainItem>
       <Key>Moore</Key>
       <Title>Lieut.</Title>
-      <Forenames>S. St</Forenames>
-      <Text>. L. (cancellation)</Text>
+      <Forenames>S. St. L</Forenames>
+      <Text>. (cancellation)</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicholt-Carne</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J. S</Text>
+      <Forenames>N. St. J</Forenames>
+      <Text>. S</Text>
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>. E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,9 @@
       <Key>Chichester</Key>
       <Title>Sir</Title>
       <Forenames>E. Or</Forenames>
-      <Text>., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,6 +360,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Merindol</Key>
+      <Forenames>C. C</Forenames>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Graham</Key>
       <Title>Lord</Title>
       <Forenames>A. M.</Forenames>
@@ -381,8 +390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>S. St. L</Forenames>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H</Forenames>
       <PageNumber>256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>. M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G.</Forenames>
       <PageNumber>326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendle</Key>
-      <Text>. G. J. J</Text>
+      <Forenames>G. J. J</Forenames>
       <PageNumber>1391</PageNumber>
     </MainItem>
   </ItemGroup>

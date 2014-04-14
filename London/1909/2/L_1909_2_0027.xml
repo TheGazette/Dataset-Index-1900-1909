@@ -50,8 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Lieut. L. (resigned)</Text>
+      <Key>O'Shea</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +216,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turned</Key>
-      <Text>Lieut. A. E. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +668,8 @@
     <MainItem>
       <Key>Smart</Key>
       <Title>Maj.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de S. (resigned) '</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. (resigned) '</Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,9 +1360,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, N. A. R. (2nd Lieut.)..</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>N. A. R.</Forenames>
+      <Text>(2nd Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

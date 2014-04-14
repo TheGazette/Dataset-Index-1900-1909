@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Y</Key>
-      <Text>. Yeddon Bail way Spike Syndicate, notice of winding up</Text>
+      <Forenames>Yeddon Bail</Forenames>
+      <Text>way Spike Syndicate, notice of winding up</Text>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>8870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +443,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Southall)</Text>
+      <Title>(Southall)</Title>
       <PageNumber>7424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +820,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bewick</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. ... Brown, J., and Son</Text>
+      <Title>Brothers .</Title>
+      <Text>. ... Brown, J., and Son</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,8 +1404,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buicchi</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.,</Text>
+      <Title>Brothers .</Title>
+      <Text>,</Text>
       <PageNumber>6507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burgess</Key>
-      <Text>C, and Sons</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Sons</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bussell</Key>
-      <Forenames>Gardner</Forenames>
+      <Title>Gardner .</Title>
       <PageNumber>9154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>6664</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -1714,7 +1716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chater</Key>
-      <Text>O, and Co</Text>
+      <Forenames>O</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>

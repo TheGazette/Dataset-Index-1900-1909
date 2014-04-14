@@ -311,7 +311,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwood</Key>
-      <Text>Capt. W. J. P. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. J. P.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>7929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +604,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacFwen</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>C. M. G.</Forenames>
+      <Title>Capt. St. C.</Title>
+      <Forenames>M. G.</Forenames>
       <Text>(halfpay list)</Text>
       <PageNumber>9560</PageNumber>
     </MainItem>
@@ -639,8 +641,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, W. E. (Lieut.)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>W. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,8 +722,8 @@
     <MainItem>
       <Key>Wickham</Key>
       <Title>Lieut.</Title>
-      <Forenames>M. H. C. De C. De B.</Forenames>
-      <Text>(seconded)</Text>
+      <Forenames>M. H. C. De C</Forenames>
+      <Text>. De B. (seconded)</Text>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +765,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>9945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +911,9 @@
       <Key>Weldon</Key>
       <Title>Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1088,9 @@
       <Key>Grogan</Key>
       <Title>Sir</Title>
       <Forenames>E. I. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,8 +1168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (Lieut.) .. ..</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

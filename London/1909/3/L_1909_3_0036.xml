@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Stokes, R., and Co</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Stokes, R., and Co</Text>
       <PageNumber>5942</PageNumber>
       <PageNumber>6354</PageNumber>
       <PageNumber>7261</PageNumber>
@@ -145,11 +147,18 @@
       <PageNumber>5166</PageNumber>
       <PageNumber>5532</PageNumber>
     </SubItem>
+    <SubItem>
+      <Text>Venezuelan Finance Syndicate</Text>
+      <PageNumber>5223</PageNumber>
+      <PageNumber>5225</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Venning, Williams and Douglas</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Venning, Williams and Douglas</Text>
       <PageNumber>5931</PageNumber>
       <PageNumber>6953</PageNumber>
     </MainItem>
@@ -203,6 +212,7 @@
       <Text>Welsbach Light Company of Australasia</Text>
       <PageNumber>5408</PageNumber>
     </SubItem>
+    <CategoryTitle>___ ___ ___ Northern Counties Bill-</CategoryTitle>
     <SubItem>
       <Text>___ ___ ___ Northern Counties Billposting and Advertising Company</Text>
       <PageNumber>5378</PageNumber>
@@ -346,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending : 3rd July, 1909</Text>
+      <Text>average price for the week ending : 3rd July, 1909</Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
     <SubItem>
@@ -453,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>County</Key>
-      <Text>, of Durham Electric. Power Supply Co., statements of capital, I &amp;c</Text>
+      <Text>of Durham Electric. Power Supply Co., statements of capital, I &amp;c</Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>

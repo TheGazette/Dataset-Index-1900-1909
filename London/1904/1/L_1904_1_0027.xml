@@ -35,7 +35,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blore</Key>
-      <Text>Capt. and Brev. Maj. H. R. (seconded)</Text>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +171,9 @@
     <MainItem>
       <Key>Milborne-Swinnerton-</Key>
       <Forenames>Pilkington</Forenames>
-      <Text>, Sir T. E., Bart. (Hon. Col.) .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>T. Gr. P. (2nd Lieut.)</Text>
+      <Forenames>T. Gr</Forenames>
+      <Text>. P. (2nd Lieut.)</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +603,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
-      <Text>Capt. W. (resigned and Hon. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned and Hon. Maj.)</Text>
       <PageNumber>1096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +905,8 @@
     <MainItem>
       <Key>Murray</Key>
       <Title>Lieut.</Title>
-      <Forenames>C. De G.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>C. De G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>

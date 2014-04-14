@@ -313,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petch</Key>
-      <Text>C. H. L.</Text>
+      <Forenames>C. H. L.</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,6 +337,13 @@
       <Forenames>J. H.</Forenames>
       <Text>.. Retired List. Boucher, C. J</Text>
       <PageNumber>8189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Blaquiere</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>6577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -512,8 +519,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, W. F. E</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>W. F. E</Forenames>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Squire</Key>
-      <Text>A. V</Text>
+      <Forenames>A. V</Forenames>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garwood</Key>
-      <Text>Sub.-Lieut. A. B. (retired list)</Text>
+      <Title>Sub.</Title>
+      <Text>-Lieut. A. B. (retired list)</Text>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>

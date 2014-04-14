@@ -22,7 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>. K. M. (Maj.) .. ..</Text>
+      <Forenames>K. M.</Forenames>
+      <Text>(Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,8 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Forenames>S. F. St</Forenames>
-      <Text>. D. (Maj.) .. ..</Text>
+      <Forenames>S. F. St. D</Forenames>
+      <Text>. (Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,9 +728,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, H. J. (Col.)</Text>
+      <Key>Du Cane</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>6933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1047,9 @@
       <Key>Barlow</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>H. W. W.</Forenames>
-      <Text>, Bart. (aupt., Royal Laboratory)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerrich</Key>
-      <Text>. W. E. (Lieut.-Col.)</Text>
+      <Forenames>W. E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,8 +1508,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A. M. (local rank of Lieut. in West Africa)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>(local rank of Lieut. in West Africa)</Text>
       <PageNumber>9088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,8 +1550,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Phtllpotts</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. A. H. C. (retired)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>A. H. C.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>9088</PageNumber>
     </MainItem>
   </ItemGroup>

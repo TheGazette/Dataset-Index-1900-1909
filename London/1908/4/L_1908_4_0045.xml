@@ -13,7 +13,9 @@
       <Key>Eden</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. (resigned)</Text>
       <PageNumber>7650</PageNumber>
     </MainItem>

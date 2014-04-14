@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp</Key>
-      <Text>W. T.</Text>
+      <Forenames>W. T.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogg</Key>
-      <Text>G.B</Text>
+      <Forenames>G.B .</Forenames>
       <PageNumber>6060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,8 +298,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loghlen, B. .. Ord, C. H. O'Reilly, T. S. L. Osborne, H. H. Page, L. S. E. .. Palmer, H. A. .. Parker, F. M. W. Parkin, T. Patterson, J. H. Perkins, B. Philp, C. J.C. .. Pickburn, W. H. Pooley, A. E.</Text>
+      <Key>O'Loghlen</Key>
+      <Forenames>B.</Forenames>
+      <Text>.. Ord, C. H. O'Reilly, T. S. L. Osborne, H. H. Page, L. S. E. .. Palmer, H. A. .. Parker, F. M. W. Parkin, T. Patterson, J. H. Perkins, B. Philp, C. J.C. .. Pickburn, W. H. Pooley, A. E.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,8 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,14 +924,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyke</Key>
-      <Text>Capt. and Hon..Maj. R. C</Text>
+      <Title>Capt. and Hon.</Title>
+      <Text>.Maj. R. C</Text>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>Capt. and Hon. Maj. W. P</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>W. P.</Forenames>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>Capt. and Hon. Maj. G. W</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>G. W.</Forenames>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,8 +1197,7 @@
     <MainItem>
       <Key>Marshall</Key>
       <Title>Maj.</Title>
-      <Forenames>J. J.</Forenames>
-      <Text>de Z</Text>
+      <Forenames>J. J. de Z</Forenames>
       <PageNumber>5296</PageNumber>
     </MainItem>
   </ItemGroup>

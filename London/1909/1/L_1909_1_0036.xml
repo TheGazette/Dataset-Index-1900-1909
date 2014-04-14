@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, . notices under : British Electric Equipment Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, . notices under : British Electric Equipment Company</Text>
       <PageNumber>222</PageNumber>
     </MainItem>
     <SubItem>
@@ -157,7 +159,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Central Mining and Investment Corporation</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Central Mining and Investment Corporation</Text>
       <PageNumber>250</PageNumber>
     </MainItem>
     <SubItem>
@@ -457,7 +461,9 @@
       <PageNumber>1894</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>E. O.M. Syndicate</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>768</PageNumber>
     </SubItem>
     <SubItem>

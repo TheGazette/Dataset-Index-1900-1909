@@ -296,8 +296,8 @@
     <MainItem>
       <Key>Saunderson</Key>
       <Title>Lieut.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de B., (resigned)</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>., (resigned)</Text>
       <PageNumber>474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan</Key>
-      <Text>R. H. (Lieut.)</Text>
+      <Forenames>R. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. D. (resigned)</Text>
       <PageNumber>183</PageNumber>
     </MainItem>
@@ -620,8 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Forenames>E. W. St</Forenames>
-      <Text>. V. (Surg.-Capt.) '</Text>
+      <Forenames>E. W. St. V</Forenames>
+      <Text>. (Surg.-Capt.) '</Text>
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +796,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Text>A. F. A. IT. (2nd Lieut.)</Text>
+      <Forenames>A. F. A.</Forenames>
+      <Text>IT. (2nd Lieut.)</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +823,9 @@
       <Key>Barttelot</Key>
       <Title>Sir</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Bart. (Lieut,)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +835,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut. Sir</Title>
-      <Text>AV. B., Bart. (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryce-Jones</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. M. (seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1048,7 +1054,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>A. (Capt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,6 +1065,14 @@
       <Forenames>A. B. E.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>261</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kierzkowski-Stewart</Key>
+      <Forenames>F. H.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1089,8 +1104,8 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Title>Lieut.-Col. and Brev. Col. Hon.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de C. (half-pay)</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -426,7 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>E.de B. (Adj.)</Text>
+      <Forenames>E.de B</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>6743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. H. (resigned)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
@@ -803,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Billiat</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry J. (resigned)</Text>
       <PageNumber>7242</PageNumber>
     </MainItem>

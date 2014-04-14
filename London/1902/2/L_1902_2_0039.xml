@@ -227,8 +227,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Lieut. L. T. (absorbed into Establishment)</Text>
+      <Key>O'Shea</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. T.</Forenames>
+      <Text>(absorbed into Establishment)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,8 +886,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, J. T. (Lieut.-Col.)</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>J. T.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,8 +1067,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Hon. T. W. (antedated)</Text>
+      <Title>Lieut, Hon.</Title>
+      <Forenames>T. W.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weyer, J. U. (2nd Lieut.)</Text>
+      <Forenames>de Weyer</Forenames>
+      <Text>, J. U. (2nd Lieut.)</Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>

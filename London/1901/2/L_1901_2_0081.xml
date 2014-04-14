@@ -93,7 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxland</Key>
-      <Text>Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>8716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,8 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Forenames>P. W.</Forenames>
-      <Text>von B. (Lieut.)</Text>
+      <Forenames>P. W. von B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +665,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. H. D. E. (seconded)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. D. E.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,8 +732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Maj.-Gen.) ..</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Maj.-Gen.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,8 +1111,8 @@
     <MainItem>
       <Key>Lockyer</Key>
       <Title>Lieut.</Title>
-      <Forenames>S.</Forenames>
-      <Text>de B. (Retired List andComdr.)</Text>
+      <Forenames>S. de B</Forenames>
+      <Text>. (Retired List andComdr.)</Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,15 +1198,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4952</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. J. (Sub-Lieut.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. J.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. W. (Retired List)</Text>
       <PageNumber>5258</PageNumber>
     </MainItem>
@@ -1486,7 +1491,6 @@
       <PageNumber>6896</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>

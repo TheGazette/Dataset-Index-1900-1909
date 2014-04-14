@@ -213,8 +213,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon. R. T. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,6 +348,14 @@
       <Forenames>E.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>5909</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>H. G. N.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -855,8 +865,8 @@
     <MainItem>
       <Key>Barclay</Key>
       <Title>Lieut.</Title>
-      <Forenames>L. G.</Forenames>
-      <Text>de R. (resigned)</Text>
+      <Forenames>L. G. de R</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6056</PageNumber>
     </MainItem>
   </ItemGroup>

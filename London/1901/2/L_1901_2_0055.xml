@@ -436,7 +436,9 @@
       <Key>Mahon</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart. (Hon. Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,9 +672,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Macedo</Forenames>
-      <Text>, 2nd Lieut. J. A. A. (resigned)</Text>
+      <Key>De Macedo</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J. A. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +741,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grove</Key>
-      <Text>. Sir C. (Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>7395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,8 +1527,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leger, S. E. (Capt.)</Text>
+      <Key>St. Leger</Key>
+      <Forenames>S. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>

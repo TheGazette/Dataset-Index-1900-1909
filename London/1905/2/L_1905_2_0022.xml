@@ -174,8 +174,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mansergh,Lieut. J. L. (resigned)</Text>
+      <Key>O'Mansergh</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +407,9 @@
       <Key>Sitwell</Key>
       <Title>Sir</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, Bart., (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +876,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheringham</Key>
-      <Text>. Lieut. G. (antedated) ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(antedated) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1085,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>' W. M. (resigned) ,</Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
@@ -1209,7 +1215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>. F. G. K. (Lieut.-Col.)</Text>
+      <Forenames>F. G. K.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>

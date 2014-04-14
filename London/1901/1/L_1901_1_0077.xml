@@ -8,7 +8,9 @@
       <Key>Agnew</Key>
       <Title>Sir</Title>
       <Forenames>A. K</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,8 +676,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. A.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>L. A. de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,8 +709,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur, R. H. (Lieut.)</Text>
+      <Key>St. Maur</Key>
+      <Forenames>R. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +808,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyndham-Q</Key>
-      <Text>.uin, W. H. (Lieut.-Col.)</Text>
+      <Text>uin, W. H. (Lieut.-Col.)</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -286,8 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C. C.</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. C.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +615,9 @@
       <Key>Wrey</Key>
       <Title>Sir</Title>
       <Forenames>B. R. S.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,8 +718,8 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callagban, M. P</Text>
+      <Key>O'Callagban</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>4940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +752,9 @@
       <Key>Warrender</Key>
       <Title>Sir</Title>
       <Forenames>G. J. S.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coxor</Key>
-      <Text>., L. H. St. C</Text>
+      <Text>, L. H. St. C</Text>
       <PageNumber>6872</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -96,8 +96,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepean</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. V. (2nd Lieut.) ..</Text>
+      <Forenames>N. St. V</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>2nd Lieut. P. H. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>P. H. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,8 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de Q. (Surg.-Maj.)</Text>
+      <Forenames>J. J. de Q</Forenames>
+      <Text>. (Surg.-Maj.)</Text>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>A. St. A</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry C. J. (seconded)</Text>
       <PageNumber>3354</PageNumber>
     </MainItem>
@@ -1046,7 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickering</Key>
-      <Text>C. J. (2nd Lieut.)</Text>
+      <Forenames>C. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1759,8 +1762,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. A. (Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>

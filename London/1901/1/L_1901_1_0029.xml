@@ -127,7 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buauttil</Key>
-      <Text>. M. A. (2nd Lieut.)</Text>
+      <Forenames>M. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,9 +754,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruchy</Forenames>
-      <Text>, F. A. L. (2nd Lieut.)</Text>
+      <Key>de Guerin</Key>
+      <Forenames>S. C. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1939</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Gruchy</Key>
+      <Forenames>F. A. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3288</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -361,8 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G. S Chater, H. J. .. .. .. Dickinson, R. L.</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. S Chater, H. J. .. .. .. Dickinson, R. L.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>H.C</Text>
+      <Forenames>H.C.</Forenames>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellers</Key>
-      <Forenames>Lieut H. H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. H.</Forenames>
       <Text>(retired list)</Text>
       <PageNumber>2745</PageNumber>
     </MainItem>
@@ -1197,8 +1198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrill</Key>
-      <Title>Sub.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Sub.Lieut</Title>
       <Text>, A. (retired)</Text>
       <PageNumber>3747</PageNumber>
     </MainItem>
@@ -1413,7 +1413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>J. (retired Commander)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(retired Commander)</Text>
       <PageNumber>2976</PageNumber>
     </MainItem>
   </ItemGroup>

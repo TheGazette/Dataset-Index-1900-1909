@@ -211,7 +211,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>. Maj. A. B. N. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. B. N.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>6861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,15 +252,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Laubuz</Key>
-      <Text>. R. F. (Capt.)</Text>
+      <Forenames>R. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Dimmock</Key>
-      <Forenames>H. L. F.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Key>de Wattville</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lieut.) Dimmock, H. L. F. (Lieut.)</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. L. R. E. W. (Lieut.)</Text>
+      <Forenames>L. R. E. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,8 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Maj.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,8 +1123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toogood</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,10 +1301,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wezele</Key>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>Count D. B. M. G.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6080</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lennard</Key>
       <Title>Maj. and Hon. Lieut.-Col. Sir</Title>
       <Forenames>H. A. H. F.</Forenames>
-      <Text>, Bart, (resigned).,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1376,9 @@
     <MainItem>
       <Key>Blake</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Text>. Sir F. D., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1518,9 @@
       <Key>White</Key>
       <Title>Capt. Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Bart, (resigned) .. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

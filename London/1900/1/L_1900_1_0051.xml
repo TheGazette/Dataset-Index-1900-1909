@@ -61,7 +61,9 @@
       <Key>Power</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J. E. C.</Forenames>
-      <Text>Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,8 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. (2nd Lieut.)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>86</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,9 +894,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gex</Forenames>
-      <Text>, B. C. (Capt.)</Text>
+      <Key>De Gex</Key>
+      <Forenames>B. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1718,6 +1720,14 @@
       <Forenames>A. L.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>1175</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Someren</Key>
+      <Forenames>E. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

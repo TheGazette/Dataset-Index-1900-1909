@@ -403,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. (antedated)</Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
@@ -655,7 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldwell</Key>
-      <Text>J. (Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>

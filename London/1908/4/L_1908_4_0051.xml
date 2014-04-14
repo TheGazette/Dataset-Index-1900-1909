@@ -52,9 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Title>2nd Lieut. St.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(resigned)</Text>
+      <Title>2nd Lieut. St. J. (resigned)</Title>
       <PageNumber>7646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,6 +139,15 @@
       <Forenames>R. B.</Forenames>
       <Text>(Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Broke</Key>
+      <Title>Lord</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -244,7 +251,9 @@
       <Key>Skipwith</Key>
       <Title>Sir</Title>
       <Forenames>G. H.</Forenames>
-      <Text>dE., Bart. (2nd Lieut.) .. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Broke, Lord (Capt. and Hon. Maj.) .. .. ,.</Text>
+      <Forenames>de Broke</Forenames>
+      <Text>, Lord (Capt. and Hon. Maj.) .. .. ,.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +351,9 @@
       <Key>Lacon</Key>
       <Title>Sir</Title>
       <Forenames>E. B. F. H.</Forenames>
-      <Text>, Bart. (Super. Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +378,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>B. B. M.</Forenames>
-      <Text>Bart., (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +440,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. H. (Super. Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. H.</Forenames>
+      <Text>(Super. Capt.)</Text>
       <PageNumber>8167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +549,9 @@
     <MainItem>
       <Key>Poynder</Key>
       <Title>Maj.</Title>
-      <Text>and Hon Lieut.-Col. Sir J. P., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmes</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. M. (Maj.) .. ..</Text>
+      <Forenames>G. St. M</Forenames>
+      <Text>. (Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,8 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battine</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>7560</PageNumber>
     </MainItem>
   </ItemGroup>

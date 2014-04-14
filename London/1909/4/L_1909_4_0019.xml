@@ -324,8 +324,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Asaph, Et. Eev. Lord Bi shop of</Text>
+      <Key>St. Asaph</Key>
+      <Title>Et. Eev. Lord</Title>
+      <Forenames>Bi</Forenames>
+      <Text>shop of</Text>
       <PageNumber>7270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrot</Key>
-      <Text>E. (Capt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spurgin</Key>
-      <Text>P. B. (Lieut.)</Text>
+      <Forenames>P. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9331</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -184,8 +184,8 @@
     <MainItem>
       <Key>French</Key>
       <Title>Lieut.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>M. H. C. De C. De B.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>M. H. C. De C</Forenames>
+      <Text>. De B. (Lieut.)</Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +550,9 @@
     <MainItem>
       <Key>Herbert</Key>
       <Forenames>F.</Forenames>
-      <Text>DL. (Capt.)</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>4192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wapshare</Key>
-      <Text>R</Text>
+      <Forenames>R .</Forenames>
       <PageNumber>5599</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -760,7 +760,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>N. G. ' .. ..</Text>
+      <Forenames>N. G.</Forenames>
+      <Text>' .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robson</Key>
-      <Text>H. .. .. .. ..</Text>
+      <Forenames>H.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1110,7 @@
       <PageNumber>6136</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Allan, Capt. and Hon. Maj. J.</Text>
+      <Text>Allan, Capt. and Hon. Maj. J</Text>
       <PageNumber>5054</PageNumber>
     </SubItem>
     <SubItem>
@@ -1135,6 +1137,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>P.C.</Honour>
         <PageNumber>___ ___</PageNumber>
         <PageNumber>6137</PageNumber>
         <PageNumber>5054</PageNumber>

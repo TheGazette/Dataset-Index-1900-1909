@@ -99,8 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellborne</Key>
-      <Forenames>O.</Forenames>
-      <Text>de M. ., .. ..</Text>
+      <Forenames>O. de M</Forenames>
+      <Text>. ., .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +957,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P. F</Forenames>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1022,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barjorji</Key>
-      <Text>.B ,</Text>
+      <Forenames>B</Forenames>
+      <Text>,</Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,15 +1288,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, D. S. A</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>D. S. A.</Forenames>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,8 +1486,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. S .. ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. S .</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

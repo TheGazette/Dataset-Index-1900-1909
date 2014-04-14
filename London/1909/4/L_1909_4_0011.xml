@@ -203,7 +203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lushington</Key>
-      <Text>E. C. H. (Capt.)</Text>
+      <Forenames>E. C. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9767</PageNumber>
       <PageNumber>9233</PageNumber>
     </MainItem>
@@ -245,8 +246,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Capt. E. B. (seconded)</Text>
+      <Key>O'Hara</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,15 +273,16 @@
     <MainItem>
       <Key>Rose</Key>
       <Title>Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de M. (seconded)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, O. C. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>O. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +769,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, S. de C. (Maj.)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>S. de C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,8 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>C. I. (Lieut.-Col.)</Text>
+      <Forenames>C. I.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,7 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Text>Y. T. (Col.)</Text>
+      <Forenames>Y. T.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>8352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,8 +1172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadow</Key>
-      <Forenames>A.</Forenames>
-      <Text>de S. (Col.)</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>7269</PageNumber>
     </MainItem>
   </ItemGroup>

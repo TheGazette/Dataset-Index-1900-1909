@@ -204,8 +204,8 @@
     <MainItem>
       <Key>Cohen</Key>
       <Title>Hon. Capt.</Title>
-      <Forenames>J. J.</Forenames>
-      <Text>de L. (correction)</Text>
+      <Forenames>J. J. de L</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,9 @@
       <Key>Avery</Key>
       <Title>Sir</Title>
       <Forenames>W. E. T.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,10 +415,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Teissier</Key>
+      <Forenames>G. E.</Forenames>
+      <Text>12nd Lieut.) ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fitz-Wygram</Key>
       <Title>Sir</Title>
       <Forenames>E. L. F.</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King-King</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. (retired)</Text>
       <PageNumber>3471</PageNumber>
     </MainItem>
@@ -562,7 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pedler</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. C. G. (resigned)</Text>
       <PageNumber>3206</PageNumber>
     </MainItem>
@@ -833,7 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vince</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. N. (retired)</Text>
       <PageNumber>3871</PageNumber>
     </MainItem>

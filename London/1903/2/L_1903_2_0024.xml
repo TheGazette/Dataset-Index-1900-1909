@@ -223,8 +223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dayfell</Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de L. (Hon. Maj:)</Text>
+      <Forenames>G. M.de L</Forenames>
+      <Text>. (Hon. Maj:)</Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,9 @@
       <Key>Osborn</Key>
       <Title>Capt. Sir.</Title>
       <Forenames>A. K. B.</Forenames>
-      <Text>, Bart. (resigned and Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tronson</Key>
-      <Forenames>N. G. P.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>N. G. P. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorlt</Key>
-      <Text>.,F. de S. (Capt.) ... ;. ,j</Text>
+      <Text>,F. de S. (Capt.) ... ;. ,j</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

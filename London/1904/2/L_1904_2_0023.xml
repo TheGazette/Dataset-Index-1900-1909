@@ -34,14 +34,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Holliday</Key>
-      <Text>R, J. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, J. (2nd Lieut.)</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archer-Houblon</Key>
-      <Text>H. L. (Capt.)</Text>
+      <Forenames>H. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vipan</Key>
-      <Text>C. (Maj.) .. .. ..</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +175,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fagge</Key>
-      <Text>; F. W. L.G. N. (2nd Lieut.)..</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>Gr. W. (2nd Lieut.)</Text>
+      <Title>Gr.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry A. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -699,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Text>Ca.pt. M. P. (resigned)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. M. P. (resigned)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +723,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Forenames>R. B.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>R. B. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, S. R. (correction)</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
@@ -1210,7 +1218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AhernyJ</Key>
-      <Text>M. (Surg.-Licut.)</Text>
+      <Forenames>M.</Forenames>
+      <Text>(Surg.-Licut.)</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>

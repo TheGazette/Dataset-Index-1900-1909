@@ -186,7 +186,9 @@
       <Key>Fowler</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +349,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>J. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +673,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. H. (Lieut.)</Text>
+      <Forenames>G. St. H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +803,9 @@
       <Key>Hulse</Key>
       <Title>Sir</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1143,9 @@
       <Key>Lamb</Key>
       <Title>Maj. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart. (Second in Command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,7 +1806,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1810,7 +1818,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. F.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1896,8 +1906,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitford</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. WK. (to command Battalion)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Text>WK. (to command Battalion)</Text>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1975,8 +1985,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. St</Forenames>
-      <Text>. L. (to command Battalion and temporary Lieut.-Col.)</Text>
+      <Forenames>B. St. L</Forenames>
+      <Text>. (to command Battalion and temporary Lieut.-Col.)</Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>

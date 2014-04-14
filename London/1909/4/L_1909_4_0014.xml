@@ -481,7 +481,9 @@
       <Key>Alexander</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,8 +500,8 @@
     <MainItem>
       <Key>Kingsmith</Key>
       <Title>Lieut.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de P. (resigned)</Text>
+      <Forenames>A. de P</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>9593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,9 +1233,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grey</Forenames>
-      <Text>, Lieut. G. (seconded)</Text>
+      <Key>De Grey</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>

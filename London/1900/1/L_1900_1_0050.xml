@@ -663,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marten</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry G. E. (seconded)</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
@@ -1157,7 +1157,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, P. Le M. (seconded)</Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
@@ -1755,15 +1755,16 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M. (Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M. (Lieut.)</Text>
       <PageNumber>429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, G. A. (2nd Lieut.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>G. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzmaurice</Key>
-      <Text>Deane Morgan, Hon. H. R. T. G. (seconded)</Text>
+      <Forenames>Deane</Forenames>
+      <Text>Morgan, Hon. H. R. T. G. (seconded)</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,8 +1878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouillot</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T. (2nd Lieut.)</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>

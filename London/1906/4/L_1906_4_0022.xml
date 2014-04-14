@@ -300,6 +300,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Hoghton</Key>
+      <Forenames>G.</Forenames>
+      <Text>. ,(2nd Lieut.)</Text>
+      <PageNumber>6721</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>King</Key>
       <Forenames>C. E. D.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -721,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bigge</Key>
-      <Text>.J. N.. (2nd Lieut.)</Text>
+      <Forenames>J. N.</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6721</PageNumber>
     </MainItem>
   </ItemGroup>

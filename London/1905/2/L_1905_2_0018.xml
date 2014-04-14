@@ -83,8 +83,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (Lieut.)</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,6 +122,15 @@
       <Forenames>W. H. O.</Forenames>
       <Text>(Lieut.-Cpl. and to command)</Text>
       <PageNumber>3941</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Eobeck</Key>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>H. E. W.</Forenames>
+      <Text>(resigned) .. ..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Yorkshire (Duke of York's Own)</SubSectionTitle>

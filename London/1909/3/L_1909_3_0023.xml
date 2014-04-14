@@ -460,14 +460,16 @@
   <ItemGroup>
     <MainItem>
       <Key>DodsonVC</Key>
-      <Text>.W. (Lieut.) 'i</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Lieut.) 'i</Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haigh</Key>
-      <Text>. C. R. (Lieut.)</Text>
+      <Forenames>C. R.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +800,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooney</Key>
-      <Text>.J. A. (Lieui-Col.) '.: '</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(Lieui-Col.) '.: '</Text>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>

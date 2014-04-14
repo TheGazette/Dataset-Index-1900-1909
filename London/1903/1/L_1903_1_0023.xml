@@ -44,7 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>. 2nd Lieut. «T. S. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>«T. S. C. (resigned)</Text>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenner</Key>
-      <Text>. C. E. (reappointed Capt.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(reappointed Capt.)</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,15 +355,15 @@
     <MainItem>
       <Key>Hastings</Key>
       <Title>Capt.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J. W. (seconded) .. .. .. ..</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. W. (seconded) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hignett</Key>
-      <Text>.-L. (Hon. Capt.) -</Text>
+      <Text>-L. (Hon. Capt.) -</Text>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +460,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>. Maj. J. J. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,8 +806,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (2nd Lieut.)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. (Lieut.)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collyer</Key>
-      <Text>. DA. B. (Hon. Maj.)</Text>
+      <Text>DA. B. (Hon. Maj.)</Text>
       <PageNumber>1422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaymer</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>,W. C. (rcsigued)</Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
@@ -1067,9 +1071,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Buisson</Forenames>
-      <Text>, Maj. H. (retired)</Text>
+      <Key>Du Buisson</Key>
+      <Title>Maj.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>

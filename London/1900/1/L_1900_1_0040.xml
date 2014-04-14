@@ -67,8 +67,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, A. W. (Maj.)</Text>
+      <Key>St. George</Key>
+      <Forenames>A. W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,8 +196,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, A. J. B. (Capt.) ,. ..</Text>
+      <Key>St. Leger</Key>
+      <Forenames>A. J. B.</Forenames>
+      <Text>(Capt.) ,. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +324,9 @@
       <Key>Arthur</Key>
       <Title>Sir</Title>
       <Forenames>G. C. A.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,8 +734,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Hon. A. le N. (cancellation)</Text>
+      <Title>Lieut, Hon.</Title>
+      <Forenames>A.</Forenames>
+      <Text>le N. (cancellation)</Text>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,8 +803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodrick</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +999,9 @@
       <Key>Campbell-Orde</Key>
       <Title>Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,8 +1025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. A.</Forenames>
-      <Text>de V. (Lieut.)</Text>
+      <Forenames>L. A. de V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>J. (Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,7 +1506,9 @@
       <Key>Crossley</Key>
       <Title>Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1624,6 +1634,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1255</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
@@ -1631,6 +1649,14 @@
       <Forenames>T. J.</Forenames>
       <Text>(Second in Command)</Text>
       <PageNumber>2196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Freville</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1645,10 +1671,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Las Casas</Forenames>
+      <Key>De Las</Key>
+      <Forenames>Casas</Forenames>
       <Text>, M. (Lieut.)</Text>
       <PageNumber>808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>H. P.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1697,7 +1731,9 @@
       <Key>Dickson-Poynder</Key>
       <Title>Sir</Title>
       <Forenames>J.B.</Forenames>
-      <Text>,Bart. (Qrmr.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1736,8 +1772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donisthorpe</Key>
-      <Forenames>A.</Forenames>
-      <Text>de A. (Machine Gun , Commander)</Text>
+      <Forenames>A. de A</Forenames>
+      <Text>. (Machine Gun , Commander)</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1828,9 +1864,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, W. B. (Lieut.)</Text>
+      <Key>Du Pre</Key>
+      <Forenames>W. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>

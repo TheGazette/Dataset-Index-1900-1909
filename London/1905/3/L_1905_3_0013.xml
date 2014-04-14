@@ -20,6 +20,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gex</Key>
+      <Title>Brev. Lieut.-Col.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rougement</Key>
+      <Title>Maj.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>.. ..</Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dunlop</Key>
       <Title>Maj.</Title>
       <Forenames>A. S.</Forenames>
@@ -155,8 +173,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gowan, Maj. R. W. .. ..</Text>
+      <Key>O'Gowan</Key>
+      <Title>Maj.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,17 +201,16 @@
     <MainItem>
       <Key>Pratt</Key>
       <Title>Maj.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thesiger</Key>
-      <Title>Brev.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. G. H. ..</Text>
+      <Title>Brev. Lieut-Col.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,8 +506,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, Lieut. L. S. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -496,8 +515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denton</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, and Capt. H. S. Denton (resigned)</Text>
       <PageNumber>4987</PageNumber>
     </MainItem>
@@ -553,7 +571,9 @@
       <Key>Green</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,16 +629,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, E. S. (Capt.)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>E. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Persse</Key>
-      <Forenames>C. De B. G.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>C. De B</Forenames>
+      <Text>. G. (2nd Lieut.)</Text>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,8 +853,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, Brev. Col. T. J. (half-pay)</Text>
+      <Key>O'Dell</Key>
+      <Title>Brev. Col.</Title>
+      <Forenames>T. J.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +888,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, C. H. D. (Capt.)</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, C. H. D. (Capt.)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,9 +962,10 @@
   <SectionTitle>Staff College</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Maj. and Brev. Col. J. P. (Deputy-Assist.-Adj.-Gen.)</Text>
+      <Key>Du Cane</Key>
+      <Title>Maj. and Brev. Col.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(Deputy-Assist.-Adj.-Gen.)</Text>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1061,9 @@
     <MainItem>
       <Key>Myers</Key>
       <Title>Capt.</Title>
-      <Text>A.E. C.. .. , ibid.</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,8 +1098,7 @@
     <MainItem>
       <Key>Bland</Key>
       <Title>Capt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. St. C</Forenames>
       <PageNumber>5225</PageNumber>
       <PageNumber>5463</PageNumber>
     </MainItem>

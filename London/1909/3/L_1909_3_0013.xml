@@ -452,8 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. (Maj.-Gen.)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. (Maj.-Gen.)</Text>
       <PageNumber>6449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,9 +703,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Col. H. J. (half-pay list)</Text>
+      <Key>Du Cane</Key>
+      <Title>Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(half-pay list)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,8 +847,8 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Title>Col.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de C. (retired)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,8 +1472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>R.</Forenames>
-      <Text>de W. (Lieut.)</Text>
+      <Forenames>R. de W</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1563,7 +1564,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartigan</Key>
-      <Text>. H. .. . . ..</Text>
+      <Forenames>H.</Forenames>
+      <Text>.. . . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,6 +1628,14 @@
       <Forenames>K. A.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>6663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Sautoy</Key>
+      <Forenames>I. M. L.</Forenames>
+      <Text>(resided)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

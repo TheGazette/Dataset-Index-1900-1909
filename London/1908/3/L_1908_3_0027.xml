@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Way</Key>
-      <Text>. H. B. (Lieut.)</Text>
+      <Forenames>H. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,8 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de E. (2nd Lieut.)</Text>
+      <Forenames>H. E. de E</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,8 +85,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Maj. and Hon. Lieut.-Col.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Maj. and Hon. Lieut.-Col.)</Text>
       <PageNumber>5320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>. C. W. (Maj. and Hon. Lieut.Col.)</Text>
+      <Forenames>C. W.</Forenames>
+      <Text>(Maj. and Hon. Lieut.Col.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,8 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jervis</Key>
-      <Title>Hon. St.</Title>
-      <Forenames>I</Forenames>
+      <Title>Hon.</Title>
+      <Forenames>St. I</Forenames>
       <Text>,. H. (Maj.)</Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
@@ -606,7 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea-Smith</Key>
-      <Text>. F. D. W. (Capt.)</Text>
+      <Forenames>F. D. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,9 +1359,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(Capt.)</Text>
+      <Title>St. J. (Capt.)</Title>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,8 +1714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>O. G.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>O. G. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6635</PageNumber>
     </MainItem>
   </ItemGroup>

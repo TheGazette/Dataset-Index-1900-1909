@@ -4,16 +4,16 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Capt.</Title>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L. (antedated)</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>3013</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gidley</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +609,8 @@
     <MainItem>
       <Key>Lowther</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,8 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +877,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M. J. K. (2nd Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M. J. K.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,8 +937,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'D. (2nd Lieut.)</Text>
+      <Forenames>R. H. O'D</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,8 +1227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de F. (Lieut.)</Text>
+      <Forenames>J. F. de F</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1512,9 +1513,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, C. C. (Maj.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>C. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,8 +1828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Title>St.</Title>
-      <Forenames>J. W.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>W.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3382</PageNumber>
     </MainItem>
@@ -2227,8 +2228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2238,8 +2239,8 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (antedated)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2275,6 +2276,23 @@
       <Forenames>T.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>2503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>1201</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

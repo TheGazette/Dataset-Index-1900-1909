@@ -639,8 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jervis</Key>
-      <Forenames>E.</Forenames>
-      <Text>de R. (Maj.)</Text>
+      <Forenames>E. de R</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +880,9 @@
       <Key>Kemp</Key>
       <Title>Sir</Title>
       <Forenames>K. H.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1054,8 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,8 +1197,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. (Capt. and Hon. Maj.)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (Capt. and Hon. Maj.)</Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1984,7 +1986,9 @@
       <Key>Mahon</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and Hon. Col.) . .. .;</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6535</PageNumber>
     </MainItem>
   </ItemGroup>

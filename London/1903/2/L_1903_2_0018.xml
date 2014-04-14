@@ -54,8 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>E. H.</Forenames>
-      <Text>de V. (Maj.) ..</Text>
+      <Forenames>E. H. de V</Forenames>
+      <Text>. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Conran</Key>
-      <Text>.W. D.B. (Lieut.)</Text>
+      <Forenames>W. D.B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>. A. I. (Hon. Lieut.)</Text>
+      <Forenames>A. I.</Forenames>
+      <Text>(Hon. Lieut.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,8 +303,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Maj. W. A. J. (retired pay)</Text>
+      <Key>O'Meara</Key>
+      <Title>Maj.</Title>
+      <Forenames>W. A. J.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,8 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. C. (Lieut.-Col.)</Text>
+      <Forenames>E. St. C</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,8 +368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spackman</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
+      <Title>St. J.</Title>
       <Text>G-. (Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -479,8 +482,9 @@
   <SectionTitle>Antrim</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, D. S. P. (Capt.)</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>D. S. P.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brady-Browne</Key>
-      <Text>. T. H. (Lieut.)</Text>
+      <Forenames>T. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,8 +677,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Thomas-O</Key>
-      <Text>'Dorel, G. O'D. F. (Lieut.)</Text>
+      <Key>Thomas-O'Dorel</Key>
+      <Forenames>G. O'D</Forenames>
+      <Text>. F. (Lieut.)</Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,9 +1053,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, 2nd Lieut. Baron (re signed)</Text>
+      <Key>De Forest</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Baron</Forenames>
+      <Text>(re signed)</Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,8 +1138,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Lieut. M. E. (resigned)</Text>
+      <Key>O'Connell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>M. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleby</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. W. (resigned)</Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
@@ -144,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. L. (resigned)</Text>
       <PageNumber>1507</PageNumber>
     </MainItem>
@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbs</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. F. (resigned)</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
@@ -555,8 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>D.</Forenames>
-      <Text>de L. (Lieut.-Col. and to command)</Text>
+      <Forenames>D. de L</Forenames>
+      <Text>. (Lieut.-Col. and to command)</Text>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +764,8 @@
   <ItemGroup>
     <MainItem>
       <Key>PerraC</Key>
-      <Text>. H. (Lieut.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +841,9 @@
       <Key>Fletcher</Key>
       <Title>Col. Rt. Hon. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart, (permitted to assume the surname of Aubrey)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>

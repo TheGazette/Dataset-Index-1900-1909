@@ -202,7 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinder</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; W.-H. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -228,8 +228,9 @@
   <SubSectionTitle>2nd Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke.Rev.HJW.L. (Acting Chap.)</Text>
+      <Key>O'Rorke</Key>
+      <Title>Rev.</Title>
+      <Text>HJW.L. (Acting Chap.)</Text>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +396,8 @@
     <MainItem>
       <Key>Mairis</Key>
       <Title>Capt.</Title>
-      <Forenames>G. B.</Forenames>
-      <Text>de M. (seconded)</Text>
+      <Forenames>G. B. de M</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,8 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irving</Key>
-      <Forenames>H.</Forenames>
-      <Text>de R. (Capt.)</Text>
+      <Forenames>H. de R</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>JacRBon</Key>
-      <Text>. G. J. (Lieut.)</Text>
+      <Forenames>G. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,8 +731,8 @@
     <MainItem>
       <Key>Willans</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>2546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: R. (resigned)</Text>
       <PageNumber>3251</PageNumber>
     </MainItem>

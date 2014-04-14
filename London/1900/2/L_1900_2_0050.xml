@@ -428,8 +428,8 @@
     <MainItem>
       <Key>Fetherstonhaugh</Key>
       <Title>Lieut.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (seconded)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,6 +691,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafforrl</Key>
+      <Forenames>A. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8757</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Grove</Key>
       <Forenames>P. L.</Forenames>
       <Text>(Adj.)</Text>
@@ -718,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. G. E. (seconded)</Text>
       <PageNumber>8215</PageNumber>
     </MainItem>
@@ -936,7 +944,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beck</Key>
-      <Text>C.H. (Hon. Col.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1046,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brundrit</Key>
-      <Text>Capt. R. E. B. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R. E. B.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,8 +1230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,8 +1481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>

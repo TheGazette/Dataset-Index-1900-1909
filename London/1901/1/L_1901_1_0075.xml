@@ -419,8 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S</Text>
+      <Forenames>E. de S</Forenames>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,16 +517,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Martindale</Key>
-      <Forenames>C. S.</Forenames>
-      <Text>de B. (correction)</Text>
+      <Forenames>C. S. de B</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S. (correction)</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binny</Key>
-      <Text>.A. J. M</Text>
+      <Forenames>A. J. M.</Forenames>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,8 +1539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,8 +1653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. de C</Forenames>
       <PageNumber>2714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1763,16 +1761,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>T. H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. H. St. G</Forenames>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, W. W. (antedated)</Text>
+      <Key>Van Someren</Key>
+      <Forenames>W. W.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

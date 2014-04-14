@@ -645,8 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (2nd Lieut, super.)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (2nd Lieut, super.)</Text>
       <PageNumber>1718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barff</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry J. A. (resigned)</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
@@ -988,8 +988,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Forenames>J. G. De G.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>J. G. De G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,9 +1045,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gott</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. H. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1098,9 @@
       <Key>Mahon</Key>
       <Title>Sir</Title>
       <Forenames>W. H</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,8 +1172,8 @@
     <MainItem>
       <Key>Donisthorpe</Key>
       <Title>Lieut.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de A. (seconded)</Text>
+      <Forenames>A. de A</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,9 +1451,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Macedo</Forenames>
-      <Text>, J. A. A. (2nd Lieut, super.)</Text>
+      <Key>De Macedo</Key>
+      <Forenames>J. A. A.</Forenames>
+      <Text>(2nd Lieut, super.)</Text>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>

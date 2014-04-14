@@ -143,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending: 29th December, 1900</Text>
+      <Text>average price for the week ending: 29th December, 1900</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
     <SubItem>
@@ -186,7 +186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending: 4th May</Text>
+      <Text>average price for the week ending: 4th May</Text>
       <PageNumber>3142</PageNumber>
     </MainItem>
     <SubItem>
@@ -412,7 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>. Debenture Corporation, reduction of capital</Text>
+      <Forenames>Debenture Corporation</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>4119</PageNumber>
     </MainItem>
   </ItemGroup>

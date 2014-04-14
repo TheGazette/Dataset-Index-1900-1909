@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Livingstone</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. N. E. (seconded)</Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
@@ -1316,8 +1316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGillvcuddy</Key>
-      <Forenames>D. De C. C.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>D. De C</Forenames>
+      <Text>. C. (2nd Lieut.)</Text>
       <PageNumber>3466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,8 +1516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S. (2nd Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S. (2nd Lieut.)</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1575,8 +1575,8 @@
     <MainItem>
       <Key>Scott</Key>
       <Title>Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S. (seconded)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S. (seconded)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1759,8 +1759,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blacker</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Lieut.) .. .-</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Lieut.) .. .-</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,7 +1861,9 @@
       <Key>Cuninghame</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,6 +1874,14 @@
       <Forenames>H.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>3463</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Moleyns</Key>
+      <Forenames>R. P. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3130</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

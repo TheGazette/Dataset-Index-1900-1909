@@ -207,7 +207,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Plevdell-Bouverie</Key>
-      <Text>. Lieut.-Col. and Brevet Col. G. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>7369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde-Adam</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>W. St. A</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,8 +998,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Maj. Hon. M. (retired)</Text>
+      <Key>O'Brien</Key>
+      <Title>Maj. Hon.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7557</PageNumber>
     </MainItem>
   </ItemGroup>

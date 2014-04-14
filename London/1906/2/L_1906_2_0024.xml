@@ -437,23 +437,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>P. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Brockdorff</Forenames>
-      <Text>, E. (Lieut.)</Text>
+      <Key>Von Brockdorff</Key>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>Lieut. H. S. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,8 +1016,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Thomas-O</Key>
-      <Text>'Donel, G. O'D. F. (2nd Lieut.)</Text>
+      <Key>Thomas-O'Donel</Key>
+      <Forenames>G. O'D</Forenames>
+      <Text>. F. (2nd Lieut.)</Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>J. G. (2nd Lieut.)</Text>
+      <Forenames>J. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3468</PageNumber>
     </MainItem>
   </ItemGroup>

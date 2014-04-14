@@ -30,6 +30,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Spiganovicz</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>(Surg.-Lieut.)..</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Millar</Key>
       <Forenames>J.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -412,7 +420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reith</Key>
-      <Text>E. S. (Maj.)</Text>
+      <Forenames>E. S.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irving</Key>
-      <Forenames>H.</Forenames>
-      <Text>de R. (Instr. of Musketry)</Text>
+      <Forenames>H. de R</Forenames>
+      <Text>. (Instr. of Musketry)</Text>
       <PageNumber>2416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,8 +768,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. (Qrmr. and Hon. Lieut.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,8 +1193,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, 2nd Lieut. R. (resigned)</Text>
+      <Key>St. John</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>

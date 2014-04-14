@@ -667,15 +667,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Hon. C. H. M. (Lieut.)</Text>
+      <Key>St. Clair</Key>
+      <Title>Hon.</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, 2nd Lieut. Hon. C. H. M. (antedated)</Text>
+      <Key>St. Clair</Key>
+      <Title>2nd Lieut. Hon.</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>1526</PageNumber>
     </MainItem>
   </ItemGroup>

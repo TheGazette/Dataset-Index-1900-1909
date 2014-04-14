@@ -498,7 +498,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullineux</Key>
-      <Text>. Rev. M C</Text>
+      <Title>Rev.</Title>
+      <Forenames>M</Forenames>
+      <Text>C</Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hungerford</Key>
-      <Text>. T. G. (Lieut.) .. .,</Text>
+      <Forenames>T. G.</Forenames>
+      <Text>(Lieut.) .. .,</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,8 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Lieut, Gen.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Lieut, Gen.)</Text>
       <PageNumber>6719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weut</Key>
-      <Text>. U. S. D. (Lieut.) .. ..</Text>
+      <Forenames>U. S. D.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyett</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. H. R. (Retired List)</Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
@@ -1095,7 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicol</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. L. (Retired List)</Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
@@ -1319,7 +1323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wooldridge</Key>
-      <Text>. L. T. (Lieut.)</Text>
+      <Forenames>L. T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>0720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ledgard</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. R</Text>
       <PageNumber>7977</PageNumber>
     </MainItem>

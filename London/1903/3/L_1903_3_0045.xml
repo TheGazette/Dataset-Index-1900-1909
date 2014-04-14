@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>. Safety Oil Company, reduction of capital</Text>
+      <Forenames>Safety Oil Company</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>4536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,8 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savoy</Key>
-      <Forenames>Theatre</Forenames>
-      <Text>.and Operas, reduction of capital</Text>
+      <Title>Theatre.</Title>
+      <Text>and Operas, reduction of capital</Text>
       <PageNumber>4923</PageNumber>
       <PageNumber>5618</PageNumber>
     </MainItem>
@@ -67,8 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Saml</Forenames>
-      <Text>. and Edgar, notice of winding up</Text>
+      <Title>Saml.</Title>
+      <Text>and Edgar, notice of winding up</Text>
       <PageNumber>4294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +146,6 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>declaration of dividend</Text>
       <PageNumber>4609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beach</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>5297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boning</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,14 +813,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Currie</Forenames>
+      <Title>Currie .</Title>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bornand</Key>
-      <Forenames>Freres</Forenames>
+      <Title>Freres .</Title>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,8 +1098,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. .,</Text>
+      <Title>Brothers .</Title>
+      <Text>. .,</Text>
       <PageNumber>4542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooksoh</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>4929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,14 +1498,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Durkin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eceles</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,14 +1534,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eslick</Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry .</Title>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eugster</Key>
-      <Forenames>Koertgen</Forenames>
+      <Title>Koertgen .</Title>
       <PageNumber>5167</PageNumber>
     </MainItem>
     <SubItem>

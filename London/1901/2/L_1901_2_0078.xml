@@ -66,8 +66,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans-Freke</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. P. C, Leicestershire ( Prince Albert's Own) ...</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>P. C</Forenames>
+      <Text>, Leicestershire ( Prince Albert's Own) ...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +137,9 @@
       <Key>Rycroft</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, Bart,, Hampshire (Carabiniers) .. .. .</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. S., lst Northumberland (Western Division, Royal Garrison Artillery)</Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
@@ -433,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. H., 3rd Volunteer Battalion, the Welsh Regiment ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
@@ -780,7 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heilbron</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J., 2nd Volunteer Battalion, the Cameronians (Scottish Rifles) .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -808,8 +811,9 @@
   <SubSectionTitle>Bedford</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Hon. H. B. O</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>H. B. O.</Forenames>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,8 +901,8 @@
     <MainItem>
       <Key>Egerton</Key>
       <Title>Hon.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de T...</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +913,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>P. H. B. G.</Forenames>
-      <Text>, Bart..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

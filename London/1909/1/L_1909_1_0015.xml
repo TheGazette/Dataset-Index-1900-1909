@@ -210,9 +210,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zyl</Forenames>
-      <Text>, 2nd Lieut. P. A. (struck off the strength) .. .. ..</Text>
+      <Key>Van Zyl</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>P. A.</Forenames>
+      <Text>(struck off the strength) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>. J. U. F. C. (2nd Lieut.)</Text>
+      <Forenames>J. U. F. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Text>. H. N. (Lieut.)</Text>
+      <Forenames>H. N.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,8 +503,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Vesci. Vise. (Capt,)</Title>
+      <Key>De Vesci</Key>
+      <Title>Vise. (Capt,)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,8 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livesay</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'H. (Capt.)</Text>
+      <Forenames>R. O'H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkins</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coote</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. P. C. (resigned)</Text>
       <PageNumber>2126</PageNumber>
     </MainItem>
@@ -782,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Auld</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. T. K. (seconded)</Text>
       <PageNumber>2033</PageNumber>
     </MainItem>
@@ -998,8 +1001,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>F.</Forenames>
-      <Text>de B. (Maj.)</Text>
+      <Forenames>F. de B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1070,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harman</Key>
-      <Forenames>F.</Forenames>
-      <Text>de W. (Capt.)</Text>
+      <Forenames>F. de W</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>566</PageNumber>
       <PageNumber>1222</PageNumber>
     </MainItem>

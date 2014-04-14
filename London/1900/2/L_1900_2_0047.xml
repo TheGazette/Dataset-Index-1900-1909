@@ -176,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>BelLC</Key>
-      <Text>F. (Lieut.-Col. and to command)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(Lieut.-Col. and to command)</Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +262,9 @@
       </Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>P. C</Forenames>
-      <Text>, Bart. (cancellation)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,8 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>F.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>F. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +449,9 @@
       <Key>Verner</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, Bart, (temporary half-pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,8 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunynghame</Key>
-      <Forenames>G.</Forenames>
-      <Text>de W. (Lieut.)</Text>
+      <Forenames>G. de W</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,8 +596,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Priolfeau</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,6 +970,14 @@
       <Forenames>W. A.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>4438</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Forenames>V.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

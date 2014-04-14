@@ -369,9 +369,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Title>St.</Title>
-      <Forenames>J. L. O</Forenames>
-      <Text>'B. A. ff. (2nd Lieut.)</Text>
+      <Title>St. J.</Title>
+      <Forenames>L. O'B</Forenames>
+      <Text>. A. ff. (2nd Lieut.)</Text>
       <PageNumber>9328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,8 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>8351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,6 +535,14 @@
       <Forenames>N. R.</Forenames>
       <Text>(Capt..)</Text>
       <PageNumber>8014</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>P. P. E.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -721,8 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (Capt.) ... ....</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (Capt.) ... ....</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,8 +882,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Lieut. C.A.G. (retired)</Text>
+      <Key>O'Malley</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C.A.G.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>9232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,8 +1133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L. (Adj.)</Text>
+      <Forenames>G. St. L</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>8351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,8 +1529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Forenames>H.</Forenames>
-      <Text>de T. ( Lieut.-Col.)</Text>
+      <Forenames>H. de T</Forenames>
+      <Text>. ( Lieut.-Col.)</Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>

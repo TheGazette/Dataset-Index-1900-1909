@@ -61,6 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>R. S.</Forenames>
+      <Text>(Maj.-Comdt. and to command)</Text>
+      <PageNumber>9177</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Kindersley</Key>
       <Forenames>R. S.</Forenames>
       <Text>(Maj.) .. ..</Text>
@@ -167,8 +175,8 @@
     <MainItem>
       <Key>Egerton</Key>
       <Title>Maj. and Hon. Lieut.-Col. Hon.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de T. (resigned)</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +358,9 @@
       <Key>Baker</Key>
       <Title>Sir</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>. J. O. (2nd Lieut.)</Text>
+      <Forenames>J. O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7426</PageNumber>
     </MainItem>
   </ItemGroup>

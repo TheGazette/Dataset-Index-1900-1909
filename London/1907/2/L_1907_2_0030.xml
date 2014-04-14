@@ -408,7 +408,9 @@
     <MainItem>
       <Key>Van-NottemPole</Key>
       <Forenames>Capt</Forenames>
-      <Text>, Sir 0, P., Bart, (resigned) .. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +570,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chubb</Key>
-      <Text>C.H. (Capt.).. .. .,</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +720,9 @@
     <MainItem>
       <Key>Finigan</Key>
       <Forenames>D.</Forenames>
-      <Text>QC. (Capt.)</Text>
+      <Text>
+        <Honour>QC</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mart</Key>
-      <Title>Acting</Title>
+      <Title>Acting-</Title>
       <Forenames>Chaplain Rey</Forenames>
       <Text>. N. W. J. (resigned)</Text>
       <PageNumber>2816</PageNumber>
@@ -829,8 +835,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, 2nd Lieut. G. G. (removed)</Text>
+      <Key>O'Brien</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>G. G.</Forenames>
+      <Text>(removed)</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>

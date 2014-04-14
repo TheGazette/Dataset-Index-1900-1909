@@ -13,8 +13,8 @@
     <MainItem>
       <Key>Houseman</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de L. (resigned)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,6 +73,14 @@
       <Forenames>H. W.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>3777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Segundo</Key>
+      <Forenames>C. S.</Forenames>
+      <Text>(Surg.-Capt.)</Text>
+      <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -346,8 +354,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, P. J. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +372,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>J. L.</Forenames>
-      <Text>du Plat (Hon. Col.)</Text>
+      <Forenames>J. L. du Plat</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,6 +1025,15 @@
       <Forenames>D. W. C.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3928</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rutsen</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. F. J.</Forenames>
+      <Text>(resigned) .. .. .. .. ..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

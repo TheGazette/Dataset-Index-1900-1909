@@ -355,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>.T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,8 +404,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Capt. J. ..</Text>
+      <Key>O'Hara</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,8 +638,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,8 +936,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2438</PageNumber>
     </MainItem>
   </ItemGroup>

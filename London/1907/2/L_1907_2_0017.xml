@@ -46,8 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>F. G.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>F. G. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,8 +63,8 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Capt.</Title>
-      <Forenames>E. W. St</Forenames>
-      <Text>. L. (seconded)</Text>
+      <Forenames>E. W. St. L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>W. H. W. (Capt.)</Text>
+      <Forenames>W. H. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,15 +763,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, F. H. P. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>F. H. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Eeilly-Blackwood, E. H. (Lieut.)</Text>
+      <Key>O'Eeilly-Blackwood</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,6 +1581,14 @@
       <Forenames>L. M. B.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>3440</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Eoemer</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3305</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Tipperary</SubSectionTitle>

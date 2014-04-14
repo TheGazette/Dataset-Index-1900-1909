@@ -218,8 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stucley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wightman</Key>
-      <Text>A. J. (Lieut.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,8 +754,8 @@
     <MainItem>
       <Key>Livesay</Key>
       <Title>Capt.</Title>
-      <Forenames>R. O</Forenames>
-      <Text>'H. (seconded)</Text>
+      <Forenames>R. O'H</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +763,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>E. De L.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>E. De L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>

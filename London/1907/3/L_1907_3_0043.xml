@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="043" pageID="https://www.thegazette.co.uk/id/London/index/year/1907/volume/3/page/043" pagePDF="https://www.thegazette.co.uk/London/index/year/1907/volume/3/page/043" pageRDF="https://www.thegazette.co.uk/London/index/year/1907/volume/3/page/043?view=linked-data" type="index" volume="3" year="1907">
   <ItemGroup>
     <MainItem>
-      <Key>Union</Key>
-      <Forenames>Assurance Society</Forenames>
+      <Key>U</Key>
+      <Forenames>Union Assurance Society</Forenames>
       <Text>, extraordinary general meeting</Text>
       <PageNumber>4718</PageNumber>
     </MainItem>
@@ -23,7 +23,6 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>declaration of dividend</Text>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,8 +134,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Stewart</Forenames>
-      <Text>.. ..</Text>
+      <Title>Stewart .</Title>
+      <Text>. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beards</Key>
-      <Text>. David, and Sons</Text>
+      <Forenames>David</Forenames>
+      <Text>, and Sons</Text>
       <PageNumber>6381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +752,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrd</Key>
-      <Text>, C, J. and A. C</Text>
+      <Forenames>C</Forenames>
+      <Text>, J. and A. C</Text>
       <PageNumber>5341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +798,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Isherwood</Forenames>
+      <Title>Isherwood .</Title>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbert</Key>
-      <Text>, M Dalziel and White</Text>
+      <Forenames>M</Forenames>
+      <Text>Dalziel and White</Text>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,8 +1141,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Montmorency</Forenames>
+      <Key>De Montmorency</Key>
       <Text>and Ward</Text>
       <PageNumber>6379</PageNumber>
     </MainItem>
@@ -1273,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,7 +1615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greaves</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>

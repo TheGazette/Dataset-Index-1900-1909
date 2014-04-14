@@ -77,14 +77,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Viscounts</Key>
-      <Text>created: Hicks-Beach, Rt. Hon. Sir M. E., Bart. (Viscount St. Aidwyn)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vistula</Key>
-      <Forenames>The</Forenames>
+      <Title>The</Title>
       <Text>, Courland, Esthonia, and Livonia, declared to be in a state of siege, etc</Text>
       <PageNumber>870</PageNumber>
     </MainItem>
@@ -101,7 +103,9 @@
     <MainItem>
       <Key>Wales</Key>
       <Forenames>H.E.H.</Forenames>
-      <Text>the Prinoe of : Appointment: Trevelyan, Sir W. J., Bart., Sheriff of Cornwall</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +307,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The North</Forenames>
+      <Title>The</Title>
+      <Forenames>North</Forenames>
       <Text>and East Riding, and he West Riding of, united for the purpose of the Spring Ass zes</Text>
       <PageNumber>1624</PageNumber>
     </MainItem>
@@ -395,7 +400,9 @@
     <MainItem>
       <Key>Adamson</Key>
       <Forenames>H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +418,9 @@
     <MainItem>
       <Key>Apear</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +479,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>. Rear-Adml. H. D., Knight Commander, Royal Victorian Order</Text>
+      <Forenames>Rear-Adml</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +526,9 @@
     <MainItem>
       <Key>Benson</Key>
       <Forenames>R. S</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +546,9 @@
       <Key>Bonham</Key>
       <Title>Sir</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, Bart., H.M.'s Envoy Extraordinary and Minister Plenipotentiary to the Swiss Con. federation</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +564,9 @@
     <MainItem>
       <Key>Bradford</Key>
       <Title>Ot.</Title>
-      <Text>pt. E. E., Commander, .Royal Victorian Order .. ,</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +574,9 @@
     <MainItem>
       <Key>Brett</Key>
       <Forenames>C. M. W.</Forenames>
-      <Text>, Companion, Star of India.. .. .. .. .-</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +593,9 @@
       <Key>Brunner</Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bart., Canal and Inland Navigations Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +611,9 @@
     <MainItem>
       <Key>Buckingham</Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +636,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell-Bannerman</Key>
-      <Text>.Rt. Hon. Sir H., Commissioner of H.M.'s Treasury</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>H.</Forenames>
+      <Text>, Commissioner of H.M.'s Treasury</Text>
       <PageNumber>1037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +744,9 @@
     <MainItem>
       <Key>Cruickshank</Key>
       <Forenames>W. D.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +763,9 @@
       <Key>dAmade</Key>
       <Title>Col.</Title>
       <Forenames>A. G. L.</Forenames>
-      <Text>, Honorary Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,6 +787,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bunsen</Key>
+      <Title>Sir</Title>
+      <Forenames>M. W. E.</Forenames>
+      <Text>, a Privy Councillor</Text>
+      <PageNumber>1133</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
@@ -764,6 +803,15 @@
       <Forenames>M. W. E.</Forenames>
       <Text>, H.M.'s Ambassador Extraordinary and Plenipotentiary to the King of Spain</Text>
       <PageNumber>1223</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Title>Maj.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>, Companion, Indian Empire</Text>
+      <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -788,7 +836,9 @@
       <Key>Dorington</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart., Canal and Inland Navigations Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,15 +855,17 @@
     <MainItem>
       <Key>Douie</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon</Forenames>
-      <Text>, G. C. H. de J., H.M.B Vice-Consul at the Dardanelles</Text>
+      <Key>Du Vallon</Key>
+      <Forenames>G. C. H. de J</Forenames>
+      <Text>., H.M.B Vice-Consul at the Dardanelles</Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>

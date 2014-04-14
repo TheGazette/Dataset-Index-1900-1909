@@ -137,6 +137,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>C. F. G. W.</Forenames>
+      <Text>(2nd Lieut, super.)</Text>
+      <PageNumber>3257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Durnford</Key>
       <Title>Qrmr. and Hon. Capt.</Title>
       <Forenames>W.</Forenames>
@@ -634,8 +642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarpent</Key>
-      <Forenames>L. W. P.</Forenames>
-      <Text>de H. (Lieut.)</Text>
+      <Forenames>L. W. P. de H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. H. P. (seconded)</Text>
       <PageNumber>1005</PageNumber>
     </MainItem>
@@ -784,8 +792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens-Townshend</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. F. T. (Capt.) .. .. .. .. ..</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. F. T. (Capt.) .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,6 +1344,14 @@
       <Forenames>C. W.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3147</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pledge</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

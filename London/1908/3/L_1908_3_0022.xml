@@ -149,8 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. O. (2nd Lieut.)</Text>
+      <Forenames>H. St. O</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. A. (Capt.)</Text>
+      <Forenames>A. St. A</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +620,8 @@
     <MainItem>
       <Key>Beynon</Key>
       <Title>Lieut.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. P. (retired)</Text>
+      <Forenames>L. St. P</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gebbie</Key>
-      <Text>.J. F: R. (2nd Lieut.)</Text>
+      <Forenames>J. F</Forenames>
+      <Text>: R. (2nd Lieut.)</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,6 +1218,15 @@
       <Forenames>C. A. S.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>5219</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Title>Maj.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

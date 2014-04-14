@@ -139,9 +139,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Herbert</Forenames>
-      <Text>, Capt. P. W. (removed)</Text>
+      <Key>Von Herbert</Key>
+      <Title>Capt.</Title>
+      <Forenames>P. W.</Forenames>
+      <Text>(removed)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storrs</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry W. H. T. (resigned)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
@@ -354,7 +355,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>Lieut. C. C. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curll</Key>
-      <Text>C. E. (Lieut.-Col.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>8115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,14 +486,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Text>Lieut. P. A. (removed)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>P. A.</Forenames>
+      <Text>(removed)</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hankin</Key>
-      <Text>2nd Lieut. I). L. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>I</Forenames>
+      <Text>). L. (seconded)</Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,15 +520,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Capt,)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Raikes</Key>
-      <Text>G. T. (2nd Lieut.)</Text>
+      <Forenames>G. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,8 +537,8 @@
     <MainItem>
       <Key>Roche</Key>
       <Title>Lieut.-Col. Hon.</Title>
-      <Forenames>N.</Forenames>
-      <Text>de R. B. (retired)</Text>
+      <Forenames>N. de R</Forenames>
+      <Text>. B. (retired)</Text>
       <PageNumber>8115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>H. W. G. M. (Instr. of Musketry)</Text>
+      <Forenames>H. W. G. M.</Forenames>
+      <Text>(Instr. of Musketry)</Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,8 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Forenames>E. S. St</Forenames>
-      <Text>. B. (Lieut.-Col. and to command)</Text>
+      <Forenames>E. S. St. B</Forenames>
+      <Text>. (Lieut.-Col. and to command)</Text>
       <PageNumber>8024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +620,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broaches</Key>
-      <Text>J. G. (Lieut.)</Text>
+      <Forenames>J. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +663,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Connell</Key>
-      <Text>Capt. J. C. W. (seconded).,</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. C. W.</Forenames>
+      <Text>(seconded).,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallerstein</Key>
-      <Text>P. E. (Lieut.-Col.)</Text>
+      <Forenames>P. E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>6152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +927,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dare, J. (Q.rmr.)</Text>
+      <Key>O'Dare</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Q.rmr.)</Text>
       <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,8 +988,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. R. (Lieut.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. R.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1074,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Text>A. C. (Maj.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>de V. (Moj.)</Text>
+      <Title>de V. (Moj.)</Title>
       <PageNumber>7032</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -82,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byam</Key>
-      <Text>W. (Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,8 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. (Lieut.)</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Text>C. E. W. S. (Lieut.) ..</Text>
+      <Forenames>C. E. W. S.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleurv</Key>
-      <Text>C. M. (Maj.)</Text>
+      <Forenames>C. M.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>C. A. (Lieut.-Col.)</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,22 +604,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. W. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, A. D. (Lieut.)</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>A. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6056</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, M. (Lieut-Col.)</Text>
+      <Key>O'Halloran</Key>
+      <Forenames>M.</Forenames>
+      <Text>(Lieut-Col.)</Text>
       <PageNumber>5843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,8 +771,8 @@
     <MainItem>
       <Key>Scanlan</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de C. (retired)</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +938,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>G. S. (Lieut.)</Text>
+      <Forenames>G. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,8 +1180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de Z. (Hon. Lieut.Col.)</Text>
+      <Forenames>J. J. de Z</Forenames>
+      <Text>. (Hon. Lieut.Col.)</Text>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,9 +1670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Title>St.</Title>
-      <Forenames>C.</Forenames>
-      <Text>(Col.)</Text>
+      <Title>St. C. (Col.)</Title>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>

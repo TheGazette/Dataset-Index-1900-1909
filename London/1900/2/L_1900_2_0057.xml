@@ -687,8 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>R.</Forenames>
-      <Text>de H. (Maj.)</Text>
+      <Forenames>R. de H</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,8 +1083,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. E. J. G. (Capt.) .. ..</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. E. J. G.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. (resigned)</Text>
       <PageNumber>8382</PageNumber>
     </MainItem>
@@ -1701,7 +1702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>N. D. (Maj.)</Text>
+      <Forenames>N. D.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8216</PageNumber>
     </MainItem>
   </ItemGroup>

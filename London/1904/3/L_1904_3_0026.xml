@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furber</Key>
-      <Forenames>H. A.</Forenames>
-      <Text>de F. (Lieut.)</Text>
+      <Forenames>H. A. de F</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>C. H. (MajO</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(MajO</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,8 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mivart</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.) .. ..</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,6 +775,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. V.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>5417</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Law</Key>
       <Title>Capt.</Title>
       <Forenames>C. A.</Forenames>
@@ -828,7 +838,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>Lieut. G. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,8 +1102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creudace</Key>
-      <Forenames>D.</Forenames>
-      <Text>de J. (2nd Lieut.)</Text>
+      <Forenames>D. de J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>

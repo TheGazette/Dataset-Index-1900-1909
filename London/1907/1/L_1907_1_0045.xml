@@ -80,8 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gouldsmith</Key>
-      <Forenames>Geo</Forenames>
-      <Text>., Son, and Co</Text>
+      <Title>Geo.</Title>
+      <Text>, Son, and Co</Text>
       <PageNumber>280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallam</Key>
-      <Text>, IAnson, and Co</Text>
+      <Text>IAnson, and Co</Text>
       <PageNumber>2130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliday</Key>
-      <Text>. J. C, and Son</Text>
+      <Forenames>J. C</Forenames>
+      <Text>, and Son</Text>
       <PageNumber>213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +807,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>1610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>1686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leatherland</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lines</Key>
-      <Text>, l!unn and Mason</Text>
+      <Text>l!unn and Mason</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,14 +1548,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mettham</Key>
-      <Text>, d. J. and B</Text>
+      <Text>d. J. and B</Text>
       <PageNumber>993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Miesages</Key>
-      <Text>, McNeill and Dowie</Text>
+      <Text>McNeill and Dowie</Text>
       <PageNumber>71</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, tf\an, and Co</Text>
+      <Text>tf\an, and Co</Text>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1841,7 +1842,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Gillitt</Forenames>
+      <Title>Gillitt .</Title>
       <PageNumber>1104</PageNumber>
     </MainItem>
   </ItemGroup>

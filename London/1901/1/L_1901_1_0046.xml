@@ -563,7 +563,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M.</Forenames>
-      <Text>M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,8 +722,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kinealy, Capt. J. (seconded).. ,</Text>
+      <Key>O'Kinealy</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(seconded).. ,</Text>
       <PageNumber>4258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,8 +1233,8 @@
     <MainItem>
       <Key>Ross</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (retired)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2172,7 +2176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisset</Key>
-      <Text>.J. S. (2nd Lieut.)</Text>
+      <Forenames>J. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -408,8 +408,8 @@
     <MainItem>
       <Key>Anstruther-Thomson</Key>
       <Title>Lieut.-Col. and Brevet Col.</Title>
-      <Forenames>C. F. St</Forenames>
-      <Text>. C. (retired)</Text>
+      <Forenames>C. F. St. C</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,6 +497,14 @@
       <Forenames>W.B. F.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>2003</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. N. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -815,6 +823,14 @@
   <SubSectionTitle>6th Dragoons</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Calry</Key>
+      <Forenames>V. A. M.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1754</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Oates</Key>
       <Forenames>L. E. G.</Forenames>
       <Text>(Capt.)</Text>
@@ -1028,8 +1044,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut.-Col. and Brevet Co). E. D. J. (half-pay)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.-Col. and Brevet</Title>
+      <Forenames>Co</Forenames>
+      <Text>). E. D. J. (half-pay)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,8 +1320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. (Adj.)</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,8 +1389,8 @@
     <MainItem>
       <Key>Caulfeild</Key>
       <Title>Lieut.</Title>
-      <Forenames>H. F. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>H. F. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>1927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,6 +1432,14 @@
       <Forenames>H. M.</Forenames>
       <Text>(Adj.)</Text>
       <PageNumber>395</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>F. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

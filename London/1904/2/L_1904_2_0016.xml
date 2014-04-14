@@ -21,8 +21,8 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Capt.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Assist. Experimental Officer)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Assist. Experimental Officer)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,8 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. F. H. P. (Ordnance Officer, 4th Class)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. H. P.</Forenames>
+      <Text>(Ordnance Officer, 4th Class)</Text>
       <PageNumber>3413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,9 +135,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, Maj. and Brev. Lieut.Col. S. B. (Secretary)</Text>
+      <Key>Von Donop</Key>
+      <Title>Maj. and Brev. Lieut.Col.</Title>
+      <Forenames>S. B.</Forenames>
+      <Text>(Secretary)</Text>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +273,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keays</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>Williams, E. (Maj.)</Text>
+      <Forenames>Williams</Forenames>
+      <Text>, E. (Maj.)</Text>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +847,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smythe</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. I. W. T. S. (retired pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>I. W. T. S.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>

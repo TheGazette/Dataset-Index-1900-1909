@@ -302,6 +302,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Kierzkowski-Steuart</Key>
+      <Forenames>F. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1793</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
@@ -348,8 +356,8 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Title>Hon.</Title>
-      <Forenames>N.</Forenames>
-      <Text>de C. (Lieut.-Col:)</Text>
+      <Forenames>N. de C</Forenames>
+      <Text>. (Lieut.-Col:)</Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +588,9 @@
       <Key>Blots</Key>
       <Title>Sir</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, Bart: (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +601,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, Bart, (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +693,9 @@
       <Key>Palmer</Key>
       <Title>Lieut.</Title>
       <Forenames>V.</Forenames>
-      <Text>T.D. (cancellation)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +760,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckle</Key>
-      <Text>E. J. B. (Maj.)</Text>
+      <Forenames>E. J. B.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +840,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Healy</Key>
-      <Text>Capt. H..F</Text>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>.F</Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,8 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Forenames>F. S.</Forenames>
-      <Text>de M. (Lieut.)</Text>
+      <Forenames>F. S. de M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>DOyly</Key>
-      <Text>G. H. (Maj.)</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1203,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>:-Col. and Brev. CoL W. H. B. (correction) '</Text>
       <PageNumber>2686</PageNumber>
     </MainItem>
@@ -1565,8 +1583,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, P. H. A. (Capt.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>P. H. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boileau</Key>
-      <Text>L. M. (Maj.)</Text>
+      <Forenames>L. M.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

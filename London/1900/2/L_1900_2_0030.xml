@@ -47,7 +47,9 @@
       <Key>Hunter</Key>
       <Title>temporary Maj. Sir</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, Bart. (correction)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +622,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. D. (local rank of Col. in South Africa)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. D.</Forenames>
+      <Text>(local rank of Col. in South Africa)</Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,8 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'D. (temporary 2nd Lieut.)</Text>
+      <Forenames>R. H. O'D</Forenames>
+      <Text>. (temporary 2nd Lieut.)</Text>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +855,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, Capt. G. S. (local rank of Maj. in South Africa)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>(local rank of Maj. in South Africa)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1019,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>N. R.</Forenames>
-      <Text>, Bart, (local rank of Maj.-Gen. in China)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,6 +1215,15 @@
       <Title>Lieut.-Col. and Col. Duke</Title>
       <Text>of (retired pay)</Text>
       <PageNumber>6693</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend</Key>
+      <Title>Col.</Title>
+      <Forenames>D. C.</Forenames>
+      <Text>(retired pay)</Text>
+      <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

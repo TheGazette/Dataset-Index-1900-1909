@@ -209,7 +209,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Ji.</Title>
-      <Text>ennav.ay, Lieut.-Col. and Hon. Col. Rt. Hon. Sir J. H., Bart, (retired) and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackwell</Key>
-      <Text>. W. (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +861,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dayrell</Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de L. (Capt.)..</Text>
+      <Forenames>G. M. de L</Forenames>
+      <Text>. (Capt.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,8 +1013,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Lord, B. St. C. (Capt.)</Text>
+      <Key>St. Clair-Lord</Key>
+      <Forenames>B. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>

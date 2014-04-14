@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908; notices under: St. Julien's' Copper Mines</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908; notices under: St. Julien's' Copper Mines</Text>
       <PageNumber>596</PageNumber>
     </MainItem>
     <SubItem>
@@ -149,7 +151,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: Spen Valley Iron and Steel Works Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: Spen Valley Iron and Steel Works Company</Text>
       <PageNumber>1480</PageNumber>
       <PageNumber>1482</PageNumber>
     </MainItem>
@@ -308,7 +312,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 190S, notices under: Trier, Mayer, and Co</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 190S, notices under: Trier, Mayer, and Co</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
     <SubItem>
@@ -429,6 +435,7 @@
       <Text>
         <PageNumber>822</PageNumber>
         <PageNumber>2144</PageNumber>
+        <CategoryTitle>___ ___ Northern Counties Bill-</CategoryTitle>
         <PageNumber>558</PageNumber>
       </Text>
       <PageNumber>2249</PageNumber>

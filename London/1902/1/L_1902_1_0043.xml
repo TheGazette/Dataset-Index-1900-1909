@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dranfield</Key>
-      <Text>A. (Lieut.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (2nd Lieut, super.)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (2nd Lieut, super.)</Text>
       <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,8 +1062,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowth</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. F. R. (half-pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdert</Key>
-      <Text>T. (Lieut.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>

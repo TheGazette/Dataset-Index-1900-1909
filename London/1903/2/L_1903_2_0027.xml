@@ -43,8 +43,10 @@
   <SubSectionTitle>3rd Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lieut. H. R. (cancellation)</Text>
+      <Key>O'Neill</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,8 +97,8 @@
     <MainItem>
       <Key>Brock</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de L. (seconded)</Text>
+      <Forenames>B. de L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +920,9 @@
       <Key>Stewart-Richardson</Key>
       <Title>Sir</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, Bart. (Capt. and Instr. of Musketry)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dod</Key>
-      <Text>.ls, A. P. A. (Lieut.)</Text>
+      <Text>ls, A. P. A. (Lieut.)</Text>
       <PageNumber>2533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1117,9 @@
       <Key>Cuyler</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart, (correction) .. ,. .. .. ——</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgins</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. S. G. (resigned)</Text>
       <PageNumber>2990</PageNumber>
     </MainItem>

@@ -701,7 +701,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lieut W. H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>W. H.</Forenames>
       <Text>-E. (antedated) . Simson, J. R. (2nd Lieut.)</Text>
       <PageNumber>5176</PageNumber>
     </MainItem>
@@ -782,8 +783,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, T. S. (Maj.)</Text>
+      <Key>O'Dell</Key>
+      <Forenames>T. S.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>

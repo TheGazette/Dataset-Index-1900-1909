@@ -711,7 +711,9 @@
       <Key>Burdett</Key>
       <Title>Capt. Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, Bart., Extra Aidede-Camp to Bight Hon. Sir J. W. Ridgeway</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>.-Maj. and Brev. Lieut.-Col. H. M. (correctiou)</Text>
+      <Text>-Maj. and Brev. Lieut.-Col. H. M. (correctiou)</Text>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>

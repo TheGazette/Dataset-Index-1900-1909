@@ -30,6 +30,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Friendly</Key>
+      <Forenames>Societies</Forenames>
+      <Text>, notices of cancelling, &amp;c</Text>
+      <PageNumber>4412</PageNumber>
+      <PageNumber>4855</PageNumber>
+      <PageNumber>4867</PageNumber>
+      <PageNumber>5052</PageNumber>
+      <PageNumber>5525</PageNumber>
+      <PageNumber>5678</PageNumber>
+      <PageNumber>5752</PageNumber>
+      <PageNumber>5753</PageNumber>
+      <PageNumber>6236</PageNumber>
+      <PageNumber>6856</PageNumber>
+      <PageNumber>6992</PageNumber>
+      <PageNumber>7150</PageNumber>
+      <PageNumber>7151</PageNumber>
+      <PageNumber>8096</PageNumber>
+      <PageNumber>8097</PageNumber>
+      <PageNumber>8473</PageNumber>
+      <PageNumber>8574</PageNumber>
+      <PageNumber>8995</PageNumber>
+      <PageNumber>9082</PageNumber>
+      <PageNumber>9192</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
@@ -405,7 +432,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyderabad</Key>
-      <Text>(Deccan) Company, reduction of capital</Text>
+      <Title>(Deccan)</Title>
+      <Forenames>Company</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>8997</PageNumber>
     </MainItem>
   </ItemGroup>

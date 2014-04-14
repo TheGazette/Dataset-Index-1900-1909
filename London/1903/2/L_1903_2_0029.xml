@@ -342,7 +342,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>. Maj. H. C. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce-Seroi</Key>
-      <Text>.-old, E. (Capt.)</Text>
+      <Text>-old, E. (Capt.)</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +525,9 @@
     <MainItem>
       <Key>Milborne-Swinncrton-</Key>
       <Forenames>Pilkington</Forenames>
-      <Text>, Sir T. ii., Bart. (Lieut.-Col. and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,6 +756,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>2923</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>3364</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edwards</Key>
       <Forenames>G. D.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -816,8 +838,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, A. E. (Lieut.)</Text>
+      <Key>O'Meara</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>. J. E. (Capt.)</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,16 +1454,16 @@
     <MainItem>
       <Key>Paget</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de B. V. (halfpay)</Text>
+      <Forenames>A. de B</Forenames>
+      <Text>. V. (halfpay)</Text>
       <PageNumber>2842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Maj.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>3941</PageNumber>
     </MainItem>
   </ItemGroup>

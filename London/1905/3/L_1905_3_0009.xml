@@ -3,14 +3,15 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>. St. Clear and Llanfitangel, Abercowin (Market and Sales) Order of 1905</Text>
+      <Forenames>St. Clear</Forenames>
+      <Text>and Llanfitangel, Abercowin (Market and Sales) Order of 1905</Text>
       <PageNumber>4987</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John of Jerusalem, Grand Priory of the Order of the Hospital of: Knight of Justice: Connaught, H.R.H. Prince Arthur</Text>
+      <Key>St. John</Key>
+      <Text>of Jerusalem, Grand Priory of the Order of the Hospital of: Knight of Justice: Connaught, H.R.H. Prince Arthur</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
     <SubItem>
@@ -73,8 +74,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Thomas,Ontario, M. K. Moorhead, Consul for the United States at</Text>
+      <Key>St. Thomas</Key>
+      <Forenames>Ontario</Forenames>
+      <Text>, M. K. Moorhead, Consul for the United States at</Text>
       <PageNumber>6052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,8 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shackleford</Key>
-      <Title>St.</Title>
-      <Forenames>Mary</Forenames>
+      <Forenames>St. Mary</Forenames>
       <Text>, the patronage of the benefice transferred to » Viscount Middleton, &amp;c</Text>
       <PageNumber>5454</PageNumber>
     </MainItem>
@@ -452,8 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watford</Key>
-      <Title>St.</Title>
-      <Forenames>Michael</Forenames>
+      <Forenames>St. Michael</Forenames>
       <Text>, constituted a separate district for spiritual purposes</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
@@ -486,8 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Title>St.</Title>
-      <Forenames>Anne</Forenames>
+      <Forenames>St. Anne</Forenames>
       <Text>, Notice of Meeting to appoint Commissioners of Income Tax</Text>
       <PageNumber>6566</PageNumber>
     </MainItem>
@@ -701,7 +700,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>G.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>

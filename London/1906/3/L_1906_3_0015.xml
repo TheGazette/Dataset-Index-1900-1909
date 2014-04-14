@@ -100,7 +100,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>.Maj. A. C. .. .. ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>.. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. M. S</Text>
+      <Forenames>M. S.</Forenames>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owston</Key>
-      <Text>. L. V. (Lieut.)</Text>
+      <Forenames>L. V.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,8 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Hon. . W. C. W. (temporary half-pay)</Text>
+      <Title>Lieut, Hon.</Title>
+      <Text>. W. C. W. (temporary half-pay)</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,9 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Title>Lieut.-Col. and Brevet Col. St.</Title>
-      <Forenames>C.</Forenames>
-      <Text>(half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col. St. C. (half-pay)</Title>
       <PageNumber>4808</PageNumber>
     </MainItem>
   </ItemGroup>

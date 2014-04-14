@@ -504,8 +504,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldron</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. F., Assist. Qrmr.-Gen. and Col</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>F.</Forenames>
+      <Text>, Assist. Qrmr.-Gen. and Col</Text>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>Gen. Rt. Hon. Lord</Text>
+      <Title>Gen. Rt. Hon. Lord</Title>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,8 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. Sir J. D. P</Text>
+      <Title>Lieut-Gen. Sir</Title>
+      <Forenames>J. D. P.</Forenames>
       <PageNumber>522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,6 +944,15 @@
   <SubSectionTitle>Colonels in charge of Cavalry Records, Sfc</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>T. O. W.</Forenames>
+      <Text>(and local Col )</Text>
+      <PageNumber>5223</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lowe</Key>
       <Title>Col.</Title>
       <Forenames>W. H. M</Forenames>
@@ -985,7 +995,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Text>Brev. Col. F. W. B</Text>
+      <Title>Brev. Col.</Title>
+      <Forenames>F. W. B.</Forenames>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,8 +1056,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Title>Col. St.</Title>
-      <Forenames>L</Forenames>
+      <Title>Col.</Title>
+      <Forenames>St. L</Forenames>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>

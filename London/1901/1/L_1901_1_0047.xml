@@ -1097,8 +1097,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Batt</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. T. E. (retired)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>T. E.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1167,8 @@
     <MainItem>
       <Key>Ashe</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1774</PageNumber>
     </MainItem>
   </ItemGroup>

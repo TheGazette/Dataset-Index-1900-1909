@@ -180,9 +180,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, P</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>P</Forenames>
       <PageNumber>3771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,8 +410,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, T. F</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>T. F</Forenames>
       <PageNumber>1226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boughton</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>2777</PageNumber>
     </MainItem>
   </ItemGroup>

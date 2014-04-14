@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Major-Generals</Key>
-      <Text>. Retired List. Black, W. C Meiklejohn, Sir W. H. Binge, R. H Thomson, W. B</Text>
+      <Forenames>Retired List</Forenames>
+      <Text>. Black, W. C Meiklejohn, Sir W. H. Binge, R. H Thomson, W. B</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +57,9 @@
       <Key>Blair</Key>
       <Title>Gen.</Title>
       <Forenames>J.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,14 +129,18 @@
       <Key>Chapman</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>H. Collis</Forenames>
-      <Text>, Maj.-Gen. P. W Cook, Maj.-Gen. J. .. Creagh, Sir O'M., V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cummins</Key>
-      <Text>Maj.-Gen. J. T. .. Cunningham, Maj.-Gen. C. A. Dandridge, Gen. E. .. Dening, Maj.-Gen. L...</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>.. Cunningham, Maj.-Gen. C. A. Dandridge, Gen. E. .. Dening, Maj.-Gen. L...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,8 +156,8 @@
     <MainItem>
       <Key>Edwards</Key>
       <Title>Gen. Sir</Title>
-      <Forenames>S.</Forenames>
-      <Text>de B. ..</Text>
+      <Forenames>S. de B</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +222,9 @@
       <Key>Goodfellow</Key>
       <Title>Lieut.-Gen.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +241,9 @@
       <Key>Gough</Key>
       <Title>Gen. Sir</Title>
       <Forenames>C. J. S.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +253,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. H.</Forenames>
-      <Text>, V.C.</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +270,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Handcock</Key>
-      <Text>Lieut.-Gen. A. G...</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +325,8 @@
     <MainItem>
       <Key>Larpent</Key>
       <Title>Maj.-Gen.</Title>
-      <Forenames>L. H. P.</Forenames>
-      <Text>de H...</Text>
+      <Forenames>L. H. P. de H</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nabha</Key>
-      <Text>Hon. Col. H.H. the Maharajah of</Text>
+      <Title>Hon. Col. H.H.</Title>
+      <Text>the Maharajah of</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +443,9 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>H. N. D.</Forenames>
-      <Text>, V.C.</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +454,9 @@
       <Key>Probyn</Key>
       <Title>Gen. the Right Hon. Sir</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +480,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Title>Field-Marshal Earl</Title>
-      <Text>, V.C. ..</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +639,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Title>Gen.</Title>
-      <Text>' Sir J., V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,8 +780,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, H. ..</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>H.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,8 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeen</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J.</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,8 +1535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>3355</PageNumber>
     </MainItem>
   </ItemGroup>

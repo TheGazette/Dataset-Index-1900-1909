@@ -104,9 +104,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, L. C( Lieut.-Col.) ..</Text>
+      <Key>Du Cane</Key>
+      <Forenames>L. C</Forenames>
+      <Text>( Lieut.-Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +363,9 @@
     <MainItem>
       <Key>Widdows</Key>
       <Title>2nd Lieut.</Title>
-      <Text>A.E. (resigned)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +601,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bevington</Key>
-      <Text>. Lieut.-Col. R. K. (resigned) '</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>R. K.</Forenames>
+      <Text>(resigned) '</Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,8 +761,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeley</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (Capt.) ..</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +829,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffield</Key>
-      <Text>.W.L. (Capt. and Hon. Maj.)</Text>
+      <Forenames>W.L.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elwes</Key>
-      <Text>.H. C. (Maj.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1529,9 @@
       <Key>Peek</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (Lieut.) ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,8 +1589,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadleir-Jackson</Key>
-      <Forenames>L. W. De V.</Forenames>
-      <Text>(Adj.)</Text>
+      <Forenames>L. W. De V</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>6450</PageNumber>
     </MainItem>
   </ItemGroup>

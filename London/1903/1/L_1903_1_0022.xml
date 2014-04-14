@@ -212,8 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livesay</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'H. (Capt.) .. ..</Text>
+      <Forenames>R. O'H</Forenames>
+      <Text>. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,8 +253,8 @@
     <MainItem>
       <Key>Wilkins</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (seconded)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>. C. (Hon. Capt.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,8 +517,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, C. H. P. (Lieut.)</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>C. H. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>468</PageNumber>
       <PageNumber>2061</PageNumber>
     </MainItem>
@@ -1262,8 +1264,8 @@
     <MainItem>
       <Key>Lyons</Key>
       <Title>Capt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de C. (temporary halfpay)</Text>
+      <Forenames>R. de C</Forenames>
+      <Text>. (temporary halfpay)</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,8 +1280,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Forenames>O</Forenames>
-      <Text>'B. H. (Capt.) .. ..</Text>
+      <Title>O'B.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,6 +1456,15 @@
       <Forenames>W. A. P.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. P.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

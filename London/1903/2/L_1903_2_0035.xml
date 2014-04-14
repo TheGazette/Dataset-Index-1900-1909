@@ -39,7 +39,9 @@
       <Key>Baird</Key>
       <Title>Sir</Title>
       <Forenames>W. J. G.</Forenames>
-      <Text>, Bart.( Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,9 @@
       <Key>Campbell</Key>
       <Title>Sir</Title>
       <Forenames>J. H. P. H.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +423,9 @@
       <Key>Orde</Key>
       <Title>Sir</Title>
       <Forenames>A. J. C</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +882,9 @@
       <Key>Porter</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart. (Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,8 +924,8 @@
     <MainItem>
       <Key>Roche</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. J. K. (resigned)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. K. (resigned)</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1193,9 @@
       <Key>Bromley</Key>
       <Title>Super. Capt. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1282,9 @@
       <Key>Hermon-Hodge</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bart. (Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3718</PageNumber>
     </MainItem>
   </ItemGroup>

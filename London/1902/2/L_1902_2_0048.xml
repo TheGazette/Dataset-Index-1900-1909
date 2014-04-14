@@ -148,7 +148,9 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bart, (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,8 +837,8 @@
     <MainItem>
       <Key>Holbrook</Key>
       <Title>Capt.</Title>
-      <Forenames>E. R. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>E. R. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spry</Key>
-      <Text>L. H. (Capt.)</Text>
+      <Forenames>L. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,8 +1001,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, E. C. C. (Lieut.)</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>E. C. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1108,9 @@
       <Key>Kilson</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leatham</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. M. (antedated) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -1370,8 +1376,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. du B. (Capt.) .. ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. du B</Forenames>
+      <Text>. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Forenames>Lieut A.D.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A.D.</Forenames>
       <Text>(resigned and Hon. Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

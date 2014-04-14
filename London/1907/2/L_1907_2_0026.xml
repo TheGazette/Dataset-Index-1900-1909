@@ -70,8 +70,8 @@
     <MainItem>
       <Key>Forth</Key>
       <Title>Lieut.</Title>
-      <Forenames>N. B.</Forenames>
-      <Text>de L. (seconded)</Text>
+      <Forenames>N. B. de L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Text>H. F. (Capt.)</Text>
+      <Forenames>H. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>E. Du P. H.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>E. Du P</Forenames>
+      <Text>. H. (Capt.)</Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>

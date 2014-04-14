@@ -262,9 +262,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, F. J. (Lieut.)</Text>
+      <Key>Du Pre</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale-Browne</Key>
-      <Text>. D. J. E. (Capt.)</Text>
+      <Forenames>D. J. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,8 +1530,8 @@
     <MainItem>
       <Key>Stewart</Key>
       <Title>Lieut.</Title>
-      <Forenames>N. St</Forenames>
-      <Text>. V. R. (seconded)</Text>
+      <Forenames>N. St. V</Forenames>
+      <Text>. R. (seconded)</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,8 +1555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clowes</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,9 +1571,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, H. G. (Maj.)</Text>
+      <Key>De Pledge</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>

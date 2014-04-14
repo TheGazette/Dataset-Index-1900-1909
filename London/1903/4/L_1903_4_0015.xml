@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Stoekwcll</Key>
       <Title>Lieut.</Title>
-      <Text>L.T. (retired piy)</Text>
+      <Text>
+        <Honour>L.T.</Honour>
+      </Text>
       <PageNumber>6872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,9 +639,8 @@
   <SubSectionTitle>Ist Dragoons</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, II. de B. (Maj.)</Text>
+      <Key>De Lisle</Key>
+      <Text>II. de B. (Maj.)</Text>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>

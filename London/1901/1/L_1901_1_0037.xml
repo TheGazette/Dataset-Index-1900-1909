@@ -103,7 +103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>. Maj. B. E</Text>
+      <Title>Maj.</Title>
+      <Forenames>B. E</Forenames>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,9 +675,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, H. G. (Lieut.-Col.)</Text>
+      <Key>De Pledge</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abadie</Key>
-      <Text>. G. H. F. (local rank of Capt. in West Africa)</Text>
+      <Forenames>G. H. F.</Forenames>
+      <Text>(local rank of Capt. in West Africa)</Text>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell-Smyth</Key>
-      <Text>. J. A. (local rank of Maj. in South Africa)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(local rank of Maj. in South Africa)</Text>
       <PageNumber>1234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Text>., E. E. (local rank of Col. in Egypt)</Text>
+      <Text>, E. E. (local rank of Col. in Egypt)</Text>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>

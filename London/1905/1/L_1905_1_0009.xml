@@ -236,7 +236,9 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>G.W.</Forenames>
-      <Text>,Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +278,9 @@
       <Key>Cayzer</Key>
       <Title>Sir</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,10 +352,57 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grey</Forenames>
-      <Text>, Hon. J. S., one of the Metropolitan Police Magistrates</Text>
+      <Key>de Bourboulon</Key>
+      <Forenames>Count</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>2180</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>M. W. E.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chevremont</Key>
+      <Forenames>P. E. S. M.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>2180</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Grey</Key>
+      <Title>Hon.</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>, one of the Metropolitan Police Magistrates</Text>
       <PageNumber>327</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lamothe</Key>
+      <Forenames>J. T.</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of Grenada</Text>
+      <PageNumber>653</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>C</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
+      <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -364,9 +415,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Lieut.-Col. H. J., Fourth Class, Royal Victorian Order ..</Text>
+      <Key>Du Cane</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +478,9 @@
     <MainItem>
       <Key>Furley</Key>
       <Forenames>F. W.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +488,9 @@
     <MainItem>
       <Key>Garcia</Key>
       <Forenames>M.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +515,9 @@
       <Key>Grant</Key>
       <Title>Lieut.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Victoria Cross conferred upon</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +574,9 @@
     <MainItem>
       <Key>Herbert</Key>
       <Forenames>A. J.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,13 +619,15 @@
       <Key>Holland</Key>
       <Forenames>H. C</Forenames>
       <Text>, Fourth Class, Royal Victorian Order</Text>
-      <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>841</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Forenames>Royal Victorian Order</Forenames>
+      <Text>Royal Victorian Order</Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +653,9 @@
       <Key>Karter</Key>
       <Title>Capt.</Title>
       <Forenames>B. G. F.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,8 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Layard</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. M., H.M.'s Consul at Honolulu</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. M., H.M.'s Consul at Honolulu</Text>
       <PageNumber>415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +769,9 @@
       <Key>Markoff</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>P.</Forenames>
-      <Text>, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +779,9 @@
     <MainItem>
       <Key>Monson</Key>
       <Forenames>Right</Forenames>
-      <Text>Hon. Sir E. J., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +800,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>R.A.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +818,9 @@
     <MainItem>
       <Key>Mount</Key>
       <Forenames>Stephen</Forenames>
-      <Text>, Baron, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +846,9 @@
       <Key>Nicolson</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart., H.M.'s Ambassador Extraordinary and Plenipotentiary to H.M. the King of Spain</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,14 +865,17 @@
     <MainItem>
       <Key>Kikyphoroff</Key>
       <Forenames>S.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan-Beare, D. R., H.M.'s Consul at Bahia</Text>
+      <Key>O'Sullivan-Beare</Key>
+      <Forenames>D. R.</Forenames>
+      <Text>, H.M.'s Consul at Bahia</Text>
       <PageNumber>2362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,8 +899,10 @@
     <MainItem>
       <Key>Pimentel</Key>
       <Title>Capt.</Title>
-      <Forenames>D. F.</Forenames>
-      <Text>de S. L. de M., Honorary Commander, Royal Victorian Order.. .. .,</Text>
+      <Forenames>D. F. de S</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +918,9 @@
     <MainItem>
       <Key>Pratt</Key>
       <Forenames>J. D.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1923</PageNumber>
     </MainItem>
   </ItemGroup>

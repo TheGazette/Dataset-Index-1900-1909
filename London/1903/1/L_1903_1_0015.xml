@@ -139,6 +139,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gale</Key>
+      <Forenames>W. A. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>530</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Saunders</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>R. R. H.</Forenames>
@@ -167,8 +175,8 @@
     <MainItem>
       <Key>Hulton-Harrop</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de L. (seconded)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,8 +269,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Caliaghan, 2nd Lieut. R. G. D. (resigned)</Text>
+      <Key>O'Caliaghan</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +612,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien. E. D. J. (Lieut.-Col.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. D. J.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de A. (Lieut.)</Text>
+      <Forenames>R. A. de A</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,8 +699,8 @@
     <MainItem>
       <Key>Beaumont</Key>
       <Title>Maj.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de G. (resigned)</Text>
+      <Forenames>E. de G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,9 +1153,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pi-ee</Forenames>
-      <Text>, II. D. (i apt.)</Text>
+      <Key>De Pi-ee</Key>
+      <Text>II. D. (i apt.)</Text>
       <PageNumber>107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1416,9 @@
       <Key>Keane</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>

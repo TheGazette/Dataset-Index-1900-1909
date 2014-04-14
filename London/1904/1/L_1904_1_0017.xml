@@ -4,7 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berryman</Key>
-      <Text>F. H. (Cant.)</Text>
+      <Forenames>F. H.</Forenames>
+      <Text>(Cant.)</Text>
       <PageNumber>1093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,8 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>F. G.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>F. G. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,8 +36,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. T. (retired) Taunton, Capt. and Hon. Maj. J. B. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(retired) Taunton, Capt. and Hon. Maj. J. B. (resigned)</Text>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,9 +129,9 @@
   <SubSectionTitle>Donegal</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ernzy</Forenames>
-      <Text>, G. C. (Hon. Maj.)</Text>
+      <Key>De Ernzy</Key>
+      <Forenames>G. C.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>G. M. (2nd Lieut.)</Text>
+      <Forenames>G. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ffoiliott</Key>
-      <Text>W. H. (Maj) '</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(Maj) '</Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>R. G. (Lieut.)</Text>
+      <Forenames>R. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>944</PageNumber>
     </MainItem>
   </ItemGroup>

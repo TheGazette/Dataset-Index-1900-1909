@@ -177,14 +177,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Stow</Key>
-      <Text>. Capt. H. V. (removed on age limit)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. V.</Forenames>
+      <Text>(removed on age limit)</Text>
       <PageNumber>8090</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Text>. Lieut. B. L. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>B. L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,15 +1047,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, P. E. (Lieut.)</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. E. (Lieut.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,8 +1171,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair; C. H. D. (Lieut.) .. ..</Text>
+      <Key>St. Clair</Key>
+      <Text>; C. H. D. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

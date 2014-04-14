@@ -67,8 +67,8 @@
     <MainItem>
       <Key>Tronson</Key>
       <Title>Lieut.</Title>
-      <Forenames>N. G. P.</Forenames>
-      <Text>de L. (resigned)</Text>
+      <Forenames>N. G. P. de L</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,8 +174,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leger.S. E. (Maj.)</Text>
+      <Key>St. Leger</Key>
+      <Forenames>S. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynes</Key>
-      <Text>. B. M. S. (2nd Lieut.)</Text>
+      <Forenames>B. M. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,8 +1119,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F.R. (Capt.).. .. '</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F.R.</Forenames>
+      <Text>(Capt.).. .. '</Text>
       <PageNumber>3316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1216,8 @@
     <MainItem>
       <Key>Gore</Key>
       <Title>Lieut.</Title>
-      <Forenames>I. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>I. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>

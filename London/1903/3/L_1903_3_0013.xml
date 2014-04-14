@@ -157,9 +157,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, H. (Lieut.)</Text>
+      <Key>De Brath</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,8 +351,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. (2nd Lieut.)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,8 +1288,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Lieut-Col. M. D. (retired)</Text>
+      <Key>O'Connell</Key>
+      <Title>Lieut-Col.</Title>
+      <Forenames>M. D.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>5154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,8 +1307,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Capt. C. .J. (correction)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>.J. (correction)</Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>

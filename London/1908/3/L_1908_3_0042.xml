@@ -117,7 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moherly</Key>
-      <Text>. C. N. (Lieut.) .. ..</Text>
+      <Forenames>C. N.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shea</Key>
-      <Text>. R. P. (Lieut.)</Text>
+      <Forenames>R. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. R. F. M. (Maj. and Hon. Lieut.-Col.) .. .. .. ..</Text>
+      <Forenames>R. F. M.</Forenames>
+      <Text>(Maj. and Hon. Lieut.-Col.) .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,8 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Adj.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>6375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. F. O. (Capt. and Hon. Maj.)</Text>
+      <Forenames>F. O.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Groves</Key>
-      <Text>. J. E. G. (Maj.) .. ..</Text>
+      <Forenames>J. E. G.</Forenames>
+      <Text>(Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1142,9 @@
       <Key>ShakerJey</Key>
       <Title>Sir</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, Bart. (Lieut.Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foote</Key>
-      <Text>. J. K. (Lieut.)</Text>
+      <Forenames>J. K.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,8 +1483,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. L. (2nd Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,7 +1613,9 @@
       <Key>Napier</Key>
       <Title>Sir</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

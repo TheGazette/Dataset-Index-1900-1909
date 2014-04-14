@@ -34,8 +34,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Maj. C. (resigned)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Maj.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, ?J. (resigned)</Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -549,6 +551,14 @@
       <Forenames>A.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3969</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Santoy</Key>
+      <Forenames>P. P.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -983,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCosh</Key>
-      <Text>J. (Hon. Maj.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,8 +1347,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. L. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>

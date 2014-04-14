@@ -36,7 +36,9 @@
     <MainItem>
       <Key>Gnlly</Key>
       <Forenames>E. W. K.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +54,9 @@
     <MainItem>
       <Key>Haggard</Key>
       <Forenames>W. H. D.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +72,9 @@
     <MainItem>
       <Key>Harrel</Key>
       <Forenames>W. V.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +90,9 @@
     <MainItem>
       <Key>Hibbert</Key>
       <Forenames>H. F.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +101,9 @@
       <Key>Hickman</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, created a Baronet..</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +111,9 @@
     <MainItem>
       <Key>Higgins</Key>
       <Forenames>A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +138,9 @@
     <MainItem>
       <Key>Holmes</Key>
       <Forenames>G. C. V.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +173,9 @@
       <Key>Huguet</Key>
       <Title>Commander</Title>
       <Forenames>A.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order ..</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +190,9 @@
     <MainItem>
       <Key>Jeffreys</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. E. F., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +232,9 @@
     <MainItem>
       <Key>King</Key>
       <Forenames>T.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +284,9 @@
     <MainItem>
       <Key>Lambert</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +297,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +340,9 @@
     <MainItem>
       <Key>Layard</Key>
       <Forenames>C. P.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,8 +351,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. M., H.M.'s Consul at Nagasaki</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. M., H.M.'s Consul at Nagasaki</Text>
       <PageNumber>5784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +361,9 @@
       <Key>Leach</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>E. P.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +414,9 @@
     <MainItem>
       <Key>Londonderry</Key>
       <Forenames>Marquess</Forenames>
-      <Text>of, Knight Grand Cross, Royal Victorian Order ..-</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +424,9 @@
     <MainItem>
       <Key>Lurgan</Key>
       <Forenames>Baron</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +435,9 @@
       <Key>McCalmont</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Commander, Royal Victorian Order .,</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +454,9 @@
       <Key>Mackenzie</Key>
       <Title>Dr.</Title>
       <Forenames>S.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +465,9 @@
       <Key>Madden</Key>
       <Title>Capt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +483,9 @@
     <MainItem>
       <Key>Manders</Key>
       <Forenames>R.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +501,9 @@
       <Key>Mansell</Key>
       <Title>Comdr.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +520,9 @@
       <Key>Marx</Key>
       <Title>Capt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +530,9 @@
     <MainItem>
       <Key>Maswell</Key>
       <Title>Brig.</Title>
-      <Text>-Genl., Sir J. G., Commander, Royal Victorian Order ..</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +542,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. P.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +576,10 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>Commodore</Forenames>
-      <Text>Sir A. B., Bart., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +602,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Morland</Key>
-      <Text>Maj. and Brev. Lieut.-Col. T. L. N., Companion of the Bath</Text>
+      <Title>Maj. and Brev. Lieut.-Col.</Title>
+      <Forenames>T. L. N.</Forenames>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,8 +614,10 @@
     <MainItem>
       <Key>Morton</Key>
       <Title>Maj.-Gen., Sir</Title>
-      <Forenames>G.</Forenames>
-      <Text>de C, Commander, Royal Victorian Order</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +626,9 @@
       <Key>Murphy</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +644,9 @@
     <MainItem>
       <Key>Napier</Key>
       <Forenames>Capt</Forenames>
-      <Text>, T. D. W., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +669,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Maj. Hon. M., Royal Victoriah Order, Fourth Class</Text>
+      <Key>O'Brien</Key>
+      <Title>Maj. Hon.</Title>
+      <Forenames>M.</Forenames>
+      <Text>, Royal Victoriah Order, Fourth Class</Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,21 +681,28 @@
       <Key>Olphert</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Commander, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Col. G. H., Knight of Grace, St John of Jerusalem</Text>
+      <Key>O'Malley</Key>
+      <Title>Col.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>, Knight of Grace, St John of Jerusalem</Text>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, R., Companion of the Bath</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>R.</Forenames>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +711,9 @@
       <Key>Perry</Key>
       <Title>Dr.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +721,9 @@
     <MainItem>
       <Key>Petrie</Key>
       <Forenames>O</Forenames>
-      <Text>, Knighted .. .. .,</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +731,9 @@
     <MainItem>
       <Key>Phillips</Key>
       <Forenames>F.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +742,9 @@
       <Key>Pigott</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +760,9 @@
     <MainItem>
       <Key>Plunket</Key>
       <Forenames>Baron</Forenames>
-      <Text>, Knight Commander Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +770,9 @@
     <MainItem>
       <Key>Plunkett</Key>
       <Forenames>Right</Forenames>
-      <Text>Hon. H. C, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +780,9 @@
     <MainItem>
       <Key>Poe</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. E. S., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +798,9 @@
     <MainItem>
       <Key>Poulet</Key>
       <Forenames>H.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +808,9 @@
     <MainItem>
       <Key>Preston</Key>
       <Forenames>E. G. C</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +836,9 @@
       <Key>Rasch</Key>
       <Title>Maj.</Title>
       <Forenames>P. C</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +888,9 @@
       <Key>Vigors</Key>
       <Title>Lieut.</Title>
       <Forenames>P. N.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +907,9 @@
       <Key>Walker</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>&amp;., Victoria Cross conferred on.,</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +917,9 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>R. J.</Forenames>
-      <Text>, Companion of the Bath'</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +928,9 @@
       <Key>Ward</Key>
       <Title>Lieut. Hon.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +947,9 @@
       <Key>Watson</Key>
       <Title>Dr.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +965,9 @@
     <MainItem>
       <Key>Way</Key>
       <Forenames>Staff</Forenames>
-      <Text>Capt. W., Royal Victorian Order, Fourth Class . ... .-</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +983,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>H. S.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +993,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>H.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +1013,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>Vice-Adml</Forenames>
-      <Text>. Sir A. K., Knight .. Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +1032,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson-Todd</Key>
-      <Text>; W. H., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>

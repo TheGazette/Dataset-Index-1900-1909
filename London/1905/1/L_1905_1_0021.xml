@@ -39,7 +39,9 @@
       <Key>Seymour</Key>
       <Title>Sir</Title>
       <Forenames>A. V. F.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>JoneB-Vaughan</Key>
-      <Text>E. N. (2nd Lieut.)</Text>
+      <Forenames>E. N.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>

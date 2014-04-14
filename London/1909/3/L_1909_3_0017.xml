@@ -445,8 +445,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, R. (Lieut.-Col.)..</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Forenames>R.</Forenames>
+      <Text>(Lieut.-Col.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Q</Key>
-      <Text>.uicke, A. A. G. (2nd Lieut.) ..</Text>
+      <Text>uicke, A. A. G. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,15 +586,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Healing</Key>
-      <Text>. Capt. R. K. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R. K.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. H. (Capt,) .. ..</Text>
+      <Forenames>A. A. St. H</Forenames>
+      <Text>. (Capt,) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,8 +610,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, A. A. (Capt.)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>A. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sfont</Key>
-      <Text>.an.r.r. T. W trA„.( \ BAAO Vallentin, J. F. (Capt.)</Text>
+      <Text>an.r.r. T. W trA„.( \ BAAO Vallentin, J. F. (Capt.)</Text>
       <PageNumber>6090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,6 +1163,15 @@
   <SubSectionTitle>The Sherivood Foresters (Derbyshire Regiment)</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Pledge</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dobbie</Key>
       <Forenames>G. S.</Forenames>
       <Text>(2nd Lieut.) .. '</Text>
@@ -1237,8 +1250,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, H. G. (2nd Lieut.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6962</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -88,8 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>L. G.</Forenames>
-      <Text>de R. (Lieut.)</Text>
+      <Forenames>L. G. de R</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,8 +184,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Lieut. J. C. M.. (resigned)</Text>
+      <Key>O'Donnell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. C. M.</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. ,T. (resigned)</Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
@@ -858,10 +860,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Moleyns</Key>
+      <Forenames>R. P. A.</Forenames>
+      <Text>(Lieut.) ..'</Text>
+      <PageNumber>6652</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Grogah</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. J.B.</Forenames>
-      <Text>, Bart. (seconded) .. '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>

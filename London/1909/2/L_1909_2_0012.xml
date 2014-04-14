@@ -21,7 +21,9 @@
       <Key>Preston</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
       <Key>Pringle</Key>
       <Title>Col.</Title>
       <Forenames>R.</Forenames>
-      <Text>, Companion of the Bath .. .. .. .. ..</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronan</Key>
-      <Text>S., a King's Counsel</Text>
+      <Forenames>S.</Forenames>
+      <Text>, a King's Counsel</Text>
       <PageNumber>4060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +132,9 @@
     <MainItem>
       <Key>Roudanovaky</Key>
       <Forenames>B. C</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +159,9 @@
     <MainItem>
       <Key>Salisbury</Key>
       <Title>Marquis</Title>
-      <Text>of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +178,9 @@
     <MainItem>
       <Key>Samy</Key>
       <Forenames>Pasba</Forenames>
-      <Text>, Gen. H..E. A., Hon. Knight. Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +223,9 @@
     <MainItem>
       <Key>Seida</Key>
       <Forenames>F.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +234,9 @@
       <Key>Selby</Key>
       <Title>Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +289,9 @@
       <Key>Snell</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +318,9 @@
       <Key>Stokes</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>F. S. F.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +329,9 @@
       <Key>Stonor</Key>
       <Title>Hon.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +339,9 @@
     <MainItem>
       <Key>Stopford</Key>
       <Title>Maj</Title>
-      <Text>-Gen. Hon. Sir F. W., Knight Commander, Royal Victorian Order..'</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +409,9 @@
       <Key>Tinley</Key>
       <Title>Col.</Title>
       <Forenames>G. F. N.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +453,9 @@
       <Key>Tudway</Key>
       <Title>Brevet Col.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,14 +471,18 @@
     <MainItem>
       <Key>Tuxen</Key>
       <Forenames>Prof L. R.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>W. G., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +490,9 @@
     <MainItem>
       <Key>Verncy</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +508,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>-J. H., Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +519,9 @@
       <Key>Ward</Key>
       <Title>Hon.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +530,9 @@
       <Key>Wardrop</Key>
       <Title>Col.</Title>
       <Forenames>D.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +564,9 @@
       <Key>Webb</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>. Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +574,9 @@
     <MainItem>
       <Key>Weber</Key>
       <Forenames>P.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +585,9 @@
       <Key>Welch</Key>
       <Title>Capt.</Title>
       <Forenames>D. N.</Forenames>
-      <Text>, Knight Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +595,9 @@
     <MainItem>
       <Key>Whitehead</Key>
       <Title>Surg.</Title>
-      <Text>-Gen. H. R., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +635,10 @@
     <MainItem>
       <Key>Williams-Druminond</Key>
       <Title>Lieut.-Col.</Title>
-      <Text>and lion. Col. Sir J. IL, Bart., Companion of the Bath</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +647,9 @@
       <Key>Williamson</Key>
       <Title>Capt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +673,10 @@
     <MainItem>
       <Key>Wodehouse</Key>
       <Title>Maj.</Title>
-      <Forenames>E. F. Companion</Forenames>
-      <Text>of the Bath</Text>
+      <Forenames>E. F.</Forenames>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +692,9 @@
     <MainItem>
       <Key>Wratislaw</Key>
       <Forenames>A. O</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +865,9 @@
       <Key>Colleton</Key>
       <Title>Col. Sir</Title>
       <Forenames>R. A. W.</Forenames>
-      <Text>, Bart., temporary Brig. Gen. to command a District in South Africa</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +921,9 @@
       <Key>Fergusson</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>O</Forenames>
-      <Text>, Bart., Inspector of. Infantry</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coekerell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, L. H. M. P. (seconded)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
@@ -252,7 +252,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>. Lieut. H. C. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,6 +794,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beer</Key>
+      <Forenames>E. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2298</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Faulks</Key>
       <Forenames>J.</Forenames>
       <Text>(Lieut.)</Text>
@@ -810,15 +820,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>L.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>L. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1422</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edey</Key>
-      <Text>.G. R. (2nd Lieut.)</Text>
+      <Forenames>G. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. D. (antedated)</Text>
       <PageNumber>312</PageNumber>
     </MainItem>
@@ -1541,7 +1552,9 @@
       <Key>Meyrick</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>T. C</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,8 +1593,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. E. S., permitted to assume name of Scudamore after Lucas</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>, permitted to assume name of Scudamore after Lucas</Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1647,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris-Edge</Key>
-      <Text>. H. P. (Capt.)</Text>
+      <Forenames>H. P.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>

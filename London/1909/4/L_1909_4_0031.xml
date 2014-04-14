@@ -3,12 +3,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Cornelia Steamship Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Cornelia Steamship Company</Text>
       <PageNumber>7957</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Coronation Proprietary Gold Beef B Claims</Text>
-      <PageNumber>8590</PageNumber>
+      <CategoryTitle>
+        <PageNumber>8590</PageNumber>
+      </CategoryTitle>
     </SubItem>
     <SubItem>
       <Text>Cosmopolitan Press</Text>
@@ -148,7 +152,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Economic Light Company, J. Mandel and Co</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Economic Light Company, J. Mandel and Co</Text>
       <PageNumber>7303</PageNumber>
     </MainItem>
     <SubItem>
@@ -312,7 +318,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: Gazette Steamship Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: Gazette Steamship Company</Text>
       <PageNumber>7382</PageNumber>
       <PageNumber>7695</PageNumber>
     </MainItem>

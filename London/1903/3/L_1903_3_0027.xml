@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkly</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>,. H. C. A. (resigned)</Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
@@ -996,8 +996,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Hon. C. H. M. (Adj.) ..</Text>
+      <Key>St. Clair</Key>
+      <Title>Hon.</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>(Adj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1017,9 @@
       <Key>Munro</Key>
       <Title>Col. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickton-Warlow</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, I. (antedated)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
@@ -1248,7 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackintosh</Key>
-      <Forenames>The</Forenames>
+      <Title>The</Title>
       <Text>, of Mackintosh (Hon. Col.)</Text>
       <PageNumber>5075</PageNumber>
     </MainItem>

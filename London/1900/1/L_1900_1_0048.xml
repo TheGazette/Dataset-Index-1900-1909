@@ -432,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Twiss</Key>
-      <Text>H. W. F. (Lieut.)</Text>
+      <Forenames>H. W. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +976,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dart</Key>
-      <Text>Lieut. W. B. (super.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. B.</Forenames>
+      <Text>(super.)</Text>
       <PageNumber>2348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,7 +1707,9 @@
       </Key>
       <Title>Capt. and Hon. Maj. Sir</Title>
       <Forenames>R. C. P.</Forenames>
-      <Text>, Bart, (seconded) .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

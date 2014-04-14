@@ -503,8 +503,8 @@
     <MainItem>
       <Key>Huntsman</Key>
       <Title>Cant.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Staff Paymaster and Maj.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Staff Paymaster and Maj.)</Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. W. (resigned)</Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
@@ -677,7 +677,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cecil</Key>
-      <Text>. Lord K. H. (Col.)</Text>
+      <Title>Lord</Title>
+      <Forenames>K. H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ci</Key>
-      <Text>.re, H. C. (Col.)</Text>
+      <Text>re, H. C. (Col.)</Text>
       <PageNumber>7219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,17 +748,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gex</Forenames>
-      <Text>, F. J. (Col.)</Text>
+      <Key>De Gex</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, J P. (Col.)</Text>
+      <Key>Du Cane</Key>
+      <Forenames>J</Forenames>
+      <Text>P. (Col.)</Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,8 +933,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. E. (Col.)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. E.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,8 +980,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, G. F. W. (Col.) ..</Text>
+      <Key>St. John</Key>
+      <Forenames>G. F. W.</Forenames>
+      <Text>(Col.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,8 +1022,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. (Col.)</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>9148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1238,9 @@
       <Key>Clarke</Key>
       <Title>Gen. Sir</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, Bart, (super.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,6 +1259,15 @@
       <Forenames>G. L.</Forenames>
       <Text>(Hon. Capt.)</Text>
       <PageNumber>7480</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Col.</Title>
+      <Forenames>U. G. C.</Forenames>
+      <Text>(half-pay)</Text>
+      <PageNumber>7724</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1284,7 +1299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>., Sir E. L. (Lieut.-Geu.)</Text>
+      <Text>, Sir E. L. (Lieut.-Geu.)</Text>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>

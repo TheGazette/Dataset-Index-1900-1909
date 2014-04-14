@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriages</Key>
-      <Text>, public places to which licences have been granted : Duston, St. James, Harlestone-road, Primitive Methodist Chapel</Text>
+      <Text>public places to which licences have been granted : Duston, St. James, Harlestone-road, Primitive Methodist Chapel</Text>
       <PageNumber>1584</PageNumber>
     </MainItem>
     <SubItem>
@@ -114,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriages</Key>
-      <Text>, public places to which licences have been granted: Little Hoole, Walmer Bridge,Primitive Methodist Chapel</Text>
+      <Text>public places to which licences have been granted: Little Hoole, Walmer Bridge,Primitive Methodist Chapel</Text>
       <PageNumber>2873</PageNumber>
     </MainItem>
     <SubItem>
@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriages</Key>
-      <Text>, public places to which licences have been granted: Slough, Windsor-road, Baptist Church</Text>
+      <Text>public places to which licences have been granted: Slough, Windsor-road, Baptist Church</Text>
       <PageNumber>2631</PageNumber>
     </MainItem>
     <SubItem>
@@ -241,6 +241,10 @@
     <SubItem>
       <Text>Tattingstone,. Wesleyan Methodist Chapel</Text>
       <PageNumber>3387</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Tipton, Canal-street,Methodist New Connexion Chapel</Text>
+      <PageNumber>4018</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Tunbridge Wells, Grosvenor-road, St. John's Free Church</Text>
@@ -283,10 +287,16 @@
       <PageNumber>1360</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>
-        <PageNumber>ibid.</PageNumber>
-      </Text>
+      <Text>. Wheatley, Highfield-road,. Primitive Methodist Chapel</Text>
+      <PageNumber>3053</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Whitford; Carmel .. -</Text>
       <PageNumber>633</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Whittlesford, Orchard road, Congregational Chapel</Text>
+      <PageNumber>1667</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Willesden Green, High-road, New Jerusalem Church</Text>
@@ -296,6 +306,14 @@
       <Text>Ystradyfodwg, Ton, Pentre, Caersalem</Text>
       <PageNumber>4018</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marychurch</Key>
+      <Forenames>Steamship Company</Forenames>
+      <Text>'</Text>
+      <PageNumber>4343</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

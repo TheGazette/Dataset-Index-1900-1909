@@ -239,8 +239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,8 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maule</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. J. (Maj.)</Text>
+      <Forenames>H. N. St. J</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>4767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,8 +604,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, E. F. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,6 +807,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. S.</Forenames>
+      <Text>(Capt.) ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Disney-Roebuck</Key>
       <Title>Capt.</Title>
       <Forenames>A. W.</Forenames>
@@ -992,7 +1001,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Meares</Key>
-      <Text>Capt. H. P. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,8 +1189,8 @@
     <MainItem>
       <Key>Waller</Key>
       <Title>Lieut.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de W. (seconded)</Text>
+      <Forenames>R. de W</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>

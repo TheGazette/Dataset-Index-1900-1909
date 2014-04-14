@@ -419,8 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wale</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>A. de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +727,9 @@
       <Key>Austin</Key>
       <Title>Sir</Title>
       <Forenames>W. M. B.</Forenames>
-      <Text>Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,6 +949,14 @@
       <Forenames>G. H.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>9662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Andrade</Key>
+      <Forenames>I. J.</Forenames>
+      <Text>, jun. (Capt.)</Text>
+      <PageNumber>9565</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1924,7 +1934,9 @@
       <Key>Barlow</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2023,7 +2035,9 @@
       <Key>Beevor</Key>
       <Title>Sir</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, Bart. (Maj.) -</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9189</PageNumber>
     </MainItem>
   </ItemGroup>

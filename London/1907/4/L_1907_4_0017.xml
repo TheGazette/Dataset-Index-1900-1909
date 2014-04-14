@@ -122,7 +122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nation</Key>
-      <Text>S. C. (2nd Lieut.)</Text>
+      <Forenames>S. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,8 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C. (Maj.)</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,8 +440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Forenames>J. H.</Forenames>
-      <Text>du B. (Lieut.-Col.)</Text>
+      <Forenames>J. H. du B</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +523,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Text>D. R. (Maj.)</Text>
+      <Forenames>D. R.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,8 +703,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. R. (Lieut )</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. R.</Forenames>
+      <Text>(Lieut )</Text>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,6 +855,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. A. A.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>6814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dugan</Key>
       <Forenames>W. J.</Forenames>
       <Text>(Adj.)</Text>
@@ -901,8 +913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. (Adj.)</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +995,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>O. (2nd Lieut.)</Text>
+      <Forenames>O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>C. T. M. (Lieut.)</Text>
+      <Forenames>C. T. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,8 +1193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Riordan</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8779</PageNumber>
     </MainItem>
   </ItemGroup>

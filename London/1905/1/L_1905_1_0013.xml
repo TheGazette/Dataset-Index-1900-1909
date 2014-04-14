@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Oallaghan, Maj.-Gen. D. D. T. (retired pay)</Text>
+      <Key>O'Oallaghan</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>D. D. T.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Brev. Col. Sir B. (retired)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
@@ -850,8 +852,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vallance</Key>
-      <Forenames>V.</Forenames>
-      <Text>de V. M. (Lieut.)</Text>
+      <Forenames>V. de V</Forenames>
+      <Text>. M. (Lieut.)</Text>
       <PageNumber>1117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,8 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadleir-Jackson</Key>
-      <Forenames>L. W. De V.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>L. W. De V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,8 +1110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moberlv</Key>
-      <Forenames>C.</Forenames>
-      <Text>von E. (Capt.)</Text>
+      <Forenames>C. von E</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>26</PageNumber>
       <PageNumber>1279</PageNumber>
     </MainItem>

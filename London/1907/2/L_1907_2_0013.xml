@@ -12,7 +12,9 @@
       <Key>Snow</Key>
       <Title>Col.</Title>
       <Forenames>T.</Forenames>
-      <Text>CO., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +57,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Hamilton</Forenames>
-      <Text>, Gen. Sir W., Bart., Companion of the Bath</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +88,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +99,9 @@
       <Key>Swindlcy</Key>
       <Title>Col. and Hon. Maj.-Gen.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Companion of the Bath ..</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +118,9 @@
     <MainItem>
       <Key>Tarrant</Key>
       <Title>Surg.</Title>
-      <Text>-Gen. T., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +145,9 @@
       <Key>Thomson</Key>
       <Title>Capt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Companion of the Bath ..... .. ..</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +173,9 @@
       <Key>Torriano</Key>
       <Title>Col.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +192,9 @@
     <MainItem>
       <Key>Trevor</Key>
       <Title>Surg.</Title>
-      <Text>-Gen. F. W., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,6 +250,40 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Baumbach</Key>
+      <Title>Capt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>, Hon. Fourth Class, Boyal Victorian Order</Text>
+      <PageNumber>4171</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Hahnke</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>, Field Marshal W., Hon. Knight Grand Cross, Eoyal Victorian Order</Text>
+      <PageNumber>4171</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Hunolstein</Key>
+      <Title>Capt.</Title>
+      <Text>. Baron, Hon. Fourth Class, Eoyal Victorian Order.. .. .. .. ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Wedderkop</Key>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Hon. Fourth Class, fioyal Victorian Order</Text>
+      <PageNumber>4083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wallis</Key>
       <Forenames>J. E. P.</Forenames>
       <Text>, Puisne Judge of the High Court of Judicature, at Madras</Text>
@@ -273,7 +324,9 @@
       </Key>
       <Title>Lieut.-Col. and Col.</Title>
       <Forenames>F. G. E.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +351,9 @@
       <Key>Welchman</Key>
       <Title>Lieut.-Col. and Brevet Col.</Title>
       <Forenames>E. W. St</Forenames>
-      <Text>. &amp;., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +391,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Willcocks</Forenames>
-      <Text>, Maj.-Gen. Sir J., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +408,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilton</Key>
-      <Text>E. C. C, H.M.'s Consul in China</Text>
+      <Forenames>E. C. C</Forenames>
+      <Text>, H.M.'s Consul in China</Text>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +477,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moollcomb</Key>
-      <Text>&lt;i, Col. C. L., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +488,9 @@
       <Key>Wratislow</Key>
       <Title>Adml.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +533,9 @@
     <MainItem>
       <Key>Zummo</Key>
       <Forenames>C</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,8 +543,10 @@
   <SubSectionTitle>Unattached List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, 2nd Lieut. J. M. W. (correction)</Text>
+      <Key>O'Rorke</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J. M. W.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +583,9 @@
       <Key>Bannermann</Key>
       <Title>Capt. and Brevet Maj. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart., Staff Capt. at HeadQuarters</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,6 +738,15 @@
       <Forenames>H. N. R.</Forenames>
       <Text>, Deputy-Asst. Qrmr.-Gen. .. -</Text>
       <PageNumber>2992</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Col.</Title>
+      <Forenames>V. G. C</Forenames>
+      <Text>, Asst.-Adj. and Qrmr. Gen</Text>
+      <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -906,15 +983,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut.-Col. and Brevet Col. E. D. J.. Asst. Director of Remounts and Col.'</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>E. D. J.</Forenames>
+      <Text>. Asst. Director of Remounts and Col.'</Text>
       <PageNumber>3438</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Col. H., Asst. Adj.-Gen</Text>
+      <Key>O'Donnell</Key>
+      <Title>Col.</Title>
+      <Forenames>H.</Forenames>
+      <Text>, Asst. Adj.-Gen</Text>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>

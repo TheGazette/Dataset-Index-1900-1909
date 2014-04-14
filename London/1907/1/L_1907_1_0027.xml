@@ -450,7 +450,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>. Acting Chaplain Rt. Rev. H. L. (resigned)</Text>
+      <Title>Acting</Title>
+      <Forenames>Chaplain</Forenames>
+      <Text>Rt. Rev. H. L. (resigned)</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +565,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. C. W. (resigned)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>

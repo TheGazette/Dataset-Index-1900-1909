@@ -75,6 +75,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Putron</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(seoonded)</Text>
+      <PageNumber>7300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Guinness</Key>
       <Title>Lieut.</Title>
       <Forenames>W. E.</Forenames>
@@ -262,7 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>J. F. S. (Capt.)</Text>
+      <Forenames>J. F. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +612,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, W. E. (Maj.)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>W. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,8 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (Capt.)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,8 +974,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>H. M. O</Forenames>
-      <Text>'C. (Capt.)</Text>
+      <Forenames>H. M. O'C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7583</PageNumber>
     </MainItem>
   </ItemGroup>

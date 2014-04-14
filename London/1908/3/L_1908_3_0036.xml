@@ -312,7 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>.T. J. M. (Lieut.)</Text>
+      <Forenames>T. J. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,8 +1429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. G. (Adj.) ,</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. G. (Adj.) ,</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>

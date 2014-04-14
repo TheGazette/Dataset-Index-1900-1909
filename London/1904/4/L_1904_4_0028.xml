@@ -76,7 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>.W. .. -</Text>
+      <Forenames>W.</Forenames>
+      <Text>.. -</Text>
       <PageNumber>6650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,8 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stocks</Key>
-      <Forenames>D.</Forenames>
-      <Text>de B. . . ..</Text>
+      <Forenames>D. de B</Forenames>
+      <Text>. . . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willan</Key>
-      <Text>.R.</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

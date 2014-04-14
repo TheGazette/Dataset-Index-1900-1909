@@ -344,8 +344,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, O. (Lieut.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>O.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +440,9 @@
       <Key>Bellew</Key>
       <Title>Sir</Title>
       <Forenames>H</Forenames>
-      <Text>: C: G., Bart. (Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,9 +651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adcook</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(Instr. of Musketry)</Text>
+      <Title>St. J. (Instr. of Musketry)</Title>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,8 +1142,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, C. W.</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>C. W.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

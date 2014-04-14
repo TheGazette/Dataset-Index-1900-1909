@@ -45,7 +45,9 @@
       <Key>Miller</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart, (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Title>Gapt. and Hon. Maj</Title>
+      <Title>Gapt. and Hon. Maj-</Title>
       <Forenames>W. L. L.</Forenames>
       <PageNumber>12</PageNumber>
     </MainItem>
@@ -1079,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tasker</Key>
-      <Text>H. H. (Maj.)</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,6 +1203,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Vessian</Key>
+      <Forenames>R. E.</Forenames>
+      <Text>(Hon. Maj.)</Text>
+      <PageNumber>392</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gosden</Key>
       <Forenames>W. H. N.</Forenames>
       <Text>(Hon. Maj.)</Text>
@@ -1281,7 +1292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpies</Key>
-      <Text>J. L. (Lieut.)</Text>
+      <Forenames>J. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>722</PageNumber>
     </MainItem>
   </ItemGroup>

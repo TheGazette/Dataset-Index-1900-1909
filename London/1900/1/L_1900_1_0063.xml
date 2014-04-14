@@ -389,7 +389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckland</Key>
-      <Text>S. C. (Capt.)</Text>
+      <Forenames>S. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,8 +1268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <Text>(re-appointed Lieut.)</Text>
       <PageNumber>3255</PageNumber>
     </MainItem>

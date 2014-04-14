@@ -224,8 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,8 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>W.</Forenames>
-      <Text>de M</Text>
+      <Forenames>W. de M</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>B. W. L</Text>
+      <Forenames>B. W. L .</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +600,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, F. C. G '</Text>
+      <Key>St. Clair</Key>
+      <Forenames>F. C. G</Forenames>
+      <Text>'</Text>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,15 +931,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J. .. .. ..</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, John</Text>
+      <Key>O'Hea</Key>
+      <Forenames>John</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

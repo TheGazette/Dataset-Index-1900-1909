@@ -105,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grev</Key>
-      <Text>. W. A. S</Text>
+      <Forenames>W. A. S</Forenames>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>. W. R. P</Text>
+      <Forenames>W. R. P.</Forenames>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellis</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,16 +212,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Middlemass</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S. H</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. H</Text>
       <PageNumber>1928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moillot</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T</Text>
+      <Forenames>A. de T</Forenames>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plmston</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,14 +269,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuite-Dalton</Key>
-      <Text>. E. G. T.</Text>
+      <Forenames>E. G. T.</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>. «T.</Text>
+      <Text>«T.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,8 +305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenne</Key>
-      <Text>.lv, M. A. C</Text>
+      <Text>lv, M. A. C</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,22 +576,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>. E. J. E...</Text>
+      <Forenames>E. J. E.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pulley</Key>
-      <Text>. O. C</Text>
+      <Forenames>O. C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reyne</Key>
-      <Text>. G. Van R</Text>
+      <Forenames>G. Van R</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +792,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lev</Key>
-      <Text>. Capt. J. W., Superintendent of Gymnasia</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, Superintendent of Gymnasia</Text>
       <PageNumber>1929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +819,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>. L. C. .. .. ..</Text>
+      <Forenames>L. C.</Forenames>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +845,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Text>. Maj. and Brevet Lieut.Col. G. M., Asst. Qrmr.-Gen</Text>
+      <Title>Maj. and Brevet Lieut.Col.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>, Asst. Qrmr.-Gen</Text>
       <PageNumber>572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +966,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bott</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cr</Key>
-      <Text>.ige, F. W. ..</Text>
+      <Text>ige, F. W. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>. F. C ..</Text>
+      <Forenames>F. C .</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,8 +1275,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, 0</Text>
+      <Key>O'Brien</Key>
+      <Text>0</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

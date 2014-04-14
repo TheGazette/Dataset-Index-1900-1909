@@ -32,7 +32,9 @@
       <Key>Fowke</Key>
       <Title>Sir</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, Bart. (Lieut.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,8 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. V. (Lieut.)</Text>
+      <Forenames>J. St. V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,8 +129,8 @@
     <MainItem>
       <Key>Money</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>E. H. J. C.</Forenames>
-      <Text>de B. (resigned)</Text>
+      <Forenames>E. H. J. C. de B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Legard</Key>
-      <Text>A. D. (Adj.)</Text>
+      <Forenames>A. D.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>5669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,8 +284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>G. W. O</Forenames>
-      <Text>'F. (Surg.-Capt.)</Text>
+      <Forenames>G. W. O'F</Forenames>
+      <Text>. (Surg.-Capt.)</Text>
       <PageNumber>4526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +603,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. (Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4357</PageNumber>
     </MainItem>
     <SubItem>
@@ -749,9 +753,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, L. C. (Hon. Lieut.-Col.)</Text>
+      <Key>Du Cane</Key>
+      <Forenames>L. C.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>

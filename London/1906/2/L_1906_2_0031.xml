@@ -155,7 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Text>A. J. D. (Lieut.)</Text>
+      <Forenames>A. J. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>W.</Forenames>
-      <Text>de Qt. (2nd Lieut.)</Text>
+      <Forenames>W. de Qt</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +898,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>C. P. M. (Adj.)</Text>
+      <Forenames>C. P. M.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>4390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,8 +1354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKerrell</Key>
-      <Forenames>A.</Forenames>
-      <Text>de S. (Maj.)</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>3080</PageNumber>
       <PageNumber>3361</PageNumber>
     </MainItem>

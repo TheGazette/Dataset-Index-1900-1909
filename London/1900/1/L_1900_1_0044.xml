@@ -43,8 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mairis</Key>
-      <Forenames>G. B.</Forenames>
-      <Text>de M. (Capt.)</Text>
+      <Forenames>G. B. de M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,8 +54,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>G. B.</Forenames>
-      <Text>de M. (antedated)</Text>
+      <Forenames>G. B. de M</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,9 +899,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Brockdorff</Forenames>
-      <Text>, E. (2nd Lieut.)</Text>
+      <Key>Von Brockdorff</Key>
+      <Forenames>E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HowelL</Key>
-      <Text>N. E. (2nd Lieut.)</Text>
+      <Forenames>N. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,8 +1862,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, B. T. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>B. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,8 +1988,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>

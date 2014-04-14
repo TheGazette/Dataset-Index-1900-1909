@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogan</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Siratzky</Key>
-      <Forenames>Leop</Forenames>
-      <Text>., and Son</Text>
+      <Title>Leop.</Title>
+      <Text>, and Son</Text>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Standing</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Forenames>Geo</Forenames>
+      <Title>Geo.</Title>
       <PageNumber>3701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +598,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Noifolk</Forenames>
+      <Title>Noifolk .</Title>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>

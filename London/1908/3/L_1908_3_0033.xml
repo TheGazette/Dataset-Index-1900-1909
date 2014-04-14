@@ -328,7 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodyatt</Key>
-      <Text>. G. E. S. (Capt.)</Text>
+      <Forenames>G. E. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,14 +484,17 @@
       <Key>Levinge</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>,Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, G. (2nd Lieut.) .. ..</Text>
+      <Key>O'Grady</Key>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,8 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H.</Forenames>
-      <Text>de R. (2nd Lieut.) ..</Text>
+      <Forenames>H. de R</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

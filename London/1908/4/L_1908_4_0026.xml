@@ -646,6 +646,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>H.</Forenames>
+      <Text>. E. (Maj. and Hon. Lieut.-Col.)</Text>
+      <PageNumber>7653</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denton</Key>
       <Forenames>G. P.</Forenames>
       <Text>(Capt.).. .. ,</Text>
@@ -680,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durkin</Key>
-      <Text>H. (Lieut.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>

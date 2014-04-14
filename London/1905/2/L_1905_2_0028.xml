@@ -258,7 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>.G. A</Text>
+      <Forenames>G. A</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,6 +711,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy</Key>
+      <Title>Hon.</Title>
+      <Forenames>M. W. B.</Forenames>
+      <Text>(Lieut.)..</Text>
+      <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denton</Key>
       <Forenames>G. C.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1090,8 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

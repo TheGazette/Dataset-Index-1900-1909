@@ -392,7 +392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelsev</Key>
-      <Text>. V. C. M. (Lieut.)</Text>
+      <Forenames>V. C. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillard</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. S. (retired list)</Text>
       <PageNumber>1026</PageNumber>
     </MainItem>
@@ -500,15 +501,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenhill</Key>
-      <Forenames>Sub-Lieut</Forenames>
-      <Text>, P. (retired list)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut, P. (retired list)</Text>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>. AV. (Lieut.)</Text>
+      <Text>AV. (Lieut.)</Text>
       <PageNumber>2218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,8 +668,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. M. (retired list)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(retired list)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,15 +762,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>Sub-Lieut</Forenames>
-      <Text>, H. Or. (retired list)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut, H. Or. (retired list)</Text>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shelford</Key>
-      <Text>. Lieut. W. S. (retired list)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(retired list)</Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +934,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Speakmau</Key>
-      <Text>. E. M. (Lieut.)</Text>
+      <Forenames>E. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>131</PageNumber>
     </MainItem>
   </ItemGroup>

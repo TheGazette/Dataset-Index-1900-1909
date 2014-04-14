@@ -312,7 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbin</Key>
-      <Text>. E. J. (Capt.)</Text>
+      <Forenames>E. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,8 +368,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. F. A. (temporary half-pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>F. A.</Forenames>
+      <Text>(temporary half-pay)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +498,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. J. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,36 +573,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, R. F. (Lieut.-Col.) .. ..</Text>
+      <Key>O'Brien</Key>
+      <Forenames>R. F.</Forenames>
+      <Text>(Lieut.-Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. P. (local rank of Col. at Cape Town)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(local rank of Col. at Cape Town)</Text>
       <PageNumber>5982</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, D. J. F. (Lieut.)</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>D. J. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, A. R. (Capt.)</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>A. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5128</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Osburne</Key>
-      <Text>. J. (Lieut.-Col.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,8 +731,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. H. (retired pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +953,9 @@
     <MainItem>
       <Key>Hough</Key>
       <Title>Surg.</Title>
-      <Text>-Maj. C.H. (ceases to belong to the Army Medical Reserve)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,8 +1279,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, O. H. B. (M»j.)</Text>
+      <Key>St. John</Key>
+      <Forenames>O. H. B.</Forenames>
+      <Text>(M»j.)</Text>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Q</Key>
-      <Text>.ueripel, Vet-Lieut.-Col. A. E. (re. tired)</Text>
+      <Text>ueripel, Vet-Lieut.-Col. A. E. (re. tired)</Text>
       <PageNumber>8643</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roache</Key>
-      <Forenames>Lieut H. L.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. L.</Forenames>
       <Text>(temporary halfpay)</Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
@@ -538,8 +539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadow</Key>
-      <Forenames>A.</Forenames>
-      <Text>de S. (Lieut.-Col.) ' ..</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>. (Lieut.-Col.) ' ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pe</Key>
-      <Text>.l, L. (Adj.)</Text>
+      <Text>l, L. (Adj.)</Text>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gladstone</Key>
-      <Text>. S. P. (2nd Lieut,)</Text>
+      <Forenames>S. P.</Forenames>
+      <Text>(2nd Lieut,)</Text>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +749,8 @@
     <MainItem>
       <Key>Hare</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>I. L. O</Forenames>
-      <Text>'H. (resigned)</Text>
+      <Forenames>I. L. O'H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>. J. (Hon. Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>7373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,8 +1160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verner</Key>
-      <Forenames>G.</Forenames>
-      <Text>de W. (Lieut.-Col.)</Text>
+      <Forenames>G. de W</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1202,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elder</Key>
-      <Text>.D. L. (2nd Lieut.)</Text>
+      <Forenames>D. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>

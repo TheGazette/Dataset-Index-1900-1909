@@ -570,7 +570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hcrdman</Key>
-      <Text>.A. W. (2nd Lieut.)</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,8 +612,8 @@
     <MainItem>
       <Key>Findlay</Key>
       <Title>Capt.</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>de La T. dA. (resigned)</Text>
+      <Forenames>W. H. de La T.</Forenames>
+      <Text>dA. (resigned)</Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leckie</Key>
-      <Text>. A. J. (2ud Lieut.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(2ud Lieut.)</Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,8 +754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +803,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dolphin</Key>
-      <Text>. Capt. H. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,8 +837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wymer</Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>H. J. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,8 +1146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chirkson</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (Maj.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1009</PageNumber>
     </MainItem>
   </ItemGroup>

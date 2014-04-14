@@ -939,8 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H.</Forenames>
-      <Text>de E. (2nd Lieut.)</Text>
+      <Forenames>H. de E</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1115,9 @@
       <Key>Reichel</Key>
       <Title>Sir</Title>
       <Forenames>H. E.</Forenames>
-      <Text>Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1708,9 @@
       <Key>Cotterell</Key>
       <Title>Sir</Title>
       <Forenames>J. R. G.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>

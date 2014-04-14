@@ -35,8 +35,10 @@
   <SubSectionTitle>Cadet Corps attached to 1st London</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Capt. R. (resigned)</Text>
+      <Key>St. John</Key>
+      <Title>Capt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,6 +968,13 @@
   <SubSectionTitle>2nd Lieutenants</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Heveningliam</Key>
+      <Forenames>N. W. P.</Forenames>
+      <PageNumber>2263</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Moreing</Key>
       <Forenames>A. H.</Forenames>
       <PageNumber>316</PageNumber>
@@ -1024,6 +1033,14 @@
       <Title>Earl</Title>
       <Text>of (Lieut.-Col.)</Text>
       <PageNumber>1049</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1100,7 +1117,9 @@
       <Key>Napier</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>A. L. M.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1189,9 @@
       <Key>Alexander</Key>
       <Title>Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2368</PageNumber>
     </MainItem>
   </ItemGroup>

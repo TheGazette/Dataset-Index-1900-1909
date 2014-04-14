@@ -149,8 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denny</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,6 +263,14 @@
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Domballe</Key>
+      <Title>Lieut</Title>
+      <Text>, G-. C. (resigned)</Text>
+      <PageNumber>6785</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dixon</Key>
       <Forenames>J.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -316,7 +324,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>C.H. (Lieut.) ..</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McClellan</Key>
-      <Forenames>D. C. St</Forenames>
-      <Text>. G. (Capt.).. ..</Text>
+      <Forenames>D. C. St. G</Forenames>
+      <Text>. (Capt.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dealtey</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. A. B. (resigned)</Text>
       <PageNumber>5128</PageNumber>
     </MainItem>
@@ -856,7 +866,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawshay</Key>
-      <Text>. H. (Adjt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,8 +1666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Forenames>N.</Forenames>
-      <Text>de F. (Lieut.)</Text>
+      <Forenames>N. de F</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

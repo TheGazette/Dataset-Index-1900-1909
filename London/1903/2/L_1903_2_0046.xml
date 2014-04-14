@@ -207,7 +207,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eaglesbush</Key>
-      <Text>(Hughes Vein) Colliery Company, notice of winding up</Text>
+      <Title>(Hughes Vein)</Title>
+      <Forenames>Colliery Company</Forenames>
+      <Text>, notice of winding up</Text>
       <PageNumber>3099</PageNumber>
       <PageNumber>3599</PageNumber>
     </MainItem>
@@ -235,7 +237,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ '</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3013</PageNumber>
     </MainItem>
   </ItemGroup>

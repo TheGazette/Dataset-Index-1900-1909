@@ -333,7 +333,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Text>Lieut. L. T. D. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>L. T. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,7 +1340,9 @@
       <Key>Fowler</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>

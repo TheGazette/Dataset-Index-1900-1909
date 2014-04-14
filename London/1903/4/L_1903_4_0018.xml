@@ -491,7 +491,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. H. (correction)</Text>
       <PageNumber>8199</PageNumber>
     </MainItem>
@@ -602,8 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>D.</Forenames>
-      <Text>de L. (Hon. Col.)</Text>
+      <Forenames>D. de L</Forenames>
+      <Text>. (Hon. Col.)</Text>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,6 +614,14 @@
       <Forenames>B. F.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>7034</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(Hon. Maj.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -895,8 +903,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>E.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>

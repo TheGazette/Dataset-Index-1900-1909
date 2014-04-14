@@ -142,7 +142,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Symonds</Key>
-      <Text>.Capt. G. D.,Temporary DeputyAssist. Adj.-Gen</Text>
+      <Title>Capt.</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>,Temporary DeputyAssist. Adj.-Gen</Text>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingat</Key>
-      <Text>.e, Capt. A. W. S. (correction)</Text>
+      <Text>e, Capt. A. W. S. (correction)</Text>
       <PageNumber>6170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,9 +469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Title>Maj.-Gen.</Title>
-      <Forenames>O</Forenames>
-      <Text>'M., General Officer Commanding</Text>
+      <Title>Maj.-Gen. O'M.</Title>
+      <Text>, General Officer Commanding</Text>
       <PageNumber>6172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,8 +557,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut.-Col. P. F., temporary Col</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>P. F.</Forenames>
+      <Text>, temporary Col</Text>
       <PageNumber>6172</PageNumber>
     </MainItem>
   </ItemGroup>

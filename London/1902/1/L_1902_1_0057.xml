@@ -128,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>Clavering, Rev. H. P. (Acting Chap.)</Text>
+      <Forenames>Clavering</Forenames>
+      <Text>, Rev. H. P. (Acting Chap.)</Text>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>J., jun. (2nd Lieut.) .. ..</Text>
+      <Forenames>J.</Forenames>
+      <Text>, jun. (2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,8 +1148,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Hon. C. H. M. (Capt.)</Text>
+      <Key>St. Clair</Key>
+      <Title>Hon.</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>

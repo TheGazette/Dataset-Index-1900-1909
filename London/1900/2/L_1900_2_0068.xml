@@ -123,8 +123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddo</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +140,9 @@
       <Key>Neave</Key>
       <Title>Sir</Title>
       <Forenames>T. L. H.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +196,9 @@
       <Key>Wrightson</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +215,9 @@
       <Key>Mitchell-Thomson</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +229,7 @@
       <PageNumber>8382</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Kent</Text>
+      <Text>Kent.</Text>
       <PageNumber>4131</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -241,7 +246,9 @@
       <Key>Dering</Key>
       <Title>Sir</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, Bart...</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +490,9 @@
       <Key>Donmlle</Key>
       <Title>Sir</Title>
       <Forenames>W. C. H.</Forenames>
-      <Text>, Bart. ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,9 +558,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Horsey</Forenames>
-      <Text>, S. Y</Text>
+      <Key>De Horsey</Key>
+      <Forenames>S. Y</Forenames>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,8 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luard</Key>
-      <Forenames>H.</Forenames>
-      <Text>du C</Text>
+      <Forenames>H. du C</Forenames>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,8 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. F. St. C</Forenames>
       <PageNumber>6180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biaithwaite</Key>
-      <Text>L. W</Text>
+      <Forenames>L. W</Forenames>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,6 +1414,13 @@
       <Forenames>C. H.</Forenames>
       <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. P. C</Forenames>
+      <PageNumber>6253</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___</KeyDitto>

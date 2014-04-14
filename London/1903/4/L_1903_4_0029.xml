@@ -57,7 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>J. (Hon. Maj.) .. .. ihid. TJre, J. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Maj.) .. .. ihid. TJre, J. (2nd Lieut.)</Text>
       <PageNumber>6786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B. ff. (Lieut.) .. .. S</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>. ff. (Lieut.) .. .. S</Text>
       <PageNumber>024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. G. (resigned)</Text>
       <PageNumber>8202</PageNumber>
     </MainItem>
@@ -770,7 +771,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Havter</Key>
-      <Text>Lieut. W. G. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. N. (resigned)</Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
@@ -801,8 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Philby</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B. (2nd Lieut.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B. (2nd Lieut.)</Text>
       <PageNumber>8026</PageNumber>
     </MainItem>
   </ItemGroup>

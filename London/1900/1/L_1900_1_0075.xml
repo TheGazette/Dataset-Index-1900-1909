@@ -74,8 +74,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. F. Gr. (seconded)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>F. Gr</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +102,9 @@
       <Key>Fowke</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>F. F. O</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +436,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonnell</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. S. K. (super.)</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>S. K.</Forenames>
+      <Text>(super.)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,8 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harmsworth</Key>
-      <Forenames>A. W. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>A. W. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,8 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>G. W. O</Forenames>
-      <Text>'F. (Surg.-Lieut.)</Text>
+      <Forenames>G. W. O'F</Forenames>
+      <Text>. (Surg.-Lieut.)</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +824,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,8 +947,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitford</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. W. K. (seconded)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>W. K.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>

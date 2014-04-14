@@ -618,7 +618,9 @@
       <Key>Peyton</Key>
       <Title>Sir</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +631,9 @@
       </Key>
       <Title>Maj. Sir</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, Bart, (resigned and Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +856,9 @@
       <Key>Corbet</Key>
       <Title>Sir</Title>
       <Forenames>W. O.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cock</Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>A. H. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,8 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Forenames>E.</Forenames>
-      <Text>de G. (Adj.)</Text>
+      <Forenames>E. de G</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1091,9 @@
       <Key>Hardy</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>

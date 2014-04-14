@@ -236,7 +236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sowray</Key>
-      <Text>.G. R. (Adj.)</Text>
+      <Forenames>G. R.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>2624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +254,9 @@
       <Key>Arthur</Key>
       <Title>Sir</Title>
       <Forenames>G. C. A.</Forenames>
-      <Text>, Bart. (Lieut.)'</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ditmas</Key>
-      <Text>.F. B. (Vet.-Lieut.)</Text>
+      <Forenames>F. B.</Forenames>
+      <Text>(Vet.-Lieut.)</Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: T. D. (resigned)</Text>
       <PageNumber>3041</PageNumber>
     </MainItem>
@@ -1193,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Hon. Col. . H. J. (resigned)</Text>
       <PageNumber>4254</PageNumber>
     </MainItem>

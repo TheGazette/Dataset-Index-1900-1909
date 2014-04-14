@@ -572,7 +572,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>Cupt. A. G. (antedated)</Text>
+      <Title>Cupt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +656,8 @@
     <MainItem>
       <Key>Wade</Key>
       <Title>Capt.</Title>
-      <Forenames>H. M. St</Forenames>
-      <Text>. A. (temporary half-pay)</Text>
+      <Forenames>H. M. St. A</Forenames>
+      <Text>. (temporary half-pay)</Text>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,8 +837,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrcll, Capt. H. P. C. (resigned)</Text>
+      <Key>O'Farrcll</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. P. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3162</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -13,7 +13,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bearne</Key>
-      <Text>L. C. (2nd Lieut.)</Text>
+      <Forenames>L. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,8 +255,8 @@
     <MainItem>
       <Key>Pollard</Key>
       <Title>Capt.</Title>
-      <Forenames>A. E. St</Forenames>
-      <Text>. V. (Ollicer of a Comp my of Gdntlcmen Cadets)</Text>
+      <Forenames>A. E. St. V</Forenames>
+      <Text>. (Ollicer of a Comp my of Gdntlcmen Cadets)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +284,9 @@
     <MainItem>
       <Key>Hiking</Key>
       <Title>Lieut.</Title>
-      <Text>-Col.R.,C.B. (Professor)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Linus</Key>
-      <Text>E. (Hon. Capt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>7748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1032,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chawner</Key>
-      <Text>A. (Surg.-Lieut.-Cdl.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Surg.-Lieut.-Cdl.)</Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -413,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>C. E. (Capt.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrill</Key>
-      <Text>T...T. (2nd Lieut.) ..</Text>
+      <Forenames>T.</Forenames>
+      <Text>..T. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,9 +751,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautry</Forenames>
-      <Text>, F. P. (Maj.) .. ..</Text>
+      <Key>Du Sautry</Key>
+      <Forenames>F. P.</Forenames>
+      <Text>(Maj.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,8 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G. (2nd Lieut.) ..</Text>
+      <Forenames>A. St. G</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,6 +985,14 @@
       <Forenames>B. A.</Forenames>
       <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Legh</Key>
+      <Forenames>H. L.</Forenames>
+      <Text>(Surg.-Capt.)</Text>
+      <PageNumber>8170</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1505,7 +1515,9 @@
       <Key>KnowleB</Key>
       <Title>Sir</Title>
       <Forenames>L.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

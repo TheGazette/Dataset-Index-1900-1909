@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iBednall</Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>5081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,14 +38,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bence</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>Helen</Forenames>
+      <Title>Helen.</Title>
       <PageNumber>4596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +54,7 @@
       <Key>
         <KeyDitto>___ .</KeyDitto>
       </Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>5169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,21 +75,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Beswick</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>6353</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beverly</Key>
-      <Forenames>Fanny</Forenames>
+      <Title>Fanny .</Title>
       <PageNumber>4757</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bewsher</Key>
-      <Forenames>Isabella</Forenames>
+      <Title>Isabella .</Title>
       <PageNumber>6522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blanchflower</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>6577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,21 +124,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloomfield</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blyton</Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>4759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boldron</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,8 +166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Borrowman</Key>
-      <Forenames>John</Forenames>
-      <Text>.»</Text>
+      <Title>John .</Title>
+      <Text>»</Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourne</Key>
-      <Forenames>Fanny</Forenames>
+      <Title>Fanny .</Title>
       <PageNumber>6427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen-Rowlands</Key>
-      <Forenames>Judge</Forenames>
+      <Title>Judge .</Title>
       <PageNumber>6523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>4754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,14 +282,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brandham</Key>
-      <Forenames>Phillis</Forenames>
+      <Title>Phillis .</Title>
       <PageNumber>5377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brandreth</Key>
-      <Forenames>Anne</Forenames>
+      <Title>Anne .</Title>
       <PageNumber>6525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,14 +310,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brewer</Key>
-      <Forenames>James</Forenames>
+      <Title>James.</Title>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brewis</Key>
-      <Forenames>Frances</Forenames>
+      <Title>Frances .</Title>
       <PageNumber>5968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
-      <Forenames>David</Forenames>
+      <Title>David .</Title>
       <PageNumber>5167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,21 +355,23 @@
       <Key>Brocklebank</Key>
       <Title>Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brooks</Key>
-      <Forenames>Eleanor</Forenames>
+      <Title>Eleanor .</Title>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brookshaw</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>4598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +415,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +449,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James.</Title>
       <PageNumber>5760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullard</Key>
-      <Forenames>Fred</Forenames>
+      <Title>Fred .</Title>
       <PageNumber>6207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>Moses</Forenames>
+      <Title>Moses.</Title>
       <PageNumber>4835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,15 +559,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bythesea</Key>
-      <Title>Admiral</Title>
-      <Forenames>John</Forenames>
+      <Title>Admiral John .</Title>
       <PageNumber>5084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cains</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>6431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,16 +587,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Capes</Key>
-      <Forenames>Marianne</Forenames>
+      <Title>Marianne .</Title>
       <PageNumber>4933</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Title>Rev.</Title>
-      <Forenames>Charles</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Rev. Charles .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +631,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sarah</Forenames>
+      <Title>Sarah .</Title>
       <PageNumber>6207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,23 +645,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Denney</Key>
-      <Forenames>Agnes</Forenames>
+      <Title>Agnes .</Title>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Case</Key>
-      <Forenames>Martha</Forenames>
-      <Text>.. .. .. .. ibid. Dent, F. F. D</Text>
+      <Title>Martha .</Title>
+      <Text>. .. .. .. ibid. Dent, F. F. D</Text>
       <PageNumber>4752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cass</Key>
-      <Forenames>Charles</Forenames>
-      <Text>.. .. .. . i 5167 Denton, Alice</Text>
+      <Title>Charles .</Title>
+      <Text>. .. .. . i 5167 Denton, Alice</Text>
       <PageNumber>5168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +686,7 @@
       <PageNumber>6520</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Ellicombe, H. M.</Text>
+      <Text>Ellicombe, H. M</Text>
       <PageNumber>5081</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -698,8 +700,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
-      <Text>.. ... .. ibid. Fellows, Thomas</Text>
+      <Title>Thomas .</Title>
+      <Text>. ... .. ibid. Fellows, Thomas</Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
     <SubItem>

@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bai</Key>
-      <Text>.lv, E. C. R. (2nd Lieut.).. ..</Text>
+      <Text>lv, E. C. R. (2nd Lieut.).. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,9 +282,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lance-Holmes</Forenames>
-      <Text>, W. C. L. (Lieut.)</Text>
+      <Key>De Lance-Holmes</Key>
+      <Forenames>W. C. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prowse</Key>
-      <Text>. C. B. (Adj.)</Text>
+      <Forenames>C. B.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyssen</Key>
-      <Text>. .T. H. S. (2nd Lieut.) ..</Text>
+      <Text>.T. H. S. (2nd Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burridge</Key>
-      <Text>. W. T. (Capt.) .. ..</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1001,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. M</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6768</PageNumber>
     </MainItem>
   </ItemGroup>

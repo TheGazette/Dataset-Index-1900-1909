@@ -438,7 +438,9 @@
       <Key>Austin</Key>
       <Title>Capt. Sir</Title>
       <Forenames>W. M. B.</Forenames>
-      <Text>, Bart. (correction)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>A. (2nd Lieut.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +562,9 @@
     <MainItem>
       <Key>Fergusson</Key>
       <Title>Maj.</Title>
-      <Text>-Glen. Sir C, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1089,9 @@
   <ItemGroup>
     <MainItem>
       <Key>BoxalLJ</Key>
-      <Text>(Hon. Capt.) Brown, R. R. (Lieut.-Col. and Hon. Surg.-Col.)</Text>
+      <Title>(Hon. Capt.)</Title>
+      <Forenames>Brown</Forenames>
+      <Text>, R. R. (Lieut.-Col. and Hon. Surg.-Col.)</Text>
       <PageNumber>4285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>G. (Capt.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,7 +1856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>W. M. (Maj.)</Text>
+      <Forenames>W. M.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4867</PageNumber>
     </MainItem>
   </ItemGroup>

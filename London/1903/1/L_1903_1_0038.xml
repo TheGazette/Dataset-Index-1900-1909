@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brady</Key>
-      <Text>, G-. H</Text>
+      <Text>G-. H</Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, G-. L</Text>
+      <Text>G-. L</Text>
       <PageNumber>2145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunkett-Cole</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Text>.L. H</Text>
+      <Forenames>L. H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,15 +286,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>, Admiral 'Sir H. F</Text>
+      <Title>Admiral</Title>
+      <Text>'Sir H. F</Text>
       <PageNumber>2145</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Naval Aide-de-Camp to His Majesty</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Capt. M. P</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Capt.</Title>
+      <Forenames>M. P</Forenames>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clift</Key>
-      <Text>, II</Text>
+      <Text>II</Text>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toop</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,8 +630,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dogherty, F. B.</Text>
+      <Key>O'Dogherty</Key>
+      <Forenames>F. B.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Court</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>,* H. M. C</Text>
+      <Text>* H. M. C</Text>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, 'J</Text>
+      <Text>'J</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockman</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1165,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancellation)</Text>
+      <Title>(cancellation)</Title>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>, 11. C. (Lieut.)</Text>
+      <Text>11. C. (Lieut.)</Text>
       <PageNumber>1337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brewster</Key>
-      <Text>. H. C. (Sub-Lieut.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>2145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairw</Key>
-      <Text>.eather,.H. (Sub-Lieut.)</Text>
+      <Text>eather,.H. (Sub-Lieut.)</Text>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gutcher</Key>
-      <Text>, GC., (Engineer),</Text>
+      <Text>GC., (Engineer),</Text>
       <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>

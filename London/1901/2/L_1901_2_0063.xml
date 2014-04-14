@@ -185,7 +185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentley</Key>
-      <Text>. G. W. (Capt,)</Text>
+      <Forenames>G. W.</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>6919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. V. Y. (antedated) ,</Text>
       <PageNumber>4711</PageNumber>
     </MainItem>
@@ -1045,8 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>J. D. T.</Forenames>
+      <Title>Capt. St. J.</Title>
+      <Forenames>D. T.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>6983</PageNumber>
     </MainItem>
@@ -1329,7 +1330,9 @@
     <MainItem>
       <Key>Milborne-Swinnerton-</Key>
       <Forenames>Pilkington</Forenames>
-      <Text>, Sir T. E., Bart. (Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1481,7 +1484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guy</Key>
-      <Text>. K. F. (Lieut.)</Text>
+      <Forenames>K. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9065</PageNumber>
     </MainItem>
   </ItemGroup>

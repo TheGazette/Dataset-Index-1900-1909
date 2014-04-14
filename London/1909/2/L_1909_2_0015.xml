@@ -59,7 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heatii</Key>
-      <Text>Lieut.-Col. and Hon. Col. A. H</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>A. H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +77,9 @@
       <Key>Hermon-Hodge</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>B. T.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +223,9 @@
       <Key>Lees</Key>
       <Title>Maj. and Hon. Lieut.-Col. Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. .. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +547,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Capt. and Hon. Lieut.-Col. F. J</Text>
+      <Key>St. John</Key>
+      <Title>Capt. and Hon. Lieut.-Col.</Title>
+      <Forenames>F. J</Forenames>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +566,9 @@
       <Key>ScourfieM</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>O. H. P.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +600,9 @@
     <MainItem>
       <Key>Shakerley</Key>
       <Title>Lieut.-Col.</Title>
-      <Text>»nd Hon. Col. Sir W. G., Bart. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +611,9 @@
       <Key>Shelley</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>Maj. and Hon. Lieut.-Col. A. H</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>A. H.</Forenames>
       <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,8 +709,8 @@
     <MainItem>
       <Key>Swauson</Key>
       <Title>Maj.</Title>
-      <Forenames>D. A. St</Forenames>
-      <Text>. C. .. ..</Text>
+      <Forenames>D. A. St. C</Forenames>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +775,9 @@
       <Key>Walker</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +850,9 @@
       <Key>Williams-Wynn</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>H. L. W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>J. A. (resigned)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Juler</Key>
-      <Text>G. C. (Lieut.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,8 +1321,8 @@
     <MainItem>
       <Key>Sadleir-Jackson</Key>
       <Title>Capt.</Title>
-      <Forenames>L. W. De V.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>L. W. De V</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>

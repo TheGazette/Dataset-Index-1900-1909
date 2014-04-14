@@ -456,8 +456,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de F. (Capt.)</Text>
+      <Forenames>H. M. de F</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,8 +633,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, G. J. P. (Lieut.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>G. J. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>W. M. M. O</Forenames>
-      <Text>'D. (2nd Lieut.)</Text>
+      <Forenames>W. M. M. O'D</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,8 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevallier</Key>
-      <Forenames>F.E.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>F.E. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,8 +1206,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. F. H. F. (cancellation)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. H. F.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>5393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,7 +1720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeile</Key>
-      <Text>H. C. (2nd Lieut.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -491,6 +491,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berrv</Key>
+      <Forenames>P. P. E.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6585</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7026</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Despard</Key>
       <Forenames>W</Forenames>
       <Text>: H. C. (Adjt.)</Text>
@@ -666,8 +682,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. L. (Capt.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderson</Key>
-      <Text>. S. F. (Capt.)</Text>
+      <Forenames>S. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,8 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland-Hunt</Key>
-      <Forenames>E. S.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>E. S. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,9 +1002,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevalier</Key>
-      <Forenames>F. E.</Forenames>
-      <Text>de C. (Adj.)</Text>
+      <Forenames>F. E. de C</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>7368</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>H. S.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7026</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1096,8 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (Maj.)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>7367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,8 +1154,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gundry</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. B. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leefe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! J. B. (seconded)</Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
@@ -1302,8 +1329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Title>St.</Title>
-      <Forenames>J. R.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>R.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>7186</PageNumber>
     </MainItem>
@@ -1408,8 +1435,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, W. L. (Lieut.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,8 +1515,8 @@
     <MainItem>
       <Key>Waller</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. S.</Forenames>
-      <Text>de W. (seconded) Webb, W. V. B. (Capt.)</Text>
+      <Forenames>R. S. de W</Forenames>
+      <Text>. (seconded) Webb, W. V. B. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,8 +1802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1790,8 +1818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard-Lowsley</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Capt.) .. Prichard, W. C. H. (Lieut.) Russell, B. B. (Lieut.-Col.) E</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Capt.) .. Prichard, W. C. H. (Lieut.) Russell, B. B. (Lieut.-Col.) E</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

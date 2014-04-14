@@ -111,6 +111,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Sales-La</Key>
+      <Forenames>Terriere</Forenames>
+      <Text>, Capt. F. L. (resigned)</Text>
+      <PageNumber>2712</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dundas</Key>
       <Title>Capt.</Title>
       <Forenames>H. H. P.</Forenames>
@@ -307,8 +315,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Maj. G. (leaves Regiment)</Text>
+      <Key>O'Connor</Key>
+      <Title>Maj.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(leaves Regiment)</Text>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,8 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. (Lieut.)</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,8 +1278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Forenames>H. F. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>H. F. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,8 +1386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Forenames>J. De B.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>J. De B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1512,9 +1522,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, Capt. H. D. (seconded)</Text>
+      <Key>De Pree</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,8 +1540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>W. H. E.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>W. H. E. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,9 +1621,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Val</Forenames>
-      <Text>, 2nd Lieut. G. T. (correction)</Text>
+      <Key>Du Val</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -561,7 +561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>., H. C. (2nd Lieut.)</Text>
+      <Text>, H. C. (2nd Lieut.)</Text>
       <PageNumber>8454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,8 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Siffken</Key>
-      <Forenames>B. C.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>B. C. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,6 +802,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The Northamptonshire Regiment</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>H. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6585</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>. --. .</KeyDitto>
   <ItemGroup>
     <MainItem>
@@ -834,8 +842,9 @@
   <SubSectionTitle>3rd Battalion.^</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. H. S. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. H. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8152</PageNumber>
     </MainItem>
   </ItemGroup>

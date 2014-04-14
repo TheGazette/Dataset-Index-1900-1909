@@ -116,7 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>. Lieut. H. E. (resigned) '</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>(resigned) '</Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,8 +436,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. H. (Adj.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. H.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>2530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,6 +1049,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Cadet Corps attached to 1st Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beer</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>2848</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>2nd Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1180,8 +1192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Unett</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>W. H. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>

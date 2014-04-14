@@ -464,6 +464,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Putron</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>3388</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Earnshaw</Key>
       <Forenames>V. A.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -600,6 +609,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pentheny-O'Kelly</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>4573</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Garnett</Key>
       <Forenames>W. B.</Forenames>
       <Text>(Lieut.)</Text>
@@ -665,8 +683,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Forenames>E. S. St</Forenames>
-      <Text>. B. (Hon. Col.)</Text>
+      <Forenames>E. S. St. B</Forenames>
+      <Text>. (Hon. Col.)</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +694,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Forenames>E. S. St</Forenames>
-      <Text>. B. (resigned)</Text>
+      <Forenames>E. S. St. B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +884,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G. R. (2nd Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,8 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de R. (2nd Lieut.)</Text>
+      <Forenames>H. E. de R</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,8 +1253,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Adj.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,6 +1314,13 @@
       <Forenames>B. S.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>4763</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von B</Key>
+      <Text>im Thurn, B. (Lieut.)</Text>
+      <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Bryngolwg Cottage Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Bryngolwg Cottage Company</Text>
       <PageNumber>3594</PageNumber>
       <PageNumber>3595</PageNumber>
     </MainItem>
@@ -156,7 +158,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: City of York Tramways Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: City of York Tramways Company</Text>
       <PageNumber>4803</PageNumber>
     </MainItem>
     <SubItem>
@@ -250,9 +254,11 @@
     </SubItem>
     <SubItem>
       <Text>
-        <PageNumber>4513</PageNumber>
-        <PageNumber>4600</PageNumber>
-        <PageNumber>4707</PageNumber>
+        <CategoryTitle>
+          <PageNumber>4513</PageNumber>
+          <PageNumber>4600</PageNumber>
+          <PageNumber>4707</PageNumber>
+        </CategoryTitle>
       </Text>
       <PageNumber>3902</PageNumber>
       <PageNumber>4005</PageNumber>
@@ -317,7 +323,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Dareheit and African Syndicate</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Dareheit and African Syndicate</Text>
       <PageNumber>2633</PageNumber>
       <PageNumber>2634</PageNumber>
       <PageNumber>2635</PageNumber>

@@ -29,8 +29,10 @@
     <MainItem>
       <Key>Sarmento</Key>
       <Title>Col.</Title>
-      <Forenames>J. A.</Forenames>
-      <Text>de M., Hon. Commander, Royal Victorian Order ..</Text>
+      <Forenames>J. A. de M</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +57,9 @@
       <Key>Sawle</Key>
       <Title>Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +104,9 @@
       <Key>Serra</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +114,9 @@
     <MainItem>
       <Key>Sessi</Key>
       <Forenames>Cavalier N. A. P.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +193,9 @@
       <Key>Slade</Key>
       <Title>Capt.</Title>
       <Forenames>E. J. W.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +273,9 @@
     <MainItem>
       <Key>Somerset</Key>
       <Title>Duchess</Title>
-      <Text>of, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +283,9 @@
     <MainItem>
       <Key>Sonnino</Key>
       <Forenames>Principe</Forenames>
-      <Text>di, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +309,9 @@
     <MainItem>
       <Key>Steel</Key>
       <Forenames>Right</Forenames>
-      <Text>Hon. J., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,14 +320,20 @@
       <Key>Story</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stretton</Key>
-      <Text>. Lieut. A. J., Royal Victorian Order] Fifth Class</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +360,9 @@
       <Key>Stuart</Key>
       <Title>Capt.</Title>
       <Forenames>L. C</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +371,9 @@
       <Key>Sturdee</Key>
       <Title>Capt.</Title>
       <Forenames>F. C. D.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +397,9 @@
     <MainItem>
       <Key>Taronca</Key>
       <Forenames>Count</Forenames>
-      <Text>, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +464,9 @@
     <MainItem>
       <Key>Todini</Key>
       <Forenames>Map D.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +508,9 @@
       <Key>Turin</Key>
       <Title>H.R.H.</Title>
       <Forenames>Count</Forenames>
-      <Text>of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,14 +544,16 @@
       <Key>Valle</Key>
       <Title>Lieut.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Beek</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Beek</Forenames>
       <Text>, J. N., Companion of the Imperial Serviee Order</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
@@ -534,9 +568,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rensburg</Forenames>
-      <Text>, H. P. F. J., Member of the Legislative Council of the Transvaal</Text>
+      <Key>Van Rensburg</Key>
+      <Forenames>H. P. F. J.</Forenames>
+      <Text>, Member of the Legislative Council of the Transvaal</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +588,9 @@
     <MainItem>
       <Key>Vessella</Key>
       <Forenames>Signor A.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +615,10 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Sir B. W., Bart., Commander, Royal Victorian Order.. .. .. '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +661,9 @@
       <Key>Warren</Key>
       <Title>Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +732,9 @@
       <Key>Wilson</Key>
       <Title>Hon. Sir</Title>
       <Forenames>R. R. T.</Forenames>
-      <Text>, Bart., Order of Mercy</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +776,9 @@
       <Key>Woods</Key>
       <Title>Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +803,9 @@
       <Key>Young</Key>
       <Title>Sir</Title>
       <Forenames>G.</Forenames>
-      <Text>, Bart., Chief Charity Commissioner for England and Wales</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +814,9 @@
       <Key>Zanardelli</Key>
       <Title>H.E.</Title>
       <Forenames>Signor G.</Forenames>
-      <Text>, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +1012,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prime</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, i F. R. (resigned and Hon. Lieut.)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
@@ -1134,7 +1183,9 @@
       <Key>Butcher</Key>
       <Title>Maj.</Title>
       <Forenames>A. E. A.</Forenames>
-      <Text>, Assist. Military Secretary to Gen. Sir C. M. Clarke, Bart. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>

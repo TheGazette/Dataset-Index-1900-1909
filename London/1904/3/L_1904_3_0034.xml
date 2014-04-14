@@ -335,8 +335,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. B. E. de W. (removed, physically unfit)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. E. de W</Forenames>
+      <Text>. (removed, physically unfit)</Text>
       <PageNumber>4181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,8 +893,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. J. (Lieut.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,8 +909,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, L. (Assistant Paymaster)</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>L.</Forenames>
+      <Text>(Assistant Paymaster)</Text>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,9 +1246,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jersev</Forenames>
-      <Text>, Eev. S. (Hon. Chap.)</Text>
+      <Key>De Jersev</Key>
+      <Title>Eev.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(Hon. Chap.)</Text>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>

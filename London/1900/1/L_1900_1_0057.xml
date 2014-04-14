@@ -140,8 +140,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eiddell</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. T. R. (to command)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>(to command)</Text>
       <PageNumber>3411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,9 @@
       <Key>Barttelot</Key>
       <Title>Sir</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, Bart, (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,8 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mosgrove</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. P. (Lieut.)</Text>
+      <Forenames>R. St. P</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,6 +632,14 @@
       <Forenames>A. R.</Forenames>
       <Text>(resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, C. (2nd Lieut.)</Text>
+      <PageNumber>2764</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1244,8 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. (seconded)</Text>
+      <Title>Lieut-Gen. (seconded)</Title>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,7 +1436,9 @@
       <Key>Walker</Key>
       <Title>Hon. Maj. Sir</Title>
       <Forenames>J. H</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,8 +1627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C. (2nd Lieut, super. )</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>. (2nd Lieut, super. )</Text>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,8 +1651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. M. (Lieut.)</Text>
+      <Forenames>G. St. M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>

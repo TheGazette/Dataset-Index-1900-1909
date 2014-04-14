@@ -98,7 +98,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Islington), reduction of capital</Text>
+      <Title>(Islington)</Title>
+      <Text>, reduction of capital</Text>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hearns</Key>
-      <Text>, notice of winding up</Text>
+      <Text>notice of winding up</Text>
       <PageNumber>325</PageNumber>
       <PageNumber>412</PageNumber>
     </MainItem>
@@ -328,7 +329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>. Jadoo, reduction of capital</Text>
+      <Forenames>Jadoo</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>1432</PageNumber>
       <PageNumber>2375</PageNumber>
     </MainItem>
@@ -456,12 +458,16 @@
       <PageNumber>2957</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>St. Clement Danes</Text>
-      <PageNumber>1585</PageNumber>
+      <Text>. Putney</Text>
+      <PageNumber>3297</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>St. James's, Westminster</Text>
-      <PageNumber>712</PageNumber>
+      <Text>St. George's-in-the-East</Text>
+      <PageNumber>1956</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>St. Martin's-in-the-Fields</Text>
+      <PageNumber>2043</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>

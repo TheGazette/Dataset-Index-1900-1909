@@ -439,8 +439,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, 2nd Lieut. F. B. (seconded)</Text>
+      <Key>O'Neill</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>8760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,15 +471,16 @@
   <ItemGroup>
     <MainItem>
       <Key>LindsBil</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. R. IF..(half-pay) ., :8|</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>R.</Forenames>
+      <Text>IF..(half-pay) ., :8|</Text>
       <PageNumber>43</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. S. (seconded)</Text>
       <PageNumber>6465</PageNumber>
     </MainItem>
@@ -697,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>de V. (Capt.)</Text>
+      <Title>de V. (Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,6 +710,14 @@
       <Forenames>H. D.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>5535</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>E. A. A.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -799,8 +810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferies</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +821,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (antedated)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>8680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +989,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Lieut C. H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C. H.</Forenames>
       <Text>(absorbed into Establishment)</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
@@ -1046,8 +1058,8 @@
     <MainItem>
       <Key>Adding</Key>
       <Title>Capt.</Title>
-      <Forenames>H.St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>H.St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>8594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth</Key>
-      <Text>E. (Lieut.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Forenames>Lieut T.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>T.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>6026</PageNumber>
     </MainItem>

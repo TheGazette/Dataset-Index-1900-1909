@@ -81,7 +81,9 @@
       <Key>Milne</Key>
       <Title>Capt. Sir</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,8 +218,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Eegan, M. J. ..</Text>
+      <Key>O'Eegan</Key>
+      <Forenames>M. J.</Forenames>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Auley</Key>
-      <Text>F. E</Text>
+      <Forenames>F. E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +502,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,8 +1157,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. St. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>6804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,9 +1592,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Larue</Forenames>
-      <Text>, P. C. C</Text>
+      <Key>De Larue</Key>
+      <Forenames>P. C. C.</Forenames>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -541,8 +541,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Col. J. V. V. (retired)</Text>
+      <Title>Lieut-Col. and Col.</Title>
+      <Forenames>J. V. V.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1256,9 @@
     <MainItem>
       <Key>Lockhart</Key>
       <Title>Col. Sir</Title>
-      <Text>8. M., Bart, (half-pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4783</PageNumber>
     </MainItem>
   </ItemGroup>

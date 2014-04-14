@@ -88,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slaughter</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J. (resigned)</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
@@ -453,7 +453,9 @@
       <Key>Fowler</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selwyn</Key>
-      <Text>Capt, H. J. (seconded) ..</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, H. J. (seconded) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>F. H. (2nd Lieut.)</Text>
+      <Forenames>F. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1043,9 @@
       <Key>Cooke</Key>
       <Title>Sir</Title>
       <Forenames>W. H. C. W.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1387,9 @@
       <Key>Mowbray</Key>
       <Title>Sir</Title>
       <Forenames>R. G. C</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>

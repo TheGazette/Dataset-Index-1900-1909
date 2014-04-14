@@ -59,7 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halls</Key>
-      <Text>S. V..(2nd,Lieut.)</Text>
+      <Forenames>S. V.</Forenames>
+      <Text>.(2nd,Lieut.)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +623,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>SirF. V.L., Bart.(Capt.)'</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>W. .E: (2nd Eieiit:)</Text>
+      <Forenames>W.</Forenames>
+      <Text>.E: (2nd Eieiit:)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +761,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lightfoot</Key>
-      <Text>L.' J. (2nd Lieut.) '</Text>
+      <Forenames>L.</Forenames>
+      <Text>' J. (2nd Lieut.) '</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1093,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Text>H. S. (Lieut.)'</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>(Lieut.)'</Text>
       <PageNumber>7851</PageNumber>
     </MainItem>
   </ItemGroup>

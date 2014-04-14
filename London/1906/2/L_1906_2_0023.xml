@@ -49,8 +49,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>L. S. F. De R.</Forenames>
-      <Text>(Hon. Maj.)</Text>
+      <Forenames>L. S. F. De R</Forenames>
+      <Text>. (Hon. Maj.)</Text>
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,6 +86,14 @@
       <Forenames>F. A. S.</Forenames>
       <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -292,9 +300,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zyl</Forenames>
-      <Text>, P. A. (2nd Lieut.)</Text>
+      <Key>Van Zyl</Key>
+      <Forenames>P. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +644,9 @@
       <Key>Abercromby</Key>
       <Title>Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +715,9 @@
       <Key>Fitzwygram</Key>
       <Title>Sir</Title>
       <Forenames>F. L. F.</Forenames>
-      <Text>, Bart., (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>

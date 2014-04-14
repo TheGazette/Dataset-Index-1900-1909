@@ -57,7 +57,9 @@
       <Key>Woodhouse</Key>
       <Title>Dr.</Title>
       <Forenames>S.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +76,9 @@
       <Key>Yacovleff</Key>
       <Title>Lieut.</Title>
       <Forenames>B.</Forenames>
-      <Text>,Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +159,9 @@
       <Key>Boyle</Key>
       <Title>Lieut. Hon.</Title>
       <Forenames>J.</Forenames>
-      <Text>, Extra Aide-deCamp to Sir T. D. GibsonCarmichael, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>Murdoch, Col. P. R., Chief Engineer</Text>
+      <Forenames>Murdoch</Forenames>
+      <Text>, Col. P. R., Chief Engineer</Text>
       <PageNumber>8279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +194,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Text>Col. H. H., Asst.-Adj.-Gen</Text>
+      <Title>Col.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>, Asst.-Adj.-Gen</Text>
       <PageNumber>9559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +637,9 @@
       <Key>Cunvnghame</Key>
       <Title>Sir</Title>
       <Forenames>P. F.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +672,8 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Title>Capt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (resigned)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>8280</PageNumber>
     </MainItem>
   </ItemGroup>

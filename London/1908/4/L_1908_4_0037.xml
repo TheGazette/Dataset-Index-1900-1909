@@ -384,7 +384,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratbcona</Key>
-      <Text>and Mount Boyal, Bt. Hon. Lord (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +802,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, C. (Maj.) .</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.) .</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,8 +1682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanfleld</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,7 +1734,9 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8170</PageNumber>
     </MainItem>
   </ItemGroup>

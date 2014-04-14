@@ -87,6 +87,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>E.A. A.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>2923</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Goodwin</Key>
       <Forenames>W. H.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -217,8 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,8 +299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S. (2nd Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S. (2nd Lieut.)</Text>
       <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,8 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>W. B. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>W. B. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bobinson</Key>
-      <Forenames>B. H. St</Forenames>
-      <Text>. C. C. (2nd Lieut.)</Text>
+      <Forenames>B. H. St. C</Forenames>
+      <Text>. C. (2nd Lieut.)</Text>
       <PageNumber>1005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,6 +1004,14 @@
       <Forenames>W. B.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>603</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Landre-Grogan</Key>
+      <Forenames>F. V.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2351</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1664,8 +1681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>A. T. De M.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>A. T. De M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>

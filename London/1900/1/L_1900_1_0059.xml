@@ -240,7 +240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>J. F. (2nd Lieut.)</Text>
+      <Forenames>J. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry | F. H. (super.)</Text>
       <PageNumber>2348</PageNumber>
     </MainItem>
@@ -553,7 +554,9 @@
       <Key>Stewart-Richardson</Key>
       <Title>Sir</Title>
       <Forenames>K. A.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,8 +615,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalglish</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de G. (2nd Lieut.)</Text>
+      <Forenames>C. A. de G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +690,9 @@
       <Key>Stewart-Richardson</Key>
       <Title>Sir</Title>
       <Forenames>E. A.</Forenames>
-      <Text>Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. (resigned)</Text>
       <PageNumber>2766</PageNumber>
     </MainItem>
@@ -1174,7 +1179,9 @@
       <Key>Anstruther</Key>
       <Title>Sir</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, Bart. (Lieut-Col. Comdt)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1772,6 +1779,15 @@
       <Forenames>A. A.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>1586</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Vallon</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>de J. (resigned)</Text>
+      <PageNumber>815</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

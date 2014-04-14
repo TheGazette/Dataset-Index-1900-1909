@@ -153,8 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (2nd Lieut.)</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +639,8 @@
     <MainItem>
       <Key>Thom</Key>
       <Title>Lieut.</Title>
-      <Forenames>M. St</Forenames>
-      <Text>. C. (resigned)</Text>
+      <Forenames>M. St. C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,8 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bobinson</Key>
-      <Forenames>B. H. St</Forenames>
-      <Text>. C. C. (Capt.)</Text>
+      <Forenames>B. H. St. C</Forenames>
+      <Text>. C. (Capt.)</Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +950,9 @@
       <Key>Shaw</Key>
       <Title>Sir</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, Bart. (Lieut.-Col and to command) .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,9 +1030,17 @@
     <MainItem>
       <Key>Barclay</Key>
       <Title>Capt.</Title>
-      <Forenames>L. G.</Forenames>
-      <Text>de E. (resigned)</Text>
+      <Forenames>L. G. de E</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>2814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Moleyns</Key>
+      <Forenames>E. P. A.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

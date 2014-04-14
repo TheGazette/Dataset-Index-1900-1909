@@ -617,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardinal</Key>
-      <Text>.Harford, H. (Lieut.) ..</Text>
+      <Forenames>Harford</Forenames>
+      <Text>, H. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1177,9 @@
     <MainItem>
       <Key>Crossley</Key>
       <Title>Temporary Lieut.</Title>
-      <Text>-CoL Sir S., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,6 +1252,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>5508</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
@@ -1261,6 +1273,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Freville</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6227</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
@@ -1268,6 +1289,14 @@
       <Forenames>H.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>4642</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guerin</Key>
+      <Forenames>S. C. W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1564,7 +1593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyke</Key>
-      <Forenames>Lieut C.J.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C.J.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
@@ -1660,7 +1690,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. F. H. (resigned)</Text>
       <PageNumber>6571</PageNumber>
     </MainItem>
@@ -1708,8 +1738,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans-Ffeke</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>Hon. P. C. (resigned)</Text>
+      <Title>Lieut Hon.</Title>
+      <Forenames>P. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1820,7 +1851,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut T.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>T.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>7650</PageNumber>
     </MainItem>

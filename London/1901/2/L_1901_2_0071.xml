@@ -660,8 +660,8 @@
     <MainItem>
       <Key>Egerton</Key>
       <Title>Hon.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de T; ..</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>; ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Text>. W N. (Hon. Lieut.-Col.)</Text>
+      <Forenames>W</Forenames>
+      <Text>N. (Hon. Lieut.-Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

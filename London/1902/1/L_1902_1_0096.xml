@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snudden</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swaibrick</Key>
-      <Text>. Richard, and Co</Text>
+      <Forenames>Richard</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +688,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Manor Park)</Text>
+      <Title>(Manor Park)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburu</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>, C, and Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>. T. H. and S</Text>
+      <Forenames>T. H.</Forenames>
+      <Text>and S</Text>
       <PageNumber>4210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>We</Key>
-      <Text>.bster-Wedderburn and Laok</Text>
+      <Text>bster-Wedderburn and Laok</Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whatley</Key>
-      <Forenames>Lawrance</Forenames>
+      <Title>Lawrance .</Title>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1934,7 +1937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrigley</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1970,8 +1973,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeadon</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. .. .«</Text>
+      <Title>Brothers .</Title>
+      <Text>. .. .«</Text>
       <PageNumber>1911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2064,7 +2067,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, C L</Text>
+      <Forenames>C</Forenames>
+      <Text>L</Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2082,7 +2086,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sarah</Forenames>
+      <Title>Sarah .</Title>
       <PageNumber>3118</PageNumber>
     </MainItem>
   </ItemGroup>

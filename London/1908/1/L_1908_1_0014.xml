@@ -78,6 +78,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. N. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Eastwood</Key>
       <Title>Maj.</Title>
       <Forenames>H.</Forenames>
@@ -181,9 +189,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wiart</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2169</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Warter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G. (2nd Lieut.)</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>H. A. (Capt.)</Text>
+      <Forenames>H. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +782,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>Lord A. E. (Capt.)</Text>
+      <Title>Lord</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +841,9 @@
     <MainItem>
       <Key>Cooke</Key>
       <Forenames>E. D. M. H.</Forenames>
-      <Text>(Capt.) .. Corbett, Lieut. C. N. (retired) Cowan, W. M.C. (Lieut.) .. Cory, C. N. (2nd Lieut.) Crocker, J. C. (Lieut.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,9 +916,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D. (Maj.)</Text>
+      <Key>De Pree</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,17 +932,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, J. P. (Maj.)</Text>
+      <Key>Du Cane</Key>
+      <Forenames>J. P.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, O. C. (Capt.)</Text>
+      <Key>Du Port</Key>
+      <Forenames>O. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>971</PageNumber>
     </MainItem>
   </ItemGroup>

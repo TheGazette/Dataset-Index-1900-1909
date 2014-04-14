@@ -747,7 +747,9 @@
       <Key>Sawle</Key>
       <Title>Col. Sir</Title>
       <Forenames>F. A. G.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +758,9 @@
       <Key>Wilmot</Key>
       <Title>Sir</Title>
       <Forenames>R. H. S.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. If. (resigned and Hon. Lieut.)</Text>
       <PageNumber>5153</PageNumber>
     </MainItem>

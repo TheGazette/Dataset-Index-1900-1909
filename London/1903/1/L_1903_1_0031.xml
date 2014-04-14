@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, P. W. (resigned)</Text>
       <PageNumber>1508</PageNumber>
     </MainItem>
@@ -421,8 +421,8 @@
     <MainItem>
       <Key>Pratt</Key>
       <Title>Capt. and Brev. Maj.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (seconded) .. .. .. . .</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (seconded) .. .. .. . .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

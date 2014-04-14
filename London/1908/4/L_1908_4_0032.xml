@@ -546,14 +546,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Odam</Key>
-      <Text>W. T. (Capt.)</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeie, J. (Surg.-Lieut.)</Text>
+      <Key>O'Keeie</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Surg.-Lieut.)</Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>J. M. (2nd Lieut.)</Text>
+      <Forenames>J. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,14 +612,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>E. E. (2nd Lieut.)</Text>
+      <Forenames>E. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pago</Key>
-      <Text>S. H. (Caot.)</Text>
+      <Forenames>S. H.</Forenames>
+      <Text>(Caot.)</Text>
       <PageNumber>7757</PageNumber>
     </MainItem>
   </ItemGroup>

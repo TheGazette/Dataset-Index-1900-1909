@@ -118,8 +118,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Neot's Water Company, notice of winding up</Text>
+      <Key>St. Neot</Key>
+      <Text>'s Water Company, notice of winding up</Text>
       <PageNumber>8669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armond</Key>
-      <Text>C, and Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>8759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baylis</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>7529</PageNumber>
     </MainItem>
   </ItemGroup>

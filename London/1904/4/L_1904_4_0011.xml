@@ -110,7 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>Lieut J. F.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. F.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>7116</PageNumber>
     </MainItem>
@@ -682,15 +683,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. H. (Col.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ott</Key>
-      <Text>.ley, W. J. (Maj.)</Text>
+      <Text>ley, W. J. (Maj.)</Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,8 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>E. W. St</Forenames>
-      <Text>. G. (Col.)</Text>
+      <Forenames>E. W. St. G</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>7028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,8 +1150,8 @@
     <MainItem>
       <Key>Davidson</Key>
       <Title>Col.</Title>
-      <Forenames>G. P.</Forenames>
-      <Text>de B. (retired pay)</Text>
+      <Forenames>G. P. de B</Forenames>
+      <Text>. (retired pay)</Text>
       <PageNumber>6519</PageNumber>
     </MainItem>
   </ItemGroup>

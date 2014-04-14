@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamier</Key>
-      <Text>.T. W. (Capt.) ibid. Meyrick, Sir T. C, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Cumming</Key>
-      <Text>L. S. (Lieut.-Col.) 8080 I Navlor, C. F. (2nd Lieut.)</Text>
+      <Forenames>L. S.</Forenames>
+      <Text>(Lieut.-Col.) 8080 I Navlor, C. F. (2nd Lieut.)</Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,8 +73,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. Sir E. T. H. Rolleston, G. R. A. (Capt.)</Text>
+      <Title>Lieut-Gen. Sir</Title>
+      <Forenames>E. T. H. Rolleston</Forenames>
+      <Text>, G. R. A. (Capt.)</Text>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +141,9 @@
       <Key>Warren</Key>
       <Title>Sir</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welrige</Key>
-      <Text>Gordon, II. G. (Capt.)</Text>
+      <Forenames>Gordon</Forenames>
+      <Text>, II. G. (Capt.)</Text>
       <PageNumber>7643</PageNumber>
     </MainItem>
   </ItemGroup>

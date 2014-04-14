@@ -73,6 +73,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Cerjat</Key>
+      <Title>Acting Chap. Rev.</Title>
+      <Forenames>C. R. W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8905</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gray</Key>
       <Forenames>N.</Forenames>
       <Text>(Maj.)</Text>
@@ -708,8 +717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>9091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,8 +1206,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. J. (resigned) .. .. .. ..</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

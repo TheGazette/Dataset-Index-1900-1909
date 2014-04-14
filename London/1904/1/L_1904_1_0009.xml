@@ -43,7 +43,9 @@
       <Key>Arbuthnot</Key>
       <Title>Capt. Sir</Title>
       <Forenames>R. K.</Forenames>
-      <Text>, Bart., Royal VictorianOrder, Fourth Class</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +112,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentheim</Key>
-      <Text>and Steinf urt, H.S.H. Prince, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +187,9 @@
     <MainItem>
       <Key>Canterbury</Key>
       <Forenames>Archbishop</Forenames>
-      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,8 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Forenames>F. J. R. T. St</Forenames>
-      <Text>. G., Companion of the Imperial Service Order</Text>
+      <Forenames>F. J. R. T. St. G</Forenames>
+      <Text>., Companion of the Imperial Service Order</Text>
       <PageNumber>1162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,8 +248,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.-Gen. Sir</Title>
-      <Forenames>S.</Forenames>
-      <Text>de A. C, Clerk Marshal and Chief Equerry to His Majesty</Text>
+      <Forenames>S. de A</Forenames>
+      <Text>. C, Clerk Marshal and Chief Equerry to His Majesty</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +258,9 @@
       <Key>Collins</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +268,9 @@
     <MainItem>
       <Key>Colvin</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +301,9 @@
   <ItemGroup>
     <MainItem>
       <Key>dAlcantara</Key>
-      <Text>. Seflor P. M., Royal Victorian Order, Hon. Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,11 +341,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>Sefior J. I.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Weede</Forenames>
-      <Text>, Jonkheer R. E. W., Hon. Knight Commander, Royal Victorian Order.. . &lt;</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +367,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Wieldrecht</Forenames>
-      <Text>et Darthuyzen, Seigneur, Hon. Commander, Royal Victorian Order ., .. ..</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,8 +469,11 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGeorge</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral A. A. F., Knight Commander Royal Victorian Order</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>A. A. F.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +510,9 @@
       <Key>Fuller</Key>
       <Title>Dr.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +560,9 @@
     <MainItem>
       <Key>Gough</Key>
       <Title>Viscount</Title>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +573,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +615,9 @@
     <MainItem>
       <Key>Grote</Key>
       <Forenames>Count</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>E. H., a King's Counsel</Text>
+      <Forenames>E. H.</Forenames>
+      <Text>, a King's Counsel</Text>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +927,9 @@
     <MainItem>
       <Key>Maxwell</Key>
       <Forenames>Right--</Forenames>
-      <Text>Hon. Sir H. E., Bart., Lord Lieutenant of Wigtown</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +978,9 @@
       <Key>Mohn</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>

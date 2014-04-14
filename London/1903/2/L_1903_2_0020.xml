@@ -275,7 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>. L. H: G. (Capt.)</Text>
+      <Forenames>L. H</Forenames>
+      <Text>: G. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,14 +285,18 @@
       <Key>Neave</Key>
       <Title>Sir</Title>
       <Forenames>T. L. H.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3366</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Text>. Capt. J. H. P. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. H. P.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +321,9 @@
       <Key>Williams-Bulkeley</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>. Super.-Capt. F. R. (resigned)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. F. R. (resigned)</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +693,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>A.E. C. S. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>3719</PageNumber>
     </MainItem>
   </ItemGroup>

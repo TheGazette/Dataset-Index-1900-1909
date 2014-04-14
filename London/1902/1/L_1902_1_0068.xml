@@ -3,7 +3,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>. Chaytor, Sir W. H. E., Bart</Text>
+      <Forenames>Chaytor</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dymoke</Key>
-      <Text>F. S</Text>
+      <Forenames>F. S</Forenames>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +121,9 @@
       <Key>Knightley</Key>
       <Title>Sir</Title>
       <Forenames>C. V.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +211,9 @@
       <Key>Bruce</Key>
       <Title>Sir</Title>
       <Forenames>W. C</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +285,9 @@
       <Key>Affleck</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sussex</Key>
-      <Text>. Burton, A. H</Text>
+      <Forenames>Burton</Forenames>
+      <Text>, A. H</Text>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +384,9 @@
       <Key>Brownrigg</Key>
       <Title>Sir</Title>
       <Forenames>D. E. R.</Forenames>
-      <Text>, Bart, ___ ___ Burne, C. R. N</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,9 +434,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, P. DA</Text>
+      <Key>De Sausmarez</Key>
+      <Forenames>P.</Forenames>
+      <Text>DA</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>

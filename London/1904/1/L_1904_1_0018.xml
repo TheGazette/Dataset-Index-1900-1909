@@ -490,7 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Praeger</Key>
-      <Text>Maj. and Hon. Lieut.-Col. H. J. F. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>H. J. F.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,8 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brace-Kingsniill</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. (Capt.)</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1099,9 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>J</Forenames>
-      <Text>,. KT. (Hon. Maj.)</Text>
+      <Text>
+        <Honour>KT</Honour>
+      </Text>
       <PageNumber>1250</PageNumber>
     </MainItem>
   </ItemGroup>

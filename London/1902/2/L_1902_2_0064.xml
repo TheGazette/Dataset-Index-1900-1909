@@ -257,6 +257,14 @@
   <SectionTitle>Earl of Chester's</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Knoop</Key>
+      <Forenames>J. J. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>7016</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Phillips</Key>
       <Forenames>B. W. D.</Forenames>
       <Text>(Super. Capt.)</Text>
@@ -365,8 +373,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Asaph, Bight Eev. Lord Bishop of (Hon. Chaplain)</Text>
+      <Key>St. Asaph</Key>
+      <Forenames>Bight Eev</Forenames>
+      <Text>. Lord Bishop of (Hon. Chaplain)</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +607,9 @@
     <MainItem>
       <Key>Pricliard</Key>
       <Forenames>B.</Forenames>
-      <Text>G.M. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>5753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +738,9 @@
       <Key>Eycroft</Key>
       <Title>Sir</Title>
       <Forenames>B. N.</Forenames>
-      <Text>, Bart. (Capt.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +906,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, Bart. (Lieut.) .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +970,9 @@
       <Key>Bell</Key>
       <Title>Hou.</Title>
       <Forenames>Col</Forenames>
-      <Text>Sir J., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FindlayyG</Key>
-      <Text>(Maj.)</Text>
+      <Title>(Maj.)</Title>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>

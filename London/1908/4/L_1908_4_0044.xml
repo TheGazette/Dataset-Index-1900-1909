@@ -321,8 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davics</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. L. (Capt,)</Text>
+      <Forenames>O. St. L</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douthwaite</Key>
-      <Text>W. B. (Lieut.) .. ..</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

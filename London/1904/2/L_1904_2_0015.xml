@@ -248,7 +248,9 @@
       <Key>Torke</Key>
       <Title>Lieut.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, Aide-de-Camp to Gen. Bt. Hon. Lord Grenfell</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,8 +439,9 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. H. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,15 +472,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sulhvan, Capt. J. J. (resigned) ..</Text>
+      <Key>O'Sulhvan</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. R. (resigned)</Text>
       <PageNumber>2927</PageNumber>
     </MainItem>
@@ -671,8 +676,8 @@
     <MainItem>
       <Key>James</Key>
       <Title>Capt.</Title>
-      <Forenames>M. R.</Forenames>
-      <Text>de B. (seconded)</Text>
+      <Forenames>M. R. de B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2481</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -80,9 +80,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Col. J. P., General Staff Officer, 1st Grade, at Headquarters</Text>
+      <Key>Du Cane</Key>
+      <Title>Col.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>, General Staff Officer, 1st Grade, at Headquarters</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,8 +582,8 @@
     <MainItem>
       <Key>Wilkins</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. C, General 8taff Officer, 3rd Grade</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>, General 8taff Officer, 3rd Grade</Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,8 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>W.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>W. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,9 +1140,10 @@
   <SubSectionTitle>School of Gunnery</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, Lieut.-Col. and Brevet Col. S. B. (Chief Instructor)</Text>
+      <Key>Von Donop</Key>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>S. B.</Forenames>
+      <Text>(Chief Instructor)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>

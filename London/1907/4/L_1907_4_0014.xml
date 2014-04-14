@@ -192,7 +192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Text>W. (Capt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,8 +324,10 @@
     <MainItem>
       <Key>Evans</Key>
       <Title>Sir</Title>
-      <Forenames>M.</Forenames>
-      <Text>de G.. Bart. ( Maj.)</Text>
+      <Forenames>M. de G</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. G. (Adj.)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. G. (Adj.)</Text>
       <PageNumber>7583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +654,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, E. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,8 +737,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. E. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,8 +888,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephen</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. F. S. (resigned)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,8 +1065,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvile</Key>
-      <Forenames>G.</Forenames>
-      <Text>de P. (2nd Lieut.)</Text>
+      <Forenames>G. de P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eussell</Key>
-      <Text>Hon. A. V. F. (Capt.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>A. V. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>

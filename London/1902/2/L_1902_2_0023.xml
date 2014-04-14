@@ -708,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Forenames>Lieut E.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>E.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
@@ -733,8 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulford</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. Or. J. (2nd Lieut.) ..</Text>
+      <Forenames>H. St. Or</Forenames>
+      <Text>. J. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1068,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. (Col. and Assist. Adj.Gen</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. (Col. and Assist. Adj.Gen</Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>

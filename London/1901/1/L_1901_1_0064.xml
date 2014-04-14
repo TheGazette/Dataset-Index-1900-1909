@@ -491,7 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simon</Key>
-      <Text>.H. S. P. (Adj.)</Text>
+      <Forenames>H. S. P.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>1767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,16 +613,16 @@
     <MainItem>
       <Key>Carmichael</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. P. (resigned)</Text>
+      <Forenames>R. St. P</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gex</Forenames>
-      <Text>, F. J. (Maj.)</Text>
+      <Key>De Gex</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,8 +1333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beynon</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. P. (2nd Lieut.)</Text>
+      <Forenames>L. St. P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,8 +1376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de La T. dA. (temporary Lieut.) .. .. .. -</Text>
+      <Forenames>W. H. de La T.</Forenames>
+      <Text>dA. (temporary Lieut.) .. .. .. -</Text>
       <PageNumber>1851</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -264,7 +264,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry H. L. N. (seconded)</Text>
       <PageNumber>6135</PageNumber>
     </MainItem>
@@ -699,7 +699,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhind</Key>
-      <Text>J. (Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,8 +1195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Forenames>C. H. B. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>C. H. B. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>. J. P. (2nd Lieut.)</Text>
+      <Forenames>J. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gee</Key>
-      <Text>. G. C. G. (Capt.)</Text>
+      <Forenames>G. C. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +923,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Forenames>R. L. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>R. L. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>

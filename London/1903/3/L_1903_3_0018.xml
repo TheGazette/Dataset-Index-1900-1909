@@ -53,9 +53,10 @@
   <SubSectionTitle>Prince of Wales's Own Norfolk</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, 2nd Lieut. Baron (cancel lation)</Text>
+      <Key>De Forest</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Baron</Forenames>
+      <Text>(cancel lation)</Text>
       <PageNumber>4191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,8 +189,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Colquhoun</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. A. J. (retired)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hasscll</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. (Maj.)</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +320,9 @@
       <Key>Lennard</Key>
       <Title>Sir</Title>
       <Forenames>H. A. H. E.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,6 +381,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Londonderry</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hamel</Key>
+      <Forenames>H. B.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>5542</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>

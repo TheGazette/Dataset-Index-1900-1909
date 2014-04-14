@@ -110,7 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hocken</Key>
-      <Text>.S. .. .. .. ..</Text>
+      <Forenames>S.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>.H.L</Text>
+      <Forenames>H.L.</Forenames>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +500,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fishley</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Title>St.</Title>
-      <Forenames>G. F. G.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>F. G.</Forenames>
       <Text>(Capt.) ' ' ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -932,6 +935,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Caen</Key>
+      <Text>.R. G. F. H. (Sub-Lieut.)</Text>
+      <PageNumber>5326</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ditchburn</Key>
       <Title>Lieut.</Title>
       <Forenames>J. H.</Forenames>
@@ -942,7 +952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edkin</Key>
-      <Text>.E. (Lieut.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,8 +1180,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, D. (Asst. Paymaster) ..</Text>
+      <Key>O'Beirne</Key>
+      <Forenames>D.</Forenames>
+      <Text>(Asst. Paymaster) ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gracey</Key>
-      <Text>.J. W. (Lieut.) .. '</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(Lieut.) .. '</Text>
       <PageNumber>6529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>. B. C. Cab Company, notice of winding-up</Text>
+      <Forenames>B. C. Cab Company</Forenames>
+      <Text>, notice of winding-up</Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>

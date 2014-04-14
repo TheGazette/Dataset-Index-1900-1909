@@ -537,7 +537,9 @@
       <Key>Clarke</Key>
       <Title>Sir</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, Bart. (Gen.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,9 +643,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dayrell</Key>
-      <Forenames>G. H.</Forenames>
-      <Text>de L. (local rank of Capt.)</Text>
+      <Forenames>G. H. de L</Forenames>
+      <Text>. (local rank of Capt.)</Text>
       <PageNumber>4512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Col.</Title>
+      <Forenames>U. G. C.</Forenames>
+      <Text>(half-pay)</Text>
+      <PageNumber>7537</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1396,15 +1407,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut. W. H. S. (local rank cancelled)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.</Title>
+      <Forenames>W. H. S.</Forenames>
+      <Text>(local rank cancelled)</Text>
       <PageNumber>8760</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. R. (local rank of Lieut, with West African Frontier Force) ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. R.</Forenames>
+      <Text>(local rank of Lieut, with West African Frontier Force) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,7 +1521,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Prickett</Key>
-      <Text>Col.T. (retired pay)</Text>
+      <Title>Col.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1627,8 +1643,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Col. J. L. C. (half-pay)</Text>
+      <Key>St. Clair</Key>
+      <Title>Col.</Title>
+      <Forenames>J. L. C.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -256,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>Campbell, Capt. W. K. (seconded)</Text>
+      <Forenames>Campbell</Forenames>
+      <Text>, Capt. W. K. (seconded)</Text>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +275,9 @@
       <Key>Agnew</Key>
       <Title>Sir</Title>
       <Forenames>A. N.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,6 +495,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>911</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Disraeli</Key>
       <Forenames>C. E.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -561,7 +573,9 @@
       <Key>Sinclair</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>J. R. G.</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, L. C. (super.)</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>

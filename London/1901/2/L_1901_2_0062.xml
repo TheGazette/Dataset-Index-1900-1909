@@ -251,8 +251,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. H. S. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. H. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,8 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +518,9 @@
     <MainItem>
       <Key>Pasley</Key>
       <Forenames>Capt</Forenames>
-      <Text>, and Brev. Maj. Sir T. E. S., Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +634,9 @@
       <Key>Pasley</Key>
       <Title>Capt. Sir</Title>
       <Forenames>T. E. S.</Forenames>
-      <Text>, Bart. (Adj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,8 +660,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thicke</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Rev. S. C. (resigned)</Text>
+      <Title>Lieut, Rev.</Title>
+      <Forenames>S. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,8 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Headley</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>6928</PageNumber>
     </MainItem>
@@ -1392,7 +1398,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. E. (absorbed into Establishment)</Text>
       <PageNumber>7226</PageNumber>
     </MainItem>
@@ -1719,7 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miles</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. P. (antedated)</Text>
       <PageNumber>5200</PageNumber>
     </MainItem>

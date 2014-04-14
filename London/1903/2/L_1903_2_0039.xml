@@ -51,8 +51,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aranco</Key>
-      <Forenames>Co</Forenames>
-      <Text>., notice to bondholders</Text>
+      <Title>Co.</Title>
+      <Text>, notice to bondholders</Text>
       <PageNumber>3177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>Private and Joint Stock : . Savings Banks and Post Office Savings Bauks, return of amounts received from, and paid into, for the four weeks ending: 4th April, 1903</Text>
+      <Title>Private</Title>
+      <Text>and Joint Stock : . Savings Banks and Post Office Savings Bauks, return of amounts received from, and paid into, for the four weeks ending: 4th April, 1903</Text>
       <PageNumber>2314</PageNumber>
     </MainItem>
     <SubItem>
@@ -256,7 +257,9 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>D.L. Syndicate, notice of winding up</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +439,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carbon</Key>
-      <Text>(New) Syndicate, notice of</Text>
+      <Title>(New)</Title>
+      <Forenames>Syndicate</Forenames>
+      <Text>, notice of</Text>
       <PageNumber>2482</PageNumber>
     </MainItem>
   </ItemGroup>

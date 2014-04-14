@@ -14,7 +14,9 @@
       <Key>Molesworth</Key>
       <Title>Sir</Title>
       <Forenames>L. W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,8 +140,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral H. M. .. ..</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>H. M.</Forenames>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>W. Hi</Text>
+      <Forenames>W. Hi</Forenames>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +353,9 @@
       <Key>Hingley</Key>
       <Title>Sir</Title>
       <Forenames>B.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burroughs</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. F. W. T</Text>
+      <Title>Lieut-Gen.</Title>
+      <Forenames>F. W. T.</Forenames>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,8 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luscombe</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>P. St. L</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,16 +690,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>O.</Forenames>
-      <Text>de B. ,. .. .. ..</Text>
+      <Forenames>O. de B</Forenames>
+      <Text>. ,. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chve</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S, .. ., ..</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S, .. ., ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,8 +1016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowin</Key>
-      <Forenames>O. A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>O. A. de L</Forenames>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,8 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>W.</Forenames>
-      <Text>de M</Text>
+      <Forenames>W. de M</Forenames>
       <PageNumber>3249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tootell</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>

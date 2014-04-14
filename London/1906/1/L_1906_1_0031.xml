@@ -174,7 +174,9 @@
       <Key>Hamilton</Key>
       <Title>Sir</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +259,9 @@
       <Key>Cooper</Key>
       <Title>Sir Or.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +310,9 @@
       <Key>Muntz</Key>
       <Title>Sir</Title>
       <Forenames>P. A.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halifax</Key>
-      <Text>. Rt. Hon. Viscount</Text>
+      <Title>Rt. Hon. Viscount .</Title>
       <PageNumber>876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. St. J</Forenames>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,8 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>D. St. A</Forenames>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,8 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>J. G.</Forenames>
-      <Text>de O.</Text>
+      <Forenames>J. G. de O</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,6 +639,14 @@
       <Key>Dannreuther</Key>
       <Forenames>T.</Forenames>
       <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorenoy</Key>
+      <Forenames>J</Forenames>
+      <Text>, P.</Text>
+      <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1275,7 +1287,9 @@
       <Key>Sawle</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C. J. G.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1516</PageNumber>
     </MainItem>
   </ItemGroup>

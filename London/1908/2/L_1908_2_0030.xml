@@ -103,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pear</Key>
-      <Text>.-on, H. C. (Lieut.) .. ..</Text>
+      <Text>-on, H. C. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>. W. (Transport Offioer and Hon. Cap^.) ibid. . ___ ___ ___ ___ ___ (Hon. Maj.) .. ..</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Transport Offioer and Hon. Cap^.) ibid. . ___ ___ ___ ___ ___ (Hon. Maj.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>. A. C. (Maj.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +813,9 @@
       <Key>Hermon-Hodge</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and Hon. Col.) .. ——</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,8 +861,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, F. J. (Capt.) .. ..</Text>
+      <Key>St. John</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +919,9 @@
       <Key>Corbet</Key>
       <Title>Sir</Title>
       <Forenames>W. O.</Forenames>
-      <Text>, Bart. (Maj. and Hon. Lieut-Col.) .. -.. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -107,8 +107,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. (2nd Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>. R. W. H. (Lieut.-Col.)</Text>
+      <Forenames>R. W. H.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,6 +347,14 @@
     <MainItem>
       <Key>Campbell-Jones</Key>
       <Forenames>W. T.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Forenames>J. F.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
@@ -900,7 +910,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Text>. J. S. (2nd Lieut.)</Text>
+      <Forenames>J. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1535,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>. E. N. (Lieut.)</Text>
+      <Forenames>E. N.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1561,9 @@
       <Key>Monerieffe</Key>
       <Title>Sir</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, Bart. (Lieut.Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1645,9 @@
       <Key>Anstruther</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bart. (Lieut.Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1719,7 +1735,9 @@
     <MainItem>
       <Key>Erskine</Key>
       <Title>Sir</Title>
-      <Text>ff. W., Bart. (Hon, Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>

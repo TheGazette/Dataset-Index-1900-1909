@@ -117,7 +117,9 @@
     <MainItem>
       <Key>Home-Purves-</Key>
       <Forenames>Hume-Campbell</Forenames>
-      <Text>, Sir J., Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,8 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>N. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,8 +899,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caillard</Key>
-      <Forenames>W. M. C. Du Q.</Forenames>
-      <Text>(Lieut.) ..</Text>
+      <Forenames>W. M. C. Du Q</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,7 +1674,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>P. A. T. (Adj.)</Text>
+      <Forenames>P. A. T.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1711,9 @@
       <Key>Lowther</Key>
       <Title>Sir</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,8 +1736,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. A. S. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. A. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2684</PageNumber>
     </MainItem>
   </ItemGroup>

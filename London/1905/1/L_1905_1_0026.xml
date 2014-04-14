@@ -856,8 +856,8 @@
     <MainItem>
       <Key>McClellan</Key>
       <Title>Capt.</Title>
-      <Forenames>C. D. St</Forenames>
-      <Text>. Or. (resigned)</Text>
+      <Forenames>C. D. St. Or</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1055,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald-Lombard</Key>
-      <Text>E. E. (Capt.)</Text>
+      <Forenames>E. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. R. B. (resigned)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
@@ -1319,6 +1320,14 @@
       <Title>Gen.</Title>
       <Forenames>C. W</Forenames>
       <PageNumber>153</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brath</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>E.</Forenames>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

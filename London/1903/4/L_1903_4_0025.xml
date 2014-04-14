@@ -255,8 +255,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>E. C. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +458,8 @@
     <MainItem>
       <Key>Seeker</Key>
       <Title>Lieut.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +484,9 @@
   <ItemGroup>
     <MainItem>
       <Key>TniHord</Key>
-      <Text>Lieut. E. A. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seholiield</Key>
-      <Text>R. B. (2nd Lieut.)</Text>
+      <Forenames>R. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,6 +841,15 @@
       <Key>Clarke</Key>
       <Forenames>A. C. K. S .</Forenames>
       <PageNumber>6153</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. V. C.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

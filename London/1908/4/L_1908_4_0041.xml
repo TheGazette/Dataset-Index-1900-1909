@@ -762,7 +762,9 @@
       <Key>Humphery</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart, (Hon. Col</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,8 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (2nd Lieut.) .</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (2nd Lieut.) .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,8 +877,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,8 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. M. (Capt.)</Text>
+      <Forenames>G. St. M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

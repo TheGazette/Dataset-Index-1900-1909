@@ -239,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>OnyD</Key>
-      <Text>. J. T</Text>
+      <Forenames>J. T .</Forenames>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvest</Key>
-      <Forenames>H.</Forenames>
-      <Text>de V.</Text>
+      <Forenames>H. de V</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>. M</Text>
+      <Forenames>M .</Forenames>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,8 +956,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W. F. T</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W. F. T</Forenames>
       <PageNumber>9010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,9 +1016,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, W. W</Text>
+      <Key>Van Someren</Key>
+      <Forenames>W. W</Forenames>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,6 +1276,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>6937</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>W</Forenames>
       <PageNumber>6936</PageNumber>
@@ -1306,7 +1312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyer</Key>
-      <Text>.F. L</Text>
+      <Forenames>F. L.</Forenames>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,7 +1413,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>R.D. O</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keppel</Key>
-      <Text>.T.R. H</Text>
+      <Forenames>T.R. H</Forenames>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,8 +1496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S.</Forenames>
-      <Text>van B</Text>
+      <Forenames>S. van B</Forenames>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,8 +1705,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, O. ,</Text>
+      <Key>St. John</Key>
+      <Forenames>O.</Forenames>
+      <Text>,</Text>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>

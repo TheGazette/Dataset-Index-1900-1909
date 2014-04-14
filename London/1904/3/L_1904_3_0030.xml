@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>H. C. (Bris!.-iVI».i.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(Bris!.-iVI».i.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsav</Key>
-      <Text>Oi.pt. A. B., Staff Capt. .-</Text>
+      <Title>Oi.</Title>
+      <Text>pt. A. B., Staff Capt. .-</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maconehy</Key>
-      <Text>Maj E. W. S. K:, DeputyAssist, Q.rmr.-Gen. ..</Text>
+      <Title>Maj</Title>
+      <Forenames>E. W. S. K</Forenames>
+      <Text>:, DeputyAssist, Q.rmr.-Gen. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +106,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norie</Key>
-      <Text>Brev. Maj. C. E. de M., Depitv-As^ist. Adj.-Gen., HeadQuarters Staff .. ..</Text>
+      <Title>Brev. Maj.</Title>
+      <Forenames>C. E. de M</Forenames>
+      <Text>., Depitv-As^ist. Adj.-Gen., HeadQuarters Staff .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roe</Key>
-      <Text>Mai C. FT., Deputy-Assist. Adj.Gen..Bangilore</Text>
+      <Forenames>Mai C.</Forenames>
+      <Text>FT., Deputy-Assist. Adj.Gen..Bangilore</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +181,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Umfreville</Key>
-      <Text>Cant. H. K., Superintendant. of Gymnasia</Text>
+      <Title>Cant.</Title>
+      <Forenames>H. K.</Forenames>
+      <Text>, Superintendant. of Gymnasia</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,8 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>W.</Forenames>
-      <Text>de L. (Brig.-Maj.)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (Brig.-Maj.)</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +208,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>Maj. A. K. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. K.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banatvala</Key>
-      <Text>H. E.</Text>
+      <Forenames>H. E.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,14 +394,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>J. M</Text>
+      <Forenames>J. M</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Irani</Key>
-      <Text>M. S.</Text>
+      <Forenames>M. S.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +538,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, L. J. (and Hon. Lieut.) ..</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>L. J.</Forenames>
+      <Text>(and Hon. Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +964,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smiles</Key>
-      <Text>O. J. (Hon. Capt.) .. ..</Text>
+      <Forenames>O. J.</Forenames>
+      <Text>(Hon. Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,6 +1070,14 @@
   <SubSectionTitle>2nd Bucks</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut.)</Text>
+      <PageNumber>5700</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Scoones</Key>
       <Forenames>P.</Forenames>
       <Text>(Lieut.) . . ..</Text>
@@ -1148,7 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>T. (Maj.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>

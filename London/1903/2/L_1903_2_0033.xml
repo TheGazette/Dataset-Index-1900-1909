@@ -17,8 +17,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kinealy, F</Text>
+      <Key>O'Kinealy</Key>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>. W. C.</Text>
+      <Forenames>W. C.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,9 +201,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, J. E. (correction)</Text>
+      <Key>De Souza</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,6 +739,14 @@
       <Title>Hon. ,Chap. Rev.</Title>
       <Forenames>J. A.</Forenames>
       <Text>(resigned)</Text>
+      <PageNumber>2928</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>H. de B</Forenames>
+      <Text>. (2nd Lieut. Supy.)</Text>
       <PageNumber>2928</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -595,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, CD. M. (seconded)</Text>
       <PageNumber>2292</PageNumber>
     </MainItem>
@@ -756,8 +756,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, V. W. (2nd Lieut.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>V. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>86</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,8 +1701,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. J. (2nd Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,9 +1781,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gale</Forenames>
-      <Text>, W. A. S. (Lieut.)</Text>
+      <Key>De Gale</Key>
+      <Forenames>W. A. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1818,9 @@
       <Key>Bobinson</Key>
       <Title>Sir</Title>
       <Forenames>F. V. L.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>

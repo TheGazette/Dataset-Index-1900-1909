@@ -51,8 +51,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Sir A. C</Text>
+      <Title>Lieut-Col. Sir</Title>
+      <Forenames>A. C.</Forenames>
       <PageNumber>3893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,9 +327,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Barth</Forenames>
-      <Text>, Brev. LieutrCol. E., First Deputy Secretary</Text>
+      <Key>De Barth</Key>
+      <Title>Brev.</Title>
+      <Text>LieutrCol. E., First Deputy Secretary</Text>
       <PageNumber>3895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,8 +808,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, P. W.</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>P. W.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,14 +1323,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Galvin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>

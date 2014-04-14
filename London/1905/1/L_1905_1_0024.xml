@@ -112,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trefusis</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: H. W. (resigned)</Text>
       <PageNumber>1847</PageNumber>
     </MainItem>
@@ -567,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collyer</Key>
-      <Text>T. W. (Lieut.)</Text>
+      <Forenames>T. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +672,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>Lieut. G. K. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G. K.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +988,8 @@
   <ItemGroup>
     <MainItem>
       <Key>WjheatleyiW</Key>
-      <Text>R..R; (Lieut.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>.R; (Lieut.)</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1170,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duberly</Key>
-      <Text>F. R. (Lieut.)</Text>
+      <Forenames>F. R.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

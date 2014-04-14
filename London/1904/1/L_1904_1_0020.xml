@@ -188,7 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, \V. A. S. (resigned)</Text>
       <PageNumber>475</PageNumber>
     </MainItem>
@@ -288,8 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkins</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,8 +410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiehe</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>von W. (Instr. of Musketry)</Text>
+      <Forenames>J. A. von W</Forenames>
+      <Text>. (Instr. of Musketry)</Text>
       <PageNumber>1795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,9 +560,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Brockdorff</Forenames>
-      <Text>, Lieut. E. (seconded)</Text>
+      <Key>Von Brockdorff</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,8 +935,8 @@
     <MainItem>
       <Key>Norris</Key>
       <Title>Maj.</Title>
-      <Forenames>H. E. Du C.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>H. E. Du C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>1445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,8 +975,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Capt. G. J. (seconded)</Text>
+      <Key>O'Connell</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. J.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>

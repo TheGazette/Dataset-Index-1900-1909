@@ -287,7 +287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>.Saint, P. (2nd Lieut.)</Text>
+      <Forenames>Saint</Forenames>
+      <Text>, P. (2nd Lieut.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +429,9 @@
       <Key>Usher</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigtownshire</Key>
-      <Text>. Buchanan, D. W. R. C</Text>
+      <Forenames>Buchanan</Forenames>
+      <Text>, D. W. R. C</Text>
       <PageNumber>5050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,8 +797,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, A. B</Text>
+      <Key>St. John</Key>
+      <Forenames>A. B</Forenames>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherell</Key>
-      <Text>. L. A</Text>
+      <Forenames>L. A</Forenames>
       <PageNumber>5131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>.H. M... ... ... ..</Text>
+      <Forenames>H. M.</Forenames>
+      <Text>.. ... ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,8 +957,7 @@
     <MainItem>
       <Key>Rich</Key>
       <Title>Capt.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>F. St. G</Forenames>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1088,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maguire</Key>
-      <Text>. O. H. K. .. ,. ..</Text>
+      <Forenames>O. H. K.</Forenames>
+      <Text>.. ,. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>. E. G</Text>
+      <Forenames>E. G</Forenames>
       <PageNumber>5515</PageNumber>
     </MainItem>
   </ItemGroup>

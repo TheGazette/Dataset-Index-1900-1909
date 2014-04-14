@@ -91,8 +91,8 @@
     <MainItem>
       <Key>Neale</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>E. C. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>E. C. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>6849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,8 +688,8 @@
     <MainItem>
       <Key>Cooke</Key>
       <Title>Lieut.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (correction)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +762,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. S., Temporary Staff Capt. at Head-Quarters</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
@@ -806,8 +806,8 @@
     <MainItem>
       <Key>Foljambe</Key>
       <Title>Capt. Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de B. S., Extra Aide-de-Camp to the Right Hon. Earl Cadogan</Text>
+      <Forenames>A. W. de B</Forenames>
+      <Text>. S., Extra Aide-de-Camp to the Right Hon. Earl Cadogan</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,7 +1070,9 @@
       <Key>Leslie</Key>
       <Title>Lieut.-Col. and Brev. Col. Sir</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, Bart., Col. on the Staff in India</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6850</PageNumber>
     </MainItem>
   </ItemGroup>

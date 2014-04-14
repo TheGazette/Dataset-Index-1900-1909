@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raekb</Key>
-      <Text>.am-Bu.Hard, R. A. (temporary Lieut.)</Text>
+      <Text>am-Bu.Hard, R. A. (temporary Lieut.)</Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,16 +429,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Verner</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. W. C. (half-pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W. W. C.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, S. B. (local rank of Lieut.Col. in South Africa) .,</Text>
+      <Key>Von Donop</Key>
+      <Forenames>S. B.</Forenames>
+      <Text>(local rank of Lieut.Col. in South Africa) .,</Text>
       <PageNumber>1234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,8 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. A. (local rank of Capt. in East Africa)</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>. (local rank of Capt. in East Africa)</Text>
       <PageNumber>397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>A. V. St</Forenames>
-      <Text>. J. (temporary Capt.)</Text>
+      <Forenames>A. V. St. J</Forenames>
+      <Text>. (temporary Capt.)</Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>

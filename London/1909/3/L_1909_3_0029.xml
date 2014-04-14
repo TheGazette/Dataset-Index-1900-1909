@@ -803,9 +803,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, Capt.,W</Text>
+      <Key>De Salis</Key>
+      <Title>Capt.</Title>
+      <Text>,W</Text>
       <PageNumber>5063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1024,9 @@
       <Key>Millais</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>

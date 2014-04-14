@@ -477,6 +477,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6690</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dicks</Key>
       <Title>Lieut.</Title>
       <Forenames>V.</Forenames>
@@ -487,7 +496,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>Poynder, Sir J. P., Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,9 +546,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, Lieut. W. B. (resigned)</Text>
+      <Key>Du Pre</Key>
+      <Title>Lieut.</Title>
+      <Forenames>W. B.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +908,9 @@
       <Key>Hulse</Key>
       <Title>Sir</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +946,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, M. (antedated) .,</Text>
       <PageNumber>7822</PageNumber>
     </MainItem>
@@ -985,7 +999,9 @@
       <Key>Lamb</Key>
       <Title>Maj. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart, (resigns as Second in Command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>Lieut. Viscount (resigned)</Text>
+      <Title>Lieut. Viscount (resigned)</Title>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,22 +1426,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, Lieut. G. H. (resigned)</Text>
+      <Key>St. Hill</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lieut. F. J. (resigned)'</Text>
+      <Key>St. John</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(resigned)'</Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quintin, C. J. (Lieut.)</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>C. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. B. (resigned)</Text>
       <PageNumber>6928</PageNumber>
     </MainItem>

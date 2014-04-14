@@ -56,8 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>4308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,8 +65,8 @@
       <Key>
         <KeyDitto>___ ___ . ___ ___</KeyDitto>
       </Key>
-      <Forenames>L.</Forenames>
-      <Text>de L„. .. ..</Text>
+      <Forenames>L. de L</Forenames>
+      <Text>„. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankin</Key>
-      <Text>D. L</Text>
+      <Forenames>D. L.</Forenames>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,16 +576,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>W.</Forenames>
-      <Text>de C</Text>
+      <Forenames>W. de C</Forenames>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mansergh</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G ,</Text>
+      <Forenames>P. St. G</Forenames>
+      <Text>,</Text>
       <PageNumber>3471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,8 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monteith</Key>
-      <Forenames>M. E. C.</Forenames>
-      <Text>von S</Text>
+      <Forenames>M. E. C. von S</Forenames>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,8 +1143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>St.</Title>
-      <Forenames>J. V</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>V</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,8 +1208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Title>St.</Title>
-      <Forenames>J. A</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,8 +1530,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middlemass</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S. H</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. H</Text>
       <PageNumber>2337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,7 +1711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>

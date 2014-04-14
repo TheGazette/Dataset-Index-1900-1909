@@ -258,7 +258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>T. P. (2nd Lieut.)</Text>
+      <Forenames>T. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +430,9 @@
       <Key>Brown</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>L. J. (Capt.)</Text>
+      <Forenames>L. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,8 +1699,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. (Capt. and Hon. Maj.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>

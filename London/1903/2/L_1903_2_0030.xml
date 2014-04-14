@@ -93,7 +93,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coatsworth</Key>
-      <Text>. Lieut. Or. S. (resigned)</Text>
+      <Title>Lieut. Or.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +572,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>; Capt. Hon. W.R.D. (retired)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>

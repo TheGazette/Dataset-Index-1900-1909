@@ -37,8 +37,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flyrn, 2nd Lieut. DA. A. C. D. (resigned)</Text>
+      <Key>O'Flyrn</Key>
+      <Title>2nd Lieut.</Title>
+      <Text>DA. A. C. D. (resigned)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +81,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>. S. W. (2nd Lieut.)</Text>
+      <Forenames>S. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott-Cooper</Key>
-      <Text>. G. DA. (Adj.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>DA. (Adj.)</Text>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,15 +219,17 @@
       <Key>Seymour</Key>
       <Title>Sir</Title>
       <Forenames>A. V. F.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, E. C. L. (2nd Lieut.) ..</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>E. C. L.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +485,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross-Iohnson</Key>
-      <Text>. Maj. H. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,8 +745,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>(Colonel-in-Chief)</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The (Colonel-in-Chief)</Text>
       <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robert</Key>
-      <Text>.-on, J. C. (Capt.) .. ..</Text>
+      <Text>-on, J. C. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

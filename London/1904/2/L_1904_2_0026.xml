@@ -201,8 +201,8 @@
     <MainItem>
       <Key>Nicholson</Key>
       <Title>Capt.</Title>
-      <Forenames>R. L. St</Forenames>
-      <Text>. C. (resigned) .. .. .. ..</Text>
+      <Forenames>R. L. St. C</Forenames>
+      <Text>. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>C. V. B. (Capt.)</Text>
+      <Forenames>C. V. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +767,9 @@
       <Key>Grierson</Key>
       <Title>Maj. Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, Bart, (retired and Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +835,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>W. (2nd Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +877,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>Lieut. W. D. (antedated) ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>(antedated) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -666,7 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>. W. C. (Capt.)</Text>
+      <Forenames>W. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolley</Key>
-      <Text>.T. H. C. (Lieut.) ., ..</Text>
+      <Forenames>T. H. C.</Forenames>
+      <Text>(Lieut.) ., ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,8 +1508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Capt.) ..</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -38,14 +38,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilsland</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ohisholm</Key>
-      <Text>8ir S., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>8969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noroock</Key>
-      <Text>C.J</Text>
+      <Forenames>C.J</Forenames>
       <PageNumber>6410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,8 +725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Forenames>D. W. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>D. W. O'B</Forenames>
       <PageNumber>5889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +853,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T. R. G</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T. R. G.</Forenames>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainer</Key>
-      <Text>J. W. .. ;</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>.. ;</Text>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,8 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dehus</Key>
-      <Forenames>D. E. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. E. St. M</Forenames>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,8 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Forenames>B.St</Forenames>
-      <Text>. V</Text>
+      <Forenames>B.St. V</Forenames>
       <PageNumber>4873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>Forbes, B. D</Text>
+      <Forenames>Forbes</Forenames>
+      <Text>, B. D</Text>
       <PageNumber>8256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,8 +1298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Forenames>D.</Forenames>
-      <Text>de C. A</Text>
+      <Forenames>D. de C</Forenames>
+      <Text>. A</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,8 +1441,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, N</Text>
+      <Key>O'Neill</Key>
+      <Forenames>N.</Forenames>
       <PageNumber>6650</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -535,8 +535,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haggard</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. C. (retired pay)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>1234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,8 +1155,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan-Payler</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. E. P. (retired pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>E. P.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,36 +1280,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. E. (local rank of Maj. in South Africa)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. E.</Forenames>
+      <Text>(local rank of Maj. in South Africa)</Text>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. G. D. (temporary Lieut.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>2780</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J. R. (local rank of Maj. in Egypt)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J. R.</Forenames>
+      <Text>(local rank of Maj. in Egypt)</Text>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. H. S. (local rank of LieutCol, in South Africa)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. H. S.</Forenames>
+      <Text>(local rank of LieutCol, in South Africa)</Text>
       <PageNumber>1853</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, J. J. F. (temporary Capt.)</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>J. J. F.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,8 +1484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (local rank of Maj. in South Africa)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (local rank of Maj. in South Africa)</Text>
       <PageNumber>1853</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawker</Key>
-      <Text>. Maj. E. B. (correction) '</Text>
+      <Title>Maj.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(correction) '</Text>
       <PageNumber>1598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,8 +993,19 @@
       <Key>Crofton</Key>
       <Title>Sir.</Title>
       <Forenames>M.</Forenames>
-      <Text>\G., Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>C (seconded)</Text>
+      <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1016,14 +1029,18 @@
       <Key>Neeld</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, Bart (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Hon. A. E. B. (Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Title>Hon.</Title>
+      <Forenames>A. E. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1235,9 @@
       <Key>Lushington</Key>
       <Title>Maj. Sir</Title>
       <Forenames>A. P. D.</Forenames>
-      <Text>, Bart. (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>

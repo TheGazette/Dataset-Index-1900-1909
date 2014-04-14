@@ -12,8 +12,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J.</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +76,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleets</Key>
-      <Text>Sceales, C. (retired list)</Text>
+      <Forenames>Sceales</Forenames>
+      <Text>, C. (retired list)</Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>

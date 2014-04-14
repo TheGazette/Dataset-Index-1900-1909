@@ -12,7 +12,9 @@
     <MainItem>
       <Key>TJpcott</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Urs</Key>
       <Forenames>J. D.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +32,9 @@
     <MainItem>
       <Key>Vansittart</Key>
       <Forenames>R. G.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +58,9 @@
     <MainItem>
       <Key>Vedel</Key>
       <Forenames>A.</Forenames>
-      <Text>. Hon. Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +68,10 @@
     <MainItem>
       <Key>Villalobar</Key>
       <Title>Marquis</Title>
-      <Text>de Hong, Knight Commander, Royal Victorian Order</Text>
+      <Forenames>de Hong</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +95,9 @@
       <Key>Vivian</Key>
       <Title>Leut.</Title>
       <Forenames>V.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,14 +105,18 @@
     <MainItem>
       <Key>Vournasos</Key>
       <Forenames>C</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vyoyan</Key>
-      <Text>; Lieut.-Col. and .Brevet Col. C. B., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +125,9 @@
       <Key>Walsh</Key>
       <Title>Hon.</Title>
       <Forenames>R.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class *</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +170,9 @@
       <Key>Watt</Key>
       <Title>Hon.</Title>
       <Forenames>T.</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +181,9 @@
       <Key>Weller-Poley</Key>
       <Title>Lieut.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +208,9 @@
       <Key>Williams</Key>
       <Title>Dr.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +232,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart., renominated a Member of the General Council of Medical Education</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +283,9 @@
       <Key>Wyndham</Key>
       <Title>Capt.</Title>
       <Forenames>W. F. G.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +303,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Perpefian</Forenames>
-      <Text>, H. E. Emilio de O., Hon. Knight Commander, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +315,9 @@
         <KeyDitto>— ___</KeyDitto>
       </Key>
       <Forenames>Portiilo</Forenames>
-      <Text>, Maj. Don E. V., Royal Victorian Order, Hon. Fourth Class .. .. .. .. .</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +327,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Prendergast</Forenames>
-      <Text>, H. E. Sergieo. M., Hon. Knight Grand Cross, Royal Victorian Order .. ,. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +339,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Ramirez</Forenames>
-      <Text>, Lieut. P. R., Royal Victorian Order, Hon. Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +359,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. A.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +371,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +391,9 @@
     <MainItem>
       <Key>Zotos</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. C. Hon., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +402,9 @@
       <Key>Zuchios</Key>
       <Title>Lieut.</Title>
       <Forenames>G.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class.. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,6 +577,15 @@
       <Forenames>V. J.</Forenames>
       <Text>, Brig.-Gen. to command the 17th Infantry Brigade and Temporary Brig.-Gen</Text>
       <PageNumber>4390</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H.</Forenames>
+      <Text>&amp;., Aide-deCamp to Maj.-Gen. Sir J. Leach</Text>
+      <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -751,7 +805,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spender</Key>
-      <Text>Capt. W. B., Brig.-Maj. for Royal Artillery</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. B.</Forenames>
+      <Text>, Brig.-Maj. for Royal Artillery</Text>
       <PageNumber>2977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1225,9 @@
       <Key>Cholmeley</Key>
       <Title>Sir</Title>
       <Forenames>M. R. A.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -92,8 +92,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Rev. O. A. W. (retired pay)</Text>
+      <Key>O'Neill</Key>
+      <Title>Rev.</Title>
+      <Forenames>O. A. W.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +140,9 @@
       <Key>Bannerman</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart. (Maj)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,9 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Title>Sir</Title>
-      <Forenames>O</Forenames>
-      <Text>'M. (Lieut.-Gen.)</Text>
+      <Title>Sir O'M. (Lieut.-Gen.)</Title>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Lieut.-Col. and Brev. Col. St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>Lieut.-Col. and Brev. Col. St. J.</Title>
+      <Forenames>C.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
@@ -613,7 +615,9 @@
       <Key>Johnson</Key>
       <Title>Col. Sir</Title>
       <Forenames>H. A. W.</Forenames>
-      <Text>, Bart, (half-pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +688,9 @@
       <Key>Lockhart</Key>
       <Title>Col. Sir</Title>
       <Forenames>S. M.</Forenames>
-      <Text>, Bart. (retired pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,8 +765,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lieut. C. H. P. (retired)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. H. P.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,15 +782,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. du B. (temporary Maj.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. du B</Forenames>
+      <Text>. (temporary Maj.)</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sultivan, Col. G. H. W. (retired)</Text>
+      <Key>O'Sultivan</Key>
+      <Title>Col.</Title>
+      <Forenames>G. H. W.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,8 +883,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tower</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. G. A. (retired)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,9 +1402,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, H. De B. (Lieut-Col.)</Text>
+      <Key>De Lisle</Key>
+      <Forenames>H. De B</Forenames>
+      <Text>. (Lieut-Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

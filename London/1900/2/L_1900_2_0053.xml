@@ -364,8 +364,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, E. G. (2nd Lieut, super.)</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G.</Forenames>
+      <Text>(2nd Lieut, super.)</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,8 +1201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibberfi</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,8 +1506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de La T. dA. (Lieut.;</Text>
+      <Forenames>W. H. de La T.</Forenames>
+      <Text>dA. (Lieut.;</Text>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>

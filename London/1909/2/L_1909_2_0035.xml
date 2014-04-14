@@ -74,8 +74,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, G. S. W</Text>
+      <Key>St. George</Key>
+      <Forenames>G. S. W.</Forenames>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,8 +379,8 @@
     <MainItem>
       <Key>Julius</Key>
       <Title>Capt.</Title>
-      <Forenames>S.</Forenames>
-      <Text>de V. A</Text>
+      <Forenames>S. de V</Forenames>
+      <Text>. A</Text>
       <PageNumber>4</PageNumber>
       <PageNumber>774</PageNumber>
     </MainItem>
@@ -443,8 +443,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Capt. R. S</Text>
+      <Key>St. John</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. S</Forenames>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,8 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>4774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,8 +769,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, S</Text>
+      <Key>O'Grady</Key>
+      <Forenames>S</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>

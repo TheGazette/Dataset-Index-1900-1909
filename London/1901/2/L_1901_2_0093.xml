@@ -176,15 +176,16 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>. Dearne and Dove Steel Company, notice of winding up</Text>
+      <Forenames>Dearne</Forenames>
+      <Text>and Dove Steel Company, notice of winding up</Text>
       <PageNumber>6236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beck</Forenames>
-      <Text>, A. M., notice of winding up</Text>
+      <Key>De Beck</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>, notice of winding up</Text>
       <PageNumber>8035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,14 +384,7 @@
       <PageNumber>7083</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Eastern</Key>
-      <Forenames>Counties Insurance Company</Forenames>
-      <Text>, notice of winding up</Text>
-      <PageNumber>6733</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Eastern Counties Insurance Company,</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
@@ -506,7 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Extractions</Key>
-      <Text>(Sturge's Patent), notice of winding up</Text>
+      <Title>(Sturge's Patent)</Title>
+      <Text>, notice of winding up</Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
     <SubItem>

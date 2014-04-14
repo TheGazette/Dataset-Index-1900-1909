@@ -418,7 +418,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barday</Key>
-      <Text>Lieut. J. W. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>Jones, W. A. (Lieut.)</Text>
+      <Forenames>Jones</Forenames>
+      <Text>, W. A. (Lieut.)</Text>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>

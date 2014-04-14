@@ -345,7 +345,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>J. H. W. (Capt.)</Text>
+      <Forenames>J. H. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +389,9 @@
       <Key>Larcom</Key>
       <Title>Sir</Title>
       <Forenames>T. P.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,8 +424,8 @@
     <MainItem>
       <Key>Lowther</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +456,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGillycuddyR</Key>
-      <Text>K. (Lieut.)</Text>
+      <Forenames>K.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,8 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Adj.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>5977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Text>H. G. (Capt.) .. ..</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +530,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>Brev. Col. C. N. (half-pay)</Text>
+      <Title>Brev. Col.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>4809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +691,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>D.L. (Lieut.)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,6 +822,15 @@
       <Forenames>R. R.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>5977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bury</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. R. V.</Forenames>
+      <Text>(seconded).,</Text>
+      <PageNumber>6125</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1137,8 +1155,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly-Blackwood, E. H. (Lieut.)</Text>
+      <Key>O'Reilly-Blackwood</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, D. B. C. (antedated)</Text>
       <PageNumber>4630</PageNumber>
     </MainItem>
@@ -1556,8 +1575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>A. D. De R.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>A. D. De R</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,8 +1591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'H. (Capt.)</Text>
+      <Forenames>H. O'H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,8 +1601,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. O</Forenames>
-      <Text>'H. (Capt.)</Text>
+      <Forenames>J. O'H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,8 +1640,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, R. A. P. (Maj.)</Text>
+      <Key>O'Shee</Key>
+      <Forenames>R. A. P.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,8 +1680,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Brev. Col. W. A. E. (retired pay)</Text>
+      <Key>St. Clair</Key>
+      <Title>Brev. Col.</Title>
+      <Forenames>W. A. E.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

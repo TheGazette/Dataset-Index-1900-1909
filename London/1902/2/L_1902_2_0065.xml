@@ -15,7 +15,9 @@
       <Key>Fowke</Key>
       <Title>2nd Lieut., Sir</Title>
       <Forenames>F. F. C</Forenames>
-      <Text>, Bart. (absorbed into Establishment)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,8 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Money</Key>
-      <Forenames>E. H. J. De B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>E. H. J. De B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,6 +108,15 @@
       <Forenames>P. E.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>8368</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Walden</Key>
+      <Title>Lord</Title>
+      <Forenames>H.</Forenames>
+      <Text>(super. Capt.)</Text>
+      <PageNumber>5890</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -356,8 +367,8 @@
     <MainItem>
       <Key>Harmsworth</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>A. W. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>A. W. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>8870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,8 +548,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, L. F. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>L. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eoehe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry H. F. A. (resigned)</Text>
       <PageNumber>8843</PageNumber>
     </MainItem>

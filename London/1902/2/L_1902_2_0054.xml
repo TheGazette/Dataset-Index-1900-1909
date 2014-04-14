@@ -42,7 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peareth</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, II. T. (absorbed into Establishment)</Text>
       <PageNumber>5891</PageNumber>
     </MainItem>
@@ -92,7 +92,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lennox</Key>
-      <Text>C. .T. (2nd Lieut.) Miller, G. W. (Capt.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>.T. (2nd Lieut.) Miller, G. W. (Capt.)</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Text>Surg.-Lieut. T. VV. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Lieut. T. VV. (resigned)</Text>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>J). C. (Hon. I.icut.-Col.)</Text>
+      <Forenames>J</Forenames>
+      <Text>). C. (Hon. I.icut.-Col.)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wvlie</Key>
-      <Text>J. (Instr. of Musketry)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Instr. of Musketry)</Text>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>C. N. (Surg.-Maj.)</Text>
+      <Forenames>C. N.</Forenames>
+      <Text>(Surg.-Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. C. (seconded)</Text>
       <PageNumber>6022</PageNumber>
     </MainItem>
@@ -366,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weatherby</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. T. (seconded)</Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
@@ -493,7 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>E. L. (2nd Lieut, super.)</Text>
+      <Forenames>E. L.</Forenames>
+      <Text>(2nd Lieut, super.)</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,8 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shadwell</Key>
-      <Title>St.</Title>
-      <Forenames>C. B.</Forenames>
+      <Title>St. C.</Title>
+      <Forenames>B.</Forenames>
       <Text>(Surg.-Maj.)</Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
@@ -754,8 +760,8 @@
     <MainItem>
       <Key>Tufnell</Key>
       <Title>Capt.</Title>
-      <Forenames>N. A. C.De H.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>N. A. C.De H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,8 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boone</Key>
-      <Forenames>C. F.</Forenames>
-      <Text>de B. (Adj.)</Text>
+      <Forenames>C. F. de B</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>6115</PageNumber>
     </MainItem>
   </ItemGroup>

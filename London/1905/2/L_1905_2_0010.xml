@@ -303,7 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>. Tendring, notice of meeting to appoint Commissioners of Income Tax</Text>
+      <Forenames>Tendring</Forenames>
+      <Text>, notice of meeting to appoint Commissioners of Income Tax</Text>
       <PageNumber>2976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallsend</Key>
-      <Title>St.</Title>
-      <Forenames>Luke</Forenames>
+      <Forenames>St. Luke</Forenames>
       <Text>, Order in Counoil, boundaries</Text>
       <PageNumber>3409</PageNumber>
     </MainItem>
@@ -615,8 +615,8 @@
     <MainItem>
       <Key>Whiteshill</Key>
       <Title>Rev.</Title>
-      <Forenames>F. C.</Forenames>
-      <Text>de Beauvais nominated to the Perpetual Curacy of</Text>
+      <Forenames>F. C. de Beauvais</Forenames>
+      <Text>nominated to the Perpetual Curacy of</Text>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +722,9 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>West Riding</Forenames>
-      <Text>, Deputy Lieutenants of: Armytage, Sir G. J., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2638</PageNumber>
     </MainItem>
     <SubItem>
@@ -763,6 +765,15 @@
       <Forenames>Samuel</Forenames>
       <Text>, presented to the vicarage of Leeds</Text>
       <PageNumber>4252</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beauvais</Key>
+      <Title>Rev.</Title>
+      <Forenames>F. C</Forenames>
+      <Text>, nominated to the perpetual curacy of Whiteshill</Text>
+      <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -499,7 +499,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. E. C</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +535,9 @@
       <Key>Poynder</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,21 +852,26 @@
       <Key>Rvcroft</Key>
       <Title>Sir</Title>
       <Forenames>R. N</Forenames>
-      <Text>„ Bart, (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, Lieut. G. H. (correction)</Text>
+      <Key>St. Hill</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, E. F. St. J. (Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,8 +887,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quintal, T. A. (Assist. Adj.-Gen.)</Text>
+      <Key>St. Quintal</Key>
+      <Forenames>T. A.</Forenames>
+      <Text>(Assist. Adj.-Gen.)</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +952,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1080,9 @@
       <Key>Sinclair</Key>
       <Title>Sir</Title>
       <Forenames>J. R. G.</Forenames>
-      <Text>, Bart, (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>

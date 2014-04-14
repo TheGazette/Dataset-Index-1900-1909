@@ -236,8 +236,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, H. E</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>H. E.</Forenames>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. .. .. ..</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,8 +547,9 @@
   <ItemGroup>
     <MainItem>
       <Key>OldBelH</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brevet Col. J. It. H. (super, hidf-pay list)</Text>
+      <Title>Lieut-Col. and Brevet Col.</Title>
+      <Forenames>J. It</Forenames>
+      <Text>. H. (super, hidf-pay list)</Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +822,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reade</Key>
-      <Forenames>Lieut A. H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A. H.</Forenames>
       <Text>(retired list)</Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
@@ -940,8 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>P.</Forenames>
-      <Text>de W. (Commander Instructor)</Text>
+      <Forenames>P. de W</Forenames>
+      <Text>. (Commander Instructor)</Text>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>

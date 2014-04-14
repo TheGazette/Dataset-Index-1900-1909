@@ -22,8 +22,8 @@
     <MainItem>
       <Key>Hawken</Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. A. (resigned)</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,8 +768,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, J. (Surg.-Lieut;) '</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Surg.-Lieut;) '</Text>
       <PageNumber>1581</PageNumber>
     </MainItem>
   </ItemGroup>

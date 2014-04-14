@@ -56,7 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AllfrejyH</Key>
-      <Text>I. R. (Capt.)</Text>
+      <Forenames>I. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +304,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
-      <Text>Capt. H. B. C. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. B. C.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>F. S. (Lieut.) .</Text>
+      <Forenames>F. S.</Forenames>
+      <Text>(Lieut.) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,8 +569,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Ford,. B. St. C. (Maj.) ..</Text>
+      <Key>St. Clair-Ford</Key>
+      <Text>. B. St. C. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smalley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Jnstr. of Musketry G. H. (resigned) .,</Text>
       <PageNumber>4563</PageNumber>
     </MainItem>
@@ -773,7 +777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>CrokerJH</Key>
-      <Text>L.(Maj.)</Text>
+      <Forenames>L.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +919,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gavin</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. F. J. (half-pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,9 +1095,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>A. E.</Forenames>
-      <Text>de W. (Capt.).. '</Text>
+      <Forenames>A. E. de W</Forenames>
+      <Text>. (Capt.).. '</Text>
       <PageNumber>6134</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M.</Forenames>
+      <Text>de (Hon. Maj.)</Text>
+      <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Alexandra, Princess of Wales's Own (Yorkshire Regiment)</SubSectionTitle>
@@ -1182,7 +1196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaques</Key>
-      <Text>R. H. W. (Lieut.) .. ..</Text>
+      <Forenames>R. H. W.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

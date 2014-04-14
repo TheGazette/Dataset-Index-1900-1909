@@ -1025,8 +1025,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, Capt. R. (seconded)</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Title>Capt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1544,8 +1546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eicardo</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. Q. (Adj.)</Text>
+      <Forenames>A. St. Q</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>2023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,8 +1641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredennick</Key>
-      <Forenames>J. A. St</Forenames>
-      <Text>. L. (2nd Lieut.)</Text>
+      <Forenames>J. A. St. L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2530</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -36,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weir, 2nd Lieut. J. B. (seconded)</Text>
+      <Forenames>de Weir</Forenames>
+      <Text>, 2nd Lieut. J. B. (seconded)</Text>
       <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +89,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,8 +323,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Lieut.-Col. and Brev. Col. N. P. (to command)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>N. P.</Forenames>
+      <Text>(to command)</Text>
       <PageNumber>718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +574,9 @@
       <Key>Armstrong</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bart. (Hon. Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +605,9 @@
       <Key>Arthur</Key>
       <Title>Sir</Title>
       <Forenames>G. C. A.</Forenames>
-      <Text>, Bart. (Hon. Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,7 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckland</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. A. (retired)</Text>
       <PageNumber>2690</PageNumber>
     </MainItem>
@@ -1777,8 +1786,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>L. A.</Forenames>
-      <Text>de V. (Hon. Lieut.)</Text>
+      <Forenames>L. A. de V</Forenames>
+      <Text>. (Hon. Lieut.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,8 +1796,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. T. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>S. T. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1734</PageNumber>
     </MainItem>
   </ItemGroup>

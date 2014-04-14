@@ -155,8 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grace</Key>
-      <Forenames>Suh-Lieut</Forenames>
-      <Text>, B. L. (Retired List)</Text>
+      <Forenames>Suh-</Forenames>
+      <Text>Lieut, B. L. (Retired List)</Text>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hole</Key>
-      <Text>H. K. (Sub-Lieut.)</Text>
+      <Forenames>H. K.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +669,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>G.J. (Sub-Lieut.)</Text>
+      <Forenames>G.J.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
   </ItemGroup>

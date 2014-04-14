@@ -403,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Marylebone Electric Lighting Order</Text>
+      <Forenames>Marylebone Electric Lighting Order</Forenames>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sidebottoms</Key>
-      <Text>(Bochdale and Oldham), reduction of capital</Text>
+      <Title>(Bochdale and Oldham)</Title>
+      <Text>, reduction of capital</Text>
       <PageNumber>669</PageNumber>
       <PageNumber>1601</PageNumber>
     </MainItem>

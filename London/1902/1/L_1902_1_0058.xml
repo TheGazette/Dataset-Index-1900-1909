@@ -452,7 +452,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J. (antedated)</Text>
       <PageNumber>3014</PageNumber>
     </MainItem>
@@ -1082,7 +1082,9 @@
       <Key>Power</Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1215,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. C. M. (Lieut.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. C. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. L. J. M. (dismissed) ,</Text>
       <PageNumber>1202</PageNumber>
     </MainItem>
@@ -1782,8 +1785,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4120</PageNumber>
     </MainItem>
   </ItemGroup>

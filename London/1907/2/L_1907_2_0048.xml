@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>. Railway and Canal Traffic Act, 1888, proposed amendment of classification</Text>
+      <Forenames>Railway</Forenames>
+      <Text>and Canal Traffic Act, 1888, proposed amendment of classification</Text>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,8 +220,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Diemen</Forenames>
+      <Key>Van Diemen</Key>
       <Text>'s Land Company, yearly general meeting</Text>
       <PageNumber>2519</PageNumber>
     </MainItem>
@@ -251,7 +251,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley</Key>
-      <Text>(Penang) Estates, notice to debenture holders, &amp;c</Text>
+      <Title>(Penang)</Title>
+      <Forenames>Estates</Forenames>
+      <Text>, notice to debenture holders, &amp;c</Text>
       <PageNumber>4375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,15 +384,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>2449</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>AlBop</Key>
-      <Forenames>Messrs</Forenames>
-      <Text>., and Co</Text>
+      <Title>Messrs.</Title>
+      <Text>, and Co</Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>8883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +482,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomson</Forenames>
+      <Title>Thomson .</Title>
       <PageNumber>2309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brogden</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +904,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryan</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1000,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Kirkcaldy</Forenames>
+      <Title>Kirkcaldy .</Title>
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1041,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Son</Forenames>
+      <Title>Son .</Title>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>2598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>4284</PageNumber>
     </MainItem>
   </ItemGroup>

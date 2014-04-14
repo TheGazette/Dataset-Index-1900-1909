@@ -38,14 +38,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. W. K. (Hon. Maj.)</Text>
+      <Forenames>W. K.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beattie</Key>
-      <Text>. W. A. (Lieut.)</Text>
+      <Forenames>W. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,8 +373,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Commandant and Hon. Col. W. L. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>Commandant</Forenames>
+      <Text>and Hon. Col. W. L. (retired)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +429,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey-Gibson</Key>
-      <Text>. Capt. R. ,T. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>,T. (resigned)</Text>
       <PageNumber>741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bul</Key>
-      <Text>.terwort.il, ' Lieut.-Col. A. K. (resigned)</Text>
+      <Text>terwort.il, ' Lieut.-Col. A. K. (resigned)</Text>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1064,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Text>. Rev. W. R. (resigned)</Text>
+      <Title>Rev.</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1158,9 @@
       <Key>Alexander</Key>
       <Title>Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart; (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>741</PageNumber>
       <PageNumber>2003</PageNumber>
     </MainItem>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Volunteer</Key>
       <Forenames>Officers</Forenames>
-      <Text>' Decoration con. ferred upon : Moncreiffe, Lieut.-Col. and Hon. .Col. Sir.R. D., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6137</PageNumber>
     </MainItem>
     <SubItem>
@@ -290,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: W. T. V. W. (resigned)</Text>
       <PageNumber>4560</PageNumber>
     </MainItem>
@@ -390,6 +392,14 @@
       <Forenames>B. L.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>6044</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiarb</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -523,9 +533,9 @@
   <SubSectionTitle>3rd Dragoons {Hussars)</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, F. J. (Adj.)</Text>
+      <Key>Du Pre</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>4450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,6 +871,14 @@
       <Forenames>E. J.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>5055</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pentheny-O'Kelly</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>(Biding Master) .. ..'</Text>
+      <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

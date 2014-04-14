@@ -237,7 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +383,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Kennedy</Forenames>
+      <Title>Kennedy .</Title>
       <PageNumber>2599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +392,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Pearson</Forenames>
+      <Title>Pearson .</Title>
       <PageNumber>3239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +621,7 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Naylor</Forenames>
+      <Title>Naylor .</Title>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timmons</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompson</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros .</Title>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1267,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Holloway</Forenames>
+      <Title>Holloway .</Title>
       <PageNumber>2839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1474,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Woodhead</Forenames>
+      <Title>Woodhead .</Title>
       <PageNumber>4283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,14 +1517,45 @@
       <PageNumber>3110</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>and Ingham</Text>
+      <PageNumber>3468</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Rowland.</Title>
+      <PageNumber>3030</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
+      </Key>
+      <Title>Wiltshire .</Title>
+      <PageNumber>3110</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wyeth</Key>
       <Text>and Everett</Text>
       <PageNumber>2527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Yarwood</Key>
+      <Text>and Clements</Text>
+      <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1582,7 +1613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adkin</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allott</Key>
-      <Text>C. S</Text>
+      <Forenames>C. S.</Forenames>
       <PageNumber>4462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1777,8 +1808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Forenames>Julia</Forenames>
-      <Text>.. Ashurst, Eliza</Text>
+      <Title>Julia .</Title>
+      <Text>. Ashurst, Eliza</Text>
       <PageNumber>4202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,16 +1832,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Aspinall</Key>
-      <Forenames>Paul</Forenames>
+      <Title>Paul.</Title>
       <PageNumber>2948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atkin</Key>
-      <Forenames>Joseph</Forenames>
-      <Text>.. Atkins, Louise</Text>
+      <Title>Joseph .</Title>
+      <Text>. Atkins, Louise</Text>
       <PageNumber>3886</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atkinson</Key>
+      <Forenames>Sophia</Forenames>
+      <PageNumber>3632</PageNumber>
+      <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1840,7 +1879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph.</Title>
       <PageNumber>2460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,7 +1918,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>4205</PageNumber>
     </MainItem>
   </ItemGroup>

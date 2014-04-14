@@ -133,7 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barratt</Key>
-      <Text>W. C (correction)</Text>
+      <Forenames>W. C</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>7358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,8 +384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamier</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G S</Text>
+      <Forenames>W. St. G S</Forenames>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,8 +420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>V.</Forenames>
-      <Text>de V</Text>
+      <Forenames>V. de V</Forenames>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,8 +483,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. J. .. .,</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>.. .,</Text>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,8 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>J. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. H. de W</Forenames>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacey</Key>
-      <Text>W. R. B</Text>
+      <Forenames>W. R. B</Forenames>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,7 +1376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arundell</Key>
-      <Text>E. T</Text>
+      <Forenames>E. T</Forenames>
       <PageNumber>7358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,6 +1406,14 @@
     <MainItem>
       <Key>Clibborn</Key>
       <Forenames>C. H</Forenames>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>F. A.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,8 +1502,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. de W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -748,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steil</Key>
-      <Text>J. W. ..</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malan</Key>
-      <Forenames>L.</Forenames>
-      <Text>de M.</Text>
+      <Forenames>L. de M</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidwell</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,6 +876,14 @@
       <Forenames>J.</Forenames>
       <Text>.. .. .. ..</Text>
       <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courtmaesberry</Key>
+      <Forenames>E. H. H.</Forenames>
+      <Text>-.</Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -933,7 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grazebook</Key>
-      <Text>E. R. .. . . . . —</Text>
+      <Forenames>E. R.</Forenames>
+      <Text>.. . . . . —</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

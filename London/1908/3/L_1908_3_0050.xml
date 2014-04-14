@@ -91,7 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. P. (Qrmr.)</Text>
+      <Forenames>P.</Forenames>
+      <Text>(Qrmr.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millikiii</Key>
-      <Text>. H. J. (Capt.)</Text>
+      <Forenames>H. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,8 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorneloe</Key>
-      <Forenames>C.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>C. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,6 +460,14 @@
       <Forenames>W.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laune</Key>
+      <Forenames>A. F.</Forenames>
+      <Text>(Hon. Col.)</Text>
+      <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1065,7 +1075,9 @@
       <Key>Barry</Key>
       <Title>Sir</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,6 +1465,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Knoop</Key>
+      <Forenames>J. J. J.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Egerton</Key>
       <Forenames>M.</Forenames>
       <Text>(Lieut.) .. .. ..</Text>
@@ -1587,7 +1607,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>P. E.</Forenames>
-      <Text>Bart (Lieut.-Col. and.Hon. Col.) .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1653,9 @@
       <Key>Baker</Key>
       <Title>Sir</Title>
       <Forenames>R.L.</Forenames>
-      <Text>Bart (Lieut.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

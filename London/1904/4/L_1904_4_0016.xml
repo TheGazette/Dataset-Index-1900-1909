@@ -35,8 +35,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, Hon. J. T. (Col. to command the Regiment and Regimental District)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Hon.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(Col. to command the Regiment and Regimental District)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +57,9 @@
       <Key>Barttelot</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Bart. (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +490,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, Capt. L. S. (resigned)</Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
@@ -525,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! H. G. H. (resigned)</Text>
       <PageNumber>8796</PageNumber>
     </MainItem>
@@ -648,8 +652,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lieut. C. H. P. (temporary half-pay)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. H. P.</Forenames>
+      <Text>(temporary half-pay)</Text>
       <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +886,9 @@
       <Key>Seymour</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>A. Y. F.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,8 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>R. M. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
     <SubSectionTitle>1st Volunteer Battalion</SubSectionTitle>
@@ -953,8 +961,8 @@
     <MainItem>
       <Key>Booth</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J. (antedated)</Text>
+      <Forenames>R. M. St. J</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <Text>. (Capt.)</Text>
       <PageNumber>7368</PageNumber>
     </MainItem>
@@ -1273,8 +1281,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, D. A. C. D. (2nd Lieut.)</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. A. C. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6443</PageNumber>
     </MainItem>
   </ItemGroup>

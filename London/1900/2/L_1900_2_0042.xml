@@ -279,7 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulkeley</Key>
-      <Text>T. H. R. (Lieut.)</Text>
+      <Forenames>T. H. R.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tempest</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. S. (antedated)</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
@@ -401,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weyer, J. B. (2nd Lieut.)</Text>
+      <Forenames>de Weyer</Forenames>
+      <Text>, J. B. (2nd Lieut.)</Text>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>BrushO</Key>
-      <Text>R. (Capt.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,8 +1629,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, P. H. A. (Capt.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>P. H. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4275</PageNumber>
     </MainItem>
   </ItemGroup>

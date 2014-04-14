@@ -80,7 +80,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barff</Key>
-      <Text>, notice of winding up</Text>
+      <Text>notice of winding up</Text>
       <PageNumber>3149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +141,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blaokheath</Key>
-      <Text>(Birmingham) Blue Brick Works,notice to debenture holders, &amp;c</Text>
+      <Title>(Birmingham)</Title>
+      <Forenames>Blue Brick Works</Forenames>
+      <Text>,notice to debenture holders, &amp;c</Text>
       <PageNumber>4197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Canada-Company</Key>
-      <Text>, annual generalcourt</Text>
+      <Text>annual generalcourt</Text>
       <PageNumber>1672</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -40,8 +40,8 @@
     <MainItem>
       <Key>Moberley</Key>
       <Title>Lieut.</Title>
-      <Forenames>C.</Forenames>
-      <Text>von E. (seconded)</Text>
+      <Forenames>C. von E</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,8 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boultbee</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Lieut.) .. ..</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,8 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowther</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1001,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. N. M. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. N. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1551,8 +1552,8 @@
     <MainItem>
       <Key>Gorton</Key>
       <Title>Capt.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>

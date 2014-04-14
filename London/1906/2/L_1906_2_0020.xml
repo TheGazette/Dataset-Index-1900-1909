@@ -292,8 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,8 +379,8 @@
     <MainItem>
       <Key>Paterson</Key>
       <Title>Lieut.</Title>
-      <Forenames>B. H. O</Forenames>
-      <Text>'D. (seconded)</Text>
+      <Forenames>B. H. O'D</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,6 +977,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Watteville</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>3845</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Disney</Key>
       <Title>Capt.</Title>
       <Forenames>J. W. K.</Forenames>
@@ -1211,8 +1220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Instr. in Gunnery, 2nd Class)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Instr. in Gunnery, 2nd Class)</Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,8 +1472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>L. M.</Forenames>
+      <Title>Capt. St. L.</Title>
+      <Forenames>M.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>3845</PageNumber>
     </MainItem>
@@ -1913,8 +1922,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crookshank</Key>
-      <Forenames>C.</Forenames>
-      <Text>de W. (Maj.)</Text>
+      <Forenames>C. de W</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>2746</PageNumber>
     </MainItem>
   </ItemGroup>

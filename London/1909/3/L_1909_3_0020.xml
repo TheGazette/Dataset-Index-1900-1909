@@ -702,14 +702,18 @@
       <Key>Knowles</Key>
       <Title>Sir</Title>
       <Forenames>L.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7201</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leechnian</Key>
-      <Text>C.B. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,7 +1370,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colville-Wallis</Key>
-      <Text>. Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W.</Forenames>
       <PageNumber>5912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Text>.Rev. H. E</Text>
+      <Title>Rev.</Title>
+      <Forenames>H. E.</Forenames>
       <PageNumber>6666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1883,7 +1889,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collison</Key>
-      <Text>; Rev. C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>

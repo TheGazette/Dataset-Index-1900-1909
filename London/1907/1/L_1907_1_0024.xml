@@ -202,7 +202,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Colquhoun</Key>
-      <Text>. Capt. J. C. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. H. (resigned) ., S</Text>
       <PageNumber>29</PageNumber>
     </MainItem>

@@ -37,7 +37,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wreford</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. B. (resigned)</Text>
       <PageNumber>7655</PageNumber>
     </MainItem>
@@ -145,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Story</Key>
-      <Text>. P. F. (Capt.)</Text>
+      <Forenames>P. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,8 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>E.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +981,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, Bart. (2nd Lieut.) ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,8 +1082,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Capt. P. H. A. (leaves regiment)</Text>
+      <Key>O'Hara</Key>
+      <Title>Capt.</Title>
+      <Forenames>P. H. A.</Forenames>
+      <Text>(leaves regiment)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

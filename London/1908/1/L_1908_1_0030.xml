@@ -132,7 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Text>C.E</Text>
+      <Forenames>C.E</Forenames>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,6 +164,13 @@
       <Title>Gr.</Title>
       <Forenames>H</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paris</Key>
+      <Forenames>V.</Forenames>
+      <PageNumber>970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -476,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>G</Text>
+      <Forenames>G .</Forenames>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glading</Key>
-      <Text>T. .. .. ' '</Text>
+      <Forenames>T.</Forenames>
+      <Text>.. .. ' '</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +605,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien. P. B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. B</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,8 +895,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea.j</Text>
+      <Key>O'Hea</Key>
+      <Text>j</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetley</Key>
-      <Text>A. S. (Capt.)</Text>
+      <Forenames>A. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>

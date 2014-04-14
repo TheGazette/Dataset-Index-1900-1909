@@ -64,7 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>W. H. (antedated)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>8265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norgate</Key>
-      <Text>R. S. Gr. (antedated)</Text>
+      <Forenames>R. S. Gr</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>8260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>W. R</Text>
+      <Forenames>W. R</Forenames>
       <PageNumber>8267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,8 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roper</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underbill</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>J. F</Text>
+      <Forenames>J. F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylcs</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daltou</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Killick</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,14 +996,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Parr</Key>
-      <Text>G. J</Text>
+      <Forenames>G. J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rider</Key>
-      <Text>R, T</Text>
+      <Forenames>R</Forenames>
+      <Text>, T</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1080,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbottom</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleveland</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hume</Key>
-      <Text>A. (antedated)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>B. (antedated)</Text>
+      <Forenames>B.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,8 +1556,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S.</Forenames>
-      <Text>de V</Text>
+      <Forenames>S. de V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

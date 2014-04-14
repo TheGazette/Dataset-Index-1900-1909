@@ -153,7 +153,9 @@
       </Key>
       <Title>Lieut.</Title>
       <Forenames>R. E. W.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>2775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,8 +226,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Forenames>Cross</Forenames>
-      <Text>, Decoration of, conferred upon : i ' Beet, Corpl. H</Text>
+      <Text>
+        <Honour>Cross</Honour>
+      </Text>
       <PageNumber>1059</PageNumber>
     </MainItem>
     <SubItem>
@@ -299,6 +302,30 @@
       <Key>Viscount</Key>
       <Text>and Earl created : Roberts, Baron of Kandahar, Viscount St. Pierre and Earl Roberts of Kandahar in Afghanistan, and Pretoria in the Transvaal Colony, &amp;c</Text>
       <PageNumber>1058</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Buri</Key>
+      <Forenames>P.</Forenames>
+      <Text>, Consul-General for Germany at Sydney</Text>
+      <PageNumber>2527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Sarnfeld</Key>
+      <Forenames>E. R. M.</Forenames>
+      <Text>, Consul-General for Austria-Hungary at Calcutta</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Sternburg</Key>
+      <Forenames>Baron S.</Forenames>
+      <Text>, Consul-General for Germany at Calcutta</Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -431,14 +458,16 @@
       <Key>Williams</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart., Member of the General Council of Medical Education and Registration</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3273</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>. under the Locomotives Act, application to the Local Government Board</Text>
+      <Text>under the Locomotives Act, application to the Local Government Board</Text>
       <PageNumber>1510</PageNumber>
     </MainItem>
     <SubItem>

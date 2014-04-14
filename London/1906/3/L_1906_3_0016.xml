@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgoman</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, lion. H. G. O. (seconded)</Text>
       <PageNumber>6192</PageNumber>
     </MainItem>
@@ -170,7 +170,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crozier</Key>
-      <Text>. Lieut. P. J. B. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>P. J. B.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>5457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,8 +187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B. (2nd Lieut.)</Text>
+      <Forenames>C. O'B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +312,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hensbaw</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. C. G. (antedated)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +365,9 @@
       <Key>Keane</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>. B. W. (2nd Lieut.)</Text>
+      <Forenames>B. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,8 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,14 +993,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>. H. F. (Lieut.)</Text>
+      <Forenames>H. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Text>. T. C. (Capt.)</Text>
+      <Forenames>T. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Me</Key>
-      <Text>.res, M. (Capt.)</Text>
+      <Text>res, M. (Capt.)</Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,15 +1234,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Nixon</Key>
-      <Text>. E. J. (Lieut.)</Text>
+      <Forenames>E. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L. (2nd Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L. (2nd Lieut.)</Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,8 +1334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>J. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wighton</Key>
-      <Text>. E. (Capt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,8 +1562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>J. E. O</Forenames>
-      <Text>'H. (Lieut-Col.)..</Text>
+      <Forenames>J. E. O'H</Forenames>
+      <Text>. (Lieut-Col.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

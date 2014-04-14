@@ -85,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spry</Key>
-      <Text>F. M. D</Text>
+      <Forenames>F. M. D.</Forenames>
       <PageNumber>8165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,9 @@
     <MainItem>
       <Key>Finch</Key>
       <Forenames>E.</Forenames>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neligan</Key>
-      <Text>J. Gt</Text>
+      <Forenames>J. Gt</Forenames>
       <PageNumber>9027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Forenames>D. F. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>D. F. O'C</Forenames>
       <PageNumber>9754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fligg</Key>
-      <Text>H. W. B</Text>
+      <Forenames>H. W. B</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +888,8 @@
   <ItemGroup>
     <MainItem>
       <Key>SinclauyE</Key>
-      <Text>W...</Text>
+      <Forenames>W.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>P.M .. ..</Text>
+      <Forenames>P.M .</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Text>G '</Text>
+      <Forenames>G</Forenames>
+      <Text>'</Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>

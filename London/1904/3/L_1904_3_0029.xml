@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ostrehan</Key>
-      <Text>F. G. R.</Text>
+      <Forenames>F. G. R.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bippon</Key>
-      <Text>G.</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,8 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steele</Key>
-      <Title>St.</Title>
-      <Forenames>G. L.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>L.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teuipler</Key>
-      <Text>H.</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wapshare</Key>
-      <Text>B. ..</Text>
+      <Forenames>B.</Forenames>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,9 +356,10 @@
       <Forenames>R.</Forenames>
       <PageNumber>6139</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Retired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Retired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Retired List.</Text>
       <PageNumber>6142</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -446,8 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>G. B. St</Forenames>
-      <Text>. P.</Text>
+      <Forenames>G. B. St. P</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,9 +523,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruehy</Forenames>
-      <Text>, F. A. L</Text>
+      <Key>De Gruehy</Key>
+      <Forenames>F. A. L.</Forenames>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclaren</Key>
-      <Text>F. If.</Text>
+      <Forenames>F. If</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,8 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>E. C.</Forenames>
-      <Text>de B. ..</Text>
+      <Forenames>E. C. de B</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mollov</Key>
-      <Text>H. T</Text>
+      <Forenames>H. T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>W. R. T</Text>
+      <Forenames>W. R. T.</Forenames>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,14 +926,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>R. B. .. .. .. ..</Text>
+      <Forenames>R. B.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>G. E</Text>
+      <Forenames>G. E .</Forenames>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carroll</Key>
-      <Text>B. M. ..</Text>
+      <Forenames>B. M.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +963,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chavtor</Key>
-      <Text>H. C...</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grav</Key>
-      <Text>J. .. .. .. Grihb.m, M. C</Text>
+      <Forenames>J.</Forenames>
+      <Text>.. .. .. Grihb.m, M. C</Text>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,8 +1091,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laine</Key>
-      <Forenames>S.</Forenames>
-      <Text>van B.. .. .. ..</Text>
+      <Forenames>S. van B</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lcman</Key>
-      <Text>F. B. .. .. .. ..</Text>
+      <Forenames>F. B.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>J. G. ..</Text>
+      <Forenames>J. G.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,8 +1270,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellborne</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. .. .. ..</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,7 +1279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuninghame</Key>
-      <Text>Col. D. S</Text>
+      <Title>Col.</Title>
+      <Forenames>D. S</Forenames>
       <PageNumber>4452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,7 +1364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Forenames>Lieut H. G.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. G.</Forenames>
       <Text>, A de-&lt;le-Camp to Maj.-Gen. Command,ng Mhow District</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
@@ -1511,8 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwyn</Key>
-      <Title>Brev.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Brev. Lieut</Title>
       <Text>, CoL N. J. Inspector of Gymnasia</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>

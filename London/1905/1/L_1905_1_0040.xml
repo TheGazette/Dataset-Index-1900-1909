@@ -400,7 +400,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eginasie</Key>
-      <Text>(Wassau) Banket Gold Reef, notice of winding-up</Text>
+      <Title>(Wassau)</Title>
+      <Forenames>Banket Gold Reef</Forenames>
+      <Text>, notice of winding-up</Text>
       <PageNumber>121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Exchequer</Key>
-      <Text>receipts into and payments out of, between 1st April, 1904, and : 31 Bt December, 1904</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
     <SubItem>

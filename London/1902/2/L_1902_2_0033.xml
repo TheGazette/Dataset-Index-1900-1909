@@ -62,6 +62,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Ros</Key>
+      <Title>Maj.-Gen. and Hon. Lieut.-Gen. Lord (Col.)</Title>
+      <PageNumber>8439</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Henderson</Key>
       <Title>Lieut.</Title>
       <Forenames>H. G.</Forenames>
@@ -90,8 +97,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Hon. A. E. B. (Capt. and Adj.)</Text>
+      <Key>O'Neill</Key>
+      <Title>Hon.</Title>
+      <Forenames>A. E. B.</Forenames>
+      <Text>(Capt. and Adj.)</Text>
       <PageNumber>5959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>Vyse, R. G. H. (2nd Lieut.)</Text>
+      <Forenames>Vyse</Forenames>
+      <Text>, R. G. H. (2nd Lieut.)</Text>
       <PageNumber>8511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,8 +258,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. K. H. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. K. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,9 +339,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, H. De B. (Maj.)</Text>
+      <Key>De Lisle</Key>
+      <Forenames>H. De B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>6650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +542,8 @@
     <MainItem>
       <Key>Persse</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>C. De B. G.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>C. De B</Forenames>
+      <Text>. G. (resigned)</Text>
       <PageNumber>7167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +569,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burr</Key>
-      <Text>ell, Lieut. Sir M. R., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,9 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Title>St.</Title>
-      <Forenames>C.</Forenames>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>St. C. (Lieut.-Col.)</Title>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,8 +1003,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, 2nd Lieut. R. G. D. (cancellation)</Text>
+      <Key>O'Callaghan</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1273,9 @@
       <Key>Jenner</Key>
       <Title>Maj. Sir</Title>
       <Forenames>W. K. W.</Forenames>
-      <Text>, Bart, (retired pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,6 +1342,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Walden</Key>
+      <Title>Lieut. Lord</Title>
+      <Forenames>H.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>4963</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douglas-Scott</Key>
       <Title>Capt. Lord</Title>
       <Forenames>G. W. M.</Forenames>
@@ -1364,7 +1388,9 @@
       <Key>Milbanke</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Capt,)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorke</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. M. (seconded)</Text>
       <PageNumber>4671</PageNumber>
     </MainItem>

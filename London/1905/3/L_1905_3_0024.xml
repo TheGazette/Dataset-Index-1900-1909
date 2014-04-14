@@ -152,7 +152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>D. (Lieut.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>Rev. V. (Acting Chap.)</Text>
+      <Title>Rev.</Title>
+      <Forenames>V.</Forenames>
+      <Text>(Acting Chap.)</Text>
       <PageNumber>4904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +489,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>Lieut.-Col. and Hon. Col. J. C. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooper</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. Comdt. and Hon. Col. A. W. (retired)</Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
@@ -815,7 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chetwood-Aiken</Key>
-      <Text>H. F. C. (Capt.)</Text>
+      <Forenames>H. F. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,6 +974,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Nevers</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. O. E. V. B. M. G.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>5067</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Masters</Key>
       <Forenames>S. D. B.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1013,9 +1028,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>Capt. Viscount</Title>
+      <Forenames>F.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>647</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edye</Key>
-      <Forenames>C. V. De G.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>C. V. De G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>

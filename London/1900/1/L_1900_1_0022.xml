@@ -188,9 +188,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, S. B., Staff Capt. for Royal Artillery .. .. . . ..</Text>
+      <Key>Von Donop</Key>
+      <Forenames>S. B.</Forenames>
+      <Text>, Staff Capt. for Royal Artillery .. .. . . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,14 +327,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>G. A., Aide-dc-Camp to Maj.Gen. Tucker</Text>
+      <Forenames>G. A.</Forenames>
+      <Text>, Aide-dc-Camp to Maj.Gen. Tucker</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Text>F., Deputy-Assist. Adj -Gen</Text>
+      <Forenames>F.</Forenames>
+      <Text>, Deputy-Assist. Adj -Gen</Text>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +880,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horwood</Key>
-      <Text>W. T. F. (Capt.)</Text>
+      <Forenames>W. T. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>518</PageNumber>
       <PageNumber>3339</PageNumber>
     </MainItem>
@@ -1004,8 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Forenames>S.</Forenames>
-      <Text>de M. (2nd Lieut.)</Text>
+      <Forenames>S. de M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,8 +1080,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neal, J. C. (Capt.)</Text>
+      <Key>O'Neal</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,8 +1096,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. J. (Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,8 +1247,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur, R. H. (2nd Lieut.)</Text>
+      <Key>St. Maur</Key>
+      <Forenames>R. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1173</PageNumber>
     </MainItem>
   </ItemGroup>

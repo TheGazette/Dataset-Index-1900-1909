@@ -142,8 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clery</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>V. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corsellis</Key>
-      <Text>. M. H. (Capt.)</Text>
+      <Forenames>M. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,8 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>W. P.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>W. P. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +313,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Deakin</Key>
-      <Text>.F. H. (Capt.)</Text>
+      <Forenames>F. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>H. F. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5321</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>. S. T. (2nd Lieut.)</Text>
+      <Forenames>S. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +517,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forwood</Key>
-      <Text>; Sir D. B., Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (Maj.)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +666,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Text>C.B. (Lieut.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hassell</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. (Capt. and Hon. Maj.)</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (Capt. and Hon. Maj.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +816,9 @@
     <MainItem>
       <Key>Hewett</Key>
       <Title>Capt.</Title>
-      <Text>and Hon Maj. Sir H. G., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,15 +1376,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. G. D. (Capt.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan-Westropp, G. (Col.)</Text>
+      <Key>O'Callaghan-Westropp</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>5319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,8 +1408,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Power, J. J. (Capt.)</Text>
+      <Key>O'Neill-Power</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1987,6 +2015,14 @@
       <Forenames>H. C.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>5900</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Roemer</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5320</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

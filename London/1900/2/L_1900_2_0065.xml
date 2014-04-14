@@ -140,7 +140,9 @@
       <Key>Gilmour</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +603,9 @@
       <Key>Anstruther</Key>
       <Title>Sir</Title>
       <Forenames>W. R. O</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>

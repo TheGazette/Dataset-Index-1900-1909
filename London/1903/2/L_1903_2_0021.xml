@@ -124,7 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AstleyVCapt</Key>
-      <Text>. D. G. LE. (resigns as Aide-de-Camp to Col. M. S. Brown. . ; rigg) .. '</Text>
+      <Forenames>D. G.</Forenames>
+      <Text>LE. (resigns as Aide-de-Camp to Col. M. S. Brown. . ; rigg) .. '</Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,6 +160,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. R. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douro</Key>
       <Text>2nd Lieut, Marquis (resigned)</Text>
       <PageNumber>3152</PageNumber>
@@ -178,7 +187,9 @@
       <Key>Lethbridge</Key>
       <Title>Capt. Sir</Title>
       <Forenames>W. P. C.</Forenames>
-      <Text>,' Bart. (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. J. A. (resigned and Hon. Lieut.)</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
@@ -622,8 +633,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lieut. E. F. St. J. (resigned and Hon. Lieut.)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E. F. St. J</Forenames>
+      <Text>. (resigned and Hon. Lieut.)</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,8 +1133,8 @@
     <MainItem>
       <Key>Griffith</Key>
       <Title>Capt.</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>de B. '(resigned)'</Text>
+      <Forenames>W. H. de B</Forenames>
+      <Text>. '(resigned)'</Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
     <SubItem>

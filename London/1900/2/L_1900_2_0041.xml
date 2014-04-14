@@ -91,12 +91,22 @@
   <SubSectionTitle>Flintshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. T. A. (Surg.-Lieut.-Col.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. T. A.</Forenames>
+      <Text>(Surg.-Lieut.-Col.)</Text>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Gloucestershire</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Title>Chap. Rev.</Title>
+      <Forenames>G. F. C.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>4280</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lloyd-Jones</Key>
@@ -131,8 +141,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, 2nd Lieut. De L. E. (resigned)</Text>
+      <Key>O'Leary</Key>
+      <Title>2nd Lieut. De L.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,8 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Headley</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
@@ -800,7 +812,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardley</Key>
-      <Text>W. A. (2nd Lieut.)</Text>
+      <Forenames>W. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +934,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, L. T. (Lieut.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>L. T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,8 +1340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glyn</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>

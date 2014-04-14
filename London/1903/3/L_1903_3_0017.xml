@@ -187,7 +187,9 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>H. O.</Forenames>
-      <Text>(2nd Lieut.) Jervis-White-Jervis, Lieut.-Col. Sir J. H., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pease-Watkin</Key>
-      <Text>E. H.-P. (2nd Lieut,)</Text>
+      <Forenames>E. H.</Forenames>
+      <Text>-P. (2nd Lieut,)</Text>
       <PageNumber>4900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>C. E. (Capt.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,8 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>G. K. Du P.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>G. K. Du P</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,8 +1312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>W.</Forenames>
-      <Text>de H. (2nd Lieut.)</Text>
+      <Forenames>W. de H</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,8 +1322,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -..</KeyDitto>
       </Key>
-      <Forenames>D.</Forenames>
-      <Text>de H. (Lieut.)</Text>
+      <Forenames>D. de H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,8 +1459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1683,8 +1687,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>E. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>

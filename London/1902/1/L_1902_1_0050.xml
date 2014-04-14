@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilner</Key>
-      <Text>G. W. (2nd Lieut.)</Text>
+      <Forenames>G. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>C. V. M. (2ud Lieut.)</Text>
+      <Forenames>C. V. M.</Forenames>
+      <Text>(2ud Lieut.)</Text>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,8 +1070,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,8 +1473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,8 +1589,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartford</Key>
-      <Forenames>H. I. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>H. I. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,8 +1657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>B. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,6 +1719,13 @@
       <Forenames>J. A. P.</Forenames>
       <Text>(Hon. Lieut.)</Text>
       <PageNumber>3257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Joux</Key>
+      <Text>; J. S. N. (Capt.)</Text>
+      <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

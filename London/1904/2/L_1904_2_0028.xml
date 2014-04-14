@@ -68,8 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beynon</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. P. (Lieut.)</Text>
+      <Forenames>L. St. P</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,8 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powuey</Key>
-      <Forenames>O. Du P. P.</Forenames>
-      <Text>(Maj.)</Text>
+      <Forenames>O. Du P</Forenames>
+      <Text>. P. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,8 +817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dallin</Key>
-      <Forenames>R.</Forenames>
-      <Text>de P. (2nd Lieut.)</Text>
+      <Forenames>R. de P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1035,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>2nd Lieut. E. A. (temporary half-pay) J</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(temporary half-pay) J</Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1125,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. L. W. (antedated)</Text>
       <PageNumber>3554</PageNumber>
     </MainItem>

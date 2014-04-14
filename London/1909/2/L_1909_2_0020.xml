@@ -224,7 +224,9 @@
       <Key>Craic</Key>
       <Title>Sir</Title>
       <Forenames>A. C. G.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>D. (Lieut.-Col.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,6 +973,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Ugarte</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. L. H.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>4387</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Pike</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>R. N.</Forenames>
@@ -1128,7 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodges</Key>
-      <Text>Lieut, W. H</Text>
+      <Title>Lieut</Title>
+      <Text>, W. H</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>

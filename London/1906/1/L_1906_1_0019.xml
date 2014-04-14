@@ -491,8 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Instr. in Gunnery)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Instr. in Gunnery)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,8 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>W.</Forenames>
-      <Text>de H. (Lieut.)</Text>
+      <Forenames>W. de H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,8 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toogood</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +932,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Text>. E. (Lieut.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,8 +975,9 @@
   <SubSectionTitle>Volunteers</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughntssy, J. J. F. (Capt.)</Text>
+      <Key>O'Shaughntssy</Key>
+      <Forenames>J. J. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1798</PageNumber>
     </MainItem>
   </ItemGroup>

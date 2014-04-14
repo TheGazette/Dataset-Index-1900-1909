@@ -481,8 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Maj. and Hon. Lieut</Title>
       <Text>,-Col. J. (resigned)</Text>
       <PageNumber>4525</PageNumber>
     </MainItem>
@@ -525,8 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>F. G.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>F. G. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +852,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>G. B. (Capt.) .. ..</Text>
+      <Forenames>G. B.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -56,9 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bratb</Forenames>
-      <Text>, Col. E. (Secretary, Military Department) .. .. ..</Text>
+      <Key>De Bratb</Key>
+      <Title>Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(Secretary, Military Department) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>Capt. .T. A. (Deputy-Assist. Adj.-Gen., Bengal Command)</Text>
+      <Title>Capt.</Title>
+      <Text>.T. A. (Deputy-Assist. Adj.-Gen., Bengal Command)</Text>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>H. W. (Maj.) .. '..</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(Maj.) .. '..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,8 +378,9 @@
   <SubCategoryTitle>DEVONSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur, R, H. (Capt. Super.)</Text>
+      <Key>St. Maur</Key>
+      <Forenames>R</Forenames>
+      <Text>, H. (Capt. Super.)</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +430,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>,,Bart, (Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +632,9 @@
       <Key>Price</Key>
       <Title>Sir</Title>
       <Forenames>F. C. R.</Forenames>
-      <Text>. Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopc-Vere</Key>
-      <Text>J. C. (Hon. Lieut.-Col.)</Text>
+      <Forenames>J. C.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -71,7 +71,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>Bart (Maj. and Hon. Lieut.-Col.) .. .. .. .</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +163,9 @@
       <Key>Gilmour</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>Bart (Hon. Col.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,14 +265,17 @@
       <Key>Price</Key>
       <Title>Sir</Title>
       <Forenames>P. C</Forenames>
-      <Text>B. Bart (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Text>. B. G. M. (Lieut.)</Text>
+      <Forenames>B. G. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +698,9 @@
       <Key>Bycroft</Key>
       <Title>Sir</Title>
       <Forenames>B. N.</Forenames>
-      <Text>, Bart. (Capt. and Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,6 +769,14 @@
       <Forenames>P</Forenames>
       <Text>; (Capt.)</Text>
       <PageNumber>5221</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>C. F. G. W.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -908,7 +925,9 @@
       <Key>Filmer</Key>
       <Title>Sir</Title>
       <Forenames>E. M.</Forenames>
-      <Text>. Bart, (Lieut.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +987,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Hon.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. V. (2nd Lieut.)..</Text>
+      <Forenames>G. St. V</Forenames>
+      <Text>. (2nd Lieut.)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,9 +1413,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, W. B. (2nd Lieut.) .. ..</Text>
+      <Key>de Lisle</Key>
+      <Forenames>E. M. P.</Forenames>
+      <Text>(Maj.) .. ..</Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Du Pre</Key>
+      <Forenames>W. B.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,6 +1527,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>P. C. F.</Forenames>
+      <Text>(2nd Lieut.)..</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Foster</Key>
       <Forenames>G. B.</Forenames>
       <Text>(2nd Lieut.) .. ..</Text>
@@ -1597,7 +1632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Eresby, Lord (Maj. and Hon. Lieut.-Col.) .. ..</Text>
+      <Forenames>de Eresby</Forenames>
+      <Text>, Lord (Maj. and Hon. Lieut.-Col.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

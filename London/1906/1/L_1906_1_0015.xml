@@ -160,8 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>A. C. E. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>A. C. E. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,9 +399,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>,.Capt. H. D., Staff-Capt. at Head-Quarters</Text>
+      <Key>De Pree</Key>
+      <Text>.Capt. H. D., Staff-Capt. at Head-Quarters</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +620,8 @@
     <MainItem>
       <Key>Radcliffe</Key>
       <Title>Capt.</Title>
-      <Forenames>P. P.</Forenames>
-      <Text>de B., Staff Capt. at Head-Quarters</Text>
+      <Forenames>P. P. de B</Forenames>
+      <Text>., Staff Capt. at Head-Quarters</Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,8 +800,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>L. G.</Forenames>
-      <Text>de R. (Lieut.)</Text>
+      <Forenames>L. G. de R</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,8 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +908,9 @@
       <Key>Wilmot</Key>
       <Title>Sir</Title>
       <Forenames>R. H. S.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +934,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Amey</Key>
-      <Text>. A. (Maj.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,8 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>W.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>W. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>. C. H. (2nd Lieut.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,14 +1148,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Milson</Key>
-      <Text>. G. C. (Capt.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1618</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. R. (Capt.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,8 +1346,8 @@
     <MainItem>
       <Key>Bland</Key>
       <Title>Capt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. C. (Instr. in Gunnery, 1st Class)</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>. (Instr. in Gunnery, 1st Class)</Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>

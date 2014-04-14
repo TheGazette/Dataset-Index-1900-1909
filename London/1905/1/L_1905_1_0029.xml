@@ -313,7 +313,9 @@
       <Key>Levinge</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,6 +334,15 @@
       <Forenames>H. H.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>29</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Teissier</Key>
+      <Title>Capt.</Title>
+      <Forenames>Baron</Forenames>
+      <Text>(resigned Hon. Maj.)</Text>
+      <PageNumber>1581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -410,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; W. (resigned and Hon. Capt.)</Text>
       <PageNumber>2279</PageNumber>
     </MainItem>
@@ -867,7 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seabroobe</Key>
-      <Text>C. H. (Instr. of Musketry)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(Instr. of Musketry)</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +897,9 @@
     <MainItem>
       <Key>Home-Purves-</Key>
       <Forenames>Hume-Campbell</Forenames>
-      <Text>, Capt. Sir J., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2184</PageNumber>
     </MainItem>
   </ItemGroup>

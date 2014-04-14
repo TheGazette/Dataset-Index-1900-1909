@@ -897,6 +897,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Clifford</Key>
+      <Title>Lord (2nd Lieut.)</Title>
+      <PageNumber>1888</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Forester</Key>
       <Title>Lieut. Hon.</Title>
       <Forenames>C. C. O.</Forenames>
@@ -1151,7 +1158,9 @@
       <Key>Hardy</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warmington</Key>
-      <Text>Vet.-Lieut. F. G. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. F. G. (resigned)</Text>
       <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1301,9 @@
       <Key>Smart</Key>
       <Title>Sir</Title>
       <Forenames>S. H. L.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1312,9 @@
       <Key>Stuart</Key>
       <Title>Capt. (Hon. Maj.) Sir</Title>
       <Forenames>S. H. L. I</Forenames>
-      <Text>Stuart, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,8 +1444,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, F. J. (Maj.)</Text>
+      <Key>St. John</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>

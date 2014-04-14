@@ -5,7 +5,9 @@
       <Key>MeGrigor</Key>
       <Title>Sir</Title>
       <Forenames>Charles R.</Forenames>
-      <Text>, Bart., and Co</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,8 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baron</Key>
-      <Forenames>Cigarette Machine Co</Forenames>
-      <Text>., reduction of capital .. .. _</Text>
+      <Forenames>Cigarette Machine</Forenames>
+      <Text>Co., reduction of capital .. .. _</Text>
       <PageNumber>777</PageNumber>
       <PageNumber>1522</PageNumber>
     </MainItem>
@@ -250,15 +252,16 @@
   <ItemGroup>
     <MainItem>
       <Key>British-American</Key>
-      <Forenames>Land Co</Forenames>
-      <Text>., special general court</Text>
+      <Forenames>Land</Forenames>
+      <Text>Co., special general court</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>British</Key>
-      <Text>. Electric Street Tramways, notice of winding up</Text>
+      <Forenames>Electric Street Tramways</Forenames>
+      <Text>, notice of winding up</Text>
       <PageNumber>941</PageNumber>
       <PageNumber>2077</PageNumber>
     </MainItem>
@@ -266,8 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>British</Key>
-      <Forenames>Linen Co</Forenames>
-      <Text>. Bank, annual general court</Text>
+      <Forenames>Linen</Forenames>
+      <Text>Co. Bank, annual general court</Text>
       <PageNumber>625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +358,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carbon</Key>
-      <Text>(New) Syndicate, notice of winding up</Text>
+      <Title>(New)</Title>
+      <Forenames>Syndicate</Forenames>
+      <Text>, notice of winding up</Text>
       <PageNumber>1072</PageNumber>
       <PageNumber>1521</PageNumber>
     </MainItem>
@@ -412,7 +417,6 @@
       <PageNumber>718</PageNumber>
       <PageNumber>883</PageNumber>
     </SubItem>
-    <CategoryTitle>Capital and Counties Bank, Ltd</CategoryTitle>
     <SubItem>
       <Text>Capital and Counties Bank, Ltd. v. Wright, &amp;c, sale</Text>
       <PageNumber>1626</PageNumber>

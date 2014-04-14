@@ -26,8 +26,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly.Blackwood, E. H. (2nd Lieut.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Blackwood</Forenames>
+      <Text>, E. H. (2nd Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +332,9 @@
       <Key>Bannerman</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart. (Capt. I Barnes, L. E. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,8 +488,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>W. L.</Forenames>
-      <Text>de M. (Lieut.) .. ..</Text>
+      <Forenames>W. L. de M</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,8 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oasgrain</Key>
-      <Forenames>P. H.</Forenames>
-      <Text>du P. (Maj.)</Text>
+      <Forenames>P. H. du P</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,9 +654,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, A. H. (Lieut.)</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>A. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,8 +837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,8 +1619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Forenames>J. A. O</Forenames>
-      <Text>'B. (Lieut.) ,</Text>
+      <Forenames>J. A. O'B</Forenames>
+      <Text>. (Lieut.) ,</Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>

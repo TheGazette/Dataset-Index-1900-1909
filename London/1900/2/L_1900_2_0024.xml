@@ -89,7 +89,9 @@
       <Key>Towse</Key>
       <Title>Capt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +290,9 @@
       <Key>Younger</Key>
       <Title>Capt.</Title>
       <Forenames>D. R.</Forenames>
-      <Text>, deceased, designated for Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +579,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>A. D. (2nd Lieut.) .. ..</Text>
+      <Forenames>A. D.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,8 +969,8 @@
     <MainItem>
       <Key>Foljarnbc</Key>
       <Title>Capt. Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de R, S., Staff Capt</Text>
+      <Forenames>A. W. de R</Forenames>
+      <Text>, S., Staff Capt</Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1198,9 @@
       <Key>Lockhart</Key>
       <Title>Bi-ev. Col. Sir</Title>
       <Forenames>S. M.</Forenames>
-      <Text>, Bart., Brig.-Gen on the StafF to command the Garalry Brigade at the Curragh</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>

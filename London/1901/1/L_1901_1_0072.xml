@@ -676,8 +676,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunbar</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Sir G. D. S. Bart., (seconded)</Text>
+      <Title>Lieut, Sir</Title>
+      <Forenames>G. D. S.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,8 +740,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>C. M. G.</Forenames>
+      <Title>St. C.</Title>
+      <Forenames>M. G.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>3286</PageNumber>
     </MainItem>
@@ -1340,8 +1343,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M. (Lieut.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,8 +1447,8 @@
     <MainItem>
       <Key>French</Key>
       <Title>Lieut.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,8 +1563,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, C. J. (2nd Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>C. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. (antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1790,7 +1795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. P. B. (seconded)</Text>
       <PageNumber>2862</PageNumber>
     </MainItem>
@@ -1798,8 +1803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Forenames>C. H. B. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>C. H. B. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>

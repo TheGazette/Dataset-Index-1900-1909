@@ -548,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edelsten</Key>
-      <Text>J. A. (Lieut.-Col. and ' to command)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(Lieut.-Col. and ' to command)</Text>
       <PageNumber>4907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, B. H. (antedated)</Text>
       <PageNumber>4901</PageNumber>
     </MainItem>
@@ -1125,7 +1126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>G. (Lieut.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,8 +1142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Lieut.) ..</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>WcnleVj</Key>
-      <Text>W. G. (Lieut.)</Text>
+      <Forenames>W. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

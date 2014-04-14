@@ -489,8 +489,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (local Maj.)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (local Maj.)</Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +513,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>Lieut.-Col. and Brevet Col. G. M. (retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>8017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +563,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John. C. W. R. (Col.)</Text>
+      <Key>St. John</Key>
+      <Forenames>C. W. R.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>G. F. (Hon. Cap,)</Text>
+      <Forenames>G. F.</Forenames>
+      <Text>(Hon. Cap,)</Text>
       <PageNumber>9328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thapa</Key>
-      <Text>B. (Hon. Capt.)</Text>
+      <Forenames>B.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Esden</Key>
-      <Text>A. H</Text>
+      <Forenames>A. H</Forenames>
       <PageNumber>8352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheape</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (Adj.)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>9766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,8 +1182,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt. A. K. H. (seconded)</Text>
+      <Key>O'Brien</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. K. H.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>

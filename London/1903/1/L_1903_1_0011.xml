@@ -183,7 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrell</Key>
-      <Text>.E. (Lieut.-Col.),</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.-Col.),</Text>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +351,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Forenames>Lieut J. V.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. V.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>1419</PageNumber>
     </MainItem>
@@ -723,7 +725,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Munns</Key>
-      <Text>.Capt. E. M. E. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>E. M. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,8 +1139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (2nd Lieut.)'</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (2nd Lieut.)'</Text>
       <PageNumber>389</PageNumber>
     </MainItem>
   </ItemGroup>

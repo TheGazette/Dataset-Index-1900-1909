@@ -139,7 +139,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clough</Key>
-      <Text>. Capt. and Hon. Maj. T. C..</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>T. C.</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +517,10 @@
   <SubSectionTitle>2nd Dragoon Guard*</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut. A. K. H. (seconded)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. K. H.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +975,9 @@
       <Key>Levinge</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1071,9 @@
       <Key>Millbanke</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>

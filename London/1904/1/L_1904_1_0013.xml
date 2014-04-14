@@ -351,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Squire</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>:-Col. and Hon. Col. J. E. (resigned)</Text>
       <PageNumber>1449</PageNumber>
     </MainItem>
@@ -587,14 +587,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Olver</Key>
-      <Text>A. (Capt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, F. C. (Lieut.)</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>F. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +977,9 @@
       <Key>Colleton</Key>
       <Title>Sir</Title>
       <Forenames>R. A. W.</Forenames>
-      <Text>Bart. (Col.).:</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,8 +1350,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, T. J. (Col.)</Text>
+      <Key>O'Dell</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,8 +1375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'B. (Col.)</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,7 +1439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Text>J.A. H. (Col.) .. ..</Text>
+      <Forenames>J.A. H.</Forenames>
+      <Text>(Col.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,8 +1574,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, W. A. E. (Col.) .. ..</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. A. E.</Forenames>
+      <Text>(Col.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1652,7 +1659,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, Bart. (Col.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

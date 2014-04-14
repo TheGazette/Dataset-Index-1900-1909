@@ -140,7 +140,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>de Tuyll, E. .C. O. (2nd Lieut.)</Text>
+      <Forenames>de Tuyll</Forenames>
+      <Text>, E. .C. O. (2nd Lieut.)</Text>
       <PageNumber>1446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,9 +521,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pte</Forenames>
-      <Text>, W. B. (2nd Lieut:)</Text>
+      <Key>Du Pte</Key>
+      <Forenames>W. B.</Forenames>
+      <Text>(2nd Lieut:)</Text>
       <PageNumber>1094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +813,9 @@
       <Key>Boss</Key>
       <Title>Sir</Title>
       <Forenames>C. H. A. F.</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

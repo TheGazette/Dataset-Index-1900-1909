@@ -222,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>C. (Maj.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>1795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,6 +364,13 @@
       <Forenames>A. L.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>698</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Text>0. (2nd Lieut.)</Text>
+      <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -959,8 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Forenames>A. J. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>A. J. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,8 +1002,8 @@
     <MainItem>
       <Key>Ricardo</Key>
       <Title>Capt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. Q. (retired)</Text>
+      <Forenames>A. St. Q</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>

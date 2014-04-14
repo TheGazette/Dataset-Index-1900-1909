@@ -350,15 +350,16 @@
     <MainItem>
       <Key>Worcester</Key>
       <Forenames>Deputy-Lieutenant</Forenames>
-      <Text>of: Temple, Sir R. C, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wraxhall</Key>
-      <Title>St.</Title>
-      <Forenames>John</Forenames>
+      <Forenames>St. John</Forenames>
       <Text>, Order in Council, district chapelry</Text>
       <PageNumber>727</PageNumber>
     </MainItem>
@@ -404,7 +405,15 @@
       </Key>
       <Title>Adml. Sir</Title>
       <Forenames>F. G. D.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem .. Bilgrami, S. H., Companion of the Star of India .. .. .. Birdwood, Col. W. R., Companion, Indian Empire .. .. .. Bovell, H. J., Unofficial Member of the Executive Council of Saint Helena .. Braddell, T. de M. L., Puisne Judge of the Supreme Court of the Straits Settlements .. .. '.. Brassey, Baron, Constable of H.M.'s Castle of Dover, and Warden and Keeper of H.M.'s Cinque Ports, &amp;c. Bristow, E., H.M.'s Vice-Consul at Tangier Brodhurst, H. W. F. C, Member of the Executive Council of Ceylon .. Budd, A., Hon. Fourth Class, Royal Victorian Order Campbell, G., H.M.'s Vice-Consul in the Congo Cawdor, Rt. Hon. Earl, Member of the Council of H.R.H. the Prince of Wales Cebollino, Col. J. R., Hon. Commander, Royal Victorian Order .. Cebreiro, Lieut, T. C, Hon. Fifth Class, Royal Victorian Order .. Chandler, F., Edward Medal awarded to Chervachidze, H.E. Prince, Hon. Knight Grand Cross, Royal Victorian Order Clark, J„ a King's Counsel .. .. ___ Clarke, H.E. Sir G. S., Knight of Grace, St. John of Jerusalem .. Clat, Lieut, and Bandmaster E. C, Hon. Fifth Class, Royal Victorian Order D</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1787</PageNumber>
     </MainItem>
     <SubItem>

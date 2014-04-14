@@ -941,8 +941,9 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. E. S. (Professor)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(Professor)</Text>
       <PageNumber>1233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1443,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Milward</Key>
-      <Text>.Maj.F.B. (Permanent Service)</Text>
+      <Title>Maj.</Title>
+      <Forenames>F.B.</Forenames>
+      <Text>(Permanent Service)</Text>
       <PageNumber>1234</PageNumber>
     </MainItem>
   </ItemGroup>

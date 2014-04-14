@@ -85,7 +85,9 @@
       <Key>Chetwode</Key>
       <Title>Maj. Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>Bart., Asst. Military Secretary to Lieut.-Gen. Sir J. D. P. French</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knulback</Key>
-      <Forenames>Lieut H. A.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. A.</Forenames>
       <Text>, Assistant Superintendent of Gymnasia</Text>
       <PageNumber>7978</PageNumber>
     </MainItem>
@@ -337,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitford</Key>
-      <Text>. -Col. B. R, Brig-Gen. to command au Infantry Brigade and temporary Bi-ig.-Gen</Text>
+      <Text>-Col. B. R, Brig-Gen. to command au Infantry Brigade and temporary Bi-ig.-Gen</Text>
       <PageNumber>8648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Moncrieff</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Brev. Col. G. K., Assistant Director at Head-Quarters</Text>
       <PageNumber>6720</PageNumber>
     </MainItem>
@@ -542,7 +545,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>. Maj. E. M., DeputyAssist. Adj.-Gen. at Head-Quarters</Text>
+      <Title>Maj.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>, DeputyAssist. Adj.-Gen. at Head-Quarters</Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerniek</Key>
-      <Text>. C. C. (Lieut.)</Text>
+      <Forenames>C. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +838,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas-Jones</Key>
-      <Text>. Capt. W. D. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1171,8 @@
     <MainItem>
       <Key>King</Key>
       <Title>Capt.</Title>
-      <Forenames>W. A.</Forenames>
-      <Text>de C. (Instructor)</Text>
+      <Forenames>W. A. de C</Forenames>
+      <Text>. (Instructor)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

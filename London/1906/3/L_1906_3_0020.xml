@@ -115,15 +115,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ske</Key>
-      <Text>.ton, G. (Lieut.) .. .. -</Text>
+      <Text>ton, G. (Lieut.) .. .. -</Text>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Albemarle</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of (Hon. Col.)</Text>
+      <Title>The Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>6409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,8 +179,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, C. (Maj.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +659,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. L. A. (resigned) .. .. .,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -666,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marten</Key>
-      <Text>. R. (Adj.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>5135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,8 +851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>O. G.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>O. G. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,8 +1051,8 @@
     <MainItem>
       <Key>Mouillot</Key>
       <Title>Lieut.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de T. (antedated)</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,8 +1108,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, O. C. (2nd Lieut.)..</Text>
+      <Key>St. John</Key>
+      <Forenames>O. C.</Forenames>
+      <Text>(2nd Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

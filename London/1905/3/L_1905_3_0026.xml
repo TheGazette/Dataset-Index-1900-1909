@@ -40,7 +40,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>M.C. C. (Lieut.) .. ..</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>J. W. (Maj.)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,8 +246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of (Hon. Lieut-Col.)</Text>
+      <Title>The Earl</Title>
+      <Text>of (Hon. Lieut-Col.)</Text>
       <PageNumber>6330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +519,9 @@
       <Key>Matthews</Key>
       <Title>Super.</Title>
       <Forenames>Q.</Forenames>
-      <Text>ruir. and Hon. Capt. M.C. (resigned) ..-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,8 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>E. C. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,8 +784,8 @@
     <MainItem>
       <Key>Durand</Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de B. (resigned)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,8 +1042,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, E. G. (Lieut.)</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>

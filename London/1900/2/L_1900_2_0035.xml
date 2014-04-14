@@ -767,6 +767,47 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bourbel</Key>
+      <Forenames>B. A.</Forenames>
+      <Text>(2nd Lieut.).. ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mattos</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>W. W.</Forenames>
+      <Text>(removed)</Text>
+      <PageNumber>4785</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rougemont</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Maj )</Text>
+      <PageNumber>5034</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6121</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>H. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5174</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Devenish</Key>
       <Title>Capt.</Title>
       <Forenames>A. H. N.</Forenames>
@@ -811,9 +852,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Maj. J. P. (antedated)</Text>
+      <Key>Du Cane</Key>
+      <Title>Maj.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,8 +1441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. G. (Capt.)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. G. (Capt.)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,8 +1452,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. L. G. (antedated)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. G. (antedated)</Text>
       <PageNumber>7843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,7 +1641,9 @@
       <Key>Keane</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1654,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>

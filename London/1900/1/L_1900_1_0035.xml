@@ -143,8 +143,8 @@
     <MainItem>
       <Key>Hassell</Key>
       <Title>Capt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de B. (seconded)</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schlesinger</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Artillery C. E, (seconded)</Text>
       <PageNumber>1003</PageNumber>
     </MainItem>
@@ -706,6 +706,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Carrara-Rivers</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3408</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Kirby</Key>
       <Forenames>R. D.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -779,15 +787,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. E. (2nd Lieut.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Power, Lieut. J. J. (seconded)</Text>
+      <Key>O'Neill-Power</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>

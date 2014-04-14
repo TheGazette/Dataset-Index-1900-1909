@@ -150,6 +150,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>H. C.</Forenames>
+      <PageNumber>8191</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Everett</Key>
       <Forenames>G. G</Forenames>
       <PageNumber>___ ___</PageNumber>
@@ -513,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Majors</Key>
-      <Text>. Black, J. A</Text>
+      <Forenames>Black</Forenames>
+      <Text>, J. A</Text>
       <PageNumber>6670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,8 +761,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Forenames>F. O</Forenames>
-      <Text>'D.</Text>
+      <Forenames>F. O'D</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thew</Key>
-      <Text>N. V</Text>
+      <Forenames>N. V</Forenames>
       <PageNumber>8785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +921,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G. B</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G. B</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewes</Key>
-      <Text>F. J</Text>
+      <Forenames>F. J</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,9 +1123,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zouza</Forenames>
-      <Text>, CM. .. .. ..</Text>
+      <Key>De Zouza</Key>
+      <Text>CM. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

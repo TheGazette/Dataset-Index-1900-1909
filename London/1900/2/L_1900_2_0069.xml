@@ -125,8 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>R.</Forenames>
-      <Text>de G.</Text>
+      <Forenames>R. de G</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robins</Key>
-      <Text>S.J. .. .. ., ..</Text>
+      <Forenames>S.J.</Forenames>
+      <Text>.. .. ., ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

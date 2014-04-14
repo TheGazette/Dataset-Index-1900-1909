@@ -116,7 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coasters</Key>
-      <Text>, notice of winding-up</Text>
+      <Text>notice of winding-up</Text>
       <PageNumber>887</PageNumber>
     </MainItem>
     <SubItem>
@@ -316,7 +316,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: Barnuni and Bailey</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: Barnuni and Bailey</Text>
       <PageNumber>2251</PageNumber>
     </MainItem>
     <SubItem>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Bikaner</Key>
       <Title>H.H.</Title>
-      <Text>the Maharaja of, KahAri-Hind Gold Medal ... .. Bingley, Capt. A. H., KaJfiir-i-Hind Gold Medal .. iiirf. Birch, E. W., Companion of St. Michael . and St. George.. .. Bonham, Sir G. F., Bart., Envoy Extraordinary and Minister Plenipotentiary to the King of Servia</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +48,9 @@
       <Key>Srook</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Brownlow</Forenames>
-      <Text>, Lieut.-Col. and Brev. Col. C. C, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>8327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +171,9 @@
       <Key>Carleton</Key>
       <Title>Capt.</Title>
       <Forenames>F. M.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +182,9 @@
       <Key>Cannichael</Key>
       <Title>Sir</Title>
       <Forenames>T. D. G.</Forenames>
-      <Text>, Bart., Trustee and Commissioner of the Board of . Manufactures in Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +208,9 @@
     <MainItem>
       <Key>Carter</Key>
       <Forenames>A. B.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +236,9 @@
     <MainItem>
       <Key>Chance</Key>
       <Forenames>J. T.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +297,9 @@
       <Key>Chubb</Key>
       <Title>Sir</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +307,9 @@
     <MainItem>
       <Key>Churcnfll</Key>
       <Title>Lord</Title>
-      <Text>, Knight Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +351,9 @@
       <Key>Congreve</Key>
       <Title>Capt.</Title>
       <Forenames>W. N.</Forenames>
-      <Text>, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +362,9 @@
       <Key>Connolly</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>B. B.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +381,9 @@
     <MainItem>
       <Key>Corkran</Key>
       <Forenames>V. S.</Forenames>
-      <Text>, Member of the Fourth Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +407,9 @@
     <MainItem>
       <Key>Crocius</Key>
       <Forenames>C. F. C.</Forenames>
-      <Text>, Honorary Memher of the Fifth Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +429,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,8 +473,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Custance</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral R. N., a Companion of the Order of St. Michael and St. George .. .-</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>R. N.</Forenames>
+      <Text>, a Companion of the Order of St. Michael and St. George .. .-</Text>
       <PageNumber>286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +543,17 @@
       <Key>Dease</Key>
       <Title>Sir</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2996</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de C</Key>
+      <Text>&amp;urcy-Perry, G; R., knighted</Text>
+      <PageNumber>1169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -535,6 +573,14 @@
       <Forenames>G. C</Forenames>
       <Text>, Lieutenant-Governor of Lagos</Text>
       <PageNumber>1522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>H. W.</Forenames>
+      <Text>, Assistant Judge Of H.M.'s Supreme Consular Court for the SublimeOttoman Porte</Text>
+      <PageNumber>2195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -567,7 +613,9 @@
     <MainItem>
       <Key>Donaldson</Key>
       <Forenames>W.</Forenames>
-      <Text>, Companion of the Bath '</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +624,9 @@
       <Key>Dorward</Key>
       <Title>Col.</Title>
       <Forenames>A. R. F.</Forenames>
-      <Text>, 'Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +636,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Dougherty</Forenames>
-      <Text>, J. B., 'Companion of the Bath „</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +701,9 @@
     <MainItem>
       <Key>Erbach-Schonberg</Key>
       <Forenames>Count</Forenames>
-      <Text>of, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +712,9 @@
       <Key>Evatt</Key>
       <Title>Capt.</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,8 +763,10 @@
     <MainItem>
       <Key>Ferguson</Key>
       <Title>Capt.</Title>
-      <Forenames>H. G.</Forenames>
-      <Text>de L., Companion of the Distinguished Service Order</Text>
+      <Forenames>H. G. de L</Forenames>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,8 +827,10 @@
     <MainItem>
       <Key>Foljambe</Key>
       <Title>Gapt. Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de B. S., Member of the Fourth Class of the Royal Victorian Order .,</Text>
+      <Forenames>A. W. de B</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +889,9 @@
     <MainItem>
       <Key>Gaing</Key>
       <Forenames>Maung On</Forenames>
-      <Text>, Companion of the Order of the Indian Empire.. ... . % Gairdner,Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +926,9 @@
     <MainItem>
       <Key>Gibson</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, Member of the Fourth Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +960,9 @@
       <Key>Gbodwyn</Key>
       <Title>Capt.</Title>
       <Forenames>N. J.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>

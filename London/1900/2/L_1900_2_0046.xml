@@ -76,6 +76,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Maurier</Key>
+      <Forenames>G. L. B.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>8542</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>FitzClarence</Key>
       <Forenames>A. A. C.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -217,7 +225,9 @@
       <Key>Waller</Key>
       <Title>Sir</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>0032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,8 +444,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, M, F. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>M</Forenames>
+      <Text>, F. (2nd Lieut.)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +538,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, O. (Lieutj&gt;</Text>
+      <Key>St. John</Key>
+      <Forenames>O.</Forenames>
+      <Text>(Lieutj&gt;</Text>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. V. (resigned)</Text>
       <PageNumber>4280</PageNumber>
     </MainItem>
@@ -923,8 +935,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. W. (temporary appointment as Adj. confirmed)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. W. (temporary appointment as Adj. confirmed)</Text>
       <PageNumber>6478</PageNumber>
     </MainItem>
   </ItemGroup>

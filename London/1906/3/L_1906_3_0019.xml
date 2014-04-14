@@ -408,7 +408,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunde</Key>
-      <Text>.-son, Eev. B. de B. (Acting Chaplain)</Text>
+      <Text>-son, Eev. B. de B. (Acting Chaplain)</Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heseltine</Key>
-      <Forenames>Lieut-Col C.</Forenames>
+      <Title>Lieut-</Title>
+      <Forenames>Col C.</Forenames>
       <Text>(resigned)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -1014,7 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kcogh</Key>
-      <Text>.Cullen, Lieut. E. (seconded)</Text>
+      <Forenames>Cullen</Forenames>
+      <Text>, Lieut. E. (seconded)</Text>
       <PageNumber>5516</PageNumber>
     </MainItem>
   </ItemGroup>

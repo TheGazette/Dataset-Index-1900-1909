@@ -403,7 +403,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Text>R. (Capt.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brady-Browne</Key>
-      <Text>T. H. (Capt.)</Text>
+      <Forenames>T. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,8 +552,8 @@
     <MainItem>
       <Key>Clery</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>V. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>V. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>W. P.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>W. P. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,6 +630,14 @@
       <Title>(Capt. and Hon. Maj.)</Title>
       <Text>48H</Text>
       <PageNumber>4</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>H. F. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -691,7 +701,9 @@
       <Key>Forwood</Key>
       <Title>Sir.</Title>
       <Forenames>D. B.</Forenames>
-      <Text>, Bart. (Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>B. O. (2nd Lieut.)</Text>
+      <Forenames>B. O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1176,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Calaghan, Capt. R. G. D. (resigned)</Text>
+      <Key>O'Calaghan</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,8 +1203,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Power, J. J. (Capt.).. ..</Text>
+      <Key>O'Neill-Power</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Capt.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Petherick</Key>
-      <Text>G. G. (2nd Lieut.)</Text>
+      <Forenames>G. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,6 +1471,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Roemer</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4282</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>AVail</Key>
       <Forenames>H.</Forenames>
       <Text>VV. K. (Hon. Lieut.-Col.)</Text>
@@ -1471,7 +1496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVay</Key>
-      <Text>H. B. (Lieut.)</Text>
+      <Forenames>H. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>

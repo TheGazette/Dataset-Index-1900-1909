@@ -288,8 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caillard</Key>
-      <Forenames>W. M. C. Du Q.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>W. M. C. Du Q</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;. A. E. S. L. (seconded)</Text>
       <PageNumber>3033</PageNumber>
     </MainItem>
@@ -1051,8 +1051,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. M. (Capt.)</Text>
+      <Forenames>C. St. M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1069,9 @@
       <Key>Keane</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1474,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>. Lieut.-Col. and Brevet Col. C. H. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>4651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,8 +1635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col.-H. L. (seconded^</Text>
+      <Title>Lieut-Col.</Title>
+      <Text>-H. L. (seconded^</Text>
       <PageNumber>8314</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>J. L</Text>
+      <Forenames>J. L.</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>R. A.S</Text>
+      <Forenames>R. A.S</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Text>D. F</Text>
+      <Forenames>D. F</Forenames>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +574,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, F. C. G. (cancellation)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>F. C. G.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,6 +927,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>O. E. A.</Forenames>
+      <Text>de !</Text>
+      <PageNumber>3090</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dewar</Key>
       <Forenames>J. F.</Forenames>
       <PageNumber>220</PageNumber>
@@ -1158,7 +1167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paley</Key>
-      <Text>I. S</Text>
+      <Forenames>I. S.</Forenames>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,8 +1188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennick</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de P.</Text>
+      <Forenames>H. E. de P</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,8 +1487,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, C. J ..,</Text>
+      <Key>O'Connell</Key>
+      <Forenames>C. J .</Forenames>
+      <Text>.,</Text>
       <PageNumber>___ ___ ——</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -372,7 +372,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowman</Key>
-      <Text>Capt. A. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1716</PageNumber>
     </MainItem>
   </ItemGroup>

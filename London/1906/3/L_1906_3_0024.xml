@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>C. F. De S.</Forenames>
-      <Text>(Adj.)</Text>
+      <Forenames>C. F. De S</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>6014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,8 +118,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. E. W. G. (resigned) .. .. .. ..</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>E. W. G.</Forenames>
+      <Text>(resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,8 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Unett</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de W. (Lieut.)</Text>
+      <Forenames>W. H. de W</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferd</Key>
-      <Text>.W. W. (2nd Lieut..)</Text>
+      <Forenames>W. W.</Forenames>
+      <Text>(2nd Lieut..)</Text>
       <PageNumber>5872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1012,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. F. S. (Capt.)</Text>
+      <Forenames>F. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6243</PageNumber>
     </MainItem>
   </ItemGroup>

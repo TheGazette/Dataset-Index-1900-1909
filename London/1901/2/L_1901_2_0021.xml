@@ -145,7 +145,9 @@
     <MainItem>
       <Key>Young</Key>
       <Title>Sergt.</Title>
-      <Text>-Maj. A., Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>7221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +383,9 @@
   <ItemGroup>
     <MainItem>
       <Key>aCourt</Key>
-      <Text>.Lieut.-Col. Charles, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +453,9 @@
     <MainItem>
       <Key>Albemarle</Key>
       <Title>Lieut.-Col. and Hon. Col. Earl</Title>
-      <Text>of, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +526,9 @@
       <Key>Anson</Key>
       <Title>Commander</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +685,9 @@
       <Key>Batson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +702,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral L. A., Knight Commander of St. Michael and St. George</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>L. A.</Forenames>
+      <Text>, Knight Commander of St. Michael and St. George</Text>
       <PageNumber>4960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +713,9 @@
       <Key>Beck</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +723,9 @@
     <MainItem>
       <Key>Bees</Key>
       <Title>Private</Title>
-      <Text>' W., Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>8915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +742,9 @@
       <Key>Bell</Key>
       <Title>Lieut.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +770,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. H.</Forenames>
-      <Text>, Knight Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +789,9 @@
       <Key>Benzon</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +817,9 @@
     <MainItem>
       <Key>Bertie</Key>
       <Title>Lieut.</Title>
-      <Text>-Cpl. Hon. R. H., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +881,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>.Lieut.-Col. F. G.,Companion of the Bath ,</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +898,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blanc</Key>
-      <Text>.Deputy Surg.-Gen.iH.J.,!Knight Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>

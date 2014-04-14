@@ -129,7 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smithson</Key>
-      <Text>.W. C. (Lieut.-Col.)</Text>
+      <Forenames>W. C.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +282,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Text>. Maj. J. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>8088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,8 +310,8 @@
     <MainItem>
       <Key>Beauclerk</Key>
       <Title>Lord</Title>
-      <Forenames>O.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>O. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,8 +458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. V. R. (Capt.)</Text>
+      <Forenames>N. St. V</Forenames>
+      <Text>. R. (Capt.)</Text>
       <PageNumber>4710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,8 +601,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quentin,.B. Sj (Capt.)</Text>
+      <Key>St. Quentin</Key>
+      <Text>.B. Sj (Capt.)</Text>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,6 +1482,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>5811</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Despard</Key>
       <Title>Capt.</Title>
       <Forenames>W. H. C.</Forenames>
@@ -1505,9 +1516,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, O.C. (Capt.)</Text>
+      <Key>Du Port</Key>
+      <Forenames>O.C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1917,8 +1928,8 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Capt.</Title>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (correction)</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>4402</PageNumber>
     </MainItem>
   </ItemGroup>

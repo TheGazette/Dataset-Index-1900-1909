@@ -750,8 +750,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lieut. H. du B. (seconded)</Text>
+      <Key>O'Neill</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. du B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +900,8 @@
     <MainItem>
       <Key>Mivart</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>

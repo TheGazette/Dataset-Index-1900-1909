@@ -249,7 +249,9 @@
       <Key>Coinpton-Thornhill</Key>
       <Title>Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bart. (Capt. and Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,14 +267,17 @@
     <MainItem>
       <Key>Crossley</Key>
       <Title>Et.</Title>
-      <Text>Hon. Sir S. B., Bart. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>DalbjyCapt</Key>
-      <Text>H. E. (cancellation)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>3204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +335,9 @@
       <Key>Forwood</Key>
       <Title>Sir</Title>
       <Forenames>D. B.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,15 +355,17 @@
       <Key>Hare</Key>
       <Title>Sir</Title>
       <Forenames>T. L.</Forenames>
-      <Text>, Bart. (Maj. and Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hassell</Key>
-      <Forenames>E.</Forenames>
-      <Text>de B. (Maj. and Hon. Lieut.-Col.) .. .. '</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. (Maj. and Hon. Lieut.-Col.) .. .. '</Text>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,8 +461,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan-Westropp, G. (Col.)</Text>
+      <Key>O'Callaghan-Westropp</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +596,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>A. V. St</Forenames>
-      <Text>. J. (Alaj. and Hon. Lieut.-Col.) .. .. ..</Text>
+      <Forenames>A. V. St. J</Forenames>
+      <Text>. (Alaj. and Hon. Lieut.-Col.) .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,9 +714,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, H. (Capt.)</Text>
+      <Key>De Brath</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,6 +924,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Putron</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Instructor)</Text>
+      <PageNumber>2708</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Marsden</Key>
       <Title>Capt.</Title>
       <Forenames>C. H.</Forenames>
@@ -1037,7 +1056,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Text>Lieut. W. H. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. H. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>

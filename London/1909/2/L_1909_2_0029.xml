@@ -1061,7 +1061,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>W. G. S. (2nd Lieut.)</Text>
+      <Forenames>W. G. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornblower</Key>
-      <Text>T. B. (Capt.) .. ..</Text>
+      <Forenames>T. B.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,8 +1225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>

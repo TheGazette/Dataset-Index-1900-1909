@@ -161,8 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>B. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +525,9 @@
       <Key>Clerk</Key>
       <Title>Sir</Title>
       <Forenames>G. D.</Forenames>
-      <Text>Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>950</PageNumber>
     </MainItem>
   </ItemGroup>

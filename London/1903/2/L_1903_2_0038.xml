@@ -154,7 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Rev. T</Text>
+      <Title>Rev.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>2840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,8 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boddie</Key>
-      <Forenames>Gr</Forenames>
-      <Text>.</Text>
+      <Title>Gr.</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spry</Key>
-      <Text>R,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porch</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,14 +398,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>AttSeld</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffett</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,14 +538,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Trick</Key>
-      <Text>W , ..</Text>
+      <Forenames>W</Forenames>
+      <Text>, ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +613,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.-Col.)</Text>
+      <Title>(Lieut.-Col.)</Title>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +657,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Recruiting Officer and Asst. to the Inspector of Marine Recruiting, London)</Text>
+      <Title>(Recruiting Officer and Asst. to the Inspector of Marine Recruiting, London)</Title>
       <PageNumber>3528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,8 +841,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, B. R. de AV. (Capt.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>B. R.</Forenames>
+      <Text>de AV. (Capt.)</Text>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>Capt., F. L. H. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>, F. L. H. (seconded)</Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,15 +964,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Baines</Key>
-      <Forenames>Sub-Lieut</Forenames>
-      <Text>, A. B. (cancellation)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut, A. B. (cancellation)</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>BDden</Key>
-      <Text>J. H. (Lieut.)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,7 +1499,6 @@
       <PageNumber>2472</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Ackroyd</Key>

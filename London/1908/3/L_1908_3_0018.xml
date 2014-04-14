@@ -125,7 +125,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. J. (resigned) .. .. .. .. —:— MacLean, Lieut. H. J. (resigned) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -215,8 +215,8 @@
     <MainItem>
       <Key>Whiteway-Wilkinson</Key>
       <Title>Capt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de V. W. (resigned) .... .. .. -—-</Text>
+      <Forenames>R. de V</Forenames>
+      <Text>. W. (resigned) .... .. .. -—-</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +593,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>.Maj. and Hon. Lieut.-Col. J. A. (resigned) .... .. .. ...</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(resigned) .... .. .. ...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +636,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>.Capt. T. (resigned)..</Text>
+      <Title>Capt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(resigned)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

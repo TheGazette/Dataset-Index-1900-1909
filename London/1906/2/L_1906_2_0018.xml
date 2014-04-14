@@ -52,7 +52,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Royse</Key>
-      <Text>; A.E. (Qrmr. and Hon. Lieut.)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>2335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,9 +488,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, H. G. (Col.)</Text>
+      <Key>De Pledge</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>4391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,8 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. C. (Col.)</Text>
+      <Forenames>E. St. C</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duperter</Key>
-      <Text>H. W. (Maj.-Gen.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(Maj.-Gen.)</Text>
       <PageNumber>2536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1055,8 @@
     <MainItem>
       <Key>Haig</Key>
       <Title>Lieut.-Col. and Brev. Col.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de H. (retired)</Text>
+      <Forenames>H. de H</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,8 +1088,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Title>St.</Title>
-      <Forenames>G. C.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>C.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
@@ -1563,15 +1566,18 @@
     <MainItem>
       <Key>Christie</Key>
       <Title>Lieut.-Col. Comdt. and Hon. Col.</Title>
-      <Text>C.H..F</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. E. T. .. ..</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>E. T.</Forenames>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,6 +1648,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Segundo</Key>
+      <Title>Surg.</Title>
+      <Text>-Capt. and Hon. Surg.-Maj. C. S</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickson</Key>
       <Title>Maj. and Hon. Lieut.-Col.</Title>
       <Forenames>L. W.</Forenames>
@@ -1661,7 +1675,9 @@
     <MainItem>
       <Key>Erskine</Key>
       <Title>Col. Sir</Title>
-      <Text>ff. W., Bart. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

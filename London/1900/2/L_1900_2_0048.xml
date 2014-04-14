@@ -10,7 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>G. W. (2nd Lieut.)</Text>
+      <Forenames>G. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentice</Key>
-      <Text>W. H. (2nd Lieut.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prowse</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C, B. (seconded)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
@@ -553,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esdaile</Key>
-      <Text>P. C. (2nd Lieut.)</Text>
+      <Forenames>P. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barff</Key>
-      <Text>F. R. (Lieut.)</Text>
+      <Forenames>F. R.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,8 +1103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donisthorpe</Key>
-      <Forenames>A.</Forenames>
-      <Text>de A. (Capt.)</Text>
+      <Forenames>A. de A</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,8 +1718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mivart</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.) . -</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.) . -</Text>
       <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>

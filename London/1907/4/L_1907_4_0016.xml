@@ -103,8 +103,8 @@
     <MainItem>
       <Key>Leathes</Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de M. (resigned)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>7044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +270,8 @@
     <MainItem>
       <Key>Carey</Key>
       <Title>Lieut.</Title>
-      <Forenames>P.</Forenames>
-      <Text>de P. (resigned)</Text>
+      <Forenames>P. de P</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +370,8 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Forenames>The Suffolk Regiment</Forenames>
+      <Title>The</Title>
+      <Forenames>Suffolk Regiment</Forenames>
       <Text>. Davies, Capt! P. G. (retired)</Text>
       <PageNumber>7684</PageNumber>
     </MainItem>

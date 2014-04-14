@@ -401,8 +401,8 @@
     <MainItem>
       <Key>Saunders</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (resigned)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,8 +714,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. (Hon. Maj.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>

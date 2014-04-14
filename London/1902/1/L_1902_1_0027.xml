@@ -314,8 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>C. E. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>C. E. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,6 +397,14 @@
       <Forenames>A. M.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3751</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>C. F. G. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2077</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -745,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moorhouse</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, S. (seconded)</Text>
       <PageNumber>2072</PageNumber>
     </MainItem>
@@ -999,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>T. (Capt.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,15 +1535,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Clover</Key>
-      <Text>A. L. (Lieut.) -</Text>
+      <Forenames>A. L.</Forenames>
+      <Text>(Lieut.) -</Text>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clutterbuck</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J._B. (2nd Lieut.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>._B. (2nd Lieut.)</Text>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>A. K. (2nd Lieut.)</Text>
+      <Forenames>A. K.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1702,17 +1713,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, Capt. O. C. (antedated)</Text>
+      <Key>Du Port</Key>
+      <Title>Capt.</Title>
+      <Forenames>O. C.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>2503</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Val</Forenames>
-      <Text>, G. T. (Lieut.)</Text>
+      <Key>Du Val</Key>
+      <Forenames>G. T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1909,8 +1921,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethin</Key>
-      <Forenames>B. W. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>B. W. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>

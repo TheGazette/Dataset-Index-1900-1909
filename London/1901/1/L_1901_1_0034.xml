@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Staff</Key>
       <Forenames>Captains</Forenames>
-      <Text>: Cuninghame, Lieut. Sir T. A. A. M., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,8 +614,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur, 2nd Lieut. R. H. (resigned)..</Text>
+      <Key>St. Maur</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(resigned)..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

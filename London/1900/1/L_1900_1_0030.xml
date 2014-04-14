@@ -69,8 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,8 +479,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>N. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,8 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Forenames>J. De B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>J. De B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,10 +896,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>P. P.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3071</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delaforce</Key>
       <Forenames>E. F.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>1433</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mattes</Key>
+      <Forenames>W. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -924,9 +940,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Free</Forenames>
-      <Text>, H. D. (Capt.)</Text>
+      <Key>De Free</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,9 +1075,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, J. P. (Maj.)</Text>
+      <Key>Du Cane</Key>
+      <Forenames>J. P.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>1878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,8 +1526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethin</Key>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L. (Lieut.)</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,8 +1542,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidley</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,8 +1636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>

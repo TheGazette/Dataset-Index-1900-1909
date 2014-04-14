@@ -186,9 +186,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Eessurriecao</Forenames>
-      <Text>, J. A.</Text>
+      <Key>De Eessurriecao</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cann</Key>
-      <Text>C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,8 +347,8 @@
   <SubSectionTitle>Assistant Commissary</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donald, E</Text>
+      <Key>O'Donald</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,6 +493,14 @@
       <Forenames>R. C.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>571</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Knoop</Key>
+      <Forenames>J. J. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -767,7 +774,9 @@
       <Key>Rycroft</Key>
       <Title>Sir</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, Bart. (Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>

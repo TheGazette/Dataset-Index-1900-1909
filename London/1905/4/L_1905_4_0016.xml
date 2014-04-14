@@ -49,9 +49,18 @@
   <SectionTitle>4th Dragoon Guards</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Wiart</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>6864</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Warter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G. (2hd Lieut.)</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>. (2hd Lieut.)</Text>
       <PageNumber>9086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Terrot</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: C. R. (seconded)</Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
@@ -739,6 +748,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Tuyll</Key>
+      <Forenames>F. C. O.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Grigg</Key>
       <Title>Lieut.</Title>
       <Forenames>R. S.</Forenames>
@@ -1087,8 +1104,8 @@
     <MainItem>
       <Key>Matthews</Key>
       <Title>Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C. (seoonded) 7599V Milman, L. C. P. (Lieut.)</Text>
+      <Forenames>H.de C</Forenames>
+      <Text>. (seoonded) 7599V Milman, L. C. P. (Lieut.)</Text>
       <PageNumber>9321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,8 +1224,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, E. F. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Text>. F. R. (Capt.) .,</Text>
+      <Forenames>F. R.</Forenames>
+      <Text>(Capt.) .,</Text>
       <PageNumber>7100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1303,9 @@
       <Key>Thomas</Key>
       <Title>Brev. Col. Sir</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, Bart. (half-pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>:-Col. J. R. H. (retired pay) .. -</Text>
       <PageNumber>7424</PageNumber>
     </MainItem>

@@ -180,7 +180,9 @@
       <Key>Rugge-Price</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,8 +661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Forenames>G. G.</Forenames>
-      <Text>de B. (Lieut.) ..</Text>
+      <Forenames>G. G. de B</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +850,8 @@
     <MainItem>
       <Key>Mosgrove</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. P. (seconded)</Text>
+      <Forenames>R. St. P</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,8 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powney</Key>
-      <Forenames>C.</Forenames>
-      <Text>du P. P. (Hon. Lieut.Col.)</Text>
+      <Forenames>C. du P</Forenames>
+      <Text>. P. (Hon. Lieut.Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,6 +1197,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>A. F.</Forenames>
+      <Text>(Lieut.) ..'</Text>
+      <PageNumber>4977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dunlop</Key>
       <Forenames>J. S. S.</Forenames>
       <Text>(Capt.)</Text>
@@ -1227,6 +1237,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>3rd Battalion.</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5057</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>

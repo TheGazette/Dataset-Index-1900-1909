@@ -98,7 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raitt</Key>
-      <Text>. H. S. .. . . .. ..</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>.. . . .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,8 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Lord</Text>
+      <Title>Lieut-Col. Lord .</Title>
       <PageNumber>2672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,8 +291,7 @@
     <MainItem>
       <Key>Pratt</Key>
       <Title>Maj.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>3037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becker</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Brevet Col. A. C</Text>
       <PageNumber>4325</PageNumber>
     </MainItem>
@@ -620,8 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Lieut.-Col. and Brevet Col. St.</Title>
-      <Forenames>J. C</Forenames>
+      <Title>Lieut.-Col. and Brevet Col. St. J.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>3037</PageNumber>
       <PageNumber>3396</PageNumber>
     </MainItem>
@@ -851,8 +850,8 @@
     <MainItem>
       <Key>Burford-Hanoock</Key>
       <Title>Maj.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de S. B...</Text>
+      <Forenames>H. de S</Forenames>
+      <Text>. B...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,8 +1030,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. H</Forenames>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1082,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Dick-Cunyngham</Forenames>
-      <Text>, Maj. Sir W. S., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,8 +1099,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Title>Maj. St.</Title>
-      <Forenames>J. L. H. Du P.</Forenames>
+      <Title>Maj. St. J.</Title>
+      <Forenames>L. H. Du P</Forenames>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1225,7 @@
     <MainItem>
       <Key>Birch</Key>
       <Title>Lieut.-Col.</Title>
-      <Text>de B</Text>
+      <Forenames>de B</Forenames>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,8 +1369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de Z. (Lieut.-Col.) -</Text>
+      <Forenames>J. J. de Z</Forenames>
+      <Text>. (Lieut.-Col.) -</Text>
       <PageNumber>4730</PageNumber>
     </MainItem>
   </ItemGroup>

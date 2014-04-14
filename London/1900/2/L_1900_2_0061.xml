@@ -167,8 +167,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, St. J. J. (Lieut.-Col.)</Text>
+      <Key>St. Leger</Key>
+      <Title>St. J.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>5036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +448,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. C. H. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. C. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,8 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Lieut.) .. ..</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,8 +812,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Forenames>S. G.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>S. G. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,8 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>R. H. St</Forenames>
-      <Text>. C. C. (Lieut.)</Text>
+      <Forenames>R. H. St. C</Forenames>
+      <Text>. C. (Lieut.)</Text>
       <PageNumber>7826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,8 +1363,8 @@
     <MainItem>
       <Key>Poljambe</Key>
       <Title>Capt. Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de B. S. (seconded)</Text>
+      <Forenames>A. W. de B</Forenames>
+      <Text>. S. (seconded)</Text>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1382,9 @@
       <Key>Grogan</Key>
       <Title>Sir</Title>
       <Forenames>E. I. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,7 +1395,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. I. B.</Forenames>
-      <Text>, Bart, (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5765</PageNumber>
       <PageNumber>8305</PageNumber>
     </MainItem>

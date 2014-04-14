@@ -200,8 +200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>C.</Forenames>
-      <Text>de G. (2nd Lient.)</Text>
+      <Forenames>C. de G</Forenames>
+      <Text>. (2nd Lient.)</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>H. E. (Lieut.)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,8 +908,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Forenames>P. C.</Forenames>
-      <Text>du S. (2nd Lieut.)</Text>
+      <Forenames>P. C. du S</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,6 +1435,14 @@
       <Forenames>P. B.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2508</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>H. G. N.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1794</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

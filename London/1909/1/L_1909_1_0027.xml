@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>.v, J. (2nd Lieut.)</Text>
+      <Text>v, J. (2nd Lieut.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,14 +123,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>. Lieut.-Col., and Hon. Col. C. H.E. (resigned).'</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>, and Hon. Col. C. H.E. (resigned).'</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hartland</Key>
-      <Text>.H. H. (Lieut.)</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,14 +279,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodchild</Key>
-      <Text>.-E. J. (Capt.)</Text>
+      <Text>-E. J. (Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haysev</Key>
-      <Text>. W. L. (2nd Lieut.)</Text>
+      <Forenames>W. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>. F.P. (2nd Lieut.)</Text>
+      <Forenames>F.P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St-jtt</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, N. (resigned)</Text>
       <PageNumber>1313</PageNumber>
     </MainItem>
@@ -560,9 +564,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vitre</Forenames>
-      <Text>, I). F. D. (Hon. .ilaj.) ..</Text>
+      <Key>De Vitre</Key>
+      <Forenames>I</Forenames>
+      <Text>). F. D. (Hon. .ilaj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,8 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>OUard</Key>
-      <Forenames>K.</Forenames>
-      <Text>de H. (2nd Lieiit.) '</Text>
+      <Forenames>K. de H</Forenames>
+      <Text>. (2nd Lieiit.) '</Text>
       <PageNumber>2041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Car</Key>
-      <Text>.c, 2nd Lieut. L. D..(seconded)</Text>
+      <Text>c, 2nd Lieut. L. D..(seconded)</Text>
       <PageNumber>1226</PageNumber>
     </MainItem>
   </ItemGroup>

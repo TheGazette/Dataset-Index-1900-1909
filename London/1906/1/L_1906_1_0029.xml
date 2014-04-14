@@ -39,8 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. F. H</Text>
+      <Title>Lieut-Gen.</Title>
+      <Forenames>F. H</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +552,9 @@
       <Key>Grey-Egerton</Key>
       <Title>Sir</Title>
       <Forenames>P. H. B.</Forenames>
-      <Text>, Bart, (Hon.Mt,j.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>

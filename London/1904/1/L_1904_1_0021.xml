@@ -45,7 +45,9 @@
       <Key>Bedingfield</Key>
       <Title>Maj. Sir</Title>
       <Forenames>K. E.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,9 +120,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, Lieut.-Col. and Hon. Col. J. W. (resigned)</Text>
+      <Key>De Silva</Key>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,6 +253,13 @@
       <Forenames>J. R.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Title>Gt. (2nd Lieut.)</Title>
+      <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -439,9 +449,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitaker</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. J. P. (resigned).. . .</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>W. J. P.</Forenames>
+      <Text>(resigned).. . .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,9 +515,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruyther</Forenames>
-      <Text>, C. M.(Maj.)</Text>
+      <Key>De Gruyther</Key>
+      <Forenames>C. M.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,16 +542,7 @@
       <Key>Mackenzie</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>G. F. C.</Forenames>
-      <Text>(half-</Text>
-      <PageNumber>ibid.</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Murray</Key>
-      <Title>Capt-.</Title>
-      <Forenames>J. A. S.</Forenames>
-      <Text>(seconded)</Text>
+      <Text>(halfibid. Murray, Capt-. J. A. S. (seconded)</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dealtry</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry A. K. (resigned)</Text>
       <PageNumber>783</PageNumber>
     </MainItem>

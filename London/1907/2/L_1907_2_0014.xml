@@ -305,7 +305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Imbert-Terry</Key>
-      <Text>A. F. A. (Capt.)</Text>
+      <Forenames>A. F. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,6 +911,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Plergny</Key>
+      <Forenames>L. J. H.</Forenames>
+      <Text>(Asst. Commissary and Hon. Lieut.)</Text>
+      <PageNumber>3670</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Emberton</Key>
       <Forenames>Commissary</Forenames>
       <Text>and Hon. Capt. F. (retired pay)</Text>
@@ -937,8 +946,8 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Capt.</Title>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L. (Ordnance Officer, 4th Class)</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>. (Ordnance Officer, 4th Class)</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>

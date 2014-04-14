@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under: Mountain Colliery Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under: Mountain Colliery Company</Text>
       <PageNumber>765</PageNumber>
       <PageNumber>1251</PageNumber>
       <PageNumber>1253</PageNumber>
@@ -150,7 +152,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Old English Vinegar Companv</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Old English Vinegar Companv</Text>
       <PageNumber>2145</PageNumber>
       <PageNumber>2387</PageNumber>
     </MainItem>
@@ -318,7 +322,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : Press Advertising Agency</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : Press Advertising Agency</Text>
       <PageNumber>1342</PageNumber>
     </MainItem>
     <SubItem>
@@ -395,8 +401,10 @@
     <SubItem>
       <Text>
         <PageNumber>1808</PageNumber>
+        <PageNumber>2252</PageNumber>
       </Text>
-      <PageNumber>2252</PageNumber>
+      <PageNumber>601</PageNumber>
+      <PageNumber>602</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Rhodesia Copper Company</Text>

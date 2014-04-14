@@ -69,15 +69,16 @@
     <MainItem>
       <Key>MacGillicuddy</Key>
       <Title>Lieut.</Title>
-      <Forenames>D. De C. C.</Forenames>
-      <Text>(correction) .</Text>
+      <Forenames>D. De C</Forenames>
+      <Text>. C. (correction) .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, T. F. (2nd Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>T. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>L. G.</Forenames>
-      <Text>de B. (Instr. of Musketry)</Text>
+      <Forenames>L. G. de B</Forenames>
+      <Text>. (Instr. of Musketry)</Text>
       <PageNumber>8302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,8 +336,8 @@
     <MainItem>
       <Key>Child</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. D.</Forenames>
-      <Text>de Q. (temporary half-pay)</Text>
+      <Forenames>E. D. de Q</Forenames>
+      <Text>. (temporary half-pay)</Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +500,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>A.E. P. (Brevet) (correction)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>.F.B</Text>
+      <Forenames>F.B.</Forenames>
       <PageNumber>6724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ralph</Key>
-      <Text>. A. C. ..</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,6 +1113,13 @@
       <Key>Croft</Key>
       <Forenames>A. A. G.</Forenames>
       <PageNumber>6725</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gale</Key>
+      <Forenames>W. A. S.</Forenames>
+      <PageNumber>7633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

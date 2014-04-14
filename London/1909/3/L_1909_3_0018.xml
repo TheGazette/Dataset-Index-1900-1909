@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fullbrook-Leggutt</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. Q. (2nd Lieut.)</Text>
+      <Forenames>C. St. Q</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,8 +261,8 @@
     <MainItem>
       <Key>Burton</Key>
       <Title>Maj.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de H. (retired pay)</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>. (retired pay)</Text>
       <PageNumber>6750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Text>. E. P. (Lieut.)</Text>
+      <Forenames>E. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>K.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>K. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,8 +931,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, T. F. (Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>T. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -650,7 +650,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterburn</Key>
-      <Text>. W. (Hon. Capt )</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Hon. Capt )</Text>
       <PageNumber>2759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,8 +767,8 @@
     <MainItem>
       <Key>Julius</Key>
       <Title>Capt.</Title>
-      <Forenames>S.</Forenames>
-      <Text>de V. A. (seconded)</Text>
+      <Forenames>S. de V</Forenames>
+      <Text>. A. (seconded)</Text>
       <PageNumber>3395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,8 +863,8 @@
     <MainItem>
       <Key>Williams</Key>
       <Title>Capt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>de L. (seoonded)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (seoonded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

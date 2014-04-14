@@ -932,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Legge</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. C. (resigned and Hon. Lieut.)</Text>
       <PageNumber>5959</PageNumber>
     </MainItem>
@@ -942,7 +942,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>B. B. M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. F. C. (resigned and Hon. Lieut.) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1272,8 +1274,8 @@
     <MainItem>
       <Key>McKechnie</Key>
       <Title>Lieut.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de L. (resigned and Hon. Lieut.)</Text>
+      <Forenames>G. de L</Forenames>
+      <Text>. (resigned and Hon. Lieut.)</Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackintosh</Key>
-      <Forenames>Lieut J</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J</Forenames>
       <Text>). E. (resigned)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
@@ -1355,7 +1358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Forenames>Lieut G. P.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>G. P.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>

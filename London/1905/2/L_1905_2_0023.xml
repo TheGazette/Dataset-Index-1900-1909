@@ -377,8 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>I. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>. E. C. (2nd Lieut.)</Text>
+      <Forenames>E. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansergh</Key>
-      <Text>. P. St. G. (Lieut.)</Text>
+      <Forenames>P. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Adj.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,8 +1010,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de St. P. (Adj.)</Text>
+      <Forenames>C. H. de St</Forenames>
+      <Text>. P. (Adj.)</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,7 +1157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Downes</Key>
-      <Text>.W. D. (2nd Lieut.).. ..</Text>
+      <Forenames>W. D.</Forenames>
+      <Text>(2nd Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

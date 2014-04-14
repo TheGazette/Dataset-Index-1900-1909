@@ -67,7 +67,9 @@
       <Key>Mackenzie</Key>
       <Title>Sir</Title>
       <Forenames>V. A. P.</Forenames>
-      <Text>, Bart. (Adj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,14 +159,16 @@
       <Key>Scott</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>F. M. S.</Forenames>
-      <Text>, Bart, (resigned) .. .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: J., jun. (resigned)</Text>
       <PageNumber>8611</PageNumber>
     </MainItem>
@@ -286,6 +290,14 @@
       <Forenames>W. B.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>8611</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Spiganoricz</Key>
+      <Title>Surg.</Title>
+      <Text>-Lieut. A. J. (resigned)</Text>
+      <PageNumber>7217</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -572,8 +584,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. (Hon. Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,8 +990,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, D. R. C. D. (Lieut.)</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. R. C. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>

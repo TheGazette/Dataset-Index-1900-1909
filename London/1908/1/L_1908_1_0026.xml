@@ -577,7 +577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blane</Key>
-      <Text>H. S. ..</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harboard</Key>
-      <Text>L. B</Text>
+      <Forenames>L. B.</Forenames>
       <PageNumber>653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,8 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>H.</Forenames>
-      <Text>de N.</Text>
+      <Forenames>H. de N</Forenames>
+      <Text>.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>H. F. F.</Text>
+      <Forenames>H. F. F.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,8 +956,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. L.</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. L.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,8 +985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reyne</Key>
-      <Forenames>G.</Forenames>
-      <Text>van R.</Text>
+      <Forenames>G. van R</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>T.A. ..</Text>
+      <Forenames>T.A.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,8 +1452,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill,. H. J, D.</Text>
+      <Key>O'Neill</Key>
+      <Text>. H. J, D.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

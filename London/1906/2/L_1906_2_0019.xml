@@ -104,9 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. N</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>N.</Forenames>
       <PageNumber>4232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>A. M.</Text>
+      <Forenames>A. M.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +596,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, A. J</Text>
+      <Key>St. Clair</Key>
+      <Forenames>A. J</Forenames>
       <PageNumber>3168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +706,9 @@
       <Key>Prescott</Key>
       <Title>Sir</Title>
       <Forenames>G. L.L. B.</Forenames>
-      <Text>,Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,8 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheape</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (Lieut.) .. ..</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,8 +882,8 @@
     <MainItem>
       <Key>Caillard</Key>
       <Title>Capt.</Title>
-      <Forenames>W. M. C. Du Q.</Forenames>
-      <Text>(seconded)</Text>
+      <Forenames>W. M. C. Du Q</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1148,9 @@
       <Key>Laeon</Key>
       <Title>Sir</Title>
       <Forenames>E. B. F. H.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,8 +1369,8 @@
     <MainItem>
       <Key>Clowes</Key>
       <Title>Capt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>

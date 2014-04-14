@@ -593,8 +593,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C . Michell, D. M. C Mowat, A. C. .. Murphy, J</Text>
+      <Forenames>M. O'C</Forenames>
+      <Text>. Michell, D. M. C Mowat, A. C. .. Murphy, J</Text>
       <PageNumber>5844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,8 +636,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quintin, E.</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +747,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheape</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,8 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>R. R.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>R. R. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,6 +952,14 @@
       <Forenames>A. M.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>5840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (2nd Lieut.)</Text>
+      <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1148,7 +1156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnaghten</Key>
-      <Text>B. (Cu.pt.)</Text>
+      <Forenames>B.</Forenames>
+      <Text>(Cu.pt.)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,9 +1419,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, H. G. (Lieut.-Col.)</Text>
+      <Key>De Pledge</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

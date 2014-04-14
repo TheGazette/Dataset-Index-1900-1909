@@ -487,7 +487,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prescott</Key>
-      <Forenames>H. W. De B.</Forenames>
+      <Forenames>H. W. De B</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheverton</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,6 +877,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>4175</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Meade</Key>
       <Title>Hon.</Title>
       <Forenames>E. B.</Forenames>
@@ -996,8 +1005,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>

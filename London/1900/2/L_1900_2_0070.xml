@@ -500,8 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Forenames>P. W.</Forenames>
-      <Text>von B. (2nd Lieut.)</Text>
+      <Forenames>P. W. von B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,8 +576,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. H. DE. (antedated)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>DE. (antedated)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +797,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adair</Key>
-      <Forenames>Lieut-Co</Forenames>
+      <Title>Lieut-</Title>
+      <Forenames>Co</Forenames>
       <Text>), and Brev. Col. W. X. (Assist. Adj.-Gen.) GG</Text>
       <PageNumber>16</PageNumber>
     </MainItem>
@@ -896,8 +899,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buynham</Key>
-      <Forenames>W.</Forenames>
-      <Text>de M. (Sub-Lieut.)</Text>
+      <Forenames>W. de M</Forenames>
+      <Text>. (Sub-Lieut.)</Text>
       <PageNumber>6253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,7 +1603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>IlopcrafI</Key>
-      <Text>W. D. (Sub-Lieut.)</Text>
+      <Forenames>W. D.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,7 +1873,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, j. B. (retired list)</Text>
       <PageNumber>5893</PageNumber>
     </MainItem>
@@ -2011,8 +2015,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. J. (Paymaster)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. J.</Forenames>
+      <Text>(Paymaster)</Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2038,7 +2043,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. H. (retired list)</Text>
       <PageNumber>7822</PageNumber>
     </MainItem>

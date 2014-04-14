@@ -148,7 +148,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. G. A. L. (2nd Lieut.)</Text>
+      <Forenames>G. A. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,8 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joyce</Key>
-      <Forenames>F. H.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>F. H. de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,8 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,9 +522,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>,Maj.C.C. (seconded)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Maj.</Title>
+      <Forenames>C.C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,8 +682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Forenames>P.</Forenames>
-      <Text>de S. (Lieut.-Col.)/</Text>
+      <Forenames>P. de S</Forenames>
+      <Text>. (Lieut.-Col.)/</Text>
       <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,6 +825,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Kantzow</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dwyer</Key>
       <Forenames>G. T. C.</Forenames>
       <Text>(Adj.) Dykes, Maj. L. E. B. (temporary half-pay list)</Text>
@@ -866,7 +876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Text>. F. L. (Maj.)</Text>
+      <Forenames>F. L.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,8 +903,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfery</Key>
-      <Forenames>M. Van S.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>M. Van S</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,6 +1365,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Vitre</Key>
+      <Forenames>P. T. D.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>1026</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickson</Key>
       <Forenames>W. E. E.</Forenames>
       <Text>(Maj.)</Text>
@@ -1597,8 +1616,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, F. E. P. (Capt.) ..</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>F. E. P.</Forenames>
+      <Text>(Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -561,8 +561,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,8 +572,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (antedated)</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowther</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.) .. ..</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +877,8 @@
     <MainItem>
       <Key>Matthews</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C. (seconded)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,8 +959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,8 +1108,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. A. G. (2nd Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. A. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,8 +1494,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, E. F. (Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,8 +1636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de P. (2nd Lieut.)</Text>
+      <Forenames>J. F. de P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>84</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1930,8 +1932,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. D. (Lieut.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. D. (Lieut.)</Text>
       <PageNumber>2777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2050,8 +2052,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L. (Lieut.)</Text>
+      <Forenames>G. St. L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2149,7 +2151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Uniacke</Key>
-      <Text>. H. C. C. (Maj.)</Text>
+      <Forenames>H. C. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>1149</PageNumber>
     </MainItem>
   </ItemGroup>

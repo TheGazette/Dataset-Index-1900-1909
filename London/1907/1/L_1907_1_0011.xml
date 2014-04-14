@@ -636,6 +636,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>T. O. C.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>1927</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duncan</Key>
       <Title>Qriar. and Hon. Lieut.</Title>
       <Text>, G. (removed)</Text>
@@ -782,15 +790,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>W.</Forenames>
-      <Text>du G. (Maj.-Gen.)</Text>
+      <Forenames>W. du G</Forenames>
+      <Text>. (Maj.-Gen.)</Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>GriffithsJ</Key>
-      <Text>. (Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +848,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Title>St.</Title>
-      <Forenames>G. C.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>C.</Forenames>
       <Text>(Maj.-Gen.)</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
@@ -1027,7 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>. H. (Hon. Maj.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,8 +1204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouillot</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T. (Lieut.)</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,9 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Title>Lieut.-Col. and Brevet Col. St.</Title>
-      <Forenames>C.</Forenames>
-      <Text>(retired)</Text>
+      <Title>Lieut.-Col. and Brevet Col. St. C. (retired)</Title>
       <PageNumber>1283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,7 +1323,9 @@
       <Key>Rawlinson</Key>
       <Title>Col. Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bart. (half. pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Text>. T. (Hon. Maj.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,8 +1615,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. R. (Lieut.)</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. R. (Lieut.)</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>

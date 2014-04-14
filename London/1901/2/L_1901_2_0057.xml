@@ -345,7 +345,9 @@
       <Key>McMahon</Key>
       <Title>Sir</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. H. (resigned)</Text>
       <PageNumber>7399</PageNumber>
     </MainItem>
@@ -488,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomsdh</Key>
-      <Text>.-Capfc.A.B. (resigned) ;.'</Text>
+      <Text>-Capfc.A.B. (resigned) ;.'</Text>
       <PageNumber>5740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,8 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,9 +745,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Capt. B. (temporary half-pay)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Capt.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(temporary half-pay)</Text>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,8 +1124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Forenames>M.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>M. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,7 +1450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morier</Key>
-      <Text>.W. E. (Lieut.)</Text>
+      <Forenames>W. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6102</PageNumber>
     </MainItem>
   </ItemGroup>

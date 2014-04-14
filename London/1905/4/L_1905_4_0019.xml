@@ -86,8 +86,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. E. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,8 +493,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. E., J. (retired)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>, J. (retired)</Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -831,8 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>D.</Forenames>
-      <Text>de L. (Lieut.-Col. and Hon. Col.)</Text>
+      <Forenames>D. de L</Forenames>
+      <Text>. (Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,8 +841,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>J. J. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1592,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepworth</Key>
-      <Text>G.M. (Lieut.)</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>9296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2127,7 +2129,9 @@
       <Key>Lucas</Key>
       <Title>Sir</Title>
       <Forenames>A. C.</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

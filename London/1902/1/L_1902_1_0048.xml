@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. W. (seconded)</Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
@@ -90,8 +90,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon. M. St. A. T. (Lieut.)</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>M. St. A</Forenames>
+      <Text>. T. (Lieut.)</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. T. (seconded)</Text>
       <PageNumber>2793</PageNumber>
     </MainItem>
@@ -554,7 +556,9 @@
       <Key>Muir</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,8 +897,8 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>D. C. St</Forenames>
-      <Text>. G. (super.)</Text>
+      <Forenames>D. C. St. G</Forenames>
+      <Text>. (super.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,16 +1276,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>F. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>387</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>

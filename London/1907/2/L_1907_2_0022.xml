@@ -419,8 +419,8 @@
     <MainItem>
       <Key>Weldon</Key>
       <Title>Capt.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de W. (resigned)..</Text>
+      <Forenames>B. de W</Forenames>
+      <Text>. (resigned)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beasley</Key>
-      <Text>T. C. P. (Capt.)</Text>
+      <Forenames>T. C. P.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,15 +493,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, G. A. (Capt.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>G. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +590,8 @@
     <MainItem>
       <Key>Waller</Key>
       <Title>Capt.</Title>
-      <Forenames>A. E.</Forenames>
-      <Text>de W. (resigned)</Text>
+      <Forenames>A. E. de W</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,6 +1060,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The Royal Welsh Fusiliers</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Miremont</Key>
+      <Forenames>G. E. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2995</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dobell</Key>

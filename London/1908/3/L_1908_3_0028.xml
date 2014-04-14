@@ -31,7 +31,9 @@
       <Key>Bellew</Key>
       <Title>Sir</Title>
       <Forenames>H</Forenames>
-      <Text>, C. G., Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,8 +1053,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B. De L.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>B. De L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>.Campbell-Preston, B. W. P. (Maj.)</Text>
+      <Forenames>Campbell-Preston</Forenames>
+      <Text>, B. W. P. (Maj.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1825,7 +1828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crocker</Key>
-      <Text>. A. A. (Maj.)</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1972,8 +1976,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dallin</Key>
-      <Forenames>B.</Forenames>
-      <Text>de P. (2nd Lieut.)</Text>
+      <Forenames>B. de P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>

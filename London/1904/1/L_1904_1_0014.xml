@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>C. (Col.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,8 +168,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Hon. W. (retired)</Text>
+      <Title>Lieut-Col. Hon.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ducrdt</Key>
-      <Text>A. (Hon. Capt.) '</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Hon. Capt.) '</Text>
       <PageNumber>1949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,8 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopton</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. Sir E. (retired pay)</Text>
+      <Title>Lieut-Gen. Sir</Title>
+      <Forenames>E.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +668,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea.T. (Hon. Capt.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>T.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>TrinbyVT</Key>
-      <Text>(Hon. Capt.)</Text>
+      <Title>(Hon. Capt.)</Title>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>

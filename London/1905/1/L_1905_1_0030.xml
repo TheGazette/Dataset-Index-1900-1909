@@ -233,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>A. (Capt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,8 +452,8 @@
     <MainItem>
       <Key>Philby</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B. (resigned)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B. (resigned)</Text>
       <PageNumber>2187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +867,9 @@
       <Key>Hermon-Hodge</Key>
       <Title>Sir</Title>
       <Forenames>R. T</Forenames>
-      <Text>„ Bart. (Lieut.-Col. and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,8 +884,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, F. J. (Capt. Super.)</Text>
+      <Key>St. John</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Capt. Super.)</Text>
       <PageNumber>1035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1010,9 @@
       <Key>Bullough</Key>
       <Title>Sir</Title>
       <Forenames>G.</Forenames>
-      <Text>. Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,8 +1118,10 @@
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Maj. and Hon. Lieut.-Col. F. J. (resigned)</Text>
+      <Key>St. John</Key>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>943</PageNumber>
     </MainItem>
   </ItemGroup>

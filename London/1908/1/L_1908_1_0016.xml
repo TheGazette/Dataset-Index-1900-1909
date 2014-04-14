@@ -173,7 +173,9 @@
       <Key>Bruce</Key>
       <Title>Sir</Title>
       <Forenames>H. J. L.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +627,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilbrough</Key>
-      <Text>Actg. Chaplain Rev. H. E. (resigned)</Text>
+      <Title>Actg.</Title>
+      <Forenames>Chaplain</Forenames>
+      <Text>Rev. H. E. (resigned)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1073,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>A. H. (Hon. Col.) .. ..</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>(Hon. Col.) .. ..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,8 +1115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-Col</Forenames>
+      <Title>Maj. and Hon. Lieut-</Title>
+      <Forenames>Col</Forenames>
       <Text>, F. (resigned)</Text>
       <PageNumber>498</PageNumber>
     </MainItem>

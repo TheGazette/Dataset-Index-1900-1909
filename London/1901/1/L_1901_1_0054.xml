@@ -259,7 +259,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. F. (resigned)</Text>
       <PageNumber>3771</PageNumber>
     </MainItem>
@@ -309,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sivrrev</Key>
-      <Text>. Imperial Yeomanry, formation of Regiment</Text>
+      <Forenames>Imperial Yeomanry</Forenames>
+      <Text>, formation of Regiment</Text>
       <PageNumber>2780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +591,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>S.</Forenames>
-      <Text>.H., Bart. &lt;Lieut.).,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +641,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>2nd Lieut, Sir D. E., Bart, (resigned) . . ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collow-Campbell</Key>
-      <Text>.J. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,8 +1158,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. G. W. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1244,9 @@
     <MainItem>
       <Key>Bertram</Key>
       <Title>Lieut.</Title>
-      <Text>-Col, and Hon. Col. J. R; (retired) .. .. Clark, Sir J. M., Bart. (Hon. Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Calder</Key>
-      <Text>.W. J. (Capt.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>

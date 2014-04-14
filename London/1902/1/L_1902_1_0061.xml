@@ -345,8 +345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>E. St. A</Forenames>
       <PageNumber>279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Forenames>E.</Forenames>
-      <Text>de V... Retired List. Bond, C. R. A</Text>
+      <Forenames>E. de V</Forenames>
+      <Text>... Retired List. Bond, C. R. A</Text>
       <PageNumber>4053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bigg</Key>
-      <Text>Wither, F</Text>
+      <Forenames>Wither</Forenames>
+      <Text>, F</Text>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,6 +524,13 @@
       <Forenames>E. W</Forenames>
       <Text>Craik, J. (antedated)</Text>
       <PageNumber>1668</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Labilliere</Key>
+      <Forenames>B. G. D.</Forenames>
+      <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -699,8 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>H. R.</Forenames>
-      <Text>von D. (correction)</Text>
+      <Forenames>H. R. von D</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Passy</Key>
-      <Forenames>De L. W</Forenames>
+      <Title>De L.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +975,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>J. H. De W.</Forenames>
+      <Forenames>J. H. De W</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,8 +1310,8 @@
     <MainItem>
       <Key>Barrow</Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S., Aide-de-Camp to the Commander-in-Chief in India</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>., Aide-de-Camp to the Commander-in-Chief in India</Text>
       <PageNumber>4054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1372,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>Capt. W. K., Deputy-Assist. Adj.-Gen. .. .. '</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. K.</Forenames>
+      <Text>, Deputy-Assist. Adj.-Gen. .. .. '</Text>
       <PageNumber>393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,8 +1382,8 @@
     <MainItem>
       <Key>Holbrook</Key>
       <Title>Capt.</Title>
-      <Forenames>E. R. St</Forenames>
-      <Text>. G., DeputyAssist. Adj.-Gen</Text>
+      <Forenames>E. R. St. G</Forenames>
+      <Text>., DeputyAssist. Adj.-Gen</Text>
       <PageNumber>4053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,8 +1409,8 @@
     <MainItem>
       <Key>Minogue</Key>
       <Title>Capt.</Title>
-      <Forenames>J. O</Forenames>
-      <Text>'B., Deputy-Assist. Adj.-Gen</Text>
+      <Forenames>J. O'B</Forenames>
+      <Text>., Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>1609</PageNumber>
     </MainItem>
   </ItemGroup>

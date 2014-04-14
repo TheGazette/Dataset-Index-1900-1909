@@ -154,8 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>St.</Title>
-      <Forenames>L. M.</Forenames>
+      <Title>St. L.</Title>
+      <Forenames>M.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>2757</PageNumber>
     </MainItem>
@@ -684,8 +684,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>E.</Forenames>
-      <Text>de H. (Lieut.)</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,8 +1337,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chermside</Key>
-      <Forenames>C. S. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>C. S. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,10 +1487,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bury</Key>
+      <Forenames>H. R. V.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denne</Key>
       <Forenames>A. B.</Forenames>
       <Text>(Maj.) .. .. ..</Text>
       <PageNumber>ibid,</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vitre</Key>
+      <Forenames>P. T. D.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1971,8 +1987,8 @@
     <MainItem>
       <Key>Luard</Key>
       <Title>Maj.</Title>
-      <Forenames>W.</Forenames>
-      <Text>du C. (antedated)</Text>
+      <Forenames>W. du C</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2111,8 +2127,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, F. R. P. (2nd Lieut.) ..</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>F. R. P.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2144,8 +2161,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, W. A. J. (Maj.)</Text>
+      <Key>O'Meara</Key>
+      <Forenames>W. A. J.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>

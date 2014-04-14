@@ -428,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>. J. (Hon. Maj.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>4101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sebastian-Smith</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry C. A. (seconded)</Text>
       <PageNumber>3926</PageNumber>
     </MainItem>
@@ -854,8 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners-Sutton</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>and Instr. of Musketry (seconded)</Text>
+      <Title>Lieut and Instr.</Title>
+      <Text>of Musketry (seconded)</Text>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakes</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry R. J. C. (seconded)</Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
@@ -977,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry P. N. (seconded) .. . i bid, de Salis, H. J: N. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>

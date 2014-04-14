@@ -337,16 +337,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. E. (2nd Lieut.) .. ..</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Title>St.</Title>
-      <Forenames>J. W. T.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>W. T.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>2759</PageNumber>
     </MainItem>
@@ -1460,6 +1461,13 @@
       <Forenames>J. E.</Forenames>
       <Text>(Qrmr.)</Text>
       <PageNumber>1711</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Text>TJ. G. C. (Assist. Inspector of Remounts) .. .. ,. ..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

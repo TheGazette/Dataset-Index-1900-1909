@@ -446,7 +446,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Good</Key>
-      <Text>Col. H. N. B. (retired)</Text>
+      <Title>Col.</Title>
+      <Forenames>H. N. B.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,8 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>C. De M.</Forenames>
-      <Text>(Lieut.) .. ..</Text>
+      <Forenames>C. De M</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. W. (resigned)</Text>
       <PageNumber>8025</PageNumber>
     </MainItem>
@@ -1309,7 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrom</Key>
-      <Text>E. L. G. (2nd Lieut.) ..</Text>
+      <Forenames>E. L. G.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

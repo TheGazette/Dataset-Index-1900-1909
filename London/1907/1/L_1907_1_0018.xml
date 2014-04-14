@@ -386,8 +386,8 @@
     <MainItem>
       <Key>Dayrell</Key>
       <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>G. M.</Forenames>
-      <Text>de L. (resigned)</Text>
+      <Forenames>G. M. de L</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +632,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. F. (antedated)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
@@ -830,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagshawe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. G. C. (resigned)</Text>
       <PageNumber>1575</PageNumber>
     </MainItem>
@@ -838,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastow</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. V. (seconded)</Text>
       <PageNumber>1068</PageNumber>
     </MainItem>
@@ -849,7 +849,9 @@
       <Key>Gunter</Key>
       <Title>Sir</Title>
       <Forenames>R. B. N.</Forenames>
-      <Text>, Bart, (Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Isattc</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. W. T. (seconded)</Text>
       <PageNumber>190</PageNumber>
     </MainItem>
@@ -1013,7 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pooley</Key>
-      <Text>. Surg.-Maj. and Hon. Surg.Lieut.-Col. W. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. and Hon. Surg.Lieut.-Col. W. (resigned)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shore</Key>
-      <Text>. J. L. (Capt.) .. .. ..</Text>
+      <Forenames>J. L.</Forenames>
+      <Text>(Capt.) .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

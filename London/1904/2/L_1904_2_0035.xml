@@ -163,16 +163,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>3355</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>K. W. L.</Forenames>
-      <Text>de B</Text>
+      <Forenames>K. W. L. de B</Forenames>
       <PageNumber>3355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wannell</Key>
-      <Text>G. E. .. '</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>.. '</Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohamier</Key>
-      <Text>J. A... .. ibid. .Clarke, G. A</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>.. .. ibid. .Clarke, G. A</Text>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulford</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. J</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. J</Text>
       <PageNumber>3356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Begbie</Key>
-      <Text>Col. F. R</Text>
+      <Title>Col.</Title>
+      <Forenames>F. R</Forenames>
       <PageNumber>2556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,8 +1057,8 @@
     <MainItem>
       <Key>Taylor</Key>
       <Title>Capt.</Title>
-      <Forenames>R. O</Forenames>
-      <Text>'B., Station Staff Officer, First Class</Text>
+      <Forenames>R. O'B</Forenames>
+      <Text>., Station Staff Officer, First Class</Text>
       <PageNumber>2120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,6 +1268,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Ressurriecao</Key>
+      <Forenames>J. A.</Forenames>
+      <Text>.. ..</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Luke</Key>
       <Forenames>A.</Forenames>
       <PageNumber>3357</PageNumber>
@@ -1274,7 +1284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Me</Key>
-      <Text>Call, G</Text>
+      <Forenames>Call</Forenames>
+      <Text>, G</Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,7 +1416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denton</Key>
-      <Text>A. .. -. -. ..</Text>
+      <Forenames>A.</Forenames>
+      <Text>.. -. -. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

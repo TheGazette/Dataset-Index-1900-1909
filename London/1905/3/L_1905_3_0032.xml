@@ -100,7 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P</Forenames>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,8 +443,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. St.J. .. -.. ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. St</Forenames>
+      <Text>.J. .. -.. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,8 +1306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobree</Key>
-      <Forenames>De S.</Forenames>
-      <Text>(Maj.)</Text>
+      <Title>De S. (Maj.)</Title>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1464,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>Col. Comdt. T. F. D. (retired und Hon. Maj.-Gen.)</Text>
+      <Title>Col. Comdt.</Title>
+      <Forenames>T. F. D.</Forenames>
+      <Text>(retired und Hon. Maj.-Gen.)</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -407,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wooler</Key>
-      <Text>S. W</Text>
+      <Forenames>S. W</Forenames>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +494,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>Vyse, R. G. H. (Adj.)</Text>
+      <Forenames>Vyse</Forenames>
+      <Text>, R. G. H. (Adj.)</Text>
       <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +881,9 @@
       <Key>Lowther</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +957,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyndham</Key>
-      <Text>Quin, R. S. W. R. (2nd Lieut.)</Text>
+      <Forenames>Quin</Forenames>
+      <Text>, R. S. W. R. (2nd Lieut.)</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>

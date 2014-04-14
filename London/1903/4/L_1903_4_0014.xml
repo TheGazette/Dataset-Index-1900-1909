@@ -87,8 +87,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Surg.-Gen. T. (retired pay)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Surg.</Title>
+      <Text>-Gen. T. (retired pay)</Text>
       <PageNumber>7748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,8 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FyfeWaterston</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (correction)</Text>
+      <Title>Lieut, (correction)</Title>
       <PageNumber>8343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,8 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southov</Key>
-      <Text>J. B. (Capfc.)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Capfc.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +906,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trench</Key>
-      <Text>S. J. (Col.)</Text>
+      <Forenames>S. J.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. W. J. (retired)</Text>
       <PageNumber>7143</PageNumber>
     </MainItem>

@@ -320,8 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>A.</Forenames>
-      <Text>du P. T. (Capt,)</Text>
+      <Forenames>A. du P</Forenames>
+      <Text>. T. (Capt,)</Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Forenames>Lieut R.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>R.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
@@ -827,8 +828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Close</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F(resigned)</Text>
       <PageNumber>783</PageNumber>
     </MainItem>

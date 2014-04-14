@@ -55,7 +55,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>. Lieut. H. S. F. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H. S. F.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myburgh</Key>
-      <Forenames>C.</Forenames>
-      <Text>de F. (Lieut.)</Text>
+      <Forenames>C. de F</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sitwell</Key>
-      <Text>.' W. H. (Lieut.-Col.)</Text>
+      <Text>' W. H. (Lieut.-Col.)</Text>
       <PageNumber>7817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Medill</Key>
-      <Text>.-Capt. T. H. (resigned)</Text>
+      <Text>-Capt. T. H. (resigned)</Text>
       <PageNumber>8975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Text>.P. B. (Maj.)</Text>
+      <Forenames>P. B.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. W. (seconded)</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
@@ -1250,7 +1253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>.ike, B. P. (2nd Lieut.)</Text>
+      <Text>ike, B. P. (2nd Lieut.)</Text>
       <PageNumber>6721</PageNumber>
     </MainItem>
   </ItemGroup>

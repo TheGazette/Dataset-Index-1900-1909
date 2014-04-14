@@ -120,7 +120,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>de Cetto, V. B. A. (Lieut.)</Text>
+      <Forenames>de Cetto</Forenames>
+      <Text>, V. B. A. (Lieut.)</Text>
       <PageNumber>3710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +311,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>Capt. C. R. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loveday</Key>
-      <Text>F. VV. (Ct.pt.) .. ..</Text>
+      <Forenames>F.</Forenames>
+      <Text>VV. (Ct.pt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,8 +542,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. F. H. (seconded)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. M. F. (seconded)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
@@ -955,8 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>, Colonel-in-Chief</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The, Colonel-in-Chief</Text>
       <PageNumber>2837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,8 +1212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>, Hon. Col</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The, Hon. Col</Text>
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1274,8 +1280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Forenames>J. A. O</Forenames>
-      <Text>'B. (Capt.)</Text>
+      <Forenames>J. A. O'B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ueali-y</Key>
-      <Text>A. F. (Hon. Maj.) .. ..</Text>
+      <Forenames>A. F.</Forenames>
+      <Text>(Hon. Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

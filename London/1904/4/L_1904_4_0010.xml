@@ -46,8 +46,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. W. du G., Col. on the Staff, and Go!</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>W. du G</Forenames>
+      <Text>., Col. on the Staff, and Go!</Text>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +66,9 @@
       <Key>Grogan</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. I. B.</Forenames>
-      <Text>, Bart., Staff Capt. at Head-Quarters ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Text>. Col. J. A. H., to command a Second Class District in India, and temporary Brig.-Gen</Text>
+      <Title>Col.</Title>
+      <Forenames>J. A. H.</Forenames>
+      <Text>, to command a Second Class District in India, and temporary Brig.-Gen</Text>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,8 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Title>Maj. St.</Title>
-      <Forenames>J. W. T.</Forenames>
+      <Title>Maj. St. J.</Title>
+      <Forenames>W. T.</Forenames>
       <Text>, Assist. Director of Supplies .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -417,7 +422,9 @@
       <Key>Clerk</Key>
       <Title>Capt. Sir</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, Bart, (removed from-Reserve)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +472,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmillan-Scott</Key>
-      <Text>. Capt. A. F. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. F.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +975,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>. Lieut.-Col. R. T. H. (Ordnance Officer, 1st Class, and Col.) ..</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>R. T. H.</Forenames>
+      <Text>(Ordnance Officer, 1st Class, and Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -43,8 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. E. (Capt.) .. ..</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +306,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
-      <Text>Rev. J. H 'Brook, Rev. T Ensell, Rev. C. S. .</Text>
+      <Title>Rev.</Title>
+      <Forenames>J. H</Forenames>
+      <Text>'Brook, Rev. T Ensell, Rev. C. S. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,8 +324,8 @@
     <MainItem>
       <Key>Miller</Key>
       <Title>Rev.</Title>
-      <Forenames>D. P. O</Forenames>
-      <Text>'Rorke, Rev. B. G Stotherp, Rev. B. W ,Webb-Peploe, Rev. H. M</Text>
+      <Forenames>D. P. O'Rorke</Forenames>
+      <Text>, Rev. B. G Stotherp, Rev. B. W ,Webb-Peploe, Rev. H. M</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,6 +425,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Jerseys</Key>
+      <Forenames>W. G.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>4903</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edes</Key>
       <Forenames>C. A.</Forenames>
       <Text>(Col.)</Text>
@@ -447,15 +458,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Frodsham</Key>
-      <Text>W. J. H. (Col.)...</Text>
+      <Forenames>W. J. H.</Forenames>
+      <Text>(Col.)...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
@@ -503,8 +515,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, W, A. DO. (Col.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>W</Forenames>
+      <Text>, A. DO. (Col.)</Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,8 +573,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beresford</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. C. E. de la P. (retired)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>de la P. (retired)</Text>
       <PageNumber>5380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,8 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McClellan</Key>
-      <Forenames>D. C. St</Forenames>
-      <Text>. G. (Hon.-Capt.) 547S Mills, Maj. E. C. (retired)</Text>
+      <Forenames>D. C. St. G</Forenames>
+      <Text>. (Hon.-Capt.) 547S Mills, Maj. E. C. (retired)</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,8 +983,8 @@
     <MainItem>
       <Key>Paget</Key>
       <Title>Lieut.-Col. and Brev. Col.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de B. V. (retired)</Text>
+      <Forenames>A. de B</Forenames>
+      <Text>. V. (retired)</Text>
       <PageNumber>5074</PageNumber>
     </MainItem>
   </ItemGroup>

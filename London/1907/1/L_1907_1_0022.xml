@@ -57,8 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,8 +143,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, R. (Maj.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>R.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>. A. B. (Capt.)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandav</Key>
-      <Text>. Capt. W. H. (resigned) .. Self, A. J. (Hon. Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(resigned) .. Self, A. J. (Hon. Capt.)</Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gauntlett</Key>
-      <Text>. V. C. (Copt.) .. ..</Text>
+      <Forenames>V. C.</Forenames>
+      <Text>(Copt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,8 +680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepean</Key>
-      <Forenames>L. P. St</Forenames>
-      <Text>. V. (Capt.)..</Text>
+      <Forenames>L. P. St. V</Forenames>
+      <Text>. (Capt.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,6 +1256,15 @@
       <Forenames>H. C.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>1575</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bunsen</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

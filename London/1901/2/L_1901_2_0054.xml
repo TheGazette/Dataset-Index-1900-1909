@@ -459,6 +459,16 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>4th Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Title>Maj. and Hon. Lieufc.</Title>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
+      <PageNumber>5129</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>lst Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -685,7 +695,9 @@
     <MainItem>
       <Key>Holland</Key>
       <Forenames>T.</Forenames>
-      <Text>C.B. (Capt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +965,9 @@
       <Key>Duckworth-King</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>D. G. A.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,8 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>; F. A. B. (resigned)</Text>
       <PageNumber>5597</PageNumber>
     </MainItem>
@@ -1311,16 +1324,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, C. H. C. (Maj.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>C. H. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6850</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilford</Key>
-      <Text>.R. M. (Lieut.)</Text>
+      <Forenames>R. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5200</PageNumber>
       <PageNumber>8089</PageNumber>
     </MainItem>
@@ -1400,7 +1414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Bonsall</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. C. (seconded)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
@@ -1689,7 +1703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -53,7 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Badcliffe</Key>
-      <Forenames>Lieut J.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>4889</PageNumber>
     </MainItem>
@@ -163,8 +164,8 @@
     <MainItem>
       <Key>MacGillycuddy</Key>
       <Title>Lieut.</Title>
-      <Forenames>D. De C. C.</Forenames>
-      <Text>(antedated)</Text>
+      <Forenames>D. De C</Forenames>
+      <Text>. C. (antedated)</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,8 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>L. G.</Forenames>
-      <Text>de R. (Capt.)</Text>
+      <Forenames>L. G. de R</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,6 +640,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Visme</Key>
+      <Forenames>J. P.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6407</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gaudin</Key>
       <Title>Surgn.</Title>
       <Text>-Maj. F. N. (resigned)</Text>
@@ -672,9 +681,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (Capt,)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>5517</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Maurier</Key>
+      <Title>Maj.</Title>
+      <Forenames>G. L. B.</Forenames>
+      <Text>(to command the 5th Battalion)</Text>
+      <PageNumber>5459</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -882,7 +900,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lieutenants</Key>
-      <Text>. Anderson, M. G</Text>
+      <Forenames>Anderson</Forenames>
+      <Text>, M. G</Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +941,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darlington</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. .. .. ..</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutting</Key>
-      <Text>. H. B.</Text>
+      <Forenames>H. B.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>R. H. O'D</Forenames>
       <PageNumber>4891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>. F. L</Text>
+      <Forenames>F. L</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,8 +1301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pears</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. T. C</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>T. C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

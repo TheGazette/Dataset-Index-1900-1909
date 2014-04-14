@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>. A. A. (Capt.) .. .. '</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>(Capt.) .. .. '</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,14 +110,16 @@
     <MainItem>
       <Key>Rickai-ds</Key>
       <Title>Lieut.</Title>
-      <Text>M.C. A. (resigned)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robiii</Key>
-      <Text>.son^C.T. (Lieut.-Col.) '</Text>
+      <Text>son^C.T. (Lieut.-Col.) '</Text>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsmill</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. B. .(Capt:) ..</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. B. .(Capt:) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,8 +1105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orde-Browne</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,8 +1463,8 @@
     <MainItem>
       <Key>Casgrain</Key>
       <Title>Maj.</Title>
-      <Forenames>P. H.</Forenames>
-      <Text>du P. (antedated)</Text>
+      <Forenames>P. H. du P</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,8 +1561,8 @@
   <ItemGroup>
     <MainItem>
       <Key>jGillespie</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (Capt,) .. ..</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (Capt,) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,8 +1708,8 @@
     <MainItem>
       <Key>Laird</Key>
       <Title>Maj.</Title>
-      <Forenames>W.</Forenames>
-      <Text>du C. (retired)</Text>
+      <Forenames>W. du C</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,15 +1879,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, J. J. F. (Hon. Capt.) 18</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>J. J. F.</Forenames>
+      <Text>(Hon. Capt.) 18</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, L. T. (Hon. Lieut,).. '..</Text>
+      <Key>O'Shea</Key>
+      <Forenames>L. T.</Forenames>
+      <Text>(Hon. Lieut,).. '..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

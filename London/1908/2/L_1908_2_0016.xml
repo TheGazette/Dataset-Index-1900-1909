@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Wedholm</Key>
       <Forenames>E. W.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Welhaven</Key>
       <Forenames>H.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +50,10 @@
     <MainItem>
       <Key>Westmorland</Key>
       <Title>Col.</Title>
-      <Text>C.H., Companion of the Bath</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +112,9 @@
       <Key>Williams</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +133,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. F.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,15 +146,18 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Winsloe</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral A. L., Commis-ioner of the Admiralty</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>, Commis-ioner of the Admiralty</Text>
       <PageNumber>2937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +184,9 @@
       <Key>Wrangel</Key>
       <Title>H.E.</Title>
       <Forenames>Count</Forenames>
-      <Text>, Hon. Knight GrandCros?, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +195,9 @@
       <Key>Wyndham</Key>
       <Title>Col.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +206,9 @@
       <Key>Yarde-Buller</Key>
       <Title>Lieut.-Col. Hon.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Kourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +217,9 @@
       <Key>Yeilding</Key>
       <Title>Col.</Title>
       <Forenames>W. R</Forenames>
-      <Text>;, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +236,9 @@
       <Key>Young</Key>
       <Title>Col. Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +263,9 @@
       <Key>Zabotkine</Key>
       <Title>Lieut.</Title>
       <Forenames>D.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +274,9 @@
       <Key>Zakamelsky</Key>
       <Title>H.E. Gen.</Title>
       <Forenames>Baron A. M.</Forenames>
-      <Text>, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +285,9 @@
       <Key>Zigerskine</Key>
       <Title>Capt.</Title>
       <Forenames>L. G.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +296,9 @@
       <Key>Ziloti</Key>
       <Title>Commander</Title>
       <Forenames>S.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,6 +408,7 @@
       <Text>
         <PageNumber>ibid.</PageNumber>
         <PageNumber>___ ___ ___</PageNumber>
+        <Honour>Bart</Honour>
         <PageNumber>___ ___</PageNumber>
         <PageNumber>___ ___</PageNumber>
         <PageNumber>___ ___</PageNumber>
@@ -577,7 +610,9 @@
       <Key>Cuninghame</Key>
       <Title>Capt. Sir</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bart., Staff Capt</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faxma</Key>
-      <Text>.r, Maj. G. F., General Staff Officer, 3rd Grade, at Headquarters</Text>
+      <Text>r, Maj. G. F., General Staff Officer, 3rd Grade, at Headquarters</Text>
       <PageNumber>2670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,8 +899,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, Capt. J. W., Brigade-Maj</Text>
+      <Key>O'Dowda</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, Brigade-Maj</Text>
       <PageNumber>2670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,8 +980,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Capt. Hon. C. H. M., Staff Capt</Text>
+      <Key>St. Clair</Key>
+      <Title>Capt. Hon.</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>, Staff Capt</Text>
       <PageNumber>2670</PageNumber>
     </MainItem>
   </ItemGroup>

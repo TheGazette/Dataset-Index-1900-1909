@@ -31,7 +31,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ginsberg</Key>
-      <Text>. Capt. A. (resigned) ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +227,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>. Lieut. R. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,8 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Forenames>H. G.</Forenames>
-      <Text>de L. (Hon. Maj.)</Text>
+      <Forenames>H. G. de L</Forenames>
+      <Text>. (Hon. Maj.)</Text>
       <PageNumber>4652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Joicey-Cecil</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. Lord J. P. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col. Lord</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Lieut L. C.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>L. C.</Forenames>
       <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -950,8 +956,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. E. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>G. E. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,8 +1150,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, O. C. (Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>O. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8670</PageNumber>
     </MainItem>
   </ItemGroup>

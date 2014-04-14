@@ -483,7 +483,9 @@
       <Key>Lacon</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. B. F. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seeker</Key>
-      <Text>V. H. (Lieut.)</Text>
+      <Forenames>V. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillson</Key>
-      <Text>G. (Maj.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,8 +910,8 @@
     <MainItem>
       <Key>Hawkes</Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. L. G. (seconded)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. G. (seconded)</Text>
       <PageNumber>7898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1055,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! W. A. (seconded)</Text>
       <PageNumber>7125</PageNumber>
     </MainItem>
@@ -1237,8 +1241,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brevet Col. J. F. (half-pay)</Text>
+      <Title>Lieut-Col. and Brevet Col.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>8189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,9 +1308,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, N. W. H. (Lieut.-Col.)</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>N. W. H.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>8189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,8 +1421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Maj.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8877</PageNumber>
     </MainItem>
   </ItemGroup>

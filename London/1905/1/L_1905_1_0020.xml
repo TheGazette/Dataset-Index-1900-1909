@@ -137,7 +137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittome</Key>
-      <Forenames>Lieut J. W.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. W.</Forenames>
       <Text>((resigned)</Text>
       <PageNumber>224</PageNumber>
     </MainItem>
@@ -400,8 +401,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, F. L. (2nd Lieut.)</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>F. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. Comdt. W. A. (resigned and Hon. Col.)</Text>
       <PageNumber>583</PageNumber>
     </MainItem>

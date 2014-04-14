@@ -95,7 +95,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garner</Key>
-      <Text>, JRussell and Co</Text>
+      <Text>JRussell and Co</Text>
       <PageNumber>9810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>8058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Forenames>Chas</Forenames>
-      <Text>., and Co</Text>
+      <Title>Chas.</Title>
+      <Text>, and Co</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heinemann</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>7386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, E„ and Son</Text>
+      <Forenames>E</Forenames>
+      <Text>„ and Son</Text>
       <PageNumber>7883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +581,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holsworth</Key>
-      <Text>, R ,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +825,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>9613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +842,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kightly</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leiscrowitz</Key>
-      <Text>., L. H., and Co</Text>
+      <Text>, L. H., and Co</Text>
       <PageNumber>7697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,8 +1231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maestrani</Key>
-      <Forenames>Carlo</Forenames>
-      <Text>.'</Text>
+      <Title>Carlo .</Title>
+      <Text>'</Text>
       <PageNumber>9272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,8 +1328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. .-</Text>
+      <Title>Brothers .</Title>
+      <Text>. .-</Text>
       <PageNumber>7600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peters</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>9445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1995,7 +1997,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roughtonand</Key>
-      <Forenames>Thorburn</Forenames>
+      <Title>Thorburn .</Title>
       <PageNumber>8192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2025,8 +2027,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George's Guild or Craft and Turner and Hahn</Text>
+      <Key>St. George</Key>
+      <Text>'s Guild or Craft and Turner and Hahn</Text>
       <PageNumber>9716</PageNumber>
     </MainItem>
   </ItemGroup>

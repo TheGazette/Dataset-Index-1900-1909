@@ -69,8 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>T. H. St</Forenames>
-      <Text>. G. (post-dated)</Text>
+      <Forenames>T. H. St. G</Forenames>
+      <Text>. (post-dated)</Text>
       <PageNumber>5594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>. C. H. Or Boulton, H. St. Or</Text>
+      <Forenames>C. H. Or Boulton</Forenames>
+      <Text>, H. St. Or</Text>
       <PageNumber>5594</PageNumber>
       <PageNumber>6490</PageNumber>
     </MainItem>
@@ -463,8 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sime</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +913,8 @@
     <MainItem>
       <Key>Smith</Key>
       <Title>Capt.</Title>
-      <Forenames>G. R.</Forenames>
-      <Text>de H., Deputy-AssiBt.</Text>
+      <Forenames>G. R. de H</Forenames>
+      <Text>., Deputy-AssiBt.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,8 +967,8 @@
     <MainItem>
       <Key>Young</Key>
       <Title>Capt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de B., Deputy-Assist. Adj.-Gen.' .. '' ..</Text>
+      <Forenames>F. de B</Forenames>
+      <Text>., Deputy-Assist. Adj.-Gen.' .. '' ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,8 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'B. (correction)</Text>
+      <Forenames>S. O'B</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>. J. B. .. ... .. .. ibid. Grant, D. St. J. D</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>.. ... .. .. ibid. Grant, D. St. J. D</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>.G.F. ..'</Text>
+      <Forenames>G.F.</Forenames>
+      <Text>..'</Text>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>

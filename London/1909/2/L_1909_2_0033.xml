@@ -159,7 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Puckle</Key>
-      <Text>H. D. (Maj!)</Text>
+      <Forenames>H. D.</Forenames>
+      <Text>(Maj!)</Text>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,9 @@
       <Key>Edwards</Key>
       <Title>Sir</Title>
       <Forenames>J. H. P. O</Forenames>
-      <Text>, Bart., (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,9 +375,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, L. (2nd Lieut.)</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,8 +627,8 @@
     <MainItem>
       <Key>Brodrick</Key>
       <Title>Hon.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (2ud Lieut.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (2ud Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bush</Key>
-      <Forenames>H. G.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>H. G. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +901,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>E. M</Forenames>
+      <Text>: P. (Hon. Lieut.-Col.)</Text>
+      <PageNumber>3563</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dewar</Key>
-      <Text>H. R. (Capt.)</Text>
+      <Forenames>H. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heap</Key>
-      <Text>E. F. G. T. (2nd Lieut.)</Text>
+      <Forenames>E. F. G. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1392,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Cul. and Hon. Col. Bon. H. A. (retired)</Text>
       <PageNumber>3279</PageNumber>
     </MainItem>
@@ -1873,7 +1886,9 @@
       <Key>Shelley</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3204</PageNumber>
     </MainItem>
   </ItemGroup>

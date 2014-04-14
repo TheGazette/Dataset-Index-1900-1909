@@ -238,6 +238,15 @@
     </MainItem>
   </ItemGroup>
   <SubCategoryTitle>GUARDS' DEPOT</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kierzkowski-Stewart</Key>
+      <Title>Maj.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(Commandant)</Text>
+      <PageNumber>1465</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubCategoryTitle>TERRITORIAL REGIMENTS</SubCategoryTitle>
   <SubSectionTitle>The Royal Scots (Lothian Regiment)</SubSectionTitle>
   <ItemGroup>
@@ -483,7 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Text>. T. S. (Lieut.)</Text>
+      <Forenames>T. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodhurst-Hill</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. (resigned)</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
@@ -583,8 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkins</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (Capt.) .. ..</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. S. (antedated)</Text>
       <PageNumber>2003</PageNumber>
     </MainItem>
@@ -1197,7 +1207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamblon</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. T. (resigned)</Text>
       <PageNumber>829</PageNumber>
     </MainItem>
@@ -1344,8 +1354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>

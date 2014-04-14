@@ -4,7 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>BundockA</Key>
-      <Text>K. (Adj.)</Text>
+      <Forenames>K.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>WafelLA</Key>
-      <Text>J. B. (Lieut.) :</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Lieut.) :</Text>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,8 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalglish</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de G. (Lieut.)</Text>
+      <Forenames>C. A. de G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,6 +531,14 @@
       <Forenames>T.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>8200</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>C. F.</Forenames>
+      <Text>' de la F. (Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

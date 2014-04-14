@@ -656,8 +656,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alington</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Lady Vice-President. League of Mercy .. ..</Text>
+      <Title>The Lady, Lady</Title>
+      <Forenames>Vice-Presi-</Forenames>
+      <Text>dent. League of Mercy .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +666,9 @@
     <MainItem>
       <Key>Ann</Key>
       <Forenames>E. T.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +693,9 @@
     <MainItem>
       <Key>Ballance</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>

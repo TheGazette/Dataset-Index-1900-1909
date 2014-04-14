@@ -117,8 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purber</Key>
-      <Forenames>H. A.</Forenames>
-      <Text>de P. (2nd Lieut.)</Text>
+      <Forenames>H. A. de P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. B. (seconded)</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
@@ -859,8 +859,8 @@
     <MainItem>
       <Key>Moore</Key>
       <Title>Capt.</Title>
-      <Forenames>E. Du P. H.</Forenames>
-      <Text>(antedated)</Text>
+      <Forenames>E. Du P</Forenames>
+      <Text>. H. (antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,8 +1055,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swanson</Key>
-      <Forenames>D. A. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>D. A. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,8 +1197,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Hon. C. H.M. (Capt.)</Text>
+      <Key>St. Clair</Key>
+      <Title>Hon.</Title>
+      <Forenames>C. H.M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>

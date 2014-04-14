@@ -354,7 +354,9 @@
     <MainItem>
       <Key>Blois</Key>
       <Forenames>Capt</Forenames>
-      <Text>, Sir R. B. M., Bart, (leaves Regiment) .. .. . . . .</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,9 +751,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. T. S. (leaves Regiment)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>(leaves Regiment)</Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,8 +777,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leger, Capt. A. J. B. (leaves Regiment)</Text>
+      <Key>St. Leger</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. J. B.</Forenames>
+      <Text>(leaves Regiment)</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1285,7 @@
       <Key>
         <KeyDitto>___ -— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. (antedated)</Text>
       <PageNumber>2619</PageNumber>
     </MainItem>
@@ -1489,8 +1493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodrick</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>

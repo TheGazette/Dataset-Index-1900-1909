@@ -323,7 +323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry J. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -756,6 +756,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Putron</Key>
+      <Title>Lieut</Title>
+      <Text>, and Instr. of Musketry II. (seconded)</Text>
+      <PageNumber>5322</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Holderness</Key>
       <Forenames>G. C.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1133,7 +1141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>C. G. (2nd Lieut.)</Text>
+      <Forenames>C. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,6 +1427,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>6th Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bathe</Key>
+      <Title>Capt.</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8627</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>lst Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1478,7 +1496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Innes</Key>
-      <Text>E. A. (Lieut.) .. .. Marriott, G. M. (Lieut.)</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(Lieut.) .. .. Marriott, G. M. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

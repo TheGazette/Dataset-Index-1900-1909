@@ -125,8 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (Capt.)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,9 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clair-Ford</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. (antedated)</Text>
+      <Title>Capt. St. C. St. (antedated)</Title>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,15 +1252,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouillot</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T. (2nd Lieut.) ..</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>E. S. (2nd Lieut.).. ..</Text>
+      <Forenames>E. S.</Forenames>
+      <Text>(2nd Lieut.).. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

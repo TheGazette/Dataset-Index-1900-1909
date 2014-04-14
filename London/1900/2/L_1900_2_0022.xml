@@ -21,7 +21,9 @@
       <Key>Wylly</Key>
       <Title>Lieut.</Title>
       <Forenames>G. G. E.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>7385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +290,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Knight Grand Com-</Forenames>
-      <Text>mander of the Order of the Indian Empire</Text>
+      <Forenames>Knight Grand</Forenames>
+      <Text>Commander of the Order of the Indian Empire</Text>
       <PageNumber>8754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,8 +334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de R., Second Secretary in H.M.'s Diplomatic Service</Text>
+      <Forenames>C. A. de R</Forenames>
+      <Text>., Second Secretary in H.M.'s Diplomatic Service</Text>
       <PageNumber>8457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +370,9 @@
       <Key>Bearcroft</Key>
       <Title>Capt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +423,9 @@
     <MainItem>
       <Key>Bey</Key>
       <Forenames>Ahmed Chefik</Forenames>
-      <Text>, Honorary Member of the Fourth Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +436,9 @@
       </Key>
       <Title>Dr.</Title>
       <Forenames>Kautski</Forenames>
-      <Text>, Honorary Member of the Fourth Class of the Royal Victorian Order .. .. .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +465,9 @@
       <Key>Bisdee</Key>
       <Title>Private</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +475,9 @@
     <MainItem>
       <Key>Blundell-Hollinshead-</Key>
       <Forenames>Blundell</Forenames>
-      <Text>, Lieut. D. H., Member of the Fourth Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,8 +541,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral J. A. T., Knight Commander of St. Michael and St. George</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>J. A. T.</Forenames>
+      <Text>, Knight Commander of St. Michael and St. George</Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +561,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Commander</Title>
-      <Text>of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +647,9 @@
       <Key>Charrington</Key>
       <Title>Lieut.</Title>
       <Forenames>E.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +668,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Chiazzari</Forenames>
-      <Text>, Lieut. N. W., Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +679,9 @@
       <Key>Chichester</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Companion of the Bath .. .. .. ..</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarendon</Key>
-      <Text>Earl of, Lord Chamberlain of H.M.'s Household</Text>
+      <Title>Earl</Title>
+      <Text>of, Lord Chamberlain of H.M.'s Household</Text>
       <PageNumber>5891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +724,9 @@
     <MainItem>
       <Key>Cockey</Key>
       <Forenames>Engineer G. H.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +752,9 @@
       <Key>Colquhoun</Key>
       <Title>Lieut.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,10 +844,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Reszke</Key>
+      <Forenames>E.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>4510</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dering</Key>
       <Title>Sir</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, Bart., H.M.'s Envoy Extraordinary and Minister Plenipotentiary to Brazil</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +910,9 @@
     <MainItem>
       <Key>Egypt</Key>
       <Title>H.H.</Title>
-      <Text>the Khediveof, Honorary Knight Grand Cross of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +948,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Sir</Title>
-      <Text>YV., Bart., Order of Mercy ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +959,9 @@
       <Key>Engleheart</Key>
       <Title>Sergt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +995,9 @@
       <Key>Fisher</Key>
       <Title>Capt.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +1006,9 @@
       <Key>FitzClarence</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +1025,10 @@
       <Key>Fletcher</Key>
       <Title>Col. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart, Companion of the Bath</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>

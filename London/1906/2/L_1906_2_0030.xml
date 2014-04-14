@@ -661,8 +661,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, Capt. and Brev. Maj. G. S. (retired)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,8 +997,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. A. B. (retired pay)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leach</Key>
-      <Text>J. B. (Capt.)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,6 +1303,14 @@
       <Forenames>A. S.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>2977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>V. W.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

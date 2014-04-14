@@ -149,7 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>Bye laws as to locomotives</Text>
+      <Forenames>Bye</Forenames>
+      <Text>laws as to locomotives</Text>
       <PageNumber>2251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +241,6 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>extraordinary general courts</Text>
       <PageNumber>2482</PageNumber>
       <PageNumber>2636</PageNumber>
     </MainItem>
@@ -385,6 +385,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Swan</Key>
+      <Forenames>Sonnenschein</Forenames>
+      <Text>aud Co., reduction of capital</Text>
+      <PageNumber>3176</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Tea</Key>
       <Forenames>Corporation</Forenames>
       <Text>, notice of winding up</Text>
@@ -418,7 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyne</Key>
-      <Text>Valley Colliery, reduction of capital</Text>
+      <Forenames>Valley Colliery</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,8 +468,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Diemen</Forenames>
+      <Key>V</Key>
+      <Forenames>Van Diemen</Forenames>
       <Text>'s Land Company, yearly general meeting</Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
@@ -606,8 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashwin</Key>
-      <Title>Madame</Title>
-      <Forenames>Kate</Forenames>
+      <Title>Madame Kate .</Title>
       <PageNumber>3393</PageNumber>
     </MainItem>
   </ItemGroup>

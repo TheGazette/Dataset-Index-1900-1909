@@ -92,7 +92,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pery</Key>
-      <Text>Knox-Gore, A. F. (2nd Lieut.)</Text>
+      <Forenames>Knox-Gore</Forenames>
+      <Text>, A. F. (2nd Lieut.)</Text>
       <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,8 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>M.</Forenames>
-      <Text>de B. (2nd Lieut.) .. ..</Text>
+      <Forenames>M. de B</Forenames>
+      <Text>. (2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,6 +588,15 @@
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Title>Assist.</Title>
+      <Forenames>Commissary-Gen</Forenames>
+      <Text>. and Hon. Lieut. -Col. E. J. (retired pay)</Text>
+      <PageNumber>6277</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>Army Ordnance Department</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -821,8 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. J. H</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>J. H.</Forenames>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,8 +895,9 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. E. R., Commandant and Director of Studies and temporary Col</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. E. R.</Forenames>
+      <Text>, Commandant and Director of Studies and temporary Col</Text>
       <PageNumber>6739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,8 +913,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. H. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>5964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>H. E. (Lieut.-Col.) '</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(Lieut.-Col.) '</Text>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>

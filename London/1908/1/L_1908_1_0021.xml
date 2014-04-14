@@ -125,7 +125,9 @@
     <MainItem>
       <Key>Napier</Key>
       <Title>Sir</Title>
-      <Text>VV. L., Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>W. (Qrnir. and Hon. Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Qrnir. and Hon. Lieut.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +235,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (Hon. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbertson</Key>
-      <Forenames>Lieut W.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>W.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>1320</PageNumber>
     </MainItem>
@@ -736,8 +742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>G. W. St</Forenames>
-      <Text>. G. (Capt. super.)</Text>
+      <Forenames>G. W. St. G</Forenames>
+      <Text>. (Capt. super.)</Text>
       <PageNumber>423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +784,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>Capt. and Brevet Maj. F. M. E. (retired)</Text>
+      <Title>Capt. and Brevet Maj.</Title>
+      <Forenames>F. M. E.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>LawrencefG</Key>
-      <Text>H. (Maj.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>

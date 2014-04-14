@@ -88,8 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Isaacson</Key>
-      <Forenames>C.</Forenames>
-      <Text>de S. (2nd Lieut.)</Text>
+      <Forenames>C. de S</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +469,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>Maj. and Hon. Lieut.-Col. J. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitton</Key>
-      <Text>K. (Lieut.) .. .,</Text>
+      <Forenames>K.</Forenames>
+      <Text>(Lieut.) .. .,</Text>
       <PageNumber>2510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +567,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Main</Key>
-      <Text>Lieut. It. D. (resigned)</Text>
+      <Title>Lieut. It.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>Capt. and Instr. of .Musketry A. (reigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of .Musketry A. (reigned)</Text>
       <PageNumber>1544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>J. P. (2nd Lieut.)</Text>
+      <Forenames>J. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +652,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. (super.)</Text>
       <PageNumber>2427</PageNumber>
     </MainItem>
@@ -687,7 +694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>S. (2ud Lieut.)</Text>
+      <Forenames>S.</Forenames>
+      <Text>(2ud Lieut.)</Text>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +769,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R, G. (antedated)</Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
@@ -895,16 +903,15 @@
     <MainItem>
       <Key>Wilkins</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (seconded)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>De L.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Title>De L. (2nd Lieut.)</Title>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,8 +982,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, Capt. L. S. (super.)</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
@@ -984,7 +991,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Text>A. H. (Lieut.)</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCabe</Key>
-      <Text>J. (Qrmr. and Hon. Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Qrmr. and Hon. Capt.)</Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>

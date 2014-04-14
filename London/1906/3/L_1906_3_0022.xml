@@ -176,8 +176,8 @@
     <MainItem>
       <Key>Myburgh</Key>
       <Title>Lieut.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de F. (temporary half-pay)</Text>
+      <Forenames>C. de F</Forenames>
+      <Text>. (temporary half-pay)</Text>
       <PageNumber>4555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,14 +439,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterston</Key>
-      <Text>.D. (Capt.)..'</Text>
+      <Forenames>D.</Forenames>
+      <Text>(Capt.)..'</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! L. M. (resigned)</Text>
       <PageNumber>5458</PageNumber>
     </MainItem>
@@ -599,7 +600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. (resigned)</Text>
       <PageNumber>5584</PageNumber>
     </MainItem>
@@ -772,14 +773,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Text>. F. G. (2nd Lieut.) .. ..</Text>
+      <Forenames>F. G.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill Capt. A. A. (seconded)</Text>
+      <Key>St. Hill</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. W. de L. (Capt.)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,8 +1148,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>de L. (cancellation)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (cancellation)</Text>
       <PageNumber>6406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,8 +1297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>

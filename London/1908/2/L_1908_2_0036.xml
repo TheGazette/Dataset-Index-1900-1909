@@ -140,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lalone</Key>
-      <Text>.A. S</Text>
+      <Forenames>A. S</Forenames>
       <PageNumber>2755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>.H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>3994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,6 +869,13 @@
       <Key>Blake</Key>
       <Forenames>W. H</Forenames>
       <PageNumber>3578</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>R. P. S.</Forenames>
+      <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1301,7 +1308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>.-rkins, G. T. W</Text>
+      <Text>-rkins, G. T. W</Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paffett</Key>
-      <Text>., W. F</Text>
+      <Text>, W. F</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: H: A. (seconded)</Text>
       <PageNumber>3092</PageNumber>
     </MainItem>
@@ -634,7 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>LockevH</Key>
-      <Text>K. (2nd Lieut.)</Text>
+      <Forenames>K.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,6 +1054,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Thoren</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (seconded)</Text>
+      <PageNumber>1890</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Bdwards</Key>
       <Forenames>F. P</Forenames>
       <Text>: (2nd-Lieut.)</Text>
@@ -1252,8 +1262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGillycuddy</Key>
-      <Forenames>D. De C. C.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>D. De C</Forenames>
+      <Text>. C. (2nd Lieut.)</Text>
       <PageNumber>2864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,8 +1357,8 @@
     <MainItem>
       <Key>Downes</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>T. O</Forenames>
-      <Text>'C. (resigned)</Text>
+      <Forenames>T. O'C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,8 +1448,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. R. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,8 +1475,8 @@
     <MainItem>
       <Key>Bradford</Key>
       <Title>Lieut.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de B. W. W. (antedated) .. .. ,,</Text>
+      <Forenames>A. de B</Forenames>
+      <Text>. W. W. (antedated) .. .. ,,</Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,8 +1626,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Maj. W. H. S. (retired pay)</Text>
+      <Key>O'Neill</Key>
+      <Title>Maj.</Title>
+      <Forenames>W. H. S.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1640,7 +1653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooth</Key>
-      <Text>R. A. (Capt.)</Text>
+      <Forenames>R. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3899</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -227,15 +227,15 @@
     <MainItem>
       <Key>Huntsman</Key>
       <Title>Capt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C. (cancellation)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (cancellation)</Text>
       <PageNumber>5813</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. H. S. (antedated)</Text>
       <PageNumber>5099</PageNumber>
     </MainItem>
@@ -333,6 +333,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>H. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6606</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hamilton</Key>
       <Title>Lieut.</Title>
       <Forenames>G. J.</Forenames>
@@ -358,8 +366,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H.H. S. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Title>H.H.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Payling</Key>
-      <Text>Capt. and Hon. Maj. B. (resigned) .. .. .. .. ..</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(resigned) .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1148,9 @@
     <MainItem>
       <Key>Grundy</Key>
       <Title>Acting Cliap. Bev.</Title>
-      <Text>C.H. (resigned)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,8 +1269,8 @@
     <MainItem>
       <Key>Barter</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. L. (half-pay)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>5099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,8 +1412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Headley</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <Text>(re-appointed 2nd Lieut.)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>

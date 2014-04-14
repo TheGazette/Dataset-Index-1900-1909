@@ -69,8 +69,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. W. (Lieut.) .. ..</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,9 +451,10 @@
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rroko</Forenames>
-      <Text>, Lord W. (Capt. Super.)</Text>
+      <Key>De Rroko</Key>
+      <Title>Lord</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Capt. Super.)</Text>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,8 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackers</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -516,8 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogarth</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Lieut )</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut )</Text>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +527,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de B. (antedated)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jonas</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, P. C. (correction)</Text>
       <PageNumber>2792</PageNumber>
     </MainItem>
@@ -1101,7 +1101,9 @@
       <Key>Lees</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,8 +1329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1461,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. M. (cancellation)</Text>
       <PageNumber>647</PageNumber>
     </MainItem>
@@ -1534,9 +1536,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt. and temporary Maj.</Title>
-      <Forenames>M. E.</Forenames>
-      <Text>(resigns as Second in Command)</Text>
+      <Title>Capt. and tempo-</Title>
+      <Text>rary Maj. M. E. (resigns as Second in Command)</Text>
       <PageNumber>2602</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -170,7 +170,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, U. H. (resigned)</Text>
       <PageNumber>4710</PageNumber>
     </MainItem>
@@ -306,15 +306,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Text>. Yonge, W. S. (Lieut.) Vint, Temporary Capt. E. T. (cancellation)</Text>
+      <Forenames>Yonge</Forenames>
+      <Text>, W. S. (Lieut.) Vint, Temporary Capt. E. T. (cancellation)</Text>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Esson</Forenames>
-      <Text>, E. (Lieut.)</Text>
+      <Key>Von Esson</Key>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1048,9 @@
       <Key>Howard</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>H. R. L.</Forenames>
-      <Text>(resigned) ib&lt;d. Hulse, Sir E. -H., Bart. (Capt.),</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>

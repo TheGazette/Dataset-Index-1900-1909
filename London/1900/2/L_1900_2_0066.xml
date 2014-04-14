@@ -260,6 +260,15 @@
   <SectionTitle>Yeomanry Cavalry</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Eresby</Key>
+      <Title>Lord</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Hon. Maj.)</Text>
+      <PageNumber>8218</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Mills</Key>
       <Title>Lieut.</Title>
       <Forenames>H. T.</Forenames>
@@ -709,7 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. A. T. (resigned)</Text>
       <PageNumber>5770</PageNumber>
     </MainItem>
@@ -1182,8 +1191,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. (2nd Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>

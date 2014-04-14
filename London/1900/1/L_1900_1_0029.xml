@@ -101,6 +101,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Walden</Key>
+      <Title>Lord</Title>
+      <Forenames>Howard</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2607</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Kavanagh</Key>
       <Forenames>C. T.</Forenames>
       <Text>McM. (Maj.)</Text>
@@ -121,7 +130,9 @@
       <Key>Milbanke</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,8 +418,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aylmer</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. L. (half-pav)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. L.</Forenames>
+      <Text>(half-pav)</Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Text>Riddell, Gi (Lieut.)</Text>
+      <Forenames>Riddell</Forenames>
+      <Text>, Gi (Lieut.)</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,8 +1228,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. (Maj.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>3335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1272,9 @@
       <Key>Barclay</Key>
       <Title>Sir</Title>
       <Forenames>D. E. D.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>

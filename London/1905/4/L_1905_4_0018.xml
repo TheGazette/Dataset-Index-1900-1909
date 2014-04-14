@@ -217,7 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Text>. C. H. (2nd Lieut.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +729,9 @@
       <Key>Williams-Bulkeley</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6933</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -82,6 +82,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(Inst.r. of Musketry)</Text>
+      <PageNumber>1888</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edyvean-Walker</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
@@ -299,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Xynch</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, D. (temporary half-pay)</Text>
       <PageNumber>3252</PageNumber>
     </MainItem>
@@ -958,8 +966,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, D. R. C. D. (2nd Lieut.)</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. R. C. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,6 +1238,14 @@
       <Forenames>S. S. G.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Andrade</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>, jun. (Lieut.)</Text>
+      <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

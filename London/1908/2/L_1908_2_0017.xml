@@ -281,8 +281,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J. C</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J. C</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazlerigg</Key>
-      <Text>.T. (Lieut.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsbrugh</Key>
-      <Text>. B. R. (Maj.)</Text>
+      <Forenames>B. R.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>3036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDougall</Key>
-      <Text>. W. A. (Maj.)</Text>
+      <Forenames>W. A.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +715,8 @@
     <MainItem>
       <Key>Barrow</Key>
       <Title>Maj.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S., Deputy Asst. Adj.-Gen. and temporary Lieut.Col</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>., Deputy Asst. Adj.-Gen. and temporary Lieut.Col</Text>
       <PageNumber>3883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +768,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairbrother</Key>
-      <Text>. W. G. (Inspr. and Hon. Lieut.)</Text>
+      <Forenames>W. G.</Forenames>
+      <Text>(Inspr. and Hon. Lieut.)</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +834,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>. Capt. D. J. J. (Ordnance Officer, 3rd Class) .. ' .. .. ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>D. J. J.</Forenames>
+      <Text>(Ordnance Officer, 3rd Class) .. ' .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +935,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dansey-Browning</Key>
-      <Text>. G.,(Maj.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>,(Maj.)</Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>

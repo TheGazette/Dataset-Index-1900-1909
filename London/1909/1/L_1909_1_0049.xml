@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parliament</Key>
-      <Text>, notices of application to : London County Council (Money)</Text>
+      <Text>notices of application to : London County Council (Money)</Text>
       <PageNumber>2373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preset</Key>
-      <Text>, notice of winding-up.. ... Q Queen Anne's Bounty Office, distribution of grants</Text>
+      <Text>notice of winding-up.. ... Q Queen Anne's Bounty Office, distribution of grants</Text>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rebman</Key>
-      <Text>, reduction of capital</Text>
+      <Text>reduction of capital</Text>
       <PageNumber>2383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>. Motors, reduction of capital</Text>
+      <Forenames>Motors</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>1589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salmon</Key>
-      <Text>, reduction of capital</Text>
+      <Text>reduction of capital</Text>
       <PageNumber>157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbus</Key>
-      <Text>.and Bernardi</Text>
+      <Text>and Bernardi</Text>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Text>, tlarveys, and Co</Text>
+      <Text>tlarveys, and Co</Text>
       <PageNumber>164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bogg</Key>
-      <Text>, VV. G., and Sons</Text>
+      <Text>VV. G., and Sons</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Text>, C, and Sons</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Sons</Text>
       <PageNumber>345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, VV., and Co. .. . ___ ___ and Ewin t)</Text>
+      <Text>VV., and Co. .. . ___ ___ and Ewin t)</Text>
       <PageNumber>05</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +969,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Holliday</Forenames>
+      <Title>Holliday .</Title>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>

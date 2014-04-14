@@ -37,6 +37,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Orespigny</Key>
+      <Forenames>F. P. C</Forenames>
+      <PageNumber>462</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denison</Key>
       <Text>CO</Text>
       <PageNumber>1516</PageNumber>
@@ -103,7 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeke</Key>
-      <Text>.W. H. .. .... .. ..</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>.. .... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,8 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. O'B</Forenames>
       <PageNumber>1225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Facey</Key>
-      <Text>.S. H. . .. '</Text>
+      <Forenames>S. H.</Forenames>
+      <Text>. .. '</Text>
       <PageNumber>2163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,15 +337,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, E. G. E.</Text>
+      <Key>O'Leary</Key>
+      <Forenames>E. G. E.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, E. D. J</Text>
+      <Key>O'Malley</Key>
+      <Forenames>E. D. J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,8 +804,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. B. R. de W. (retired list)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. R. de W</Forenames>
+      <Text>. (retired list)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,8 +1492,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. B. R. de W. (Recruiting Staff Officer, Belfast District) .. .. .. ..</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. R. de W</Forenames>
+      <Text>. (Recruiting Staff Officer, Belfast District) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,8 +1536,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sulllvan, B. R. de W. (Capt.)</Text>
+      <Key>O'Sulllvan</Key>
+      <Forenames>B. R. de W</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>

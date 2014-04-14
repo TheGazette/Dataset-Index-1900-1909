@@ -164,7 +164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelly</Key>
-      <Text>.F. R</Text>
+      <Forenames>F. R</Forenames>
       <PageNumber>9174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>. W. J. F</Text>
+      <Forenames>W. J. F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,8 +876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nioholl-Caxie</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J. S</Text>
+      <Forenames>N. St. J</Forenames>
+      <Text>. S</Text>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,8 +890,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. L</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. L</Forenames>
       <PageNumber>7099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,8 +912,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, A. B</Text>
+      <Key>St. John</Key>
+      <Forenames>A. B</Forenames>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,8 +1070,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dogherty, H. B</Text>
+      <Key>O'Dogherty</Key>
+      <Forenames>H. B</Forenames>
       <PageNumber>7250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,8 +1321,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, W</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>W</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

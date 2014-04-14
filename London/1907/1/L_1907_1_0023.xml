@@ -127,7 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mangles</Key>
-      <Text>. A. (2nd Lieut.) . ..</Text>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lieut.) . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buist</Key>
-      <Text>., K. L. (Capt.)</Text>
+      <Text>, K. L. (Capt.)</Text>
       <PageNumber>827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,8 +1085,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Lieut. E. H. M. (antedated)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,9 +1222,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Stieglitz</Forenames>
-      <Text>, F. L. (2nd Lieut.)</Text>
+      <Key>Von Stieglitz</Key>
+      <Forenames>F. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1290,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillatt</Key>
-      <Text>. Capt. J. B. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,8 +1331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>

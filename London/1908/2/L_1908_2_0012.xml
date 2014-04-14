@@ -10,11 +10,14 @@
     <SubItem>
       <Text>
         <PageNumber>4722</PageNumber>
+        <Honour>Bt</Honour>
       </Text>
       <PageNumber>3136</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Whiteley, Bt. Hon. G-</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4063</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -98,7 +101,9 @@
     <MainItem>
       <Key>Victoria</Key>
       <Forenames>Governor</Forenames>
-      <Text>of : GHbson-Carmichael, Sir T. D., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +512,9 @@
     <MainItem>
       <Key>Aas</Key>
       <Forenames>N. C</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +581,9 @@
       <Key>Allen</Key>
       <Title>Col.</Title>
       <Forenames>A. J. W.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +615,9 @@
     <MainItem>
       <Key>Anstruther</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +646,9 @@
       <Key>Atkinson</Key>
       <Title>Col.</Title>
       <Forenames>F.</Forenames>
-      <Text>&amp;., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +857,9 @@
       <Key>Birkbeck</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart., Knight Commander, Eoyal Victorian Order ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +876,9 @@
     <MainItem>
       <Key>Black</Key>
       <Forenames>F. W.</Forenames>
-      <Text>,.Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +887,9 @@
       <Key>Blewitt</Key>
       <Title>Col.</Title>
       <Forenames>W.</Forenames>
-      <Text>E-, Companion of the Bath .. .. .. .. ..</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +923,9 @@
       <Key>Botkine</Key>
       <Title>Dr.</Title>
       <Forenames>E.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order|</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>

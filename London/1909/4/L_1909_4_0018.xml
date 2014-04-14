@@ -614,9 +614,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grattau</Key>
-      <Title>Brevet Col.</Title>
-      <Forenames>O</Forenames>
-      <Text>'D. C, Brigade Commander.. '.. . .. .,</Text>
+      <Title>Brevet Col. O'D.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Brigade Commander.. '.. . .. .,</Text>
       <PageNumber>9235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +650,8 @@
     <MainItem>
       <Key>Minogue</Key>
       <Title>Maj.</Title>
-      <Forenames>J.O</Forenames>
-      <Text>'B., Brigade Major</Text>
+      <Forenames>J.O'B</Forenames>
+      <Text>., Brigade Major</Text>
       <PageNumber>9678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,8 +1107,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, G. (2nd Lieut.)</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunrett</Key>
-      <Text>Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>9768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nolloth</Key>
-      <Text>Rev. Canon H. E</Text>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. E.</Forenames>
       <PageNumber>8669</PageNumber>
     </MainItem>
   </ItemGroup>

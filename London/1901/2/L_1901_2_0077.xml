@@ -449,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. E. S., lst Volunteer Battalion, the Duke of Cornwall's Light Infantry.. .. .. .. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -466,7 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H., 2nd Volunteer Battalion, the Duke ot Wellington's (West</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -562,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: C. A., lst Bucks .. Newbold, Capt. T. C., 1st Volunteer Battalion, the Sherwood Foresters (Derbyshire Regiment) .. . . -</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
@@ -622,7 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>. Capt, H. W., lst Volunteer Battalion, the Northamptonshire Regiment</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, H. W., lst Volunteer Battalion, the Northamptonshire Regiment</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. G., 2nd Volunteer Battalion, the Queen's Own (Royal West Kent Regiment) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
@@ -664,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haid</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, B.,2nd Volunteer Battalion, the King's (Shropshire Light Infantry) .. .. .. .. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
@@ -884,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heseltine</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G., Hampshire (Carabiniers)</Text>
       <PageNumber>4784</PageNumber>
     </MainItem>

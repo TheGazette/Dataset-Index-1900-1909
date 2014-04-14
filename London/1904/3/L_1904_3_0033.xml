@@ -2,9 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="033" pageID="https://www.thegazette.co.uk/id/London/index/year/1904/volume/3/page/033" pagePDF="https://www.thegazette.co.uk/London/index/year/1904/volume/3/page/033" pageRDF="https://www.thegazette.co.uk/London/index/year/1904/volume/3/page/033?view=linked-data" type="index" volume="3" year="1904">
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, E. G. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>E. G. H.</Forenames>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsey</Key>
-      <Text>C. G.</Text>
+      <Forenames>C. G.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutler</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P</Forenames>
       <PageNumber>5980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton</Key>
-      <Text>M. L</Text>
+      <Forenames>M. L</Forenames>
       <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,8 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamotte</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G.</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>4559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,6 +850,14 @@
       <Key>Croasaz</Key>
       <Forenames>A. G.</Forenames>
       <PageNumber>4676</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Legier</Forenames>
+      <Text>, A. S</Text>
+      <PageNumber>4559</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

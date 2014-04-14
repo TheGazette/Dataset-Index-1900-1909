@@ -19,9 +19,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. H. (Lieut.-Col.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. H.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +127,9 @@
       <Key>Wiseman</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>M. G. E.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +491,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sawer</Key>
-      <Text>Capt. and Hon. Maj. W. N. (resigned) .. .. .. ..</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>W. N.</Forenames>
+      <Text>(resigned) .. .. .. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,8 +560,8 @@
     <MainItem>
       <Key>Thackwell</Key>
       <Title>Capt.</Title>
-      <Forenames>W. J.</Forenames>
-      <Text>de R. (resigned)</Text>
+      <Forenames>W. J. de R</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,8 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clery</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. J. (2nd Lieut.).</Text>
+      <Forenames>V. St. J</Forenames>
+      <Text>. (2nd Lieut.).</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +875,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. J. J. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

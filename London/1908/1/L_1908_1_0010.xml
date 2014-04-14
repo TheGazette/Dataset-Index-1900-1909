@@ -10,9 +10,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Couzena</Key>
-      <Title>Sir</Title>
+      <Title>Sir Or.</Title>
       <Forenames>E.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,9 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruyther</Forenames>
-      <Text>, L., a King's Counsel</Text>
+      <Key>De Gruyther</Key>
+      <Forenames>L.</Forenames>
+      <Text>, a King's Counsel</Text>
       <PageNumber>1047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +137,9 @@
     <MainItem>
       <Key>Frith</Key>
       <Forenames>W. P.</Forenames>
-      <Text>. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +230,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holzmann</Key>
-      <Text>Sir M., Knight Commander of the Bath</Text>
+      <Title>Sir</Title>
+      <Forenames>M.</Forenames>
+      <Text>, Knight Commander of the Bath</Text>
       <PageNumber>2359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +313,9 @@
       <Key>Koto</Key>
       <Title>Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +323,9 @@
     <MainItem>
       <Key>Laurie</Key>
       <Title>Surg.</Title>
-      <Text>-Maj. R., Knight of Grace, St. John of Jerusalem ,,</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +405,9 @@
     <MainItem>
       <Key>Morimoto</Key>
       <Forenames>M.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +522,9 @@
       <Key>Russell</Key>
       <Title>Brevet Maj. Hon.</Title>
       <Forenames>A. V. F. V.</Forenames>
-      <Text>. Fourth Class, Royal Victorian Order .. .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +552,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>J. E. S. M.</Forenames>
-      <Text>, Bart., Knight Commander of the Bath</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +563,9 @@
       <Key>Scott-Kerr</Key>
       <Title>Col.</Title>
       <Forenames>R.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +608,9 @@
       <Key>Shibayatra</Key>
       <Title>Capt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>F. E., a King's Counsel</Text>
+      <Forenames>F. E.</Forenames>
+      <Text>, a King's Counsel</Text>
       <PageNumber>1047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +668,9 @@
       <Key>Thurdin</Key>
       <Title>Commander</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,9 +693,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Zitzewitz</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. A. P. W.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wachtmeister</Key>
       <Forenames>Count C. A.</Forenames>
-      <Text>;R:? Hon. Knight Commander, 'Royal Victorian Order.. ..'</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +1011,9 @@
       <Key>Banherman</Key>
       <Title>Capt. and Brevet Maj. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart., General Staff Officer, 3rd Grade, at Headquarters</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>

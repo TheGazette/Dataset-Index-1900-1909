@@ -89,8 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>W. St. L</Forenames>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Text>. F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,18 +720,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, G. de S.</Text>
+      <Key>De Lisle</Key>
+      <Forenames>G. de S</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denne</Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de Vismes, R. G. R</Text>
+      <Forenames>A. R. de Vismes</Forenames>
+      <Text>, R. G. R</Text>
       <PageNumber>6487</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Will</Key>
+      <Text>on, A. W.</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -873,7 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimston</Key>
-      <Text>. R. E. .. ., ,</Text>
+      <Forenames>R. E.</Forenames>
+      <Text>.. ., ,</Text>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,8 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mauduit</Key>
-      <Forenames>R. M. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. M. C. de R</Forenames>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merewet</Key>
-      <Text>.her, H. D. Millar, W, H. -</Text>
+      <Text>her, H. D. Millar, W, H. -</Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,8 +1194,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen.C. W. ..</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

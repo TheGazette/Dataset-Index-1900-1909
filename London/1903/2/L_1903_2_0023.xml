@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J. (resigned)</Text>
       <PageNumber>2532</PageNumber>
     </MainItem>
@@ -450,7 +450,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Timson</Key>
-      <Text>. Capt. H. T. (resigned and Hon. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. T.</Forenames>
+      <Text>(resigned and Hon. Maj.)</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +811,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>. Maj. W. F. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>W. F.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,9 +828,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruyther</Forenames>
-      <Text>, C. M. (Capt.)</Text>
+      <Key>De Gruyther</Key>
+      <Forenames>C. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>

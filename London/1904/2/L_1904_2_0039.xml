@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>E. G</Text>
+      <Forenames>E. G</Forenames>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jukes-Hughes</Key>
-      <Forenames>E. G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>E. G. de S</Forenames>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>2300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jameson</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +756,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>Bear-</Forenames>
-      <Text>Admiral Sir A. B., Bart. (Hon.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,8 +787,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, S. T</Text>
+      <Key>O'Grady</Key>
+      <Forenames>S. T</Forenames>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1210,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleets</Key>
-      <Text>Sennett, M</Text>
+      <Forenames>Sennett</Forenames>
+      <Text>, M</Text>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -29,8 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Title>St.</Title>
-      <Forenames>V. F.</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>F.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>9756</PageNumber>
     </MainItem>
@@ -260,8 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Lieut Or</Forenames>
-      <Text>. (resigned) .. ..</Text>
+      <Title>Lieut Or. (resigned)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,8 +723,8 @@
     <MainItem>
       <Key>Barnett</Key>
       <Title>Capt.</Title>
-      <Forenames>L.</Forenames>
-      <Text>de B. (resigned)</Text>
+      <Forenames>L. de B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>7839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1226,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Milborne</Key>
-      <Text>Swinnerton Pilkington, Lieut.-Col. and Hon. Col. Sir T., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,6 +1310,14 @@
       <Forenames>W. I.</Forenames>
       <Text>(Qrmr.)</Text>
       <PageNumber>9945</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. Y. C.</Forenames>
+      <Text>(Lieut:) .. S</Text>
+      <PageNumber>659</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>

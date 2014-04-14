@@ -35,8 +35,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. P. (Col.) ..-</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(Col.) ..-</Text>
       <PageNumber>2994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortis</Key>
-      <Text>H. E. (Maj.)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glasse</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>M. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,8 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L. (Col.)</Text>
+      <Forenames>W. St. L</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +705,9 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, Bart, (retired pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +996,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>C. E. (Maj.-Gen.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Maj.-Gen.)</Text>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Text>H. F. fCol.)</Text>
+      <Forenames>H. F.</Forenames>
+      <Text>fCol.)</Text>
       <PageNumber>4174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,15 +1312,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Col. M. D. (retired pay)</Text>
+      <Key>O'Connell</Key>
+      <Title>Col.</Title>
+      <Forenames>M. D.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donuell, H. (Brevet Col.)</Text>
+      <Key>O'Donuell</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Brevet Col.)</Text>
       <PageNumber>2415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,8 +1449,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Col. J. L. C. (half-pay)</Text>
+      <Key>St. Clair</Key>
+      <Title>Col.</Title>
+      <Forenames>J. L. C.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>

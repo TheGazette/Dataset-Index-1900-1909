@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>. Bank of England, accumulation of dividends on consols, £2 10*. per cent, annuities, and local loans, 3 per cent, stock</Text>
+      <Forenames>Bank</Forenames>
+      <Text>of England, accumulation of dividends on consols, £2 10*. per cent, annuities, and local loans, 3 per cent, stock</Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>. Cabins (1901), reduction of capital</Text>
+      <Forenames>Cabins</Forenames>
+      <Text>(1901), reduction of capital</Text>
       <PageNumber>5228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +492,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de M. C. Cambique, ordinary general meeting</Text>
+      <Title>de M.</Title>
+      <Forenames>C. Cambique</Forenames>
+      <Text>, ordinary general meeting</Text>
       <PageNumber>6510</PageNumber>
     </MainItem>
   </ItemGroup>

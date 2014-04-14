@@ -607,8 +607,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. D. S. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. D. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>H. L. (Capt.)</Text>
+      <Forenames>H. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,8 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. M. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

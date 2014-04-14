@@ -893,8 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>C. De G.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>C. De G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>Lieut, J. D. (resigned)</Text>
+      <Title>Lieut</Title>
+      <Text>, J. D. (resigned)</Text>
       <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +977,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>S. R. (Capt.)</Text>
+      <Forenames>S. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovering</Key>
-      <Text>2nd Lieut. W. R. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,8 +1325,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon. R. T. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1405,8 +1411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. R. (2nd Lieut.)</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. R. (2nd Lieut.)</Text>
       <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glenn</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. W. (seconded)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
@@ -1479,8 +1485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Forenames>P. C.</Forenames>
-      <Text>du S. (Capt.)</Text>
+      <Forenames>P. C. du S</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>E. S. (2nd Lieut.)</Text>
+      <Forenames>E. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. (resigned)</Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
@@ -1787,14 +1794,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>F. (2nd Lieut, super.)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(2nd Lieut, super.)</Text>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Underwood</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. H. (resigned and Hon. Capt,)</Text>
       <PageNumber>3613</PageNumber>
     </MainItem>

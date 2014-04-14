@@ -87,7 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>O.L., notice of winding up</Text>
+      <Forenames>O.L.</Forenames>
+      <Text>, notice of winding up</Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +125,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murchison</Key>
-      <Text>(Transvaal) Finance Corporation, notice to debenture holders</Text>
+      <Title>(Transvaal)</Title>
+      <Forenames>Finance Cor-</Forenames>
+      <Text>poration, notice to debenture holders</Text>
       <PageNumber>3282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,8 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allcock</Key>
-      <Forenames>Ed</Forenames>
-      <Text>., and Son</Text>
+      <Title>Ed.</Title>
+      <Text>, and Son</Text>
       <PageNumber>3270</PageNumber>
     </MainItem>
   </ItemGroup>

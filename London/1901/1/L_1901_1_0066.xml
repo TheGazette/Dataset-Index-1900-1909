@@ -80,8 +80,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien,. A. K. H. (Lieut.) .. ..</Text>
+      <Key>O'Brien</Key>
+      <Text>. A. K. H. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,8 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalglish</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de G. (2nd Lieut.)</Text>
+      <Forenames>C. A. de G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,8 +493,8 @@
     <MainItem>
       <Key>Daglish</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>C. A.</Forenames>
-      <Text>de G. (correction)</Text>
+      <Forenames>C. A. de G</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>1767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +503,9 @@
       <Key>Dick-Cunyngham</Key>
       <Title>Capt. Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +516,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,8 +575,8 @@
     <MainItem>
       <Key>Harvey</Key>
       <Title>Capt.</Title>
-      <Forenames>W. J. St</Forenames>
-      <Text>. J. (antedated)</Text>
+      <Forenames>W. J. St. J</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,8 +585,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. J. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>W. J. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1215,8 @@
       <Key>
         <KeyDitto>___ ___ ___ — ___</KeyDitto>
       </Key>
-      <Forenames>Lieut A.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>3286</PageNumber>
       <PageNumber>3638</PageNumber>
@@ -1393,7 +1398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Lieut T. R.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>T. R.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
@@ -1411,7 +1417,9 @@
       <Key>Dashwood</Key>
       <Title>Capt. Sir</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1236</PageNumber>
     </MainItem>
   </ItemGroup>

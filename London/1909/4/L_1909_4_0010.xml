@@ -29,7 +29,9 @@
       <Key>Speyer</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart., a Privy Councillor ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +82,9 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>J.</Forenames>
-      <Text>, Fourth ClaBS, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +93,9 @@
       <Key>Taverner</Key>
       <Title>Hon.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +104,9 @@
       <Key>Teck</Key>
       <Title>Maj.H.S.H. Prince</Title>
       <Forenames>Francis</Forenames>
-      <Text>of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +115,9 @@
       <Key>Teixeira</Key>
       <Title>Lieut.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,14 +133,20 @@
     <MainItem>
       <Key>Tilden</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9763</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Titheridge</Key>
-      <Text>Lieut. B:, Fifth Class, Royal Victorian Order .. '</Text>
+      <Title>Lieut.</Title>
+      <Forenames>B</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +162,9 @@
     <MainItem>
       <Key>Trickett</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +189,9 @@
     <MainItem>
       <Key>Tupper</Key>
       <Forenames>D.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +216,9 @@
     <MainItem>
       <Key>Vincent-Evans</Key>
       <Forenames>E.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +226,9 @@
     <MainItem>
       <Key>Yon</Key>
       <Forenames>Wawel</Forenames>
-      <Text>; Capt. N. L. E., Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wemyss</Key>
-      <Text>and Marsh, Earl of, Knight Grand Cross, Royal Victorian Order .. .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +279,9 @@
     <MainItem>
       <Key>Wessels</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +298,9 @@
       <Key>Wilkinson</Key>
       <Title>Col.</Title>
       <Forenames>M. G.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order,</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,9 +492,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Col. H. J., Asst. Qrmr.Gen</Text>
+      <Key>Du Cane</Key>
+      <Title>Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>, Asst. Qrmr.Gen</Text>
       <PageNumber>9231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +771,8 @@
     <MainItem>
       <Key>Mairis</Key>
       <Title>Capt.</Title>
-      <Forenames>G. B.</Forenames>
-      <Text>de M.,' Brigade Major .. .,'</Text>
+      <Forenames>G. B. de M</Forenames>
+      <Text>.,' Brigade Major .. .,'</Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +844,9 @@
       <Key>Napier</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>A. L. M.</Forenames>
-      <Text>, Bart., Aide-de-Camp to Lord Chelmsford</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Col. C. W. R., Chief Engineer</Text>
+      <Forenames>John</Forenames>
+      <Text>, Col. C. W. R., Chief Engineer</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1050,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackburne</Key>
-      <Text>C.H. tCapt.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>8555</PageNumber>
     </MainItem>
   </ItemGroup>

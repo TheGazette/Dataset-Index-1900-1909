@@ -36,7 +36,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Killery</Key>
-      <Text>St. J. B. (Surgn.-Capt.)</Text>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(Surgn.-Capt.)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,8 +174,8 @@
     <MainItem>
       <Key>Hulton-Harrop</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de L. (resigned)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>2191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. (seconded)</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
@@ -467,6 +469,15 @@
       <Forenames>C.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>2244</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C. P. G. W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -613,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lighlowlers</Key>
-      <Text>J. R. F. (Maj.)..</Text>
+      <Forenames>J. R. F.</Forenames>
+      <Text>(Maj.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>CbekeyE</Key>
-      <Text>G: (Muj.)-</Text>
+      <Forenames>G</Forenames>
+      <Text>: (Muj.)-</Text>
       <PageNumber>3002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, ii. A. (seconded)</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
@@ -916,7 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinde</Key>
-      <Text>A. (Adj.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>J. P. (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>J. P.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclaverty</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. F. S. (seconded)</Text>
       <PageNumber>3710</PageNumber>
     </MainItem>
@@ -1025,7 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, K. H. (seconded)</Text>
       <PageNumber>3552</PageNumber>
     </MainItem>
@@ -1033,8 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevinson</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. A. B. L. (Capt.)</Text>
+      <Forenames>T. St. A</Forenames>
+      <Text>. B. L. (Capt.)</Text>
       <PageNumber>3942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. C. fseeonded)</Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
@@ -1377,7 +1392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biteson</Key>
-      <Forenames>Lieut J. H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. H.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>3789</PageNumber>
     </MainItem>

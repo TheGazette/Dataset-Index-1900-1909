@@ -43,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>E.W. St. V. (Surg.-Maj.)</Text>
+      <Forenames>E.W. St. V</Forenames>
+      <Text>. (Surg.-Maj.)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,8 +226,8 @@
     <MainItem>
       <Key>Byan</Key>
       <Title>Capt.</Title>
-      <Forenames>E. W. St</Forenames>
-      <Text>. V. (resigned)</Text>
+      <Forenames>E. W. St. V</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,8 +342,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, J. W. (Lieut.) .. ..</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +559,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M. E. (Col.) .. ..</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M. E.</Forenames>
+      <Text>(Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,15 +887,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cremen</Key>
-      <Text>J. (Hon. Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crompton-Roberts</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. R. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,8 +1376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>P. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>Qrmr. and Hon. Capt. J. W</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>J. W.</Forenames>
       <PageNumber>5950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1595,9 +1601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. A</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>5950</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -71,7 +71,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. A. (antedated)</Text>
       <PageNumber>3253</PageNumber>
     </MainItem>
@@ -581,8 +581,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <Text>(Capt,)</Text>
       <PageNumber>4122</PageNumber>
     </MainItem>
@@ -836,7 +836,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maedonald</Key>
-      <Text>W. (2nd Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foord</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, . G. (correction)</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
@@ -1263,8 +1264,8 @@
     <MainItem>
       <Key>Forth</Key>
       <Title>Lieut.</Title>
-      <Forenames>N. B.</Forenames>
-      <Text>de L. (correction)..</Text>
+      <Forenames>N. B. de L</Forenames>
+      <Text>. (correction)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

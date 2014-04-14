@@ -14,8 +14,31 @@
     <MainItem>
       <Key>Ton</Key>
       <Forenames>Senden</Forenames>
-      <Text>, Lieut. F. M., Honorary Member, Royal Victorian Order, Fifth Class .. .. ..' ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Trotha</Key>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>691</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Zuydtwyck</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. F. H.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -23,7 +46,9 @@
       <Key>Wade</Key>
       <Title>Col.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +65,9 @@
       <Key>Waldron</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>F.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +93,9 @@
       <Key>Wallack</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>E. T.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +120,9 @@
     <MainItem>
       <Key>Walrond</Key>
       <Forenames>Right</Forenames>
-      <Text>Hon. Sir W. H., Bart,, a Privy Councillor</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +156,9 @@
       <PageNumber>4182</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Warre, Rev. E., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3633</PageNumber>
     </SubItem>
     <SubItem>
@@ -137,7 +170,9 @@
       <PageNumber>2194</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Welch, Capt. D. N., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1648</PageNumber>
     </SubItem>
     <SubItem>
@@ -182,7 +217,9 @@
       <Key>Wilson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +230,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, Royal Victorian Order. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +273,9 @@
       <Key>Windham</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +292,9 @@
       <Key>Winsloe</Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +303,9 @@
       <Key>Wood</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>C</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +327,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>O. G.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +338,9 @@
       <Key>Woodland</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +348,9 @@
     <MainItem>
       <Key>Woods</Key>
       <Title>Insp.</Title>
-      <Text>-Gen. of Hospitals and Fleets H. C, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>996</PageNumber>
       <PageNumber>1058</PageNumber>
     </MainItem>
@@ -309,7 +360,9 @@
       <Key>Wools-Sampson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +371,9 @@
       <Key>Wright</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>A. J. A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +409,9 @@
       <Key>Zavertal</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>L.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class .. ,</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +475,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lieutenant-Colonels</Key>
-      <Text>: Earle, Sir H., Bart. .,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2703</PageNumber>
     </MainItem>
   </ItemGroup>

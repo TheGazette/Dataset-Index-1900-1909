@@ -427,7 +427,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>B. W.</Forenames>
-      <Text>Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,8 +1205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamotte</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G. .»</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>. .»</Text>
       <PageNumber>491</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -104,8 +104,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, H. M. (Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>H. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,8 +446,8 @@
     <MainItem>
       <Key>Jefferies</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,8 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myburgh</Key>
-      <Forenames>C.</Forenames>
-      <Text>de F. (Lieut.)</Text>
+      <Forenames>C. de F</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,8 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheape</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,8 +1609,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. L. (correction)</Text>
+      <Forenames>E. St. L</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,8 +1751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Forenames>A. De V.</Forenames>
-      <Text>(Lieut.) .. ,</Text>
+      <Forenames>A. De V</Forenames>
+      <Text>. (Lieut.) .. ,</Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1884,7 +1885,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. H. (seconded)</Text>
       <PageNumber>2623</PageNumber>
     </MainItem>

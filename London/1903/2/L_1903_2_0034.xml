@@ -312,15 +312,17 @@
       <Key>Burrowes</Key>
       <Title>Sir.</Title>
       <Forenames>K.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3717</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Delmege</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'G. (Capt.) .. ..</Text>
+      <Forenames>J. O'G</Forenames>
+      <Text>. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,15 +337,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. L. (Maj.) .. ..</Text>
+      <Forenames>R. St. L</Forenames>
+      <Text>. (Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. H. (Lieut.) .. ..</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,6 +833,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Xrafford</Key>
+      <Title>Sir</Title>
+      <Text>II. F. (Hon. Lieut.Col)</Text>
+      <PageNumber>3717</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Earle</Key>
       <Forenames>X. A.</Forenames>
       <Text>(Maj.)</Text>
@@ -1069,7 +1080,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Col. R. (resigned)</Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
@@ -1103,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>. J. E. (Lieut.)</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

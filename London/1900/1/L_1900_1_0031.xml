@@ -284,8 +284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lecky</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,16 +639,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Mattheas</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3335</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maule</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>H. N. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +765,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de F. (Capt.)</Text>
+      <Forenames>H. M. de F</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,8 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevinson</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. A. B. L. (Divisional Adj.)</Text>
+      <Forenames>T. St. A</Forenames>
+      <Text>. B. L. (Divisional Adj.)</Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,8 +1030,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. O</Forenames>
-      <Text>'B. (Lieut.-Col.)</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1823,8 +1823,8 @@
     <MainItem>
       <Key>Smith</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de H. (seconded)</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1905,7 +1905,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>H. (Capt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2010,8 +2011,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. D. (2nd Lieut.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. D. (2nd Lieut.)</Text>
       <PageNumber>2845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2155,9 +2156,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. L. H. Du P.</Forenames>
-      <Text>(Maj.)</Text>
+      <Title>St. J.</Title>
+      <Forenames>L. H. Du P</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2180,8 +2181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L. (2nd Lieut.)</Text>
+      <Forenames>G. St. L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2268,7 +2269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>C.H. (Lieut.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -70,8 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McClellan</Key>
-      <Forenames>D. C. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>D. C. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alluu</Key>
-      <Text>R. F. (2nd Lieut.)</Text>
+      <Forenames>R. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +427,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (correction)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>R. A. De B.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>R. A. De B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +928,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>Lieut. C. J. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (2nd Lieut.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ringer</Key>
-      <Text>C. H. ST. (Capt.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>ST. (Capt.)</Text>
       <PageNumber>4590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1479,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. P. (antedated)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
@@ -1666,8 +1670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (Lieut.)</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>

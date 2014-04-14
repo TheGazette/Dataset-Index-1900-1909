@@ -581,7 +581,9 @@
       <Key>Baird</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>W. J. G.</Forenames>
-      <Text>, Bart, (retired) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +675,9 @@
       <Key>Ross</Key>
       <Title>Maj. Sir</Title>
       <Forenames>C. H. A. F.</Forenames>
-      <Text>, Bart. (seconded) .. .-</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +751,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. G. (2nd Lient.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. G.</Forenames>
+      <Text>(2nd Lient.)</Text>
       <PageNumber>2432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +942,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>; Capt. and Hon. Maj. Sir W. H., Bart, (correction)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caddy</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. (seconded and. Adj.)</Text>
       <PageNumber>9947</PageNumber>
     </MainItem>
@@ -270,7 +270,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porritt</Key>
-      <Text>O. W. (Capt.)</Text>
+      <Forenames>O. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

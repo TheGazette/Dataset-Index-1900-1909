@@ -158,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halton</Key>
-      <Forenames>Lieut E. C.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>E. C.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>3814</PageNumber>
     </MainItem>
@@ -321,8 +322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellairs</Key>
-      <Forenames>A.</Forenames>
-      <Text>de M. (Lieut.) ..</Text>
+      <Forenames>A. de M</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,8 +838,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. B.</Forenames>
-      <Text>de B. (Lieut.) Hodgson, G. F. (2nd Lieut.)</Text>
+      <Forenames>R. B. de B</Forenames>
+      <Text>. (Lieut.) Hodgson, G. F. (2nd Lieut.)</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elgee</Key>
-      <Text>P. E. L. (2nd Lieut.)</Text>
+      <Forenames>P. E. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,8 +1339,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Weyer</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Weyer</Forenames>
       <Text>,. J. B. (2nd Lieut.)</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
@@ -1739,7 +1741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watney</Key>
-      <Forenames>Lieut C. N.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C. N.</Forenames>
       <Text>(correction)</Text>
       <PageNumber>1794</PageNumber>
     </MainItem>
@@ -1797,8 +1800,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W..D. (Lieut.) .. ..</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W.</Forenames>
+      <Text>.D. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

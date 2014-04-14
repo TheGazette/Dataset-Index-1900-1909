@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neev</Key>
-      <Text>.es, T. E. (2nd Lieut.)</Text>
+      <Text>es, T. E. (2nd Lieut.)</Text>
       <PageNumber>7826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +530,9 @@
     <MainItem>
       <Key>Hill-Trevor</Key>
       <Title>Lieut.Hon.</Title>
-      <Text>A.E.(resigned)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,8 +912,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Forenames>A. M. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>A. M. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>

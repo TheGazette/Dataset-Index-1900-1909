@@ -53,7 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>E! W. (Instr. of Musketry)</Text>
+      <Forenames>E</Forenames>
+      <Text>! W. (Instr. of Musketry)</Text>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,8 +247,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. Gr. (2nd Lieut.)</Text>
+      <Forenames>A. St. Gr</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>F. C. (Lieut.)</Text>
+      <Forenames>F. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +806,9 @@
       <Key>McMahon</Key>
       <Title>Maj. Sir</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, Bart. (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,8 +951,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. L. (2nd Lieut.) ..</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. L.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1042,9 @@
       <Key>Mackworth</Key>
       <Title>Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,8 +1197,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lieut. Hon. M. St. A. T. (temporary half-pay) .. ..</Text>
+      <Key>St. John</Key>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>M. St. A</Forenames>
+      <Text>. T. (temporary half-pay) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

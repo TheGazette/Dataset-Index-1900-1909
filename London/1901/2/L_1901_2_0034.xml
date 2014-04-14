@@ -317,7 +317,9 @@
     <MainItem>
       <Key>Verner</Key>
       <Title>Capt.</Title>
-      <Text>SirE. W., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,6 +640,7 @@
       <Text>
         <PageNumber>ibid.</PageNumber>
         <PageNumber>___ ___ ___</PageNumber>
+        <Honour>Bart</Honour>
         <PageNumber>___ ___</PageNumber>
       </Text>
       <PageNumber>6922</PageNumber>

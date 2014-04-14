@@ -140,7 +140,9 @@
       <Key>Waller</Key>
       <Title>Capt. Sir</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +199,9 @@
       <Key>Waller</Key>
       <Title>Sir</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,8 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. W. (Adj.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. W. (Adj.)</Text>
       <PageNumber>1318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,8 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (Lieut.-Col.)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,8 +553,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. J. (Surg.-Maj.)</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Surg.-Maj.)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. C. (antedated)</Text>
       <PageNumber>1318</PageNumber>
     </MainItem>

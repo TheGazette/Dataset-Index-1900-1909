@@ -473,8 +473,8 @@
     <MainItem>
       <Key>Ashe</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Healy</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. R. (resigned and Hon. Lieut.)</Text>
       <PageNumber>6089</PageNumber>
     </MainItem>
@@ -579,7 +579,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut R.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>R.</Forenames>
       <Text>(correction)</Text>
       <PageNumber>6299</PageNumber>
     </MainItem>
@@ -757,8 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Isaacson</Key>
-      <Forenames>C.</Forenames>
-      <Text>de S. (Lieut.) .. ..</Text>
+      <Forenames>C. de S</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,6 +1212,15 @@
       <Forenames>H. P.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>6697</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>Maj.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

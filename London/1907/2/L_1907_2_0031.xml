@@ -121,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallie</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;-Col. Commandant and Hon. Col. J. B. (resigned)</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garratt</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; P. (resigned)</Text>
       <PageNumber>2816</PageNumber>
     </MainItem>
@@ -549,8 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purcell-Gilpin</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>V. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorneloe</Key>
-      <Forenames>C.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>C.de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,9 +838,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rinzy</Forenames>
-      <Text>, G. C. (Capt.) .. . ,. ^</Text>
+      <Key>De Rinzy</Key>
+      <Forenames>G. C.</Forenames>
+      <Text>(Capt.) .. . ,. ^</Text>
       <PageNumber>3307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,8 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Faber</Key>
-      <Forenames>R.</Forenames>
-      <Text>de D. (2nd Lieut.)</Text>
+      <Forenames>R. de D</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>

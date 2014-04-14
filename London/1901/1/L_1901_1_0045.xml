@@ -660,8 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce-Kingsmill</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. (Capt.)</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,8 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohevallier</Key>
-      <Forenames>F. E.</Forenames>
-      <Text>de C. (Adj.)</Text>
+      <Forenames>F. E. de C</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,9 +1263,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Piro</Forenames>
-      <Text>, G. M. (Lieut.)</Text>
+      <Key>de Carrara-Eivers</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3036</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cetto</Key>
+      <Forenames>V. B. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3285</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laveleye</Key>
+      <Forenames>E. E. E.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1151</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Piro</Key>
+      <Forenames>G. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,8 +1372,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S. (antedated)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,8 +1392,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S. (antedated)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,8 +1878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1966,8 +1990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Lieut.) .,</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Lieut.) .,</Text>
       <PageNumber>1150</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -213,7 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Terrot</Key>
-      <Text>.C. R. (Adj.)</Text>
+      <Forenames>C. R.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,8 +268,8 @@
     <MainItem>
       <Key>Sadleir-Jackson</Key>
       <Title>Capt.</Title>
-      <Forenames>L. W. De V.</Forenames>
-      <Text>(cancellation) ,</Text>
+      <Forenames>L. W. De V</Forenames>
+      <Text>. (cancellation) ,</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Text>.P.G. (Maj.)</Text>
+      <Forenames>P.G.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tringham</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, L. W. H. (retired)</Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
@@ -840,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>. J. E. L. (2nd Lieut.)</Text>
+      <Forenames>J. E. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,8 +875,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B. (Lieut.)</Text>
+      <Forenames>C. O'B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>. M acFarlane, F. N. (2nd Lieut.)</Text>
+      <Forenames>M</Forenames>
+      <Text>acFarlane, F. N. (2nd Lieut.)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,16 +1164,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, L. B. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>L. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L. (Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L. (Lieut.)</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Younger</Key>
-      <Text>. J. E. T. (2nd Lieut.) '</Text>
+      <Forenames>J. E. T.</Forenames>
+      <Text>(2nd Lieut.) '</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>

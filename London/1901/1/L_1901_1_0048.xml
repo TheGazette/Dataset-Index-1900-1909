@@ -248,7 +248,9 @@
       <Key>Barrington</Key>
       <Title>Sir</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +652,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lecky</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. F. J. S. (seconded)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>F. J. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +695,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Power, J. J. (Lieut.)</Text>
+      <Key>O'Neill-Power</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,8 +714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>A. E. Du P.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>A. E. Du P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,8 +1053,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Warr</Forenames>
+      <Key>De La</Key>
+      <Forenames>Warr</Forenames>
       <Text>, Earl (Maj.) .. -</Text>
       <PageNumber>1658</PageNumber>
     </MainItem>

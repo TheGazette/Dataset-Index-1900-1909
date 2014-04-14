@@ -168,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milner</Key>
-      <Text>.E. T. (Maj.)</Text>
+      <Forenames>E. T.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,8 +400,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Orady, W. F. (Maj.)</Text>
+      <Key>O'Orady</Key>
+      <Forenames>W. F.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +448,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. (Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>

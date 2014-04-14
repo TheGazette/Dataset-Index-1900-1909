@@ -84,7 +84,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. J. (resigned)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
@@ -93,8 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +214,9 @@
     <MainItem>
       <Key>Hill</Key>
       <Title>Capt. and Brevet Maj.</Title>
-      <Text>SirH. B., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,8 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larpent</Key>
-      <Forenames>L. W. P. De H.</Forenames>
-      <Text>(Capt. super.)</Text>
+      <Forenames>L. W. P. De H</Forenames>
+      <Text>. (Capt. super.)</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,6 +601,15 @@
   <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Title>Capt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>4557</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dix</Key>
       <Forenames>S. H.</Forenames>
       <Text>(Adj.)</Text>
@@ -624,9 +635,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, R. E. G. (Lieut.) ..</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>R. E. G.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +896,9 @@
       <Key>Cuninghame</Key>
       <Title>Capt. Sir</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>. W. R. W. (Capt.)</Text>
+      <Forenames>W. R. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,8 +1229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (Lieut, super.)</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (Lieut, super.)</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,9 +1335,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Faye</Forenames>
-      <Text>, T. L. (Qrmr. and Hon. Lieut.)</Text>
+      <Key>De Faye</Key>
+      <Forenames>T. L.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>

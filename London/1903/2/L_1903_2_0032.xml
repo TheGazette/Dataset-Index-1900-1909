@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Low</Key>
-      <Text>. H, B ___ Hunt, C. E</Text>
+      <Forenames>H</Forenames>
+      <Text>, B ___ Hunt, C. E</Text>
       <PageNumber>2994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S. ..</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,8 +582,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B.</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -146,8 +146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Forenames>G. E. St</Forenames>
-      <Text>. C. (Lieut.)</Text>
+      <Forenames>G. E. St. C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry H. J. (resigned)</Text>
       <PageNumber>2383</PageNumber>
     </MainItem>
@@ -517,8 +517,8 @@
     <MainItem>
       <Key>Eoljambe</Key>
       <Title>Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de B. S. (Adj.)</Text>
+      <Forenames>A. W. de B</Forenames>
+      <Text>. S. (Adj.)</Text>
       <PageNumber>2589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durand</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (Capt.) .. ..</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (Capt.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1014,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu-Stuart</Key>
-      <Text>Wortley, Hon. A. (Maj.)</Text>
+      <Forenames>Wortley</Forenames>
+      <Text>, Hon. A. (Maj.)</Text>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,8 +1104,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keaver, H. E. (Lieut.)</Text>
+      <Key>O'Keaver</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>

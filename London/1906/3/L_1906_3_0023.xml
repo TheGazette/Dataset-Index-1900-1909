@@ -579,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. H. (correction)</Text>
       <PageNumber>6241</PageNumber>
     </MainItem>
@@ -703,8 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Surg.-Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Surg.-Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Text>.R. Y. (Lieut.)</Text>
+      <Forenames>R. Y.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5662</PageNumber>
     </MainItem>
   </ItemGroup>

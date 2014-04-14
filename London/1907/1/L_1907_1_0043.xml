@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriages</Key>
-      <Text>, public places to which licences hare been granted : Nottingham, St. Ann's Well-road, VVesleyan Methodist Church</Text>
+      <Text>public places to which licences hare been granted : Nottingham, St. Ann's Well-road, VVesleyan Methodist Church</Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
     <SubItem>
@@ -240,14 +240,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Parliament</Key>
-      <Text>, notices of application to : Burnley Corporation</Text>
+      <Text>notices of application to : Burnley Corporation</Text>
       <PageNumber>837</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patents</Key>
-      <Text>, notices respecting : Caldwell, W. H</Text>
+      <Text>notices respecting : Caldwell, W. H</Text>
       <PageNumber>768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymours</Key>
-      <Text>, notice of winding up</Text>
+      <Text>notice of winding up</Text>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,18 +578,10 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>halfyearly general meeting</Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>United</Key>
-      <Forenames>Counties Bank</Forenames>
-      <Text>, alteration of Memorandum of Association</Text>
-      <PageNumber>2122</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>United Counties Bank, alteration of</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>

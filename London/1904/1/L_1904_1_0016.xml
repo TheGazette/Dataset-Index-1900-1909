@@ -213,6 +213,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>H. S.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1693</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carrara-Rivers</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Text>.E. W. (Capt.)</Text>
       <PageNumber>408</PageNumber>
@@ -452,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,8 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lardner-Clarke</Key>
-      <Forenames>J.</Forenames>
-      <Text>de W. (Lieut.-Col.)</Text>
+      <Forenames>J. de W</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>W. (2nd Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsav</Key>
-      <Text>H. A. (Capt.)</Text>
+      <Forenames>H. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Text>E. N. '(Capt.)</Text>
+      <Forenames>E. N.</Forenames>
+      <Text>'(Capt.)</Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,8 +1281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Capt.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1850,7 +1869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>F. J.C. (Lieut.)</Text>
+      <Forenames>F. J.C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

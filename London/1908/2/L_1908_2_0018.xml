@@ -4,8 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bass</Key>
-      <Forenames>P.</Forenames>
-      <Text>de S. (Lieut.-Col.)</Text>
+      <Forenames>P. de S</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,8 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Forenames>J. H.</Forenames>
-      <Text>du B</Text>
+      <Forenames>J. H. du B</Forenames>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,9 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Title>Sir</Title>
-      <Forenames>O</Forenames>
-      <Text>'M. (Gen.)</Text>
+      <Title>Sir O'M. (Gen.)</Title>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,8 +993,8 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Title>Col.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de C. (half-pay)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>2851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenns</Key>
-      <Text>. C. J. (Hon. Maj.-Gen.)</Text>
+      <Forenames>C. J.</Forenames>
+      <Text>(Hon. Maj.-Gen.)</Text>
       <PageNumber>2568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,7 +1739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>.O</Text>
+      <Forenames>O.</Forenames>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>

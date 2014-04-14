@@ -30,7 +30,9 @@
       <Key>Eycroft</Key>
       <Title>Sir</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +186,9 @@
       <Key>Arthur</Key>
       <Title>Lieut. Sir Or.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +340,9 @@
       <Key>Scott</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -109,8 +109,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Levan, Col. J. T. L. (retred)</Text>
+      <Key>St. Levan</Key>
+      <Title>Col.</Title>
+      <Forenames>J. T. L.</Forenames>
+      <Text>(retred)</Text>
       <PageNumber>8165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,8 +537,8 @@
     <MainItem>
       <Key>Booth</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>R. M. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>T.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>T. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,8 +968,8 @@
     <MainItem>
       <Key>Hastings</Key>
       <Title>Capt.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J. W. (retired)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. W. (retired)</Text>
       <PageNumber>9756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>S. F. (Maj.)</Text>
+      <Forenames>S. F.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>

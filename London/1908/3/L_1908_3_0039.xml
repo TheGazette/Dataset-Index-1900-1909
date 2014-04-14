@@ -851,7 +851,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edridge</Key>
-      <Text>. Sir F. T. (Hon. Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>F. T.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,8 +1109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Title>St.</Title>
-      <Forenames>B. R.</Forenames>
+      <Title>St. B.</Title>
+      <Forenames>R.</Forenames>
       <Text>(Capt. and Hon. Maj.).. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -1264,7 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murton</Key>
-      <Text>. C. D. (Capt.)..</Text>
+      <Forenames>C. D.</Forenames>
+      <Text>(Capt.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,8 +1282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S. (Maj.)</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

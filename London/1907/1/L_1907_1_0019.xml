@@ -129,7 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>. O.C. (Cant.)</Text>
+      <Forenames>O.C.</Forenames>
+      <Text>(Cant.)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,8 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Forenames>A. J. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>A. J. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +891,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Text>. Capt. F. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffolk</Key>
-      <Text>. Super. Capt. Earl of (resigned)</Text>
+      <Title>Super. Capt. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>1391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawley</Key>
-      <Text>. T. H. O. (2nd Lieut.)</Text>
+      <Forenames>T. H. O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,8 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hovell</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Lieut.-Col.) ..</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut.-Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>. W. (Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>

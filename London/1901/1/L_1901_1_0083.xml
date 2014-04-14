@@ -23,8 +23,10 @@
   <SubSectionTitle>Infantry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lieut. O., 7th Battalion, the Royal Fusiliers (City of London Regiment)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut.</Title>
+      <Forenames>O.</Forenames>
+      <Text>, 7th Battalion, the Royal Fusiliers (City of London Regiment)</Text>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +728,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Las Casas</Forenames>
+      <Key>De Las</Key>
+      <Forenames>Casas</Forenames>
       <Text>, Capt. M., Royal North Devon (Hussars) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -736,8 +738,8 @@
     <MainItem>
       <Key>Graham</Key>
       <Title>Lieut.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. J., Lanarkshire..</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>., Lanarkshire..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +766,9 @@
       <Key>Dickson-Poynder</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart., Royal Wiltshire (Prince of Wales's Own Royal Regiment) .. .. ——— Thynne, Lieut. U. O., Royal Wiltshire (Prince of Wales's Own Royal Regiment)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>

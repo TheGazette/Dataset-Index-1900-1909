@@ -123,16 +123,13 @@
       <PageNumber>2444</PageNumber>
       <PageNumber>2518</PageNumber>
       <PageNumber>2592</PageNumber>
-      <PageNumber>2668</PageNumber>
-      <PageNumber>2756</PageNumber>
-      <PageNumber>3102</PageNumber>
-      <PageNumber>3343</PageNumber>
-      <PageNumber>4194</PageNumber>
-      <PageNumber>4372</PageNumber>
-      <PageNumber>4450</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Draft regulations under the Workmen's Compensation Act, 1906, respecting contracting out schemes</Text>
+      <Text>
+        <PageNumber>4194</PageNumber>
+        <PageNumber>4372</PageNumber>
+        <PageNumber>4450</PageNumber>
+      </Text>
       <PageNumber>3303</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -461,7 +458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lancashire</Key>
-      <Text>Vaudeville Syndicate, notice of winding up</Text>
+      <Forenames>Vaudeville Syndicate</Forenames>
+      <Text>, notice of winding up</Text>
       <PageNumber>3875</PageNumber>
       <PageNumber>3950</PageNumber>
     </MainItem>
@@ -508,8 +506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Forenames>Bros</Forenames>
-      <Text>., reduction of capital</Text>
+      <Title>Bros.</Title>
+      <Text>, reduction of capital</Text>
       <PageNumber>3231</PageNumber>
       <PageNumber>4195</PageNumber>
     </MainItem>

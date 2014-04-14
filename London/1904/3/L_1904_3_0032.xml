@@ -165,8 +165,9 @@
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, F. J. (Hon. Lieut.-Col.)</Text>
+      <Key>St. John</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,8 +507,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'C.dlaghan, M. P</Text>
+      <Key>O'C</Key>
+      <Text>dlaghan, M. P</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +540,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridson</Key>
-      <Text>J. E... .. .. ..</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +870,9 @@
       <Key>MacGregor</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

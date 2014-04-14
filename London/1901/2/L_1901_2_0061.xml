@@ -563,8 +563,8 @@
     <MainItem>
       <Key>TufneLl</Key>
       <Title>Capt.</Title>
-      <Forenames>N. A. C. De H.</Forenames>
-      <Text>(retired)</Text>
+      <Forenames>N. A. C. De H</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,8 +976,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufnell</Key>
-      <Forenames>N. A. C.</Forenames>
-      <Text>de H. (Capt.)</Text>
+      <Forenames>N. A. C. de H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>9069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,8 +1168,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, 2nd Lieut. V. W. (cancellation)</Text>
+      <Key>O'Farrell</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>V. W.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>4572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibbe</Key>
-      <Text>.t, Bey. B. R. (Acting Chap.)</Text>
+      <Text>t, Bey. B. R. (Acting Chap.)</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>

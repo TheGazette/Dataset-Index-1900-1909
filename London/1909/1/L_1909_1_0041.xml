@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under : West Australian Collieries and Fireclay Company</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under : West Australian Collieries and Fireclay Company</Text>
       <PageNumber>1983</PageNumber>
     </MainItem>
     <SubItem>
@@ -153,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending: 2nd January, 1909</Text>
+      <Text>average price for the week ending: 2nd January, 1909</Text>
       <PageNumber>154</PageNumber>
     </MainItem>
     <SubItem>
@@ -273,7 +275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowans</Key>
-      <Text>, reduction of capital</Text>
+      <Text>reduction of capital</Text>
       <PageNumber>506</PageNumber>
       <PageNumber>1806</PageNumber>
     </MainItem>
@@ -392,7 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dollmahh</Key>
-      <Text>, C,,.nptice of winding up.. Dunderland Iron Ore Company, notice of winding up</Text>
+      <Forenames>C</Forenames>
+      <Text>,,.nptice of winding up.. Dunderland Iron Ore Company, notice of winding up</Text>
       <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>

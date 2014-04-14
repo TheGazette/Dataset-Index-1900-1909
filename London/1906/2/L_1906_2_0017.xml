@@ -752,7 +752,9 @@
     <MainItem>
       <Key>Honey</Key>
       <Forenames>Deputy Commissary</Forenames>
-      <Text>and Hon. Capt. C.H. (seconded)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +844,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oderaine</Key>
-      <Text>Capt. F. J. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +992,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bouafield</Key>
-      <Forenames>Lieut L.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>L.</Forenames>
       <Text>(seconded) ,</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>

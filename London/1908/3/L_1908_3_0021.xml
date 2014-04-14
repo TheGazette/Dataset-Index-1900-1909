@@ -96,8 +96,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <Text>(Maj. super.)</Text>
       <PageNumber>4941</PageNumber>
     </MainItem>
@@ -250,7 +250,9 @@
       <Key>Sitwell</Key>
       <Title>Sir</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +263,9 @@
       </Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +781,8 @@
     <MainItem>
       <Key>Sladen</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>E. S. St</Forenames>
-      <Text>. B. (resigned)</Text>
+      <Forenames>E. S. St. B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +840,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>. Capt. J. S. (temporary halfpay)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(temporary halfpay)</Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,8 +1078,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Forenames>E.</Forenames>
-      <Text>de L. (Maj.)</Text>
+      <Forenames>E. de L</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>4941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,8 +1152,8 @@
     <MainItem>
       <Key>Knight</Key>
       <Title>Lieut.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,8 +1343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferies</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6861</PageNumber>
     </MainItem>
   </ItemGroup>

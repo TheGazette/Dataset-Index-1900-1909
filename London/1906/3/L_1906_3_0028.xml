@@ -12,8 +12,8 @@
     <MainItem>
       <Key>Smith</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>G. H. St</Forenames>
-      <Text>. J. (resigned) .. .. ... .,</Text>
+      <Forenames>G. H. St. J</Forenames>
+      <Text>. (resigned) .. .. ... .,</Text>
       <PageNumber>5184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grinnell-Milne</Key>
-      <Text>. D. G. M. .. ..</Text>
+      <Forenames>D. G. M.</Forenames>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corlette</Key>
-      <Text>.H. C. (Capt.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>

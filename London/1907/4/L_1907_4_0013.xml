@@ -199,8 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>St.</Title>
-      <Forenames>L. M.</Forenames>
+      <Title>St. L.</Title>
+      <Forenames>M.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>7042</PageNumber>
     </MainItem>
@@ -408,6 +408,14 @@
       <Forenames>E. M. S.</Forenames>
       <Text>(Adj. of the training battalion)</Text>
       <PageNumber>8982</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblangue</Key>
+      <Forenames>P.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>— ___ ___</KeyDitto>
@@ -649,8 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>W. P.</Forenames>
-      <Text>de L. (Lieut.) .. .. S</Text>
+      <Forenames>W. P. de L</Forenames>
+      <Text>. (Lieut.) .. .. S</Text>
       <PageNumber>878</PageNumber>
     </MainItem>
   </ItemGroup>

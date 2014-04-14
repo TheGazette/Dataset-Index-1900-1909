@@ -132,7 +132,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Hou. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,8 +295,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. L. (Hon. Lieut.-Col.)</Text>
+      <Forenames>E. St. L</Forenames>
+      <Text>. (Hon. Lieut.-Col.)</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +464,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepean</Key>
-      <Forenames>L. P. St</Forenames>
-      <Text>. V. (Lieut.)</Text>
+      <Forenames>L. P. St. V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Text>G. C. (Lieut.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,8 +1422,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F. K. St</Forenames>
-      <Text>. M. (Lieut.)</Text>
+      <Forenames>F. K. St. M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1733</PageNumber>
       <PageNumber>2502</PageNumber>
     </MainItem>
@@ -1493,7 +1496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eoden</Key>
-      <Text>W. T. (Hon. Capt.)</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,21 +1661,25 @@
       <Key>Rycroft</Key>
       <Title>Sir</Title>
       <Forenames>R</Forenames>
-      <Text>, X., Bart. (Hon. Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, G. H. (Hon. Lieul.)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Hon. Lieul.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, F. J. (Hon. I.ieut,)</Text>
+      <Key>St. John</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Hon. I.ieut,)</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,7 +1732,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, Bart. (Hon. Lieut.) .. G Seely, J. E. B. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1763,8 +1773,8 @@
     <MainItem>
       <Key>Shaw</Key>
       <Title>Lieut.</Title>
-      <Forenames>A. F.</Forenames>
-      <Text>de T. (removed)</Text>
+      <Forenames>A. F. de T</Forenames>
+      <Text>. (removed)</Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
   </ItemGroup>

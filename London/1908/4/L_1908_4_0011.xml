@@ -48,9 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lauwenreoht</Forenames>
-      <Text>, H. van O., Consul at Cape Town for the Netherlands</Text>
+      <Key>Van Lauwenreoht</Key>
+      <Forenames>H. van O</Forenames>
+      <Text>., Consul at Cape Town for the Netherlands</Text>
       <PageNumber>9290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,9 @@
       <PageNumber>9369</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Sawle, Rear-Adml. Sir C. J. G., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -297,8 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrenthorpe</Key>
-      <Title>St.</Title>
-      <Forenames>Anne</Forenames>
+      <Forenames>St. Anne</Forenames>
       <Text>, transfer of patronage to the Bishop of Wakefield, Order in Council</Text>
       <PageNumber>9935</PageNumber>
     </MainItem>
@@ -422,7 +423,9 @@
     <MainItem>
       <Key>Ainger</Key>
       <Forenames>A. C.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +440,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>Sinclair, Capt. E. S., Fourth Cass, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +450,9 @@
     <MainItem>
       <Key>Alliston</Key>
       <Forenames>F. P.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +484,9 @@
     <MainItem>
       <Key>Barclay</Key>
       <Forenames>T.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +494,9 @@
     <MainItem>
       <Key>Barker</Key>
       <Forenames>J.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>9026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +504,9 @@
     <MainItem>
       <Key>Barnes</Key>
       <Title>Lieut .</Title>
-      <Text>-Col. H. J., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +531,9 @@
     <MainItem>
       <Key>Bodington</Key>
       <Forenames>N</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +566,9 @@
     <MainItem>
       <Key>Bromley</Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +585,9 @@
     <MainItem>
       <Key>Burt</Key>
       <Forenames>C</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +650,9 @@
       <Key>Chapeile</Key>
       <Title>Dr.</Title>
       <Forenames>A.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +713,9 @@
     <MainItem>
       <Key>Clouston</Key>
       <Forenames>E. S</Forenames>
-      <Text>,, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>9289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +748,9 @@
     <MainItem>
       <Key>Considine</Key>
       <Forenames>H. J. F.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +783,9 @@
     <MainItem>
       <Key>Cripps</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +794,9 @@
       <Key>Critchett</Key>
       <Title>Sir</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>9026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +827,9 @@
     <MainItem>
       <Key>Dalziel</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,6 +852,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lemos</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>, H.M.'s Consul at Ciudad Bolivar</Text>
+      <PageNumber>8541</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mordvinoff</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>A.</Forenames>
+      <Text>, Hon. Commander, Koyal Victorian Order</Text>
+      <PageNumber>9465</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derby</Key>
       <Title>Earl</Title>
       <Text>of, Knight Grand Oroes, Boyal Victorian Order</Text>
@@ -839,7 +887,9 @@
     <MainItem>
       <Key>Duckworth</Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +930,9 @@
     <MainItem>
       <Key>Eardley-Wilmot</Key>
       <Forenames>Bear-</Forenames>
-      <Text>Admiral S. M., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +991,9 @@
       <Key>Folkes</Key>
       <Title>Rev.</Title>
       <Forenames>F. A. S.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>

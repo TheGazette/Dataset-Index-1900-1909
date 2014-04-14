@@ -86,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickhnm</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. S. H. (resigned)</Text>
       <PageNumber>4912</PageNumber>
     </MainItem>
@@ -240,7 +240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>J. F. (Capt.).. .. ..</Text>
+      <Forenames>J. F.</Forenames>
+      <Text>(Capt.).. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finigan</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'C. (2ml Lieut.)</Text>
+      <Forenames>D. O'C</Forenames>
+      <Text>. (2ml Lieut.)</Text>
       <PageNumber>4763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +480,7 @@
       <PageNumber>4263</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>4th.</Text>
+      <Text>4th</Text>
       <PageNumber>5700</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -495,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewerdine</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, M. li. (resigned). 7th. Keys, A. I. (Hon. Maj )</Text>
       <PageNumber>5419</PageNumber>
     </MainItem>
@@ -655,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. G (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

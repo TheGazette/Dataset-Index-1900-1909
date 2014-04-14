@@ -10,7 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corrie</Key>
-      <Forenames>Lieut M. W. Gr</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>M. W. Gr</Forenames>
       <Text>. (resigned and Hon. Lieut)</Text>
       <PageNumber>6022</PageNumber>
     </MainItem>
@@ -108,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutbill</Key>
-      <Forenames>Lieut C. A.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C. A.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
@@ -285,9 +287,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, Temporary Maj. H. D. (resigns as Second in Command)</Text>
+      <Key>de Pass</Key>
+      <Title>Temporary Lieut</Title>
+      <Forenames>E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>5960</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pree</Key>
+      <Title>Temporary Maj.</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>(resigns as Second in Command)</Text>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,9 +317,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Despard</Key>
-      <Forenames>Lieut C. B.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C. B.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>5959</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (resigned and Hon. Lieut.)</Text>
+      <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -322,7 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Forenames>Lieut G.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>G.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
@@ -403,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dote</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, ,E. J. G. (resigned. and Hon. Lieut.)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
@@ -546,7 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duthie</Key>
-      <Forenames>Lieut A. M.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A. M.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
@@ -554,7 +578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyer</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. A. (resigned and Hon. Lieut.)</Text>
       <PageNumber>6343</PageNumber>
     </MainItem>
@@ -582,9 +606,9 @@
   <ItemGroup>
     <MainItem>
       <Key>EdwardBj</Key>
-      <Title>Temporary</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. G. T. G. (relinquishes Command)</Text>
+      <Title>Temporary Lieut-Col.</Title>
+      <Forenames>G. T. G.</Forenames>
+      <Text>(relinquishes Command)</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,8 +617,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. G. T. G. (correction)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>G. T. G.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +639,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut P. C.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>P. C.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>6276</PageNumber>
     </MainItem>
@@ -641,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. (resigned and Hon. Lieut.)</Text>
       <PageNumber>6341</PageNumber>
     </MainItem>
@@ -798,7 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnigan</Key>
-      <Forenames>Lieut H. G.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. G.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>8511</PageNumber>
     </MainItem>
@@ -815,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Forenames>Lieut H. G.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. G.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
@@ -867,7 +895,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flowardew</Key>
-      <Forenames>Lieut E. F.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>E. F.</Forenames>
       <Text>(resigned and Hon. Lieut.) .. '</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
@@ -924,7 +953,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foreman</Key>
-      <Text>Lieut. C. W. (resigned' and Hon. LieutV</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(resigned' and Hon. LieutV</Text>
       <PageNumber>6410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +991,9 @@
       <Key>Fowke</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, Bart, (resigned and Hon. Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,8 +1147,8 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Title>Capt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (resigned)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>Lieut H. M.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. M.</Forenames>
       <Text>(resigned and Hon. Lieut. .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1390,7 +1424,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guy</Key>
-      <Forenames>Lieut A. H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A. H.</Forenames>
       <Text>(resigned and Hon. Lieut.) Haag; Brev. Maj. E. C. (resigned)</Text>
       <PageNumber>4511</PageNumber>
     </MainItem>
@@ -1425,9 +1460,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Title>Temporary</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. A. C. (resigned) ...»</Text>
+      <Title>Temporary Lieut-Col.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(resigned) ...»</Text>
       <PageNumber>4611</PageNumber>
     </MainItem>
     <SubItem>

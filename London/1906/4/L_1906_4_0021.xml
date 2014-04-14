@@ -446,8 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammiok</Key>
-      <Title>St.</Title>
-      <Forenames>V. F.</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>F.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>7480</PageNumber>
     </MainItem>
@@ -635,7 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coath</Key>
-      <Text>.-.T. C. (Maj.)</Text>
+      <Text>-.T. C. (Maj.)</Text>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +977,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salkeld</Key>
-      <Text>.R. E. (Capt.)</Text>
+      <Forenames>R. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>

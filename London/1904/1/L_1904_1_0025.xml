@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: C. O: (resigned)'</Text>
       <PageNumber>1795</PageNumber>
     </MainItem>
@@ -236,8 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. R. H. (half-pay)' .. '</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(half-pay)' .. '</Text>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaton</Key>
-      <Text>W. (2nd Lieut. Super.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut. Super.)</Text>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +358,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>G.C. (Qimr.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +821,9 @@
       <Key>Cuyler</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C.</Forenames>
-      <Text>Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1035,9 @@
     <MainItem>
       <Key>Newman</Key>
       <Forenames>J.</Forenames>
-      <Text>C.H. (Capt.) .. ..</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,8 +1092,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larpent</Key>
-      <Forenames>J. P. G. De H.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>J. P. G. De H</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,8 +1107,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G..P. H. (Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G.</Forenames>
+      <Text>.P. H. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hampson</Key>
-      <Text>R. C. (Lieut.)</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

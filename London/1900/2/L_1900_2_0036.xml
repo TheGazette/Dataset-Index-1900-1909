@@ -54,8 +54,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. L. (Capt.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radcliffe</Key>
-      <Forenames>P. P.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>P. P. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,8 +476,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, A. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. St. J. (seconded)</Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
@@ -1188,6 +1190,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>G. J. L.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>6181</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
@@ -1195,6 +1205,22 @@
       <Forenames>G. J. L.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>8756</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>H. S.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>5554</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>4123</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1294,8 +1320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S. (Capt.) '</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Capt.) '</Text>
       <PageNumber>6929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,8 +1529,8 @@
     <MainItem>
       <Key>Gorton</Key>
       <Title>Capt.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>

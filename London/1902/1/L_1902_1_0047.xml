@@ -994,15 +994,17 @@
       <Key>McMahon</Key>
       <Title>Maj. Sir</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, Bart, (antedated)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>O. De L.</Forenames>
-      <Text>(Lieut.) .. ..</Text>
+      <Forenames>O. De L</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,9 +1324,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, B. W. S. (Capt.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>B. W. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,8 +1375,8 @@
     <MainItem>
       <Key>Sladen</Key>
       <Title>Maj.</Title>
-      <Forenames>E. S. St</Forenames>
-      <Text>. B. (seconded)</Text>
+      <Forenames>E. S. St. B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>

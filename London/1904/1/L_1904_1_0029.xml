@@ -77,8 +77,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orpen-Palmer</Key>
-      <Forenames>G.</Forenames>
-      <Text>de M. H. (2nd Lieut.)</Text>
+      <Forenames>G. de M</Forenames>
+      <Text>. H. (2nd Lieut.)</Text>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,8 +209,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, The (Hon. Col.)</Text>
+      <Key>O'Donovan</Key>
+      <Title>The (Hon. Col.)</Title>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +379,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>Wilkinson. L. F. (Maj.)</Text>
+      <Title>Wilkinson.</Title>
+      <Forenames>L. F.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +390,9 @@
       <Key>Grogan</Key>
       <Title>Sir</Title>
       <Forenames>E. J. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>Hon. G. H</Text>
+      <Title>Hon.</Title>
+      <Forenames>G. H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,6 +451,14 @@
       <Forenames>J. H.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>1694</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vernon</Key>
+      <Forenames>F. V. V. de L</Forenames>
+      <Text>. Or. (Hon. Maj.)</Text>
+      <PageNumber>1622</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -580,7 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Text>R. W. (2nd Lieut.)</Text>
+      <Forenames>R. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,6 +833,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Visme</Key>
+      <Forenames>R. F. J.</Forenames>
+      <Text>(Capt.) ..</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gruchy</Key>
       <Forenames>G. Le M.</Forenames>
       <Text>(Capt.) .. Hawskford, C. V. (Capt.) ..</Text>
@@ -955,8 +977,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,9 +1009,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, E</Text>
+      <Key>De Brath</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1063,9 @@
       <Key>Temple</Key>
       <Title>Sir</Title>
       <Forenames>R</Forenames>
-      <Text>!, Bart...'</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,8 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>E. St. C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,8 +1460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. D</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. D</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

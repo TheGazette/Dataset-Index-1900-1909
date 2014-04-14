@@ -159,7 +159,9 @@
       <Key>Bromley-Wilson</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,6 +315,14 @@
       <Forenames>H. H.</Forenames>
       <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>P. C. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -621,7 +631,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>. R. M. (Lieut.)</Text>
+      <Forenames>R. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petr</Key>
-      <Text>.it, C. E. (Lieut.)</Text>
+      <Text>it, C. E. (Lieut.)</Text>
       <PageNumber>1573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeatm</Key>
-      <Text>.an, Lieut. L. L. (resigned)</Text>
+      <Text>an, Lieut. L. L. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>. P. N</Text>
+      <Forenames>P. N.</Forenames>
       <PageNumber>835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,8 +1462,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, C. A. E</Text>
+      <Key>O'Meara</Key>
+      <Forenames>C. A. E.</Forenames>
       <PageNumber>2353</PageNumber>
     </MainItem>
   </ItemGroup>

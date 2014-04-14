@@ -453,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. H. (seconded)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
@@ -891,8 +891,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxlev</Key>
-      <Text>E. D, (2nd Lieut.)</Text>
+      <Forenames>E. D</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>

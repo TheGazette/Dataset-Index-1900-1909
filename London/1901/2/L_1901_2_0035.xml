@@ -181,8 +181,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, M. F</Text>
+      <Key>St. John</Key>
+      <Forenames>M. F</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,9 +217,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eden</Forenames>
-      <Text>, W. C</Text>
+      <Key>Van Eden</Key>
+      <Forenames>W. C</Forenames>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>

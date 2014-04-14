@@ -234,8 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seton</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Maj.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredgold</Key>
-      <Text>. J. A. T. (Maj.)</Text>
+      <Forenames>J. A. T.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,9 +668,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Dorop</Forenames>
-      <Text>, Maj. and Brev. Lieut.Col. C. B. (Assist. Superintendent of Experiments)</Text>
+      <Key>Von Dorop</Key>
+      <Title>Maj. and Brev. Lieut.Col.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>(Assist. Superintendent of Experiments)</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +715,9 @@
       <Key>McMahon</Key>
       <Title>Gapt. and Brev. Maj. Sir</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,8 +786,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingwood</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. G. (Ord. Officer, Ist Class, and Col.) ..</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>(Ord. Officer, Ist Class, and Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +973,8 @@
     <MainItem>
       <Key>Dudley</Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S. (Officer in charge of Danger Buildings)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Officer in charge of Danger Buildings)</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. X. A. (retired)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
@@ -1392,7 +1397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>DrapeiR</Key>
-      <Text>. A. (Surg.-Lieut.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Surg.-Lieut.)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -171,8 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kekewiek</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. M. (2nd Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. M. (2nd Lieut.)</Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DanielLH</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +422,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Munfon</Key>
-      <Text>.V. R ibid!. Ifethersole, J. .. .. .. ..</Text>
+      <Forenames>V. R</Forenames>
+      <Text>ibid!. Ifethersole, J. .. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +473,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, G. S. W</Text>
+      <Key>St. George</Key>
+      <Forenames>G. S. W</Forenames>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>

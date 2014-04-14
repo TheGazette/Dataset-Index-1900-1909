@@ -69,15 +69,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton-Stuart</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Lord ~N. E. (resigned)</Text>
+      <Title>Lieut, Lord</Title>
+      <Text>~N. E. (resigned)</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalryihple-Hamilton</Key>
-      <Text>N. V. C.' (Adj.)</Text>
+      <Forenames>N. V. C.</Forenames>
+      <Text>' (Adj.)</Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +662,9 @@
       <Key>Brincliman</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,8 +985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>J. E.</Forenames>
+      <Title>Capt. St. J.</Title>
+      <Forenames>E.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
@@ -1200,8 +1203,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Pentheny-O</Key>
-      <Text>'Kelly, E. J. (Capt.)</Text>
+      <Key>Pentheny-O'Kelly</Key>
+      <Forenames>E. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>

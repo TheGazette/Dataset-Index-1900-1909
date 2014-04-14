@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>, Private and Joint Stock : Savings Banks and Post Office Savings Banks, return of amounts received from, and paid into, for the four weeks ending: 22nd July, 1905</Text>
+      <Title>Private</Title>
+      <Text>and Joint Stock : Savings Banks and Post Office Savings Banks, return of amounts received from, and paid into, for the four weeks ending: 22nd July, 1905</Text>
       <PageNumber>5162</PageNumber>
     </MainItem>
     <SubItem>
@@ -42,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonoproof</Key>
-      <Text>, notice of winding up</Text>
+      <Text>notice of winding up</Text>
       <PageNumber>4911</PageNumber>
       <PageNumber>5235</PageNumber>
     </MainItem>
@@ -163,14 +164,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardiff</Key>
-      <Text>, county borough of, tramway bye-laws</Text>
+      <Text>county borough of, tramway bye-laws</Text>
       <PageNumber>5997</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>CaBtle</Key>
-      <Text>, notice of winding up</Text>
+      <Text>notice of winding up</Text>
       <PageNumber>5705</PageNumber>
       <PageNumber>6078</PageNumber>
     </MainItem>
@@ -450,7 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companbia</Key>
-      <Text>de Mocambique, notice of Extraordinary General Meeting</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, notice of Extraordinary General Meeting</Text>
       <PageNumber>6572</PageNumber>
     </MainItem>
   </ItemGroup>

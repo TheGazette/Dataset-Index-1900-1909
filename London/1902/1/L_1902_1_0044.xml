@@ -983,8 +983,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde-Aldam</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A. (2nd Lieut, extra super.)</Text>
+      <Forenames>W. St. A</Forenames>
+      <Text>. (2nd Lieut, extra super.)</Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1372,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>M.C. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>231</PageNumber>
       <PageNumber>586</PageNumber>
     </MainItem>
@@ -1679,8 +1681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Forenames>J. G. De G.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>J. G. De G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. B. (antedated)</Text>
       <PageNumber>1039</PageNumber>
       <PageNumber>3382</PageNumber>

@@ -631,8 +631,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, R. S.</Text>
+      <Key>St. John</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,8 +742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. I</Text>
+      <Forenames>F. St. I</Forenames>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,8 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulford</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. J</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. J</Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,8 +1158,8 @@
     <MainItem>
       <Key>Scott</Key>
       <Title>Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S. (correction)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S. (correction)</Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,8 +1311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. de L</Forenames>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,8 +1556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spooner</Key>
-      <Forenames>J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. de S</Forenames>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,8 +1616,8 @@
     <MainItem>
       <Key>Maxwell</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. P.</Text>
+      <Forenames>H. St. P</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,8 +1684,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brett</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(Deputy-Assist.Adj.-Gen.)</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Francis</Key>
-      <Text>G. F. (Col.)</Text>
+      <Forenames>G. F.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>

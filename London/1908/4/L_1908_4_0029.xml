@@ -545,7 +545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCardie</Key>
-      <Text>W. J. (Capt.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,8 +1226,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. J. (Maj.)</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,8 +1983,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, W. St. A (Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>W. St. A</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -30,7 +30,9 @@
       <Key>Wyllie</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>A. K.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +58,9 @@
       <Key>Yorke</Key>
       <Title>Hon.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,9 @@
     <MainItem>
       <Key>Young</Key>
       <Title>Sergt.</Title>
-      <Text>-Maj. A, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>7221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +99,9 @@
       <Key>Younghusband</Key>
       <Title>Brev. Lieut.-Col.</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,15 +110,20 @@
       <Key>Yule</Key>
       <Title>Col.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Zachariae</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral G. H. R., Hon. Knight Commander of the Royal Victorian Order</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>G. H. R.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>. A. D. B. (Brev. Lieut.-Col.) ,</Text>
+      <Forenames>A. D. B.</Forenames>
+      <Text>(Brev. Lieut.-Col.) ,</Text>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,8 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>E. H. St</Forenames>
-      <Text>. L. (Lieut-Col.)</Text>
+      <Forenames>E. H. St. L</Forenames>
+      <Text>. (Lieut-Col.)</Text>
       <PageNumber>6314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +746,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowans</Key>
-      <Text>. E. A. (Brev. Maj.)</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(Brev. Maj.)</Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>

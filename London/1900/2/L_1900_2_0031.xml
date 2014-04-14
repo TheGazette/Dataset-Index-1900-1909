@@ -17,14 +17,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hext</Key>
-      <Text>C.W</Text>
+      <Forenames>C.W</Forenames>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,8 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pateson</Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>R. H. O'D</Forenames>
       <PageNumber>8306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,8 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>M. H. C.</Forenames>
-      <Text>de C. de B</Text>
+      <Forenames>M. H. C. de C</Forenames>
+      <Text>. de B</Text>
       <PageNumber>5177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,8 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Forenames>E. W. St</Forenames>
-      <Text>. V.</Text>
+      <Forenames>E. W. St. V</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,8 +370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwell</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>C. O'R</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellby</Key>
-      <Text>E. V</Text>
+      <Forenames>E. V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,8 +563,8 @@
     <MainItem>
       <Key>Rawlins</Key>
       <Title>Col.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C, 26th and 71st Regimental Districts (retired)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>, 26th and 71st Regimental Districts (retired)</Text>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,8 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. (Lieut.-Col.)</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clinch</Key>
-      <Text>H. W. (Capt.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,15 +1151,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, P. E. (2nd Lieut.)</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, T. J. (Lieut.-Col.)</Text>
+      <Key>O'Dell</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>

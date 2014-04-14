@@ -195,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>.W. H. S. (2nd Lieut.)</Text>
+      <Forenames>W. H. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +247,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scudamore</Key>
-      <Text>. E. W. (Lieut.-Col. and Hon. Col.)</Text>
+      <Forenames>E. W.</Forenames>
+      <Text>(Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smartt</Key>
-      <Text>. J. P. (Capt. and Hon. Maj.)</Text>
+      <Forenames>J. P.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
       <PageNumber>5322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>.L. O. (2nd Lieut.)</Text>
+      <Forenames>L. O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spiller</Key>
-      <Text>.L. W. )Capt, and Hon. Maj.)</Text>
+      <Forenames>L. W.</Forenames>
+      <Text>)Capt, and Hon. Maj.)</Text>
       <PageNumber>5537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprye</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Capt.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +759,9 @@
       <Key>Stowart</Key>
       <Title>Sir</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +790,9 @@
       <Key>Stewart-Richardson</Key>
       <Title>Sir</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,8 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stacker</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <Text>(2nd Lisut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
@@ -1242,7 +1251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompkins</Key>
-      <Text>. A. C. (Maj. and Hon. Lieut.-Col.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Maj. and Hon. Lieut.-Col.)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Text>.H. M. (Capt.)</Text>
+      <Forenames>H. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,9 +1494,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, R. E. G. (Lieut.)</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>R. E. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,7 +1613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vincent</Key>
-      <Text>. W. (Capt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1691,9 @@
       <Key>Waller</Key>
       <Title>Sir</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1920,7 +1934,9 @@
       <Key>Weldon</Key>
       <Title>Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, Bart. (Maj. and Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,7 +2002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>. C. M. (Capt.)</Text>
+      <Forenames>C. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>

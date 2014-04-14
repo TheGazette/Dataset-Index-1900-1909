@@ -221,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eoss</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry J: A. (resigned and Hon. Capt.)</Text>
       <PageNumber>2383</PageNumber>
     </MainItem>
@@ -312,7 +312,9 @@
       <Key>Forbes</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C.S.</Forenames>
-      <Text>,Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +397,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore-Ruthven</Key>
-      <Text>Hon. A. G. A. (Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>A. G. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macalister</Key>
-      <Text>C. A. (2nd Lieut.)</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>Brig.-Surg.-Lieut.-Coi.O. (correction)'</Text>
+      <Title>Brig.</Title>
+      <Text>-Surg.-Lieut.-Coi.O. (correction)'</Text>
       <PageNumber>2847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hone</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. A. H. (resigned)</Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
@@ -662,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidwell</Key>
-      <Text>R, A. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. (Maj.)</Text>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,8 +757,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, C; J. (Lieut.) .. ..</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>C</Forenames>
+      <Text>; J. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,8 +775,8 @@
     <MainItem>
       <Key>Wickham</Key>
       <Title>Super. Lieut.</Title>
-      <Forenames>M. A. C. De C. De B.</Forenames>
-      <Text>(correction)</Text>
+      <Forenames>M. A. C. De C. De B</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>3554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +785,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. H. C. De C. De B.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>M. H. C. De C</Forenames>
+      <Text>. De B. (Lieut.)</Text>
       <PageNumber>2481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +866,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>H. M. O</Forenames>
-      <Text>'C. (Lieut.).. ..</Text>
+      <Forenames>H. M. O'C</Forenames>
+      <Text>. (Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,8 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickhara</Key>
-      <Forenames>E. T. E. Di C. De B.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>E. T. E. Di C. De B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>A. J. (Maj.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2383</PageNumber>
     </MainItem>
   </ItemGroup>

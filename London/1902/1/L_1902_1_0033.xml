@@ -254,8 +254,8 @@
     <MainItem>
       <Key>Cpbbold</Key>
       <Title>Maj.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Delius</Key>
-      <Forenames>R. P. St</Forenames>
-      <Text>. M. (Capt.)</Text>
+      <Forenames>R. P. St. M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,8 +978,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt. J. G. (resigned)</Text>
+      <Key>O'Brien</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,15 +1130,18 @@
       <Key>Lucas</Key>
       <Title>Sir</Title>
       <Forenames>A. C</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pollitt</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. Sir W. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col. Sir</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,8 +1380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>L. S. F.</Forenames>
-      <Text>de E. (Capt.)</Text>
+      <Forenames>L. S. F. de E</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>

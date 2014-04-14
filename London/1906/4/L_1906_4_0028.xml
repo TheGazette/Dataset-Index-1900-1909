@@ -14,7 +14,9 @@
       <Key>Grey</Key>
       <Title>Sir</Title>
       <Forenames>H. F</Forenames>
-      <Text>„ Bart. (Lieut.-Col. and to command) .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langley</Key>
-      <Text>. G. C</Text>
+      <Forenames>G. C.</Forenames>
       <PageNumber>8300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Commanders</Key>
-      <Text>. Retired List. Btirber, B. C</Text>
+      <Forenames>Retired List</Forenames>
+      <Text>. Btirber, B. C</Text>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halah</Key>
-      <Text>.ui, R. C</Text>
+      <Text>ui, R. C</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>de C. W. P</Text>
+      <Title>de C.</Title>
+      <Forenames>W. P</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>. F. M</Text>
+      <Forenames>F. M .</Forenames>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penfound</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +800,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Text>.J. ,</Text>
+      <Forenames>J.</Forenames>
+      <Text>,</Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramble</Key>
-      <Text>. F. G</Text>
+      <Forenames>F. G.</Forenames>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,8 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessop</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Youge</Key>
-      <Text>.W. H. N</Text>
+      <Forenames>W. H. N</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,8 +1436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'B. ..</Text>
+      <Forenames>E. J. O'B</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

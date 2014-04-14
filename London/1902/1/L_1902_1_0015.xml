@@ -242,8 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Forenames>Cross</Forenames>
-      <Text>, Decoration of, conferred upon-: Grean, Surg.-Capt. T</Text>
+      <Text>
+        <Honour>Cross</Honour>
+      </Text>
       <PageNumber>848</PageNumber>
     </MainItem>
     <SubItem>
@@ -362,8 +363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellington</Key>
-      <Forenames>Comte</Forenames>
-      <Text>de Gdurte, ViceConsul for France at</Text>
+      <Forenames>Comte de Gdurte</Forenames>
+      <Text>, ViceConsul for France at</Text>
       <PageNumber>1811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,8 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willesden</Key>
-      <Title>St.</Title>
-      <Forenames>Matthew</Forenames>
+      <Forenames>St. Matthew</Forenames>
       <Text>, consolidated .chapelry, Order in Council</Text>
       <PageNumber>1640</PageNumber>
     </MainItem>
@@ -522,8 +522,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>George</Forenames>
+      <Forenames>St. George</Forenames>
       <Text>'s, Canon of: Smith, Rev. Canon</Text>
       <PageNumber>2153</PageNumber>
     </MainItem>

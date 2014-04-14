@@ -109,6 +109,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Nevers</Key>
+      <Forenames>L. O. E. V. B. M. G.</Forenames>
+      <Text>(2nd .; Lieut.)</Text>
+      <PageNumber>7243</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>London</Key>
       <Forenames>E. B.</Forenames>
       <Text>(Lieut.)</Text>
@@ -891,8 +899,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. M. S. (Maj.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. M. S.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,8 +984,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Capt. E. A. (resigned)</Text>
+      <Key>O'Neill</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,8 +1011,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Forenames>B.</Forenames>
-      <Text>de B. (Adj.)</Text>
+      <Forenames>B. de B</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,8 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Julius</Key>
-      <Forenames>S.</Forenames>
-      <Text>de V. A. (Capt.)</Text>
+      <Forenames>S. de V</Forenames>
+      <Text>. A. (Capt.)</Text>
       <PageNumber>6806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,11 +1265,22 @@
       <Key>Wheler</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>3rd Battalion</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Roemer</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(resigned and Hon. Maj.)</Text>
+      <PageNumber>7093</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>lst Volunteer Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1380,7 +1402,9 @@
     <MainItem>
       <Key>Norfolk</Key>
       <Title>Duke</Title>
-      <Text>of, K.G. (Lieut.-Col. Comdt.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>8847</PageNumber>
     </MainItem>
   </ItemGroup>

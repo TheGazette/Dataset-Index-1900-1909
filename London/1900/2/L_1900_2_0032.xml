@@ -191,8 +191,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. (Lieut.-Col.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>5036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,9 @@
       <Key>Clark</Key>
       <Title>Sir</Title>
       <Forenames>J. R. A.</Forenames>
-      <Text>, Bart. (Surg.-Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +612,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W. M. (Surg.-Maj.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W. M.</Forenames>
+      <Text>(Surg.-Maj.)</Text>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +975,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collard</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. A. L</Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
@@ -1092,8 +1096,9 @@
   <SectionTitle>Army Chaplains' Department</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Rev. O. A. W</Text>
+      <Key>O'Neill</Key>
+      <Title>Rev.</Title>
+      <Forenames>O. A. W</Forenames>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,8 +1528,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, N. P. (Col.)</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>N. P.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>H. C. (Col.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>7825</PageNumber>
     </MainItem>
   </ItemGroup>

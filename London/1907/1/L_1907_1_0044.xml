@@ -171,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archbold</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>2131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,8 +400,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Brothers .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +426,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Mansfield</Forenames>
+      <Title>Mansfield .</Title>
       <PageNumber>1413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,8 +737,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Macdona</Forenames>
-      <Text>.d, Brown, and Dott</Text>
+      <Title>Macdona.</Title>
+      <Text>d, Brown, and Dott</Text>
       <PageNumber>72</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnham</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +954,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalker</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. .,</Text>
+      <Title>Brothers .</Title>
+      <Text>. .,</Text>
       <PageNumber>2208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,16 +1352,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Marney</Forenames>
-      <Text>, Edward</Text>
+      <Key>De Marney</Key>
+      <Title>Edward .</Title>
       <PageNumber>280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Matt</Forenames>
+      <Key>De Matt</Key>
       <Text>os and Co</Text>
       <PageNumber>1105</PageNumber>
     </MainItem>

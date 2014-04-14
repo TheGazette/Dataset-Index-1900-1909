@@ -352,7 +352,9 @@
       <Key>Cholmeley</Key>
       <Title>Sir</Title>
       <Forenames>M. R. A.</Forenames>
-      <Text>, Bart. (Capt.) .. ' .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Filmer</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Sir R, M. (resigned)</Text>
+      <Title>Lieut, Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>, M. (resigned)</Text>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,9 +538,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckwith</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (resigned)</Text>
+      <Title>Lieut, (resigned)</Title>
       <PageNumber>2841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -884,7 +895,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockburn</Key>
-      <Text>J. L. K. (Lieut.) .. ..</Text>
+      <Forenames>J. L. K.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traguair</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W., Junr. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

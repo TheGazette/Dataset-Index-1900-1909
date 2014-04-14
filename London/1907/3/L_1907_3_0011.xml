@@ -47,7 +47,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +57,9 @@
     <MainItem>
       <Key>Solomon</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +67,9 @@
     <MainItem>
       <Key>Sparre</Key>
       <Title>Lieut.</Title>
-      <Text>-Oom. C. C. K., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
       <Key>Strachey</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +106,9 @@
     <MainItem>
       <Key>Swanzy</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +124,9 @@
     <MainItem>
       <Key>Thomas</Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +144,9 @@
       <Key>Treloar</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,6 +168,90 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Bitter</Key>
+      <Title>Col.</Title>
+      <Forenames>M.</Forenames>
+      <Text>, Hon. Knight Commander, Boyal Victorian Order</Text>
+      <PageNumber>6150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Bronn</Key>
+      <Title>Maj.</Title>
+      <Forenames>Baron</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Herkomer</Key>
+      <Title>Professor</Title>
+      <Forenames>H.</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>5118</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Hugo</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>G. E. C. C</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>5204</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Lerchenstein</Key>
+      <Forenames>G. M.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>6150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Massenbach</Key>
+      <Title>Capt.</Title>
+      <Forenames>Baron</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>4520</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Prilesz</Key>
+      <Forenames>C. P.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>6150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Ribbeck</Key>
+      <Title>Maj.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Walsh</Key>
       <Title>Hon.</Title>
       <Forenames>A. H. J.</Forenames>
@@ -166,7 +264,9 @@
       <Key>Walter</Key>
       <Title>Maj.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, Fourth jOlass, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +318,9 @@
     <MainItem>
       <Key>WilBon</Key>
       <Forenames>F. W.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,8 +337,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Windham</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral O, Gentleman Usher to His Majesty</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>O</Forenames>
+      <Text>, Gentleman Usher to His Majesty</Text>
       <PageNumber>4935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +373,9 @@
       <Key>Wurtemberg</Key>
       <Title>Gen. H.R.H. Duke</Title>
       <Forenames>Albert</Forenames>
-      <Text>of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +384,9 @@
       <Key>yAntunez</Key>
       <Title>Capt.</Title>
       <Forenames>Don H. H.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +396,9 @@
         <PageNumber>___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>y Monserrat, Don. L. de P., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +415,9 @@
     <MainItem>
       <Key>Zeller</Key>
       <Forenames>G.</Forenames>
-      <Text>, Hen. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +425,9 @@
     <MainItem>
       <Key>Zellner</Key>
       <Forenames>C</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,8 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J. (2nd Lieut.) Bernard, R. P. St. V. (2nd Lieut.)</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. (2nd Lieut.) Bernard, R. P. St. V. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,9 +491,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. C. (2nd Lieut.)</Text>
+      <Key>De Butts</Key>
+      <Forenames>F. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,8 +800,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Curling</Key>
-      <Forenames>Lieut J.</Forenames>
-      <Text>, Aide-de-Camp to Brevet Col. Sir H. G. McCullum, Bart</Text>
+      <Title>Lieut</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +1000,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>Col. W. F. L., Brig.-Gen. to command the Artillery of Divisions</Text>
+      <Title>Col.</Title>
+      <Forenames>W. F. L.</Forenames>
+      <Text>, Brig.-Gen. to command the Artillery of Divisions</Text>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -217,7 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frewen</Key>
-      <Text>T. (Lieut.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +252,9 @@
       <Key>Hartwell</Key>
       <Title>Sir</Title>
       <Forenames>B. C. D. A.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,8 +696,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Super. Lieut. H. J. J. P. (resigned)</Text>
+      <Key>O'Connell</Key>
+      <Title>Super. Lieut.</Title>
+      <Forenames>H. J. J. P.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +925,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Forenames>Lieut E.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>E.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>6962</PageNumber>
     </MainItem>

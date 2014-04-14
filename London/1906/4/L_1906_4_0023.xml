@@ -104,8 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery-Campbell</Key>
-      <Title>St.</Title>
-      <Forenames>J. D.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>D.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>8538</PageNumber>
     </MainItem>
@@ -179,6 +179,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>9147</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Jones</Key>
       <Forenames>M. D. G.</Forenames>
       <Text>(Maj.)</Text>
@@ -213,7 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Text>. H. (Capt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,8 +841,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M. (Lieut.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>

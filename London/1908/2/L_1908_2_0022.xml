@@ -656,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>. Surg.-Capt. K. M. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. K. M. (resigned)</Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1246,9 @@
       <Key>Seymour</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>A. V. F.</Forenames>
-      <Text>Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>

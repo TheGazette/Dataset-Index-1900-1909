@@ -114,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirot</Key>
-      <Text>, notice of winding-up</Text>
+      <Text>notice of winding-up</Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rebman</Key>
-      <Text>, reduction of capilal</Text>
+      <Text>reduction of capilal</Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,8 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scottish</Key>
-      <Forenames>Providei</Forenames>
-      <Text>.t Institution, annual general meeting</Text>
+      <Title>Providei.</Title>
+      <Text>t Institution, annual general meeting</Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Frederi</Forenames>
-      <Text>. k, and Co., reduction</Text>
+      <Title>Frederi.</Title>
+      <Text>k, and Co., reduction</Text>
       <PageNumber>4235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,8 +404,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Diemen</Forenames>
+      <Key>Van Diemen</Key>
       <Text>'s Land Company, yearly general meeting</Text>
       <PageNumber>2631</PageNumber>
     </MainItem>
@@ -494,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>, 3. A., and Sons</Text>
+      <Text>3. A., and Sons</Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,9 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Title>Jas.</Title>
-      <Forenames>Wm</Forenames>
-      <Text>., and Co</Text>
+      <Title>Jas. Wm.</Title>
+      <Text>, and Co</Text>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballant</Key>
-      <Text>.yne and Wilcockson</Text>
+      <Text>yne and Wilcockson</Text>
       <PageNumber>5001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bengtsson</Key>
-      <Forenames>Mons</Forenames>
-      <Text>., and Co</Text>
+      <Title>Mons.</Title>
+      <Text>, and Co</Text>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulaye</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,8 +995,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
-      <Text>.. .. .. ..</Text>
+      <Title>John .</Title>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,8 +1010,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Forenames>Samuel</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Samuel .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,8 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burr</Key>
-      <Forenames>Fred</Forenames>
-      <Text>., and Co</Text>
+      <Title>Fred.</Title>
+      <Text>, and Co</Text>
       <PageNumber>3332</PageNumber>
     </MainItem>
   </ItemGroup>

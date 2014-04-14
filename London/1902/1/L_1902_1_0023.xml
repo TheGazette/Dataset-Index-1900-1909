@@ -138,7 +138,9 @@
       <Key>Maclure</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J. E. S.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +335,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glasse</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G. (Vet.-Lieut.)</Text>
+      <Forenames>M. St. G</Forenames>
+      <Text>. (Vet.-Lieut.)</Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +625,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Picot</Key>
-      <Text>Maj. F. S. (Governor of a Military Prison)</Text>
+      <Title>Maj.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(Governor of a Military Prison)</Text>
       <PageNumber>3093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1019,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowth</Key>
-      <Text>F. R. (Col)</Text>
+      <Forenames>F. R.</Forenames>
+      <Text>(Col)</Text>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,8 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>Qrmr. and Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Qrmr. and Hon. Lieut</Title>
       <Text>, W. (retired)</Text>
       <PageNumber>1202</PageNumber>
     </MainItem>

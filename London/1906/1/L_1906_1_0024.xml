@@ -141,7 +141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teller</Key>
-      <Text>. W. D. (Lieut.)</Text>
+      <Forenames>W. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +289,8 @@
     <MainItem>
       <Key>Hughes</Key>
       <Title>Capt.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (retired)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>15</PageNumber>
       <PageNumber>17</PageNumber>
     </MainItem>

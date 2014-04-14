@@ -82,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillies</Key>
-      <Text>. K. G</Text>
+      <Forenames>K. G.</Forenames>
       <PageNumber>2354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>. C. J. P. M.</Text>
+      <Forenames>C. J. P. M.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>. H..R. B. .</Text>
+      <Forenames>H.</Forenames>
+      <Text>.R. B. .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,8 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sime</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>2354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>. G. H. ..'</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>..'</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>. T. A. ..'</Text>
+      <Forenames>T. A.</Forenames>
+      <Text>..'</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. D. M. .. '</Text>
+      <Forenames>D. M.</Forenames>
+      <Text>.. '</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,8 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>2355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,14 +718,15 @@
   <ItemGroup>
     <MainItem>
       <Key>BerringtoivG</Key>
-      <Text>. T. D. .. S</Text>
+      <Forenames>T. D.</Forenames>
+      <Text>.. S</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Biclctbrd</Key>
-      <Text>. M. H.</Text>
+      <Forenames>M. H.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,9 +799,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. C. . -. ..</Text>
+      <Key>De Butts</Key>
+      <Forenames>F. C.</Forenames>
+      <Text>. -. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowding</Key>
-      <Text>. C. G. .</Text>
+      <Forenames>C. G.</Forenames>
+      <Text>.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pcake</Key>
-      <Text>.H. C. P.</Text>
+      <Forenames>H. C. P.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Artindell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R, T</Text>
       <PageNumber>836</PageNumber>
     </MainItem>

@@ -400,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaye</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>H. R.</Forenames>
-      <Text>von D</Text>
+      <Forenames>H. R. von D</Forenames>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,8 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>St.</Title>
-      <Forenames>J. V</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>V</Forenames>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,8 +804,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <Text>.. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -822,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardew</Key>
-      <Text>H. S</Text>
+      <Forenames>H. S</Forenames>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,8 +1206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malone</Key>
-      <Forenames>B. O</Forenames>
-      <Text>'C. V. H. V</Text>
+      <Forenames>B. O'C</Forenames>
+      <Text>. V. H. V</Text>
       <PageNumber>4349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,7 +1445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>:-Col. J. R. C</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

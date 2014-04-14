@@ -628,7 +628,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. C. (antedated)</Text>
       <PageNumber>1969</PageNumber>
     </MainItem>
@@ -685,24 +685,25 @@
     <MainItem>
       <Key>Roche</Key>
       <Title>Lieut.-Col. Hon.</Title>
-      <Forenames>V.</Forenames>
-      <Text>de R. B. (antedated)</Text>
+      <Forenames>V. de R</Forenames>
+      <Text>. B. (antedated)</Text>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
-      <Forenames>J. H.</Forenames>
-      <Text>du B. (Maj.) ... ..</Text>
+      <Forenames>J. H. du B</Forenames>
+      <Text>. (Maj.) ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Super. Capt. B. W. S. (antedated)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Super. Capt.</Title>
+      <Forenames>B. W. S.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>1712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>W. F. (Lieut.)</Text>
+      <Forenames>W. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1749,9 @@
       <Key>Jardine</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>432</PageNumber>
     </MainItem>
   </ItemGroup>

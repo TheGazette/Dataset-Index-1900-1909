@@ -73,8 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Diemen</Forenames>
+      <Key>Van Diemen</Key>
       <Text>'s Land Company, yearly general meeting</Text>
       <PageNumber>2479</PageNumber>
     </MainItem>
@@ -241,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,8 +295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Forenames>Bros</Forenames>
-      <Text>.and Co... .:</Text>
+      <Title>Bros.</Title>
+      <Text>and Co... .:</Text>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,16 +313,16 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Walter</Forenames>
-      <Text>.. .. .;</Text>
+      <Title>Walter .</Title>
+      <Text>. .. .;</Text>
       <PageNumber>870</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>William</Forenames>
-      <Text>.. .. ;</Text>
+      <Title>William .</Title>
+      <Text>. .. ;</Text>
       <PageNumber>2300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +514,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C and T</Text>
+      <Forenames>C</Forenames>
+      <Text>and T</Text>
       <PageNumber>2486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>1526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bubb</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,6 +858,13 @@
       <Key>Butter</Key>
       <Forenames>J. L</Forenames>
       <PageNumber>521</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Butler</Key>
+      <Text>and Seymour</Text>
+      <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -971,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapham</Key>
-      <Text>Whitehead, and Co</Text>
+      <Forenames>Whitehead</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,15 +1057,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Cocks</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.. .. :\</Text>
+      <Title>Brothers .</Title>
+      <Text>. .. :\</Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,8 +1152,8 @@
       <Key>
         <KeyDitto>—. ___</KeyDitto>
       </Key>
-      <Forenames>Brothers</Forenames>
-      <Text>... ..:</Text>
+      <Title>Brothers .</Title>
+      <Text>.. ..:</Text>
       <PageNumber>2300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coppock</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dagnell</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>76</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,17 +1371,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Clermont</Forenames>
+      <Key>De Clermont</Key>
       <Text>and Donner</Text>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, J. W., and Co</Text>
+      <Key>De Silva</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>75</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,7 +1557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellisdon</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2301</PageNumber>
     </MainItem>
   </ItemGroup>

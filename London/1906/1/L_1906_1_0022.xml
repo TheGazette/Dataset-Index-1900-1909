@@ -252,8 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Forenames>P. C.</Forenames>
-      <Text>du S. (Instr. of Musketry) .. .. .. ..</Text>
+      <Forenames>P. C. du S</Forenames>
+      <Text>. (Instr. of Musketry) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>L</Key>
-      <Text>.eathart, Lieut. J. G. (resigned)</Text>
+      <Text>eathart, Lieut. J. G. (resigned)</Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +482,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cok</Key>
-      <Text>.St. J. A. (Maj.) .. .. .'</Text>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Maj.) .. .. .'</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,6 +647,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The Norfolk Regiment</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1795</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grissell</Key>
@@ -846,7 +856,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>. Capt. G. F. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,8 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (Lieut.-Col.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>

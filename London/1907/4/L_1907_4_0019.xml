@@ -45,7 +45,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daubeny</Key>
-      <Text>Capt. C. J. B. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C. J. B.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quarry</Key>
-      <Title>St.</Title>
-      <Forenames>J. S.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>S.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>8443</PageNumber>
     </MainItem>
@@ -532,8 +534,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, J. W. (Capt.)</Text>
+      <Key>O'Dowda</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Regiment</Key>
-      <Text>. The King's Own (Yorkshire Light Infantry). Carter, Lieut H. F. G. (seconded)</Text>
+      <Title>The King</Title>
+      <Text>'s Own (Yorkshire Light Infantry). Carter, Lieut H. F. G. (seconded)</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
     <SubItem>
@@ -1104,7 +1108,9 @@
       <Key>Henniker</Key>
       <Title>Sir</Title>
       <Forenames>F. B. M.</Forenames>
-      <Text>, Bart. (Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>

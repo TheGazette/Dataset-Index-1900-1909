@@ -355,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>A.</Forenames>
-      <Text>de W. (Maj.)</Text>
+      <Forenames>A. de W</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>7764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,9 +525,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Domaine</Forenames>
-      <Text>, A. R. (retired Lieut.)</Text>
+      <Key>Du Domaine</Key>
+      <Forenames>A. R.</Forenames>
+      <Text>(retired Lieut.)</Text>
       <PageNumber>8554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,8 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lillev</Key>
-      <Forenames>J. L. St</Forenames>
-      <Text>. G. (Sub-Lieut.)</Text>
+      <Forenames>J. L. St. G</Forenames>
+      <Text>. (Sub-Lieut.)</Text>
       <PageNumber>7565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,8 +1161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Forenames>C.</Forenames>
-      <Text>de La M. .. -..</Text>
+      <Forenames>C. de La M.</Forenames>
+      <Text>.. -..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>W. .. .. .. ..</Text>
+      <Forenames>W.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

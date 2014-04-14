@@ -163,7 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>C. H. B. (2nd Lieut.)</Text>
+      <Forenames>C. H. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +384,9 @@
       <Key>Shaw</Key>
       <Title>Sir</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +404,9 @@
       <Key>Cuninghame</Key>
       <Title>Sir.</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,10 +531,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Eidder</Forenames>
-      <Text>, E. E. (Capt.) .. ..</Text>
+      <Key>de La</Key>
+      <Forenames>Chapnlle</Forenames>
+      <Text>, X. E. A. (Capt.)</Text>
+      <PageNumber>8780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Eidder</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vernon</Key>
+      <Forenames>F. V. de L</Forenames>
+      <Text>. G. (Maj.)</Text>
+      <PageNumber>6578</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -552,8 +573,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, G. J. P. P. (Adj.)</Text>
+      <Key>O'Shee</Key>
+      <Forenames>G. J. P. P.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>9106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,6 +593,14 @@
       <Forenames>C. A. M.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>7583</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>O. W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -627,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock-Gore</Key>
-      <Forenames>Lieut-Col W. A. M.</Forenames>
+      <Title>Lieut-</Title>
+      <Forenames>Col W. A. M.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>8780</PageNumber>
     </MainItem>
@@ -1107,7 +1138,9 @@
     <MainItem>
       <Key>Drew</Key>
       <Forenames>B. C. H</Forenames>
-      <Text>Duff-Sutherland-Dunbar, Sir G., Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

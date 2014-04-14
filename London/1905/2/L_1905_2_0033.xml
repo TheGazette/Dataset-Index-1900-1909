@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Solfleet</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdey</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Bev</Forenames>
-      <Text>. H</Text>
+      <Title>Bev.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>Col.-Comdt. A. E. (retired list and Hon. Maj.-Gen.)</Text>
+      <Title>Col.</Title>
+      <Text>-Comdt. A. E. (retired list and Hon. Maj.-Gen.)</Text>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,8 +731,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, Assist.-Paymr. (retired list) .. .. '</Text>
+      <Key>O'Shaughnessy</Key>
+      <Title>Assist.</Title>
+      <Text>-Paymr. (retired list) .. .. '</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,6 +927,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Kantzow</Key>
+      <Forenames>A. H.</Forenames>
+      <Text>(Comdr.-Instr.)</Text>
+      <PageNumber>3425</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Drummond</Key>
       <Forenames>A. C. H.</Forenames>
       <Text>(Sub-Lieut.)</Text>
@@ -967,8 +977,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Comdr</Forenames>
-      <Text>.-Instr. M. L. (cancellation)</Text>
+      <Title>Comdr.</Title>
+      <Text>-Instr. M. L. (cancellation)</Text>
       <PageNumber>2889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1115,6 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aberystwith</Key>
@@ -1239,12 +1248,18 @@
       <PageNumber>3468</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Ludgershall, Tetchwick, freehold estate (Bonghton v. Koads)</Text>
-      <PageNumber>4584</PageNumber>
+      <Text>* Longton, freehold premises (Millington v. Walters)</Text>
+      <PageNumber>4285</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Bayleigh, High-street, freehold premises (Swain v. Swain)</Text>
-      <PageNumber>2670</PageNumber>
+      <Text>Pembury; Lower Green, freehold property and cottages (Hatch v. Ashby)</Text>
+      <PageNumber>3814</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3468</PageNumber>
+      </Text>
+      <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </SubItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

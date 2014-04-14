@@ -32,8 +32,8 @@
     <MainItem>
       <Key>FitzOerald</Key>
       <Title>Capt.</Title>
-      <Forenames>L.</Forenames>
-      <Text>de F. (seconded)</Text>
+      <Forenames>L. de F</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,8 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larpent</Key>
-      <Forenames>L. W. P. De H.</Forenames>
-      <Text>(Capt.) ..</Text>
+      <Forenames>L. W. P. De H</Forenames>
+      <Text>. (Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,9 @@
       <Key>Bellew</Key>
       <Title>Sir</Title>
       <Forenames>H. C. Or</Forenames>
-      <Text>., Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Conway</Key>
-      <Text>. E. P. (Capt.) .. ..</Text>
+      <Forenames>E. P.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,8 +558,8 @@
     <MainItem>
       <Key>Hazledine</Key>
       <Title>Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. C. (re-</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. C. (re-</Text>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Forenames>S. G.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>S. G. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,6 +821,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>5th Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vernon</Key>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>F. V. de L</Forenames>
+      <Text>. G. (cashiered)</Text>
+      <PageNumber>5734</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
@@ -1239,8 +1251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6222</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -111,8 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>M. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Leger, Lieut.-Col. St. J. J. (retired)</Text>
+      <Forenames>Leger</Forenames>
+      <Text>, Lieut.-Col. St. J. J. (retired)</Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +191,9 @@
       <Key>Weldon</Key>
       <Title>Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, Bart. (Hon. . Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jesson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry A.L. P. (resigned)</Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
@@ -534,8 +537,8 @@
     <MainItem>
       <Key>Prittie</Key>
       <Title>Hon.</Title>
-      <Forenames>H. C. O</Forenames>
-      <Text>'C. (Lieut.)</Text>
+      <Forenames>H. C. O'C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellairs</Key>
-      <Forenames>A.</Forenames>
-      <Text>de M. (Lieut.)</Text>
+      <Forenames>A. de M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +905,9 @@
     <MainItem>
       <Key>FitzGerald</Key>
       <Title>Lieut.</Title>
-      <Text>A.E. (seconded)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>4677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,15 +1523,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, A. C.</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M. E.</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

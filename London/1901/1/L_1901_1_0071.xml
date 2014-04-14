@@ -168,7 +168,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. O. F. (seconded)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
@@ -579,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. G. I. (seconded)</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
@@ -592,6 +592,15 @@
       <Forenames>R.</Forenames>
       <Text>a. I. (Capt.)</Text>
       <PageNumber>3638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. G. N.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1609,7 +1618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walt</Key>
-      <Text>. G. C. (temporary Lieut.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>1941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1660,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. O. (seconded) .. -r—</Text>
       <PageNumber>___</PageNumber>
     </MainItem>

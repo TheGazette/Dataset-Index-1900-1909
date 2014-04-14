@@ -187,8 +187,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, E. C. C. (2nd Lieut.)</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>E. C. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,8 +538,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Ford, Capt. B. St. C. (seconded)</Text>
+      <Key>St. Clair-Ford</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. St. C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +632,8 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (seconded)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McBride</Key>
-      <Text>J. B. (Surg.-Lieut.)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Surg.-Lieut.)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,8 +1805,8 @@
     <MainItem>
       <Key>Weldon</Key>
       <Title>Capt.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de W. (seconded)</Text>
+      <Forenames>B. de W</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1119</PageNumber>
     </MainItem>
   </ItemGroup>

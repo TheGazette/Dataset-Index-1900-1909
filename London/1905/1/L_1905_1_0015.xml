@@ -242,6 +242,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2183</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fishbourne</Key>
       <Forenames>C. E.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -381,8 +389,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, C. W. R. (Lieut.-Col.)</Text>
+      <Key>St. John</Key>
+      <Forenames>C. W. R.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +830,9 @@
       <Key>Compton-Thornhill</Key>
       <Title>Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bart. (Hon.-Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +864,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de Gr. (2nd Lieut.)</Text>
+      <Forenames>H. de Gr</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>

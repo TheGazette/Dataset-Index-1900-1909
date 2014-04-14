@@ -242,7 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>Lieut. P. F. (super.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>P. F.</Forenames>
+      <Text>(super.)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +302,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grosvenor</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. E. V. (seconded)</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>E. V.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,6 +498,15 @@
       <Forenames>H. J.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>1880</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laroque</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>2513</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -735,8 +747,8 @@
     <MainItem>
       <Key>McCaffry</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L.-(resigned)</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>.-(resigned)</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,8 +951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Houseman</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumley</Key>
-      <Text>Smith, T.G. (2nd Lieut, super.)</Text>
+      <Forenames>Smith</Forenames>
+      <Text>, T.G. (2nd Lieut, super.)</Text>
       <PageNumber>1008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,8 +1551,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Capt. F. J. (seconded)</Text>
+      <Key>St. John</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2201</PageNumber>
     </MainItem>
   </ItemGroup>

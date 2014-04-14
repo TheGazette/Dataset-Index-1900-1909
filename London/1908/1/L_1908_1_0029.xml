@@ -65,8 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorneloe</Key>
-      <Forenames>C.</Forenames>
-      <Text>de V. (Lieut.)</Text>
+      <Forenames>C. de V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,8 +228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. H. (2nd Lieut.)..</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. H. (2nd Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de L. .. .. ..</Text>
+      <Forenames>J. J. de L</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +635,9 @@
       <Key>Fludyer</Key>
       <Title>Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fothergill</Key>
-      <Text>Maj. S. E</Text>
+      <Title>Maj.</Title>
+      <Forenames>S. E</Forenames>
       <PageNumber>1969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +664,9 @@
       <Key>Temple</Key>
       <Title>Sir</Title>
       <Forenames>R. C</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>

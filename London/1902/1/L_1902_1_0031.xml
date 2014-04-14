@@ -131,8 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. I*. M. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. I</Forenames>
+      <Text>*. M. (2nd Lieut.)</Text>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +336,9 @@
       <Key>Crossley</Key>
       <Title>Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +381,9 @@
       <Key>Thornhill</Key>
       <Title>Capt. Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bart. (Permitted to assume the surname of Compton)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffolk</Key>
-      <Text>. Corbctt-Windcr, F. F. (2nd Lieut.)</Text>
+      <Forenames>Corbctt-Windcr</Forenames>
+      <Text>, F. F. (2nd Lieut.)</Text>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,8 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>A. V. St</Forenames>
-      <Text>. J. (Capt,)</Text>
+      <Forenames>A. V. St. J</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>2865</PageNumber>
     </MainItem>
   </ItemGroup>

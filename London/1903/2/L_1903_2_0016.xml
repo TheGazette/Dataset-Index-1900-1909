@@ -472,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: G. G. M-. (seconded)!</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
@@ -499,7 +499,9 @@
       <Key>Fraser</Key>
       <Title>Capt. Sir</Title>
       <Forenames>K</Forenames>
-      <Text>&lt;. A., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>

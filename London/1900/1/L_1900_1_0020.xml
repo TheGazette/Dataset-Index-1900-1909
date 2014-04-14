@@ -193,8 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey-Kellv</Key>
-      <Text>H. St. G. H. (2nd Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. H. (2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MuSBen</Key>
-      <Text>S. P. (2nd Lieut.)</Text>
+      <Forenames>S. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,16 +581,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. N. De V.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>A. N. De V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sime</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,8 +1279,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>G. F.</Forenames>
-      <Text>de B., Chief Recruiting Staff Officer .. .-</Text>
+      <Forenames>G. F. de B</Forenames>
+      <Text>., Chief Recruiting Staff Officer .. .-</Text>
       <PageNumber>1794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farinar</Key>
-      <Text>G. J., Aide-de-Camp tbLieut.'Geh. Sir F. W. Grenf ell .. .. '</Text>
+      <Forenames>G. J.</Forenames>
+      <Text>, Aide-de-Camp tbLieut.'Geh. Sir F. W. Grenf ell .. .. '</Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>

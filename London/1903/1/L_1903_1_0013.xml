@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meadows</Key>
-      <Text>. S. M. W. (Lieut.) .. ..</Text>
+      <Forenames>S. M. W.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,9 @@
       <Key>Clark</Key>
       <Title>Sir</Title>
       <Forenames>J. R. A.</Forenames>
-      <Text>, Bart, (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,8 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kneller</Key>
-      <Forenames>G. T. C. St</Forenames>
-      <Text>. J. (Col.) ..</Text>
+      <Forenames>G. T. C. St. J</Forenames>
+      <Text>. (Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,6 +1582,15 @@
       <Forenames>H. F.</Forenames>
       <Text>(Lieut.-Col.)</Text>
       <PageNumber>1858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolski</Key>
+      <Title>Col.</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>(retired pay)</Text>
+      <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -72,8 +72,8 @@
     <MainItem>
       <Key>Mosgrove</Key>
       <Title>Capt.</Title>
-      <Forenames>K. St</Forenames>
-      <Text>. P. (cancellation)</Text>
+      <Forenames>K. St. P</Forenames>
+      <Text>. (cancellation)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>W.</Forenames>
-      <Text>de L. (Maj.)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,8 +666,8 @@
     <MainItem>
       <Key>Boone</Key>
       <Title>Capt.</Title>
-      <Forenames>C. F.</Forenames>
-      <Text>de B. (seconded)</Text>
+      <Forenames>C. F. de B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +836,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidlow</Key>
-      <Text>.Jackson, 2nd Lieut. C. W. (resigned)</Text>
+      <Forenames>Jackson</Forenames>
+      <Text>, 2nd Lieut. C. W. (resigned)</Text>
       <PageNumber>400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,8 +1056,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, J. W. (Maj.)</Text>
+      <Key>O'Dowda</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,8 +1130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W. H. (2nd Lieut.)</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>. H. (2nd Lieut.)</Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,8 +1194,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Oonnell, Maj. J. E. (retired)</Text>
+      <Key>O'Oonnell</Key>
+      <Title>Maj.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>.Knox-Gore,W. A.C. (Lieut.)</Text>
+      <Forenames>Knox-Gore</Forenames>
+      <Text>,W. A.C. (Lieut.)</Text>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,8 +4,8 @@
     <MainItem>
       <Key>Dalrymple-Hamilton</Key>
       <Title>Lieut.-Col. and Brev. Col. Hon.</Title>
-      <Forenames>N.</Forenames>
-      <Text>de C. (retired)</Text>
+      <Forenames>N. de C</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +428,9 @@
       <Key>Rawlinson</Key>
       <Title>Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bart, (temporary Brig.-Gen.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +468,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, Hon, J. T. (Col.)</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>Hon</Forenames>
+      <Text>, J. T. (Col.)</Text>
       <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,8 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>6060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Forenames>J. De B.</Forenames>
+      <Forenames>J. De B</Forenames>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisdee</Key>
-      <Text>J. H. .. '</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>.. '</Text>
       <PageNumber>6060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,9 +1669,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haviland</Forenames>
-      <Text>, T. L</Text>
+      <Key>de Castilla</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>6060</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Haviland</Key>
+      <Forenames>T. L.</Forenames>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>

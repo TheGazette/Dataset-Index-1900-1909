@@ -184,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeill</Key>
-      <Text>. A. N. K, (Lieut.)</Text>
+      <Forenames>A. N. K</Forenames>
+      <Text>, (Lieut.)</Text>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,8 +313,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. H. (Lieut.)</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wo</Key>
-      <Text>.ton, W. J. (Capt.) .. ..</Text>
+      <Text>ton, W. J. (Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,8 +898,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Eorke, F. C. (Capt.) .. ..</Text>
+      <Key>O'Eorke</Key>
+      <Forenames>F. C.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,8 +1012,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (Col.) ..' ..</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (Col.) ..' ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1109,9 @@
     <MainItem>
       <Key>Holliday</Key>
       <Forenames>J.</Forenames>
-      <Text>C.H. (Lieut.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>1112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,7 +1716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirb</Key>
-      <Text>.v, M. T. (local rank of Capt.)</Text>
+      <Text>v, M. T. (local rank of Capt.)</Text>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1851,7 +1856,9 @@
     <MainItem>
       <Key>Nixon</Key>
       <Forenames>B.</Forenames>
-      <Text>G.M. F. (Lieut.)</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,8 +1881,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, T. (Hon. Maj.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>T.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>

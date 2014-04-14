@@ -54,7 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>F. W.' .. . ..</Text>
+      <Forenames>F. W.</Forenames>
+      <Text>' .. . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +448,8 @@
     <MainItem>
       <Key>Barrow</Key>
       <Title>Maj.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S., Deputy-Assist. Qrmr.-Gen. for Mobilisation</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>., Deputy-Assist. Qrmr.-Gen. for Mobilisation</Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,9 +465,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Title>Brev.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. A. W. G, L., Temporary-Assist.Adj.-Gen</Text>
+      <Title>Brev. Lieut-Col.</Title>
+      <Forenames>A. W. G</Forenames>
+      <Text>, L., Temporary-Assist.Adj.-Gen</Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,8 +928,8 @@
     <MainItem>
       <Key>Williams</Key>
       <Title>Capt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>de L. (Station Staff Officer)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (Station Staff Officer)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

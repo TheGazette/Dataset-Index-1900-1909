@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>KarslakeCapt</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +171,8 @@
     <MainItem>
       <Key>Dudley</Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S. (Ordnance Officer, 4th Class)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Ordnance Officer, 4th Class)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wethered</Key>
-      <Forenames>Lieut H. L.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. L.</Forenames>
       <Text>(Ordnance Officer, 4th Class)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -768,8 +769,8 @@
     <MainItem>
       <Key>Hore</Key>
       <Title>Maj.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S. (retired pay)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S. (retired pay)</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +812,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>V. G. Lieut</Forenames>
+      <Forenames>V. G.</Forenames>
+      <Text>Lieut</Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Killery</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
@@ -859,8 +861,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langrishe</Key>
-      <Forenames>J.</Forenames>
-      <Text>du P. (Lieut.)</Text>
+      <Forenames>J. du P</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>. E. M. (Lieut.)</Text>
+      <Forenames>E. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,15 +989,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. D. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, J. J. (Lieut.)</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,8 +1320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Forenames>Surgn-Lieut-</Forenames>
-      <Text>Col. J. W. (resigned)</Text>
+      <Forenames>Surgn-</Forenames>
+      <Text>Lieut-Col. J. W. (resigned)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1498,9 @@
       <Key>Maclure</Key>
       <Title>Sir</Title>
       <Forenames>J. E. S.</Forenames>
-      <Text>, Bart. (Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>258</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -497,8 +497,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chandos-Pole</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. R. W. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +508,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>P. C</Forenames>
-      <Text>, Bart. (Lieut-Col. and to command) .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +528,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, G. H. (Maj.) ..</Text>
+      <Key>St. Hill</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +539,9 @@
       <Key>Wrey</Key>
       <Title>Sir</Title>
       <Forenames>B. R. S.</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +553,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +760,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +793,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, G. (2nd Lieut.)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

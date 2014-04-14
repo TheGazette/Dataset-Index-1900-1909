@@ -720,7 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris-Edge</Key>
-      <Text>H. P. (Maj.) .. ..</Text>
+      <Forenames>H. P.</Forenames>
+      <Text>(Maj.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewlett</Key>
-      <Text>J. H. (2nd Lieut.)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,8 +1134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Givn</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Lieut.-Col.) Griffiths, H. E. (Capt. and Hon. Maj.) Harper, G. (Capt.) Hart, A. E. (Lieut.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Lieut.-Col.) Griffiths, H. E. (Capt. and Hon. Maj.) Harper, G. (Capt.) Hart, A. E. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

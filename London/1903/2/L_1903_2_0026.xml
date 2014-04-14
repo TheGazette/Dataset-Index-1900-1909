@@ -268,8 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Lieut.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,8 +284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansergh</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G. (2nd Lieut.) ..</Text>
+      <Forenames>P. St. G</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,8 +438,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Prodsham</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. J. H. (half. pay)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W. J. H.</Forenames>
+      <Text>(half. pay)</Text>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tapson</Key>
-      <Forenames>Lieut P. E. W.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>P. E. W.</Forenames>
       <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -920,6 +922,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>T. W. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3941</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Reade</Key>
       <Forenames>D. H. P. H.</Forenames>
       <Text>(Lieut.) ..</Text>
@@ -1134,7 +1144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leachman</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. E. (antedated)</Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
@@ -1372,8 +1382,8 @@
     <MainItem>
       <Key>Malan</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>J. C.</Forenames>
-      <Text>de M (resigned) .. .. '</Text>
+      <Forenames>J. C. de M</Forenames>
+      <Text>(resigned) .. .. '</Text>
       <PageNumber>3720</PageNumber>
     </MainItem>
   </ItemGroup>

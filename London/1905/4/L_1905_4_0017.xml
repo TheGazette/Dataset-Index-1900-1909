@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Currne</Key>
-      <Text>.W. C. (Maj.)</Text>
+      <Forenames>W. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +260,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kinealy, J. (Capt.)</Text>
+      <Key>O'Kinealy</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,8 +463,8 @@
     <MainItem>
       <Key>Haig</Key>
       <Title>Brev. Col.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de H. (half-pay)</Text>
+      <Forenames>H. de H</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,8 +859,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>W. P.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>W. P. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,6 +883,15 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Londonderry</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hamel</Key>
+      <Title>Super. Maj.</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>7101</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>Pembroke</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -942,6 +953,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Sussex</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Roemer</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8903</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>

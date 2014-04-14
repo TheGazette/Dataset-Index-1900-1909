@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Text>. Strode, G. S. S</Text>
+      <Forenames>Strode</Forenames>
+      <Text>, G. S. S</Text>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +13,9 @@
       <Key>Gilbey</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +246,9 @@
       <Key>Sawle</Key>
       <Title>Sir</Title>
       <Forenames>C. J. G.</Forenames>
-      <Text>, Bart. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. J. de W</Forenames>
       <PageNumber>4229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +923,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallett</Key>
-      <Text>T '</Text>
+      <Forenames>T</Forenames>
+      <Text>'</Text>
       <PageNumber>8656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. L. .. .. ..</Text>
+      <Forenames>S. St. L</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,8 +1070,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. L</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. L.</Forenames>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,6 +1451,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>R. V.</Forenames>
+      <Text>'.. .. ..</Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dobson</Key>
       <Forenames>C. C.</Forenames>
       <Text>.. .. .. .. .</Text>
@@ -1636,7 +1649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>de C. W. P</Text>
+      <Title>de C.</Title>
+      <Forenames>W. P.</Forenames>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>

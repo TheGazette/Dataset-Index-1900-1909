@@ -89,7 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adair</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. C. (antedated)</Text>
       <PageNumber>4968</PageNumber>
     </MainItem>
@@ -116,8 +116,8 @@
     <MainItem>
       <Key>Child</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (antedated)</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,15 +494,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Lieut.-Col. and Brev. Col. N. P. (retired pay)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>N. P.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>8759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Lieut.-Col J. de C. (to command the 12th)</Text>
+      <Key>O'Grady</Key>
+      <Title>Lieut.</Title>
+      <Text>-Col J. de C. (to command the 12th)</Text>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,9 +666,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, E</Text>
+      <Key>De Brath</Key>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>7245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,8 +1360,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, H. de C. .. .. ..</Text>
+      <Key>O'Grady</Key>
+      <Forenames>H. de C</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1390,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, H. B .. ..</Text>
+      <Key>St. John</Key>
+      <Forenames>H. B .</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1435,9 @@
     <MainItem>
       <Key>Wheeler</Key>
       <Forenames>G.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1544,8 +1548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>

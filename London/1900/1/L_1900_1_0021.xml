@@ -180,7 +180,7 @@
       <PageNumber>1078</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>-Hare, R. H., Deputy-Assist. Adj;-Gen.</Text>
+      <Text>-Hare, R. H., Deputy-Assist. Adj;-Gen</Text>
       <PageNumber>3815</PageNumber>
     </SubItem>
     <SubItem>
@@ -216,8 +216,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J;, Aide-de-Camp to Lieut.-Gen. R. Pole-Carew</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>;, Aide-de-Camp to Lieut.-Gen. R. Pole-Carew</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,8 +316,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. R.</Forenames>
-      <Text>de B., Deputy-Assist. Adj.-Gen. .. .. .. .. ibidJeans, C. G., Deputy-Assist. DirectorGen, of Ordnance at Head-Quarters</Text>
+      <Forenames>M. R. de B</Forenames>
+      <Text>., Deputy-Assist. Adj.-Gen. .. .. .. .. ibidJeans, C. G., Deputy-Assist. DirectorGen, of Ordnance at Head-Quarters</Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Title>St.</Title>
-      <Forenames>G. M.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>M.</Forenames>
       <Text>, Col. for Royal Engineers</Text>
       <PageNumber>2199</PageNumber>
     </MainItem>
@@ -628,8 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Title>St.</Title>
-      <Forenames>J. E.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>E.</Forenames>
       <Text>, Aide-de-Camp to Lieut.-Gen. R. Pole-Carew</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
@@ -753,8 +753,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. E., Director of Signalling in South Africa, with local rank of Lieut.-Col</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. E.</Forenames>
+      <Text>, Director of Signalling in South Africa, with local rank of Lieut.-Col</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +778,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Rev: C. F:, Chaplain</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Rev</Forenames>
+      <Text>: C. F:, Chaplain</Text>
       <PageNumber>430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,8 +978,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Col.J. L. C, Deputy Judge' . Advocate-General in South Africa</Text>
+      <Key>St. Clair</Key>
+      <Title>Col.</Title>
+      <Forenames>J. L. C</Forenames>
+      <Text>, Deputy Judge' . Advocate-General in South Africa</Text>
       <PageNumber>1526</PageNumber>
     </MainItem>
   </ItemGroup>

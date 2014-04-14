@@ -237,6 +237,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de St</Key>
+      <Forenames>Oroix</Forenames>
+      <Text>, C. (Lieut.)</Text>
+      <PageNumber>110</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Laytori</Key>
       <Forenames>N. A.</Forenames>
       <Text>(Maj.)</Text>
@@ -498,8 +506,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lieut. H. R. (resigned)</Text>
+      <Key>O'Neill</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,8 +993,8 @@
     <MainItem>
       <Key>Harvey</Key>
       <Title>Capt.</Title>
-      <Forenames>W. J. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>W. J. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>

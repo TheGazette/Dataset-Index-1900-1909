@@ -158,8 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (2ud Lieut.)</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (2ud Lieut.)</Text>
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eckersley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. T. (seconded)</Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
@@ -266,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. E. (seconded)</Text>
       <PageNumber>4125</PageNumber>
     </MainItem>
@@ -460,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Lieut A. M.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A. M.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>4125</PageNumber>
     </MainItem>
@@ -653,14 +654,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>A. E. (2nd Lieut.)</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Lieut. A. B. (resigned)</Text>
+      <Key>O'Donnell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>B</Text>
+      <Forenames>B .</Forenames>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,8 +1284,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoglme, M. E. (temporary)</Text>
+      <Key>O'Donoglme</Key>
+      <Forenames>M. E.</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,8 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>E. W. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. W. St. G</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,8 +1549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martindale</Key>
-      <Forenames>C. S.</Forenames>
-      <Text>de B.</Text>
+      <Forenames>C. S. de B</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

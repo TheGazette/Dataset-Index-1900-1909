@@ -131,8 +131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C. (2nd Lieut.)..</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>. (2nd Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broun</Key>
-      <Text>. M. A. W. (Hon. Col.) ..</Text>
+      <Forenames>M. A. W.</Forenames>
+      <Text>(Hon. Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,6 +521,14 @@
       <Forenames>N. L</Forenames>
       <Text>, (2nd Lieut.)</Text>
       <PageNumber>3601</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (2nd Lieut.)</Text>
+      <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1076,7 +1085,9 @@
       <Key>Anstruther</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,6 +1132,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The Oxfordshire Light Infantry</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pledge</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3940</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dillon</Key>
@@ -1272,8 +1291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (2nd Lieat.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (2nd Lieat.)</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,8 +1326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufnell</Key>
-      <Forenames>N. C. A.</Forenames>
-      <Text>de H. (Maj.)</Text>
+      <Forenames>N. C. A. de H</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>

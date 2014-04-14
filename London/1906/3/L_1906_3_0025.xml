@@ -86,8 +86,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>W.</Forenames>
-      <Text>de G. (Lieut.)</Text>
+      <Forenames>W. de G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Capt. Hon. C. H. M. (seconded)</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, Capt. Hon. C. H. M. (seconded)</Text>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +620,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>. Lieut. J. G. S. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J. G. S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,15 +779,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Maj. W. E. (temoorary half-pay)</Text>
+      <Key>O'Leary</Key>
+      <Title>Maj.</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>(temoorary half-pay)</Text>
       <PageNumber>6115</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A. M. (Lieut.) V</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>(Lieut.) V</Text>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,8 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>.J. H. (Lieut.)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,8 +1248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C. (Lieut.) .. „</Text>
+      <Forenames>M. St. C</Forenames>
+      <Text>. (Lieut.) .. „</Text>
       <PageNumber>4891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lefroy</Key>
-      <Text>.F. B. (Lieut.)</Text>
+      <Forenames>F. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>

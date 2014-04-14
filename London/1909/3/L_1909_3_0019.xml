@@ -392,7 +392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayall</Key>
-      <Text>.C. G. (Capt.).,</Text>
+      <Forenames>C. G.</Forenames>
+      <Text>(Capt.).,</Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beynon</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>L. St. P</Forenames>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,6 +1088,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6092</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dixon</Key>
       <Forenames>R. A.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1141,8 +1149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furber</Key>
-      <Forenames>H. A.</Forenames>
-      <Text>de F. (Lieut.)</Text>
+      <Forenames>H. A. de F</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,14 +1196,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Text>. A. E. C. (2nd Lieut.) Gordon, C. W. (Adjt.)</Text>
+      <Forenames>A. E. C.</Forenames>
+      <Text>(2nd Lieut.) Gordon, C. W. (Adjt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gord</Key>
-      <Text>.ori-Duif, L. (Lieut.)</Text>
+      <Text>ori-Duif, L. (Lieut.)</Text>
       <PageNumber>5988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,8 +1343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. T. (Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. T. (Lieut.)</Text>
       <PageNumber>5988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,7 +1410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>. 2nd Lieut. E. G. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,8 +1563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>E. Du P. H.</Forenames>
-      <Text>(Adjt.)</Text>
+      <Forenames>E. Du P</Forenames>
+      <Text>. H. (Adjt.)</Text>
       <PageNumber>6751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1595,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Naylor</Key>
-      <Text>.C. F. (Lieut.)</Text>
+      <Forenames>C. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1623,8 +1635,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, Capt. F. T. (resigned)</Text>
+      <Key>O'Meagher</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. T.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1711,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdon</Key>
-      <Text>. B. H. (Lieut.)</Text>
+      <Forenames>B. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>

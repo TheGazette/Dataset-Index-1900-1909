@@ -54,7 +54,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, M. H. (antedated)</Text>
       <PageNumber>3382</PageNumber>
     </MainItem>
@@ -186,7 +186,9 @@
       <Key>Power</Key>
       <Title>Sir</Title>
       <Forenames>E. D. Le P.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +204,8 @@
     <MainItem>
       <Key>Prittie</Key>
       <Title>Hon.</Title>
-      <Forenames>H. C. O</Forenames>
-      <Text>'C. (2nd Lieut.)</Text>
+      <Forenames>H. C. O'C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. E. B. (seconded)</Text>
       <PageNumber>1852</PageNumber>
     </MainItem>
@@ -279,7 +281,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. R. (correction)</Text>
       <PageNumber>3382</PageNumber>
     </MainItem>
@@ -493,8 +495,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Capt. P. P. (resigned) ..</Text>
+      <Key>O'Reilly</Key>
+      <Title>Capt.</Title>
+      <Forenames>P. P.</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northcote</Key>
-      <Text>. A. F. (2nd Lieut.) .. ..</Text>
+      <Forenames>A. F.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,8 +754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (Lieut.) .. ..</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,8 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Forenames>P. S.</Forenames>
-      <Text>de M. (Capt.) .. ..</Text>
+      <Forenames>P. S. de M</Forenames>
+      <Text>. (Capt.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,8 +1338,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>G. W. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>G. W. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1977,8 +1982,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J '</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>'</Text>
       <PageNumber>2714</PageNumber>
     </MainItem>
   </ItemGroup>

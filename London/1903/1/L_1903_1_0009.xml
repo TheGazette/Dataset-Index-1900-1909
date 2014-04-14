@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Miraj</Key>
       <Forenames>Chief</Forenames>
-      <Text>of, Knight Commander of the Indian Empire . .. .. Ill Mirza Umrao Beg-Ressaidar,Bahadur, Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +37,9 @@
     <MainItem>
       <Key>Monk</Key>
       <Forenames>Bretton</Forenames>
-      <Text>, Lord, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>2059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +126,9 @@
       </Key>
       <Title>Lieut.-Gen. Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>&amp;., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jeru-</Honour>
+      </Text>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,8 +216,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirbright</Key>
-      <Title>Lady, Lady</Title>
-      <Text>of Grace, St. John of Jerusalem</Text>
+      <Title>Lady</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudolf</Key>
-      <Forenames>R.</Forenames>
-      <Text>de M., Companion of the Imperial Service Order</Text>
+      <Forenames>R. de M</Forenames>
+      <Text>., Companion of the Imperial Service Order</Text>
       <PageNumber>2142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +362,9 @@
     <MainItem>
       <Key>Sandwith</Key>
       <Forenames>F. M.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +372,9 @@
     <MainItem>
       <Key>Sarawans</Key>
       <Forenames>Premier Chief</Forenames>
-      <Text>of the, Knight Commander of tiie Indian Empire .. ., .. .. Ill Saunders, J. O., Companion of the Indian Empire .. .. .. IV Sceales, Mrs.; Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +382,9 @@
     <MainItem>
       <Key>Seton-Kerr</Key>
       <Forenames>H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +467,9 @@
       <Key>Steward</Key>
       <Title>Hon.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +670,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>H. T.</Forenames>
-      <Text>, Knight Commander of the Indian Empire . .. .. Ill Wisram, Capt. O, Royal Victorian Order, fourth class ;. '</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +713,9 @@
       <Key>Wynne</Key>
       <Title>Col.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, Companion of the Indian Empire .-. . .. .. Ill Yarde-Buller, Capt. Hon. J. R. L.,, Royal Victorian Order, fourth class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>. Colonel : Nabha, H. H. Raja of .. .. IV Hon. Major: Kota, H. H., Sir N. S. Bahadur .. IV Unattached List. Ahern, Temporary Capt. R. (resigned)</Text>
+      <Title>Colonel</Title>
+      <Text>: Nabha, H. H. Raja of .. .. IV Hon. Major: Kota, H. H., Sir N. S. Bahadur .. IV Unattached List. Ahern, Temporary Capt. R. (resigned)</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>Lieut E. A.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>E. A.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>1416</PageNumber>
     </MainItem>
@@ -748,6 +770,15 @@
       <Forenames>H. G.</Forenames>
       <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>1131</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(resigned) .,</Text>
+      <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -851,7 +882,9 @@
       <Key>Hulse</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Bart, (rei signed and Hon. Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>

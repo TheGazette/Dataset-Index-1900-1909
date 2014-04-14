@@ -304,14 +304,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tatton</Key>
-      <Text>R. H. G. (2nd Lieut.)</Text>
+      <Forenames>R. H. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>R. H. (Capt.)</Text>
+      <Forenames>R. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,8 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maul</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. S. D. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>S. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wnvell</Key>
-      <Text>2nd Lieut. (Extra-Suner.) R. G. (resigned) '</Text>
+      <Title>2nd Lieut. (Extra-Suner.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(resigned) '</Text>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +667,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, 2nd Lieut. Of (seconded)</Text>
+      <Key>St. John</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Of</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +833,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heron</Key>
-      <Text>J. M, (2nd Lieut.)</Text>
+      <Forenames>J. M</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,6 +1125,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>G. H. C. H.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
+      <PageNumber>4037</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Inglis</Key>
       <Text>2nd Lieut, H. W. (seconded)</Text>
       <PageNumber>3083</PageNumber>
@@ -1129,6 +1145,15 @@
       <Forenames>M. C.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>2676</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3267</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1257,7 +1282,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, and Brev. Maj. T. E. S.. Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,8 +1324,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quarry</Key>
-      <Title>St.</Title>
-      <Forenames>J. S.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>S.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>

@@ -26,7 +26,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Schu</Key>
-      <Text>.ttcr, F. O., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +36,9 @@
     <MainItem>
       <Key>Schwann</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, created a Baronet .. ibid. I Shaw-Lcfevre, Rt. Hon. G. J.. created Baron Eversley of Old Kord</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +46,9 @@
     <MainItem>
       <Key>Simpson</Key>
       <Forenames>A. B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,14 +65,18 @@
     <MainItem>
       <Key>Slack</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sinalhnan</Key>
-      <Text>II. G., Knighted .. ..</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +102,9 @@
     <MainItem>
       <Key>Speyer</Key>
       <Forenames>E.</Forenames>
-      <Text>created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +112,9 @@
     <MainItem>
       <Key>Spiccr</Key>
       <Forenames>A.</Forenames>
-      <Text>, created a Baronet ..</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +138,9 @@
     <MainItem>
       <Key>Torrance</Key>
       <Forenames>A. M.</Forenames>
-      <Text>. Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,15 +173,29 @@
       <Key>Virgin</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>O.</Forenames>
-      <Text>Hon. Knight ' Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4718</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Marx</Key>
+      <Forenames>H. A. E.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Voules</Key>
       <Forenames>G. B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +231,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +266,9 @@
     <MainItem>
       <Key>Wetherbe</Key>
       <Forenames>R. L</Forenames>
-      <Text>„ Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +277,9 @@
       <Key>Wliithread</Key>
       <Title>Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Knighted ..</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +294,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whit</Key>
-      <Text>taker, T. P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +337,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Forenames>E.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +348,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>A. E.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Krskine</Key>
-      <Text>. C. E. T. (2nd Lieut.)</Text>
+      <Forenames>C. E. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hog</Key>
-      <Text>.., R. W. T. (2nd Lieut.) ___ | Leslie-Smith, C. (2nd Lieut.)</Text>
+      <Text>., R. W. T. (2nd Lieut.) ___ | Leslie-Smith, C. (2nd Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strover</Key>
-      <Text>. W. G. (2nd Lieut.) ..</Text>
+      <Forenames>W. G.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>K</Key>
-      <Text>. C., Brig.-Gen., to command a ! Sub-District in South Africa, and Temporary Brig -Gen</Text>
+      <Forenames>C.</Forenames>
+      <Text>, Brig.-Gen., to command a ! Sub-District in South Africa, and Temporary Brig -Gen</Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,8 +662,8 @@
     <MainItem>
       <Key>Chase</Key>
       <Title>Lieut.-Col. and Brevet Col.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. L., Assist. Adj.-Gen</Text>
+      <Forenames>W. St. L</Forenames>
+      <Text>., Assist. Adj.-Gen</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,14 +689,16 @@
     <MainItem>
       <Key>Colleton</Key>
       <Title>Lieut.-Col.</Title>
-      <Text>ond Brevet Col. S. R. A. W., Bart., Officer in charge of Infantry Records and Col</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cuthbert</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Brer. Col. G. J., Assist. Adj.-Gen</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
@@ -882,8 +929,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Capt. Hon. C. H. M., Aidede-Camp to Maj.-Gen. Sir B. M. Hamilton</Text>
+      <Key>St. Clair</Key>
+      <Title>Capt. Hon.</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>, Aidede-Camp to Maj.-Gen. Sir B. M. Hamilton</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +975,9 @@
     <MainItem>
       <Key>Thomas</Key>
       <Title>Lteut.</Title>
-      <Text>-Col. and Brevet Col. Sir G. V., Bart., Staff Officer for Horse and Field Artillery, and Col</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5582</PageNumber>
     </MainItem>
   </ItemGroup>

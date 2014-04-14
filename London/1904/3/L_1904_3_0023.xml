@@ -63,7 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>SellerB</Key>
-      <Text>D. (Lieut.) ..</Text>
+      <Forenames>D.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,8 +180,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur-Sheil, 2nd Lieut. J. F. A. (resigned)</Text>
+      <Key>St. Maur-Sheil</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J. F. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamer</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: H. J. T. (resigned)</Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
@@ -614,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCloughin</Key>
-      <Text>R. J. (Lieut.)</Text>
+      <Forenames>R. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,8 +1238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1255,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>W. (2nd Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,8 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Title>St.</Title>
-      <Forenames>G. B.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>B.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>3832</PageNumber>
     </MainItem>
@@ -302,7 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>J. W. (Senior Engiueer)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(Senior Engiueer)</Text>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,8 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Forenames>Sub-Lieut</Forenames>
-      <Text>, (retired list) ..</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut, (retired list) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

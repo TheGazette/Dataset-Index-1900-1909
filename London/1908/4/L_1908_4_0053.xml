@@ -282,7 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tollinton</Key>
-      <Forenames>Acting-Chaplain</Forenames>
+      <Title>Acting-</Title>
+      <Forenames>Chaplain</Forenames>
       <Text>Rev. R. B. (resigned)</Text>
       <PageNumber>9761</PageNumber>
     </MainItem>
@@ -354,7 +355,9 @@
       <Key>Dickson-Poynder</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>

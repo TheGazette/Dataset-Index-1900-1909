@@ -54,7 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. 2nd Lieut. D</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>D.</Forenames>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,8 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C. (2nd.Lieut.)</Text>
+      <Forenames>R. de C</Forenames>
+      <Text>. (2nd.Lieut.)</Text>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +126,9 @@
       <Key>Blake</Key>
       <Title>Sir</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +205,9 @@
       <Key>Hewett</Key>
       <Title>Capt. and Hon. Maj. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>&amp;., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>We</Key>
-      <Text>.therall, H. E. de R. (Lieut.)</Text>
+      <Text>therall, H. E. de R. (Lieut.)</Text>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,6 +318,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Royal Engineers</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>H. J. N.</Forenames>
+      <Text>(Capt.) ,</Text>
+      <PageNumber>663</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gurney</Key>
@@ -356,7 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lundie</Key>
-      <Text>. R. C. (2nd Lieut.) ..</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coone</Key>
-      <Text>.y, C. W. (2nd Lieut.)</Text>
+      <Text>y, C. W. (2nd Lieut.)</Text>
       <PageNumber>832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,6 +739,23 @@
       <Key>Dawson</Key>
       <Forenames>W. F.</Forenames>
       <Text>(Lieut.)</Text>
+      <PageNumber>134</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>1756</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Title>Maj.</Title>
+      <Forenames>H. V. B.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallagher</Key>
-      <Text>. AVE. (Capt.)</Text>
+      <Text>AVE. (Capt.)</Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +944,9 @@
       <Key>Greene</Key>
       <Title>Sir</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,9 +1089,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lecky</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. C. H. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1192,9 @@
       <Key>Munro</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,8 +1240,8 @@
       </Key>
       <Title>Capt. and Hon. Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>(re-</Text>
-      <PageNumber>ibid.</PageNumber>
+      <Text>(reibid. signed)</Text>
+      <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

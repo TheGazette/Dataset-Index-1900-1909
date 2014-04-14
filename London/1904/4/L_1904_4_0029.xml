@@ -230,7 +230,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. (retired list)</Text>
       <PageNumber>7263</PageNumber>
     </MainItem>
@@ -411,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miartin</Key>
-      <Text>. E. A. (CommanderInstructor)</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(CommanderInstructor)</Text>
       <PageNumber>8720</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -27,8 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>B. W. L.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>B. W. L. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,8 +348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swanson</Key>
-      <Forenames>D. A. St</Forenames>
-      <Text>. C. (Hon. Maj.) ..</Text>
+      <Forenames>D. A. St. C</Forenames>
+      <Text>. (Hon. Maj.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +622,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Powerj</Key>
-      <Text>* Lieiit) Sir J.' D., Bart.(resigned)-</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCayVE</Key>
-      <Text>A. C. (Lieut!.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lieut!.)</Text>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,8 +811,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Capt. R. P. (resigned)'</Text>
+      <Key>O'Reilly</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. P.</Forenames>
+      <Text>(resigned)'</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +963,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tannanill</Key>
-      <Text>Lieut.-R. T. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Text>-R. T. (resigned)</Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>,Col. arid llbh. Col. J. W. ...(resigned).. .. j ,</Text>
+      <Title>Lieut,Col.</Title>
+      <Text>arid llbh. Col. J. W. ...(resigned).. .. j ,</Text>
       <PageNumber>8026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1051,8 @@
   <ItemGroup>
     <MainItem>
       <Key>BafeVW</Key>
-      <Text>G. H! (2nd LieW.)' . ..'</Text>
+      <Forenames>G. H</Forenames>
+      <Text>! (2nd LieW.)' . ..'</Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>

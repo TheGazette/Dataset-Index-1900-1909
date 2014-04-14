@@ -380,8 +380,8 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Capt.</Title>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (Experimental Officer)</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (Experimental Officer)</Text>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +449,9 @@
   <SubSectionTitle>Army Medical Staff</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, Surg.-Gen. T. F. (retired pay)</Text>
+      <Key>O'Dwyer</Key>
+      <Title>Surg.</Title>
+      <Text>-Gen. T. F. (retired pay)</Text>
       <PageNumber>455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiie</Key>
-      <Title>Surgeon</Title>
+      <Title>Surgeon-</Title>
       <Forenames>General</Forenames>
       <Text>who holds the j appointment of Director-General to rank as Lieutenant-CJeiieral</Text>
       <PageNumber>2793</PageNumber>
@@ -523,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quill</Key>
-      <Text>R. H. (Col.)</Text>
+      <Forenames>R. H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>3014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walland</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. R. (seconded)</Text>
       <PageNumber>786</PageNumber>
     </MainItem>

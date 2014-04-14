@@ -939,7 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sohreiher</Key>
-      <Text>A T.(Capb.)</Text>
+      <Forenames>A</Forenames>
+      <Text>T.(Capb.)</Text>
       <PageNumber>6020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Forenames>Lieut R.B</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>R.B</Forenames>
       <PageNumber>4613</PageNumber>
     </MainItem>
   </ItemGroup>

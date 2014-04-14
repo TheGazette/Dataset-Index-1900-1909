@@ -256,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connollv</Key>
-      <Text>.W. H. (Col.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,8 +689,8 @@
     <MainItem>
       <Key>Dickinson</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. H. E.</Forenames>
-      <Text>de B. (retired)</Text>
+      <Forenames>W. H. E. de B</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,8 +1000,8 @@
     <MainItem>
       <Key>Leach</Key>
       <Title>Sir</Title>
-      <Forenames>G.</Forenames>
-      <Text>de C. (Lieut.-Gen.)</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>. (Lieut.-Gen.)</Text>
       <PageNumber>2548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,8 +1060,8 @@
     <MainItem>
       <Key>Morton</Key>
       <Title>Sir</Title>
-      <Forenames>G.</Forenames>
-      <Text>de C. (Lieut.-Gen.) ..</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>. (Lieut.-Gen.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,8 +1550,7 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Acting-Chap., Rev.</Title>
-      <Forenames>H.</Forenames>
-      <Text>von E</Text>
+      <Forenames>H. von E</Forenames>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>

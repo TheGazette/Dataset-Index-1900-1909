@@ -406,8 +406,8 @@
     <MainItem>
       <Key>Haig</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de H. (date of promotion) .. . .. ..</Text>
+      <Forenames>H. de H</Forenames>
+      <Text>. (date of promotion) .. . .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,8 +431,8 @@
     <MainItem>
       <Key>Harvey</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>P. B.</Forenames>
-      <Text>de Y. (cancellation)</Text>
+      <Forenames>P. B. de Y</Forenames>
+      <Text>. (cancellation)</Text>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +736,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, 2nd Lieut. A. TJ. M. (cancellation)</Text>
+      <Key>O'Brien</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A.</Forenames>
+      <Text>TJ. M. (cancellation)</Text>
       <PageNumber>6849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>. G. E. (Maj.)</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,8 +1089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>

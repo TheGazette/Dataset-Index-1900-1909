@@ -707,8 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (Lieut.)</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,8 +795,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M. (Adj.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. F. V. (seconded)</Text>
       <PageNumber>479</PageNumber>
     </MainItem>
@@ -888,8 +889,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +993,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culling</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. C. (resigned)</Text>
       <PageNumber>1027</PageNumber>
     </MainItem>
@@ -1008,8 +1010,8 @@
     <MainItem>
       <Key>LeMorchant</Key>
       <Title>Lieut.-Col. and Brevet . Col.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (half-pay list)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (half-pay list)</Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,6 +1242,14 @@
       <Forenames>W. L.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>1662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Yisme</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

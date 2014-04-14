@@ -516,8 +516,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lieut. O. C. ^seconded)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut.</Title>
+      <Forenames>O. C.</Forenames>
+      <Text>^seconded)</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,6 +586,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>4&lt;A Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ramsey</Key>
+      <Title>Hon. Col. Lord (resigned)</Title>
+      <PageNumber>750</PageNumber>
+      <PageNumber>2222</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Own ( Yorkshire Regiment)</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1081,8 +1091,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edve</Key>
-      <Forenames>C. V. De G.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>C. V. De G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,8 +1116,8 @@
     <MainItem>
       <Key>Hargood-Ash</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. A. (resigned)</Text>
+      <Forenames>G. St. A</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,9 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>A.</Forenames>
-      <Text>(resigned)</Text>
+      <Title>Capt. St. A. (resigned)</Title>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1157,9 @@
     <MainItem>
       <Key>Porcelli</Key>
       <Forenames>E.</Forenames>
-      <Text>G.M. (Lieut.)</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>1874</PageNumber>
     </MainItem>
   </ItemGroup>

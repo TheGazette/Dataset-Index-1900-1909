@@ -165,7 +165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>Qrmr. and Hon. Capt. A. (resigned)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>9297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickie</Key>
-      <Text>C. J. (Adj.)</Text>
+      <Forenames>C. J.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwin</Key>
-      <Text>N. P. (Lieut.) .. ..</Text>
+      <Forenames>N. P.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,8 +1162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Forenames>N.</Forenames>
-      <Text>de F. (Capt.) ..</Text>
+      <Forenames>N. de F</Forenames>
+      <Text>. (Capt.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

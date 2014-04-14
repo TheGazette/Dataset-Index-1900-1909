@@ -532,6 +532,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Thoren</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (cancellation)</Text>
+      <PageNumber>4701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Drew</Key>
       <Forenames>F. W. M.</Forenames>
       <Text>(Lieut.)</Text>
@@ -590,6 +599,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>1st Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Forenames>J. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4904</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>2nd! Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -983,8 +1000,8 @@
     <MainItem>
       <Key>Tufnell</Key>
       <Title>Maj.</Title>
-      <Forenames>N. C. A.</Forenames>
-      <Text>de H. (resigned)</Text>
+      <Forenames>N. C. A. de H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

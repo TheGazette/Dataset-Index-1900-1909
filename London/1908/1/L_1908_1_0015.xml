@@ -221,8 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. G. (Adj.)</Text>
+      <Forenames>K. St. G</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,8 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B. T. (2nd Lieut.)</Text>
+      <Forenames>J. de B</Forenames>
+      <Text>. T. (2nd Lieut.)</Text>
       <PageNumber>421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,8 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de F. (Adj.)</Text>
+      <Forenames>H. M. de F</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,8 +1321,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, G. F. W. (Lieut.-.Col.) ..</Text>
+      <Key>St. John</Key>
+      <Forenames>G. F. W.</Forenames>
+      <Text>(Lieut.-.Col.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,9 +1413,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, Lieut.-Col. and Brevet Col. S. B. (seconded)</Text>
+      <Key>Von Donop</Key>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>S. B.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,8 +1572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklvn</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (temporary halfpay)</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (temporary halfpay)</Text>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,7 +1748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stagg</Key>
-      <Text>M. (Lieut.)</Text>
+      <Forenames>M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>

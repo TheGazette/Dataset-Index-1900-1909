@@ -72,8 +72,8 @@
     <MainItem>
       <Key>Bruce-Kingsmill</Key>
       <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. (resigned)</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,6 +124,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Portsmouth Division</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>ST. (Capt.)</Text>
+      <PageNumber>4034</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Western Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -181,6 +189,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>2nd Cheshire</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vitre</Key>
+      <Forenames>P. D. T.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>3251</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Godson</Key>
@@ -581,7 +597,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +910,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weyer, Lieut. J. B. (resigned)</Text>
+      <Forenames>de Weyer</Forenames>
+      <Text>, Lieut. J. B. (resigned)</Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,8 +1065,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Isaacson</Key>
-      <Forenames>C.</Forenames>
-      <Text>de S. (Instr. of Musketry)</Text>
+      <Forenames>C. de S</Forenames>
+      <Text>. (Instr. of Musketry)</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -46,8 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stucley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. (Adj;</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. (Adj;</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,15 +312,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. G. (antedated)</Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Veyer</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Veyer</Forenames>
       <Text>, B. G. (Capt,)</Text>
       <PageNumber>108</PageNumber>
     </MainItem>
@@ -328,7 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weyer, J. B. (Lieut.)</Text>
+      <Forenames>de Weyer</Forenames>
+      <Text>, J. B. (Lieut.)</Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deacon</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. (resigned and Hon. Lieut.)</Text>
       <PageNumber>236</PageNumber>
     </MainItem>
@@ -959,6 +960,15 @@
       <Forenames>H. F.</Forenames>
       <Text>(Hon. Lieut.)</Text>
       <PageNumber>531</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(resigned and Hon. Lieut.)</Text>
+      <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -982,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, P. C. (resigned and Hon. Lieut.)</Text>
       <PageNumber>107</PageNumber>
     </MainItem>
@@ -1171,7 +1181,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. S. (correction) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1243,7 +1253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hackett</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. D. H. (resigned)</Text>
       <PageNumber>927</PageNumber>
     </MainItem>
@@ -1278,8 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartigan</Key>
-      <Title>Temporary</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Temporary Lieut</Title>
       <Text>, and Qrmr. R. (resigned and Hon. Lieut.)</Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
@@ -1348,8 +1357,8 @@
     <MainItem>
       <Key>Hogarth</Key>
       <Title>Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de B. (resigned)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>

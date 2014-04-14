@@ -730,7 +730,9 @@
       <Key>Stirling-Maxwell</Key>
       <Title>Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +954,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. B. F. (Super. Capt.)</Text>
+      <Forenames>B. F.</Forenames>
+      <Text>(Super. Capt.)</Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1618,8 +1621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,7 +1713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Polding</Key>
-      <Text>. J. B. (Capt.)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>

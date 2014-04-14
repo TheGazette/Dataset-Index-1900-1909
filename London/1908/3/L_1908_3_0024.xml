@@ -48,8 +48,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caillard</Key>
-      <Forenames>W. M. C.</Forenames>
-      <Text>du Q. (Capt.)</Text>
+      <Forenames>W. M. C. du Q</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Forenames>LieutF. W.</Forenames>
+      <Title>Lieut-</Title>
+      <Forenames>F. W.</Forenames>
       <Text>(resigned) .. :</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
@@ -348,7 +349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byass</Key>
-      <Text>.H. N. (Lieut.-Col.)</Text>
+      <Forenames>H. N.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>. Kinahan, Lieut. G. F. (seconded)</Text>
+      <Forenames>Kinahan</Forenames>
+      <Text>, Lieut. G. F. (seconded)</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +845,9 @@
       <Key>Fowler</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart. (Lieut) ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,8 +1315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W. (Lieut.)</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6452</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -27,8 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellborne</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M. (2nd Lieut.) ..</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clibborn</Key>
-      <Text>, Lieut.-Col. J</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +85,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey-Kelly</Key>
-      <Text>, Col. H</Text>
+      <Title>Col.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Protheroe</Key>
-      <Text>, Maj.-Gen. M</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>313</PageNumber>
       <PageNumber>1510</PageNumber>
     </MainItem>
@@ -377,14 +380,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmslie-Smith</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>, C A. F</Text>
+      <Forenames>C</Forenames>
+      <Text>A. F</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +467,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. .. .. .. ..</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>, R, F. C</Text>
+      <Forenames>R</Forenames>
+      <Text>, F. C</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullen</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riffin</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,14 +624,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,8 +702,8 @@
     <MainItem>
       <Key>Faunce</Key>
       <Title>Capt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de L. (Deputy-Assist. Adj.-Gen. of Districts)</Text>
+      <Forenames>R. de L</Forenames>
+      <Text>. (Deputy-Assist. Adj.-Gen. of Districts)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +728,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Text>. Lieut.-Col. E. H. (Assist. Adj.-Gen. of Districts)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(Assist. Adj.-Gen. of Districts)</Text>
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,17 +775,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Yisct</Forenames>
+      <Title>Lieut.-Col. Yisct.</Title>
       <PageNumber>106</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kintore</Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Coi</Forenames>
-      <Text>. Earl of (Col.)</Text>
+      <Title>Lieut.-Col. and Hon. Coi. Earl</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +800,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Breadalbane</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Marquis of (Col.)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Marquis</Title>
+      <Text>of (Col.)</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,23 +867,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. J. F. (absorbed into Establishment) .. ..</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. J. F. (absorbed into Establishment) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hervey-Bathurst</Key>
-      <Text>, 2nd Lieut, (correction)</Text>
+      <Text>2nd Lieut, (correction)</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perceval</Key>
-      <Forenames>Super</Forenames>
-      <Text>.-Capt. P. (absorbed into Establishment)</Text>
+      <Title>Super.</Title>
+      <Text>-Capt. P. (absorbed into Establishment)</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -273,8 +273,7 @@
     <MainItem>
       <Key>Laffan</Key>
       <Title>Rev.</Title>
-      <Forenames>R. S.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. S. de C</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +614,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepp</Key>
-      <Text>.ard^ Rev. Canon E</Text>
+      <Text>ard^ Rev. Canon E</Text>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cost</Key>
-      <Text>.igiin, Capt.. J. A, (cancellation)</Text>
+      <Text>igiin, Capt.. J. A, (cancellation)</Text>
       <PageNumber>5386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>.on-Macdonald, D. M. (Capt. and Hon. Maj.)</Text>
+      <Text>on-Macdonald, D. M. (Capt. and Hon. Maj.)</Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,14 +1244,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Scoones</Key>
-      <Text>. f. (Capt.)</Text>
+      <Text>f. (Capt.)</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seulley</Key>
-      <Text>.T: V. (Capt. and Hon, Maj.)</Text>
+      <Forenames>T</Forenames>
+      <Text>: V. (Capt. and Hon, Maj.)</Text>
       <PageNumber>5168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,8 +1285,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V. (Lieut.)</Text>
+      <Forenames>A. de V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5626</PageNumber>
       <PageNumber>6666</PageNumber>
     </MainItem>
@@ -1667,7 +1667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beesly</Key>
-      <Text>.L. (Lieut.)</Text>
+      <Forenames>L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>

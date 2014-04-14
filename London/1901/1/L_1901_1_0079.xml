@@ -446,9 +446,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Laun</Forenames>
-      <Text>, Lieut. H. C. (resigned)</Text>
+      <Key>Van Laun</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +483,9 @@
       <Key>Baird</Key>
       <Title>Sir</Title>
       <Forenames>W. J. G.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>

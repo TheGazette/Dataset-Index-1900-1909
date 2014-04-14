@@ -80,8 +80,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Albans, Capt. Duke of (resigned)</Text>
+      <Key>St. Albans</Key>
+      <Title>Capt. Duke</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +269,9 @@
     <MainItem>
       <Key>Philipps</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Text>. Sir C. E. Or.; Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,9 +901,10 @@
   <SubSectionTitle>Yeomanry Cavalry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Broke</Forenames>
-      <Text>, Lieut.-Col. and Hon. Col. Lord W. (resigned)</Text>
+      <Key>De Broke</Key>
+      <Title>Lieut.-Col. and Hon. Col. Lord</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>

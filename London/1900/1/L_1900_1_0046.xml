@@ -24,7 +24,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ivejis</Key>
-      <Text>H. T. C. (2nd Lieut.)</Text>
+      <Forenames>H. T. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>SewelLI</Key>
-      <Text>G&gt;. (Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>&gt;. (Lieut.)</Text>
       <PageNumber>3968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beynon</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. P. (2nd Lieut.)</Text>
+      <Forenames>L. St. P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,8 +258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myburgh</Key>
-      <Forenames>C.</Forenames>
-      <Text>de F. (Lieut.) .. ..</Text>
+      <Forenames>C. de F</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bnssell</Key>
-      <Text>N. H. C. (2nd ' Lieut.) ' ,</Text>
+      <Forenames>N. H. C.</Forenames>
+      <Text>(2nd ' Lieut.) ' ,</Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Madeley</Key>
-      <Text>G. H. (Lieut.)..</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>(Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1010,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batten</Key>
-      <Text>J. H. S. (Lieut.)</Text>
+      <Forenames>J. H. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,8 +1186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Forenames>L.St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>L.St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,8 +1452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tupper</Key>
-      <Forenames>H. B.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>H. B. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,8 +1621,8 @@
     <MainItem>
       <Key>Tupper</Key>
       <Title>Capt.</Title>
-      <Forenames>H. B.</Forenames>
-      <Text>de Y. (seconded).-</Text>
+      <Forenames>H. B. de Y</Forenames>
+      <Text>. (seconded).-</Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>

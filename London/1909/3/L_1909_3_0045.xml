@@ -101,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Jacobs Oil, reduction of capital</Text>
+      <Forenames>Jacobs Oil</Forenames>
+      <Text>, reduction of capital</Text>
       <PageNumber>5315</PageNumber>
       <PageNumber>6019</PageNumber>
     </MainItem>
@@ -132,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>,, .Frederick, and Co., reduction of capital</Text>
+      <Text>, .Frederick, and Co., reduction of capital</Text>
       <PageNumber>5942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>South</Key>
-      <Text>, .Western of Venezuela (Barquisimeto) Railway Company, r.otice to debenture holders</Text>
+      <Text>.Western of Venezuela (Barquisimeto) Railway Company, r.otice to debenture holders</Text>
       <PageNumber>0018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>. Vic Mill Company, notice of windingup</Text>
+      <Forenames>Vic Mill Company</Forenames>
+      <Text>, notice of windingup</Text>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,15 +351,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Alker</Key>
-      <Forenames>John</Forenames>
-      <Text>., and Co</Text>
+      <Title>John.</Title>
+      <Text>, and Co</Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>., and Co</Text>
+      <Text>, and Co</Text>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnoux</Key>
-      <Text>.and Clarke</Text>
+      <Text>and Clarke</Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, VV.,and A</Text>
+      <Text>VV.,and A</Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,14 +424,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, C, and Son</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Son</Text>
       <PageNumber>7152</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>,. P., and Co</Text>
+      <Text>. P., and Co</Text>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +523,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beavis</Key>
-      <Text>.Gell and Co</Text>
+      <Forenames>Gell</Forenames>
+      <Text>and Co</Text>
       <PageNumber>5228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Forenames>Emanuel</Forenames>
+      <Title>Emanuel .</Title>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,8 +750,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Taylor</Forenames>
-      <Text>.. '</Text>
+      <Title>Taylor .</Title>
+      <Text>. '</Text>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brotherton</Key>
-      <Text>. J. E., and Co. ,</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>, and Co. ,</Text>
       <PageNumber>6129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunninand</Key>
-      <Forenames>Fagg</Forenames>
+      <Title>Fagg .</Title>
       <PageNumber>6195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,6 +864,13 @@
       <Key>Burstall</Key>
       <Text>and Huffam</Text>
       <PageNumber>7074</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Burton</Key>
+      <Text>and Flower</Text>
+      <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -895,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callagha</Key>
-      <Text>,n and Sons</Text>
+      <Text>n and Sons</Text>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cnnham</Key>
-      <Forenames>Rayner</Forenames>
+      <Title>Rayner .</Title>
       <PageNumber>5576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Castle</Key>
-      <Text>,. Lippett, and Co</Text>
+      <Text>. Lippett, and Co</Text>
       <PageNumber>6552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Olarke</Key>
-      <Text>.and Barlet</Text>
+      <Text>and Barlet</Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Text>,aud Wilks</Text>
+      <Text>aud Wilks</Text>
       <PageNumber>6029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collet</Key>
-      <Text>,. Golding, and Densham</Text>
+      <Text>. Golding, and Densham</Text>
       <PageNumber>6706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ooombc</Key>
-      <Text>.r and Co</Text>
+      <Text>r and Co</Text>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabtr</Key>
-      <Text>.ee, Miss</Text>
+      <Text>ee, Miss</Text>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crudgington</Key>
-      <Text>,.Standish, and Mitchell</Text>
+      <Text>.Standish, and Mitchell</Text>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>David</Key>
-      <Text>, and Evans</Text>
+      <Text>and Evans</Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,8 +1234,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bernardy</Forenames>
+      <Key>De Bernardy</Key>
       <Text>and Co</Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
@@ -1367,7 +1378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dubowski</Key>
-      <Text>, 3. D., and Co</Text>
+      <Text>3. D., and Co</Text>
       <PageNumber>5412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durie</Key>
-      <Text>,' James' N.. and Co</Text>
+      <Text>' James' N.. and Co</Text>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. D. H., and Co</Text>
+      <Forenames>D. H.</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>6706</PageNumber>
     </MainItem>
   </ItemGroup>

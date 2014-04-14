@@ -376,8 +376,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, G. A. (Lieut.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>G. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,8 +495,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Lieut. H. J. J. P. (seconded)</Text>
+      <Key>O'Connell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. J. J. P.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baron</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, O. (resigned)</Text>
       <PageNumber>3182</PageNumber>
     </MainItem>

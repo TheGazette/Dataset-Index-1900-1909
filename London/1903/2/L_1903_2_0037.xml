@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahonev</Key>
-      <Text>. J.</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillier</Key>
-      <Text>.P. C. A</Text>
+      <Forenames>P. C. A.</Forenames>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,8 +1331,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, E. F</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -184,7 +184,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whicher</Key>
-      <Text>J. C. F S</Text>
+      <Forenames>J. C. F</Forenames>
+      <Text>S</Text>
       <PageNumber>195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,6 +428,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courtmacsberry</Key>
+      <Forenames>E. H. H.</Forenames>
+      <Text>(antedated) .. .. .. . .</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Facey</Key>
       <Forenames>C. S</Forenames>
       <PageNumber>___ ___ ___ ___</PageNumber>
@@ -467,7 +476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Text>A. (antedated)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,8 +667,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, M. J. (antedated) ..</Text>
+      <Key>O'Regan</Key>
+      <Forenames>M. J.</Forenames>
+      <Text>(antedated) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickthorn</Key>
-      <Text>E. B. (antedated)..</Text>
+      <Forenames>E. B.</Forenames>
+      <Text>(antedated)..</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +865,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cummins</Key>
-      <Text>A.D.C.</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bcsan</Key>
-      <Text>W. J. (antedated)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>G. K</Text>
+      <Forenames>G. K</Forenames>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>

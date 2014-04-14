@@ -230,8 +230,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, P. S. (Capt.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>P. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,8 +875,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Capt. J. E. (seconded) ..</Text>
+      <Key>O'Connor</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +887,9 @@
       <Key>Treves</Key>
       <Title>Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>de B. (Maj.)</Text>
+      <Title>de B. (Maj.)</Title>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,9 +928,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lessert</Forenames>
-      <Text>, Qrmr. and Hon. Capt. A. A. (resigned)</Text>
+      <Key>De Lessert</Key>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,8 +1098,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huntsman</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,8 +1237,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Capt. J... .. .. ..</Text>
+      <Key>O'Hara</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,8 +1256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bass</Key>
-      <Forenames>P.</Forenames>
-      <Text>de S. (Maj.)</Text>
+      <Forenames>P. de S</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,8 +1664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. (Col.)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,9 +1735,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, H. de B. (Lieut.-Col.)</Text>
+      <Key>De Lisle</Key>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>

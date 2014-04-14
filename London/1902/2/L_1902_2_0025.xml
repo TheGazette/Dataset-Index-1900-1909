@@ -11,8 +11,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, Capt. and Brev. Maj. R, District Inspector of Musketry</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>R</Forenames>
+      <Text>, District Inspector of Musketry</Text>
       <PageNumber>5814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,6 +358,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>7340</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ditmas</Key>
       <Forenames>F. I. L.</Forenames>
       <Text>(Lieut.)</Text>
@@ -459,7 +469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koe</Key>
-      <Text>L.C. (Maj.) .. .. '</Text>
+      <Forenames>L.C.</Forenames>
+      <Text>(Maj.) .. .. '</Text>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +563,9 @@
       <Key>Shelley</Key>
       <Title>Sir</Title>
       <Forenames>J. C. C</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,6 +710,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berniere</Key>
+      <Title>Col.</Title>
+      <Forenames>H. J. de B</Forenames>
+      <Text>. (retired pay)</Text>
+      <PageNumber>7167</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickson</Key>
       <Title>Col.</Title>
       <Forenames>E. T.</Forenames>
@@ -744,8 +766,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfray</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. J. W. (Col. to command the 25th Regimental District)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(Col. to command the 25th Regimental District)</Text>
       <PageNumber>8440</PageNumber>
     </MainItem>
   </ItemGroup>

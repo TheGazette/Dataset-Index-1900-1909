@@ -101,8 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackie</Key>
-      <Forenames>Assist</Forenames>
-      <Text>.-Paymaster N. A. (retired list)</Text>
+      <Title>Assist.</Title>
+      <Text>-Paymaster N. A. (retired list)</Text>
       <PageNumber>1505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,8 +164,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. J. (Staff-Paymaster ,</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. J.</Forenames>
+      <Text>(Staff-Paymaster ,</Text>
       <PageNumber>1855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>E.</Forenames>
-      <Text>de V. (Sub-Lieut.)</Text>
+      <Forenames>E. de V</Forenames>
+      <Text>. (Sub-Lieut.)</Text>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Assist</Forenames>
-      <Text>.-Paymaster J. (retired list)</Text>
+      <Title>Assist.</Title>
+      <Text>-Paymaster J. (retired list)</Text>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +367,6 @@
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agricultural</Key>
@@ -528,7 +528,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Bank</Key>
+      <Key>B</Key>
+      <Forenames>Bank</Forenames>
       <Text>of British North America, account showing the debts and assets of, &amp;e</Text>
       <PageNumber>1520</PageNumber>
     </MainItem>
@@ -627,8 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglo-Austrian</Key>
-      <Forenames>Bank</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Bank .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birkbeck</Key>
-      <Forenames>Bank</Forenames>
-      <Text>.. .. ..</Text>
+      <Title>Bank .</Title>
+      <Text>. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,8 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burt</Key>
-      <Forenames>Fredk</Forenames>
-      <Text>., and Co... .. ..</Text>
+      <Title>Fredk.</Title>
+      <Text>, and Co... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>Messrs</Forenames>
-      <Text>., and Co. .. ..</Text>
+      <Title>Messrs.</Title>
+      <Text>, and Co. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,23 +782,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Thos</Forenames>
-      <Text>., and Son</Text>
+      <Title>Thos.</Title>
+      <Text>, and Son</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>Messrs</Forenames>
-      <Text>., and Co... .. ..</Text>
+      <Title>Messrs.</Title>
+      <Text>, and Co... .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Credit</Key>
-      <Forenames>Lyonnais</Forenames>
+      <Title>Lyonnais .</Title>
       <PageNumber>1320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Forenames>Messrs</Forenames>
-      <Text>. .. .. ..</Text>
+      <Title>Messrs.</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,16 +928,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Forenames>Wm</Forenames>
-      <Text>., and Co. .. ..</Text>
+      <Title>Wm.</Title>
+      <Text>, and Co. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Huth</Key>
-      <Forenames>Fredk</Forenames>
-      <Text>., and Co. ..</Text>
+      <Title>Fredk.</Title>
+      <Text>, and Co. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

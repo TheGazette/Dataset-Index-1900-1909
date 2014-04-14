@@ -31,6 +31,15 @@
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>Viscount</Title>
+      <Forenames>Frankfort</Forenames>
+      <Text>(Hon. Col.)'</Text>
+      <PageNumber>7226</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubCategoryTitle>LOTEIANS AND BERWICKSHIRE</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
@@ -80,7 +89,9 @@
       <Key>Miller</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newnham</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. E. (resigned)</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
@@ -1261,6 +1272,15 @@
       <Forenames>F. L. L.</Forenames>
       <Text>(Lieut.-Col.)</Text>
       <PageNumber>4959</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vesian</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

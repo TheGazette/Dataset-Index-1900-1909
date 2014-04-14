@@ -691,8 +691,8 @@
     <MainItem>
       <Key>Abney</Key>
       <Title>Capt.</Title>
-      <Forenames>W. De W.</Forenames>
-      <Text>, a Knight Commander of the Order of the Bath</Text>
+      <Forenames>W. De W</Forenames>
+      <Text>., a Knight Commander of the Order of the Bath</Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +777,9 @@
       <Key>Babtie</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>2547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +788,9 @@
       <Key>Bagot</Key>
       <Title>Col.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3327</PageNumber>
     </MainItem>
   </ItemGroup>

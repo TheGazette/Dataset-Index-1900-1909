@@ -75,8 +75,8 @@
     <MainItem>
       <Key>Smith</Key>
       <Title>Lieut.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de H., Aide-de-Camp to the Lieut. Gen. Commanding the Forces, Madras</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>., Aide-de-Camp to the Lieut. Gen. Commanding the Forces, Madras</Text>
       <PageNumber>4054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,8 +137,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarde-Buller</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. J. R. L., Aide-de-Camp to the Viceroy and Governor-General of India</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>J. R. L.</Forenames>
+      <Text>, Aide-de-Camp to the Viceroy and Governor-General of India</Text>
       <PageNumber>2086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moses</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J. ..</Text>
+      <Forenames>O. St. J</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,8 +605,8 @@
   <KeyDitto>___ ___ ___ ___ ..</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Romaine, E. A</Text>
+      <Key>St. Romaine</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +969,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J</Forenames>
       <PageNumber>3259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,8 +1083,7 @@
     <MainItem>
       <Key>Clarkson</Key>
       <Title>Capt.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>393</PageNumber>
     </MainItem>
   </ItemGroup>

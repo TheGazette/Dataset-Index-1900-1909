@@ -354,6 +354,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>H. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8984</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Drummond</Key>
       <Forenames>F. H. R.</Forenames>
       <Text>(temporary Brig-Gen</Text>
@@ -406,7 +414,9 @@
       <Key>Fergusson</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart. (Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +698,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Text>H. F. (temporary Maj.)</Text>
+      <Forenames>H. F.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,8 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M. (local rank of Capt. in the British Central Africa Protectorate)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M. (local rank of Capt. in the British Central Africa Protectorate)</Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,8 +987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L. (local rank of Capo, in the Unittd Kingdom or in India)</Text>
+      <Forenames>W. St. L</Forenames>
+      <Text>. (local rank of Capo, in the Unittd Kingdom or in India)</Text>
       <PageNumber>6669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,15 +1026,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Col. J. L. C. (retired pay)</Text>
+      <Key>St. Clair</Key>
+      <Title>Col.</Title>
+      <Forenames>J. L. C.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>6893</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lieut. Hon. M. St. A. T. (resigned)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>M. St. A</Forenames>
+      <Text>. T. (resigned)</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1096,9 @@
       <Key>Thomas</Key>
       <Title>Col. Sir</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, Bart, (halfpay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,8 +1235,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. R. .. .. Bagalley, Lieut-Col. and Hon. Col.</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>.. .. Bagalley, Lieut-Col. and Hon. Col.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,8 +1277,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. R. .. ..</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>R.</Forenames>
+      <Text>.. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

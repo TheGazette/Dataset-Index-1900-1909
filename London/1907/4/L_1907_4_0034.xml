@@ -160,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollis</Key>
-      <Text>Wni.and Co.,notice of windingup</Text>
+      <Title>Wni.and Co.</Title>
+      <Text>,notice of windingup</Text>
       <PageNumber>6988</PageNumber>
       <PageNumber>7711</PageNumber>
     </MainItem>
@@ -239,14 +240,7 @@
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>La</Key>
-      <Forenames>Mancha Syndicate</Forenames>
-      <Text>, order for Claims</Text>
-      <PageNumber>7432</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>La Mancha Syndicate, order for Claims 7432</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Lancashire</Key>

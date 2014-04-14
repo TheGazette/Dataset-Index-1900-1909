@@ -99,7 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melly</Key>
-      <Text>H. M. (Hon. Col.)</Text>
+      <Forenames>H. M.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,8 +603,8 @@
     <MainItem>
       <Key>Delius</Key>
       <Title>Capt.</Title>
-      <Forenames>R. P. St</Forenames>
-      <Text>. M. (resigned)</Text>
+      <Forenames>R. P. St. M</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thackeray</Key>
-      <Text>A. G. (Lieut.) .. ..</Text>
+      <Forenames>A. G.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunnett</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. B. (resigned)</Text>
       <PageNumber>3639</PageNumber>
     </MainItem>

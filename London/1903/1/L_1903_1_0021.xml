@@ -67,8 +67,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, Earl of (resigned)</Text>
+      <Title>Lieut, Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laugford</Key>
-      <Forenames>Lieut W.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>W.</Forenames>
       <Text>(resigned and . Hon. Lieut.)</Text>
       <PageNumber>531</PageNumber>
     </MainItem>
@@ -371,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. St. J. (resigned and Hon. Lieut.)</Text>
       <PageNumber>107</PageNumber>
     </MainItem>
@@ -568,14 +569,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Richie</Key>
-      <Text>. Lieut. F. K. St. M. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>F. K. St. M</Forenames>
+      <Text>. (resigned and Hon. Lieut.)</Text>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ricket</Key>
-      <Text>.ts, Temporary Capt. A. (resigned and Hon. Capt.)</Text>
+      <Text>ts, Temporary Capt. A. (resigned and Hon. Capt.)</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,8 +652,10 @@
       <Key>
         <KeyDitto>___ ___ '-</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, C. T.D. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut</Title>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selfe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. R. (resigned)</Text>
       <PageNumber>388</PageNumber>
     </MainItem>
@@ -765,7 +770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Text>., Lieut. H. C. B. (resigned and Hon. Lieut.) ,. .. ..</Text>
+      <Text>, Lieut. H. C. B. (resigned and Hon. Lieut.) ,. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Umsworth</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. .(resigned and Hon. Lieut.)</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
@@ -1106,7 +1111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>. G. H. (Capt.) .. '</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>(Capt.) .. '</Text>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>. S. R: (Hon. Capt.)</Text>
+      <Forenames>S. R</Forenames>
+      <Text>: (Hon. Capt.)</Text>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>

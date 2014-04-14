@@ -150,7 +150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>Capt. R. H. (antedated)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +398,8 @@
     <MainItem>
       <Key>Nepean</Key>
       <Title>Lieut.</Title>
-      <Forenames>N. St</Forenames>
-      <Text>. V. (resigned)..</Text>
+      <Forenames>N. St. V</Forenames>
+      <Text>. (resigned)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell-Jones</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, S. W. (resigned)</Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
@@ -580,8 +582,8 @@
     <MainItem>
       <Key>Pollard</Key>
       <Title>Capt.</Title>
-      <Forenames>A. E. St</Forenames>
-      <Text>. V. (seconded)</Text>
+      <Forenames>A. E. St. V</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sale</Key>
-      <Forenames>Lieut A. R.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>A. R.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
@@ -682,8 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. (Lieut.-Col.)</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>6030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>T. G. F. (2ud Lieut.)</Text>
+      <Forenames>T. G. F.</Forenames>
+      <Text>(2ud Lieut.)</Text>
       <PageNumber>8342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +814,8 @@
     <MainItem>
       <Key>Williams</Key>
       <Title>Capt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>de L. (seconded)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>7748</PageNumber>
     </MainItem>
   </ItemGroup>

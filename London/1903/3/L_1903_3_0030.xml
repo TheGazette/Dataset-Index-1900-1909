@@ -16,8 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Romaine, B. A.</Text>
+      <Key>St. Romaine</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,6 +491,14 @@
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>L. N.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>4906</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Goetz</Key>
       <Forenames>C. E. G.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -701,6 +709,14 @@
   </ItemGroup>
   <SubCategoryTitle>FIFESHIRE AND FORFARSHIRE</SubCategoryTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Free</Key>
+      <Forenames>C. G.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>4355</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubCategoryTitle>GALLOWAY</SubCategoryTitle>
   <SubSectionTitle>Rifle Volunteers</SubSectionTitle>
   <ItemGroup>
@@ -897,8 +913,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, R. W. H. (2nd Lieut.) ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>R. W. H.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

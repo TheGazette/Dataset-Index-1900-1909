@@ -27,6 +27,14 @@
   <SubSectionTitle>8th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(Hon. Col.)</Text>
+      <PageNumber>7026</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fitz</Key>
       <Forenames>Gerald</Forenames>
       <Text>, L. de Y. (Adj.)</Text>
@@ -137,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harle</Key>
-      <Text>.W. E. (Lieut.)</Text>
+      <Forenames>W. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +184,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. (Qrmr. and Hon. Capt.)..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Qrmr. and Hon. Capt.)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +977,9 @@
       <Key>Kennaway</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,8 +1387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanfield</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>

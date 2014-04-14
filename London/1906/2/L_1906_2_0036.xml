@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>T. R</Text>
+      <Forenames>T. R</Forenames>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,9 @@
       <Key>Grey-Egerton</Key>
       <Title>Capt. and Hon. Maj. Sir</Title>
       <Forenames>P. H. B.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>

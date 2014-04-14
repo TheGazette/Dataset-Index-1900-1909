@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Tree</Key>
       <Forenames>H. B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
       <Key>Trippel</Key>
       <Title>Maj.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, Knighted ..</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +34,9 @@
       <Key>Truscott</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, created' a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +44,9 @@
     <MainItem>
       <Key>Tyser</Key>
       <Forenames>C. R.</Forenames>
-      <Text>, Knighted ,</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +70,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ton</Key>
-      <Text>und zu Liechtenstein, H.S.H. Prince Edward Victor, Hon. Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +97,9 @@
     <MainItem>
       <Key>Westmacott</Key>
       <Forenames>F. H.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +140,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +150,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>A.</Forenames>
-      <Text>, created a Baronet ..</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +182,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiirfl</Key>
-      <Text>.Father S., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +199,9 @@
     <MainItem>
       <Key>Yoxall</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +210,9 @@
       <Key>Zabotkine</Key>
       <Title>Commander</Title>
       <Forenames>D.</Forenames>
-      <Text>, Hon. . Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,14 +403,16 @@
   <ItemGroup>
     <MainItem>
       <Key>OgilvyvA</Key>
-      <Text>. G. (2nd Lieut.) .. ..</Text>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. H. L. (2nd Lieut.) ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. H. L.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,8 +475,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (2nd Lieut.) ..</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +593,8 @@
     <MainItem>
       <Key>Barter</Key>
       <Title>Col.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. L., Brigade Commander and temporary Brig.-Gen</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>., Brigade Commander and temporary Brig.-Gen</Text>
       <PageNumber>6874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,8 +749,8 @@
     <MainItem>
       <Key>Gorton</Key>
       <Title>Maj.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. G., General Staff Officer, 2nd Grade</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>., General Staff Officer, 2nd Grade</Text>
       <PageNumber>6360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogge</Key>
-      <Text>.. Col. A. F., Colonel on the Staff and temporary Brig.-Gen</Text>
+      <Text>. Col. A. F., Colonel on the Staff and temporary Brig.-Gen</Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +872,8 @@
     <MainItem>
       <Key>Livesay</Key>
       <Title>Capt.</Title>
-      <Forenames>B. O</Forenames>
-      <Text>'H., Adj. Officers Training Corps</Text>
+      <Forenames>B. O'H</Forenames>
+      <Text>., Adj. Officers Training Corps</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,8 +933,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt. A. K. H., Aide-deCamp (Extra) to Brevet Col. Sir E. P. C. Girouard</Text>
+      <Key>O'Brien</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. K. H.</Forenames>
+      <Text>, Aide-deCamp (Extra) to Brevet Col. Sir E. P. C. Girouard</Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1125,9 @@
       <Key>Vaux</Key>
       <Title>Lieut.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, Aide-de-Camp (extra) to Sir T. D. GibsonCarmichael, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,8 +1190,8 @@
     <MainItem>
       <Key>Bland</Key>
       <Title>Maj.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. C, Superintendent of Experiments .. .. -</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>, Superintendent of Experiments .. .. -</Text>
       <PageNumber>6530</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -504,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>WreyiW</Key>
-      <Text>A. B. (2rid Lieiifc)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>(2rid Lieiifc)</Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,6 +782,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>T. W. H.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>2184</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>1st Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -887,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilberforce</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;' A. R. G. (antedated) .. .. .; ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

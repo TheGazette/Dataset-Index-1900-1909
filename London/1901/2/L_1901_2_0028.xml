@@ -164,8 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maule</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. J. (Brev. Maj.)</Text>
+      <Forenames>H. N. St. J</Forenames>
+      <Text>. (Brev. Maj.)</Text>
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +376,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. D. J. (Brev. Lieut.-Col.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. D. J.</Forenames>
+      <Text>(Brev. Lieut.-Col.)</Text>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,8 +408,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G. H. W. (Brev. Col.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G. H. W.</Forenames>
+      <Text>(Brev. Col.)</Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +427,9 @@
       <Key>Pasley</Key>
       <Title>Sir</Title>
       <Forenames>T. E. S.</Forenames>
-      <Text>. Bart! (Brev. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,15 +719,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, Hon. E. S. (Maj.) .. ..</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Hon.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, G. F. W. (Brev. Lieut.-Col.)</Text>
+      <Key>St. John</Key>
+      <Forenames>G. F. W.</Forenames>
+      <Text>(Brev. Lieut.-Col.)</Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>.-ott, A. B. (Brev. Lieut.-Col ) ..</Text>
+      <Text>-ott, A. B. (Brev. Lieut.-Col ) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>G. R.</Forenames>
-      <Text>de H. (Brev. Maj.)</Text>
+      <Forenames>G. R. de H</Forenames>
+      <Text>. (Brev. Maj.)</Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,8 +1336,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, R. (Brev. Maj.)</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Forenames>R.</Forenames>
+      <Text>(Brev. Maj.)</Text>
       <PageNumber>6314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,7 +1409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>. P. (Brev. Maj.)</Text>
+      <Forenames>P.</Forenames>
+      <Text>(Brev. Maj.)</Text>
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2077,8 +2086,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKechnie</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>G. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>9064</PageNumber>
     </MainItem>
   </ItemGroup>

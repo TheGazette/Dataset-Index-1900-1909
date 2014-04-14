@@ -390,8 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Forenames>B.</Forenames>
-      <Text>de W. (Capt,)</Text>
+      <Forenames>B. de W</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>2585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,6 +743,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M.</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>3713</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edwards</Key>
       <Forenames>C. V.</Forenames>
       <Text>(Capt.)</Text>
@@ -840,8 +848,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>B. J.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>B. J. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,6 +1084,15 @@
       <Forenames>S. L.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2844</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pentbeny-O'Kelly</Key>
+      <Title>Capt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1324,7 +1341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. II. (resigned)</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>

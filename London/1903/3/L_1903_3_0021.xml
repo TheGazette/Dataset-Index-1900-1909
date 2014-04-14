@@ -81,7 +81,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>Lieut.A. I). L. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A. I</Forenames>
+      <Text>). L. (resigned)</Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,8 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Forenames>A. E. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>A. E. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Awdry</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. F. (resigned)</Text>
       <PageNumber>4192</PageNumber>
     </MainItem>
@@ -596,8 +598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Forenames>P. C.</Forenames>
-      <Text>du S. (Capt.)</Text>
+      <Forenames>P. C. du S</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart-Smith</Key>
-      <Forenames>Lieut T.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>T.</Forenames>
       <Text>(cancelled)</Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
@@ -1072,8 +1075,8 @@
     <MainItem>
       <Key>Waddington</Key>
       <Title>Capt.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de B. (removed)</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. (removed)</Text>
       <PageNumber>5974</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,9 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>rNarborough</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut</Forenames>
-      <Text>, Col. W. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut, Col.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>.Biley, Acting Chap. Rev. C: O. L. (resigned)</Text>
+      <Forenames>Biley</Forenames>
+      <Text>, Acting Chap. Rev. C: O. L. (resigned)</Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atthill</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Qrmr. C. P. (correction)</Text>
       <PageNumber>7264</PageNumber>
     </MainItem>
@@ -921,7 +922,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott-Cooper</Key>
-      <Text>. R. (Hon. Col.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>

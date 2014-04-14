@@ -8,7 +8,9 @@
       <PageNumber>940</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maxwell, Right Hon. Sir H. E., Bart., . Lord Lieutenant of Wigtown</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>108</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -202,8 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretford</Key>
-      <Title>St.</Title>
-      <Forenames>Matthew</Forenames>
+      <Forenames>St. Matthew</Forenames>
       <Text>, Order in Council, constituting a part of the parish of, a separate district for spiritual purposes</Text>
       <PageNumber>678</PageNumber>
     </MainItem>
@@ -305,8 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredegar</Key>
-      <Title>St.</Title>
-      <Forenames>James</Forenames>
+      <Forenames>St. James</Forenames>
       <Text>, District Chapelry. Order in Council</Text>
       <PageNumber>2031</PageNumber>
     </MainItem>
@@ -362,8 +362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Uruguay</Key>
-      <Forenames>Sefior D.</Forenames>
-      <Text>de Larrinaga, ViceConsul at Liverpool for</Text>
+      <Forenames>Sefior D. de Larrinaga</Forenames>
+      <Text>, ViceConsul at Liverpool for</Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Venezuela</Key>
-      <Text>The Custom Houses of Guanta, Puerto Sucre, and Giiiria qualified for the import, export and coasting trades</Text>
+      <Title>The</Title>
+      <Forenames>Custom Houses</Forenames>
+      <Text>of Guanta, Puerto Sucre, and Giiiria qualified for the import, export and coasting trades</Text>
       <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +404,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakefield</Key>
-      <Text>The Registrar of the &gt; County Court at excluded from private practice</Text>
+      <Title>The</Title>
+      <Forenames>Registrar</Forenames>
+      <Text>of the &gt; County Court at excluded from private practice</Text>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>G. H., Consul at Manchester for Cuba ,</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>, Consul at Manchester for Cuba ,</Text>
       <PageNumber>1869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +463,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigtownshire</Key>
-      <Text>: Lord Lieutenant of : Maxwell, Rt. Hon. Sir E. W., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,13 +475,16 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Deputy Lieutenants</Forenames>
-      <Text>of : Agnew, Sir. A. N., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2042</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>ibid.</PageNumber>
         <PageNumber>___ ___</PageNumber>
+        <Honour>Bart</Honour>
       </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </SubItem>
@@ -502,8 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmington</Key>
-      <Title>St.</Title>
-      <Forenames>Saviour Consolidated Chapelry</Forenames>
+      <Forenames>St. Saviour Consolidated Chapelry</Forenames>
       <Text>. Order in Council</Text>
       <PageNumber>690</PageNumber>
     </MainItem>
@@ -632,7 +641,9 @@
       <Key>Acheson</Key>
       <Title>Acting Lieut. Hon.</Title>
       <Forenames>P. G. E. C</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class.. '</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1245</PageNumber>
     </MainItem>
   </ItemGroup>

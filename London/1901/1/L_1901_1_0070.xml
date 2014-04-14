@@ -219,7 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosbie</Key>
-      <Text>. H. (Lieut.-Col. and to command)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Lieut.-Col. and to command)</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leader</Key>
-      <Text>. F. W. M. (Lieut.)</Text>
+      <Forenames>F. W. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,8 +457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Estcourt</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, H. E. (resigned)</Text>
       <PageNumber>316</PageNumber>
     </MainItem>
@@ -932,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livesay</Key>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1573,8 +1575,8 @@
     <MainItem>
       <Key>Murray</Key>
       <Title>Lieut.</Title>
-      <Forenames>C. De G.</Forenames>
-      <Text>(seconded)</Text>
+      <Forenames>C. De G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1790,7 +1792,7 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. R, (antedated)</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>

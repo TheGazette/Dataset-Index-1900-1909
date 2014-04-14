@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>S.</Forenames>
-      <Text>de V</Text>
+      <Forenames>S. de V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +362,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T. (retired list) ., ..</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T.</Forenames>
+      <Text>(retired list) ., ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,8 +457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H. G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. G. St. G</Forenames>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +739,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jesse</Key>
-      <Forenames>Lieut J. L.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. L.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>2756</PageNumber>
     </MainItem>
@@ -864,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, T. J. (seconded)</Text>
       <PageNumber>222</PageNumber>
     </MainItem>
@@ -1036,7 +1036,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>Lieut H. A.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H. A.</Forenames>
       <Text>(retired list and Commander)</Text>
       <PageNumber>513</PageNumber>
     </MainItem>
@@ -1424,7 +1425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millard</Key>
-      <Text>L. A. (Lieut.)</Text>
+      <Forenames>L. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,8 +1571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparks</Key>
-      <Forenames>Sub-Lieut V. P.</Forenames>
-      <Text>(retired list)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut V. P. (retired list)</Text>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>

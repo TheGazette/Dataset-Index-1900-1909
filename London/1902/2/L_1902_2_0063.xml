@@ -348,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelis</Key>
-      <Text>J.A</Text>
+      <Forenames>J.A.</Forenames>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,8 +686,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, D. S. A ,</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>D. S. A</Forenames>
+      <Text>,</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,8 +919,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mealy, M</Text>
+      <Key>O'Mealy</Key>
+      <Forenames>M</Forenames>
       <PageNumber>7246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,9 +997,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, J. E</Text>
+      <Key>De Souza</Key>
+      <Forenames>J. E</Forenames>
       <PageNumber>6572</PageNumber>
     </MainItem>
   </ItemGroup>

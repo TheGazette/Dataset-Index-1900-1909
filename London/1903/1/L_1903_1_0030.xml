@@ -623,8 +623,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Forenames>C. G.</Forenames>
-      <Text>de C. (Hon. Maj.)</Text>
+      <Forenames>C. G. de C</Forenames>
+      <Text>. (Hon. Maj.)</Text>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake-Campbell</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <Text>(Surg.Lieut.)</Text>
       <PageNumber>1137</PageNumber>
     </MainItem>
@@ -870,6 +870,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putrou</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1418</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Eddowes</Key>
       <Forenames>W. B.</Forenames>
       <Text>(Capt.)</Text>
@@ -929,7 +945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MackrelLA</Key>
-      <Text>. (Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronshaw</Key>
-      <Text>. A. E. (Capt.) .. ..</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>N</Key>
-      <Text>. National Bank, half-yearly general meeting</Text>
+      <Forenames>National Bank</Forenames>
+      <Text>, half-yearly general meeting</Text>
       <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parliament</Key>
-      <Text>, notices of application to : Barry Railway</Text>
+      <Text>notices of application to : Barry Railway</Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patents</Key>
-      <Text>, notices respecting : Bell, J. H</Text>
+      <Text>notices respecting : Bell, J. H</Text>
       <PageNumber>2725</PageNumber>
       <PageNumber>2800</PageNumber>
     </MainItem>
@@ -180,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pegamoid</Key>
-      <Text>, notice of winding up</Text>
+      <Text>notice of winding up</Text>
       <PageNumber>3387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +290,6 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>extraordinary general court</Text>
       <PageNumber>3729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,8 +368,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. James and Pall Mall Electric Light Company</Text>
+      <Key>St. James</Key>
+      <Text>and Pall Mall Electric Light Company</Text>
       <PageNumber>3940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +404,6 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>extraordinary general meeting</Text>
       <PageNumber>107</PageNumber>
       <PageNumber>2381</PageNumber>
     </MainItem>
@@ -590,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tubes</Key>
-      <Text>, reduction of capital</Text>
+      <Text>reduction of capital</Text>
       <PageNumber>1512</PageNumber>
       <PageNumber>2800</PageNumber>
     </MainItem>
@@ -721,15 +720,7 @@
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Western</Key>
-      <Forenames>Counties</Forenames>
-      <Text>and General Manure Company, reduction of capital</Text>
-      <PageNumber>325</PageNumber>
-      <PageNumber>1670</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Western Counties and General Manure</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>

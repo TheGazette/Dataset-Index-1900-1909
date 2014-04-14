@@ -65,7 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>StottierdJS</Key>
-      <Text>B. '(Maj.)</Text>
+      <Forenames>B.</Forenames>
+      <Text>'(Maj.)</Text>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +108,9 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Capt.</Title>
-      <Text>ami Hon. Maj. Sir B. C. P., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cary</Key>
-      <Text>J. (Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +364,9 @@
       <Key>Mahon</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart.(Lieut.-Col. and' to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,8 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>W.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>W. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,6 +1190,15 @@
       <Forenames>J.</Forenames>
       <Text>TJ. M. (Adj.) ..V</Text>
       <PageNumber>7750</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Someren</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>1*£ Volunteer Battalion</SubSectionTitle>

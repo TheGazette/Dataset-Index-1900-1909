@@ -158,8 +158,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, Lieut.-Col. and Brev. Col. T. J., Assist. Director of Supplies and Transport, and Col. .. ..</Text>
+      <Key>O'Dell</Key>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>T. J.</Forenames>
+      <Text>, Assist. Director of Supplies and Transport, and Col. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +438,9 @@
     <MainItem>
       <Key>Hall</Key>
       <Title>Capt.</Title>
-      <Text>G.C. W.G.</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,8 +571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Title>Maj. St.</Title>
-      <Forenames>J. W. T</Forenames>
+      <Title>Maj. St. J.</Title>
+      <Forenames>W. T</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +588,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Luck</Key>
-      <Text>. Lieut.-Gen. Sir G., Lieutenant of the Tower of London</Text>
+      <Title>Lieut.-Gen. Sir</Title>
+      <Forenames>G.</Forenames>
+      <Text>, Lieutenant of the Tower of London</Text>
       <PageNumber>7599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,15 +892,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Capt. E. R. (cancellation)</Text>
+      <Key>O'Hara</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, C. C; Si (2nd Lieut.)</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>C. C</Forenames>
+      <Text>; Si (2nd Lieut.)</Text>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,9 +967,10 @@
   <SectionTitle>Royal...Military Academy</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, Capt. O. C. (Commander, of a Company of Gentlemen Cadets)</Text>
+      <Key>Du Port</Key>
+      <Title>Capt.</Title>
+      <Forenames>O. C.</Forenames>
+      <Text>(Commander, of a Company of Gentlemen Cadets)</Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,9 +1102,10 @@
   <SectionTitle>School of Military Engineering</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boilny</Forenames>
-      <Text>, Lieut. A. H. (Asst. Instr.)</Text>
+      <Key>Du Boilny</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(Asst. Instr.)</Text>
       <PageNumber>6865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,8 +1165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Samut</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. A. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7599</PageNumber>
     </MainItem>
   </ItemGroup>

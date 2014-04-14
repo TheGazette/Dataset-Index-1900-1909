@@ -207,8 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake-Campbell</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <Text>(Surg.Capt.)</Text>
       <PageNumber>8650</PageNumber>
     </MainItem>
@@ -353,6 +353,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>6th Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bertodano</Key>
+      <Forenames>F. E.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6933</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
@@ -908,8 +916,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lieut. Hon. B. T. (antedated)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut. Hon.</Title>
+      <Forenames>B. T.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

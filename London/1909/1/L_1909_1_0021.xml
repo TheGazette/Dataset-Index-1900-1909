@@ -339,7 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Averill</Key>
-      <Text>. C. (Lieut.-Col.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brimacoin</Key>
-      <Text>.be, R. W. (Capt.)</Text>
+      <Text>be, R. W. (Capt.)</Text>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>P. J. J. O</Forenames>
-      <Text>'R. (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>P. J. J. O'R</Forenames>
+      <Text>. (Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>1955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,6 +965,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Boinville</Key>
+      <Forenames>N. C.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>35</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Legh</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>483</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dick</Key>
       <Forenames>A.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1071,7 +1088,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Text>. W. (Lieut.-Col.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -80,8 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HugheB</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,8 +90,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Capt F. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>Capt F. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, j. C. F. (seconded)</Text>
       <PageNumber>8570</PageNumber>
     </MainItem>
@@ -591,8 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,8 +706,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3572</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gannon</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. C. R. (antedated)</Text>
       <PageNumber>4230</PageNumber>
     </MainItem>
@@ -756,6 +764,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>H. St. M</Forenames>
+      <Text>. de (resigned)</Text>
+      <PageNumber>3081</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
@@ -1128,7 +1145,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. F. J. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

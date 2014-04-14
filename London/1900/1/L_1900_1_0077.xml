@@ -126,7 +126,9 @@
       <Key>Bromley</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart, (super. Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peacock</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. O. (seconded)</Text>
       <PageNumber>911</PageNumber>
     </MainItem>
@@ -349,7 +351,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brewill</Key>
-      <Text>A. W. (Instr. of Musketry)</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(Instr. of Musketry)</Text>
       <PageNumber>1886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,6 +595,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Butzen</Key>
+      <Forenames>A. F. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>293</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Harrison</Key>
       <Forenames>D.</Forenames>
       <Text>(2nd Lieut.) .. ..</Text>
@@ -764,7 +775,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Capt. G. E. B. (seconded) ,</Text>
+      <Title>Capt.</Title>
+      <Forenames>G. E. B.</Forenames>
+      <Text>(seconded) ,</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1178,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>7 2nd Lieut. Sir S. H. L., Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1191,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>S. H. L.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>Capt. arid Hon. Maj. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>arid Hon. Maj. J. (resigned)</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>

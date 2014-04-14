@@ -98,10 +98,12 @@
       <Text>Tyldesley and Astley Conserva tive Club</Text>
       <PageNumber>851</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>United Counties Bank</Text>
-      <PageNumber>2122</PageNumber>
-    </SubItem>
+    <CategoryTitle>
+      <SubItem>
+        <Text>United Counties Bank</Text>
+        <PageNumber>2122</PageNumber>
+      </SubItem>
+    </CategoryTitle>
     <SubItem>
       <Text>Vanguard Motor Omnibus Com pany</Text>
       <PageNumber>210</PageNumber>
@@ -313,7 +315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending .. 29th December, 1906</Text>
+      <Text>average price for the week ending .. 29th December, 1906</Text>
       <PageNumber>61</PageNumber>
     </MainItem>
     <SubItem>
@@ -353,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price per guarter for quarter ending Christmas, 1906</Text>
+      <Text>average price per guarter for quarter ending Christmas, 1906</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>

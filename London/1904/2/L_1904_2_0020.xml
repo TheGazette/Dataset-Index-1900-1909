@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fife</Key>
-      <Text>. Baird, W. (Hon. Col.)</Text>
+      <Forenames>Baird</Forenames>
+      <Text>, W. (Hon. Col.)</Text>
       <PageNumber>2481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +241,9 @@
       <Key>Crossley</Key>
       <Title>Maj. and Hon. Lieut.-Col. Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterford</Key>
-      <Text>. Hare, Lieut.J. (resigned)</Text>
+      <Forenames>Hare</Forenames>
+      <Text>, Lieut.J. (resigned)</Text>
       <PageNumber>2481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>C. W. (Lieut.).. ..</Text>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lieut.).. ..</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +728,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>J. B. (Capt.)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitewav-Wilkinson</Key>
-      <Text>B. de V. W. (Capt,) .. '</Text>
+      <Forenames>B. de V</Forenames>
+      <Text>. W. (Capt,) .. '</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>

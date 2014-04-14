@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. (Lieut.) .. ..</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,8 +284,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgens</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'C. (Maj.) .. ...</Text>
+      <Forenames>C. O'C</Forenames>
+      <Text>. (Maj.) .. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maughan</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A. (Lieut.)... . :</Text>
+      <Forenames>J. St. A</Forenames>
+      <Text>. (Lieut.)... . :</Text>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,14 +536,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>Capt; H. M. (temporary half-pay)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>; H. M. (temporary half-pay)</Text>
       <PageNumber>4978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, D. J. F. (Capt.)</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>D. J. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,8 +558,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, H. W. H. (Maj.) .. .:</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>H. W. H.</Forenames>
+      <Text>(Maj.) .. .:</Text>
       <PageNumber>5056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,8 +1039,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Capt. J. E. (resigned) ..</Text>
+      <Key>O'Connor</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1258,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>.C.B. (Paymaster). .. ..</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,7 +1731,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>C.B. (Maj.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>

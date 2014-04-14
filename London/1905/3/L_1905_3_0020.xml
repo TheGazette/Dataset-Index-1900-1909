@@ -764,7 +764,9 @@
       <Key>Cholmeley</Key>
       <Title>Capt. Sir</Title>
       <Forenames>M. E. A.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,8 +848,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsmill</Key>
-      <Forenames>A.</Forenames>
-      <Text>de P. (Lieut.)</Text>
+      <Forenames>A. de P</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Aubyn, Lieut.-Col. Hon. J. T. (correction)</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, Lieut.-Col. Hon. J. T. (correction)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>

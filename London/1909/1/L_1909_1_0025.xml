@@ -338,8 +338,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>G. E. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>G. E. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>A. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Text>. Lieut. G. P. L. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G. P. L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Gattv</Key>
-      <Text>. C. C. S. (Capt.)</Text>
+      <Forenames>C. C. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

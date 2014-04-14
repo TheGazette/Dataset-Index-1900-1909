@@ -153,6 +153,15 @@
   <SubSectionTitle>lst Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Cerjat</Key>
+      <Title>Rev.</Title>
+      <Forenames>C.R. W.</Forenames>
+      <Text>(Acting Cliap.)</Text>
+      <PageNumber>6786</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fowler</Key>
       <Title>Lieut.</Title>
       <Forenames>A. G.</Forenames>
@@ -821,8 +830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Forenames>A. E. St</Forenames>
-      <Text>. V. (Capt.)</Text>
+      <Forenames>A. E. St. V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,16 +1187,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Maj. H. H. M. (retired)</Text>
+      <Key>O'Grady</Key>
+      <Title>Maj.</Title>
+      <Forenames>H. H. M.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. (Alaj.) .. ..</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. (Alaj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,14 +1455,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>.W. H. (Lieut.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5670</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>..iris, C. E. (2nd Lieut.)</Text>
+      <Text>.iris, C. E. (2nd Lieut.)</Text>
       <PageNumber>8566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,7 +1571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Judd</Key>
-      <Text>.E. T. (2ndLieut.)</Text>
+      <Forenames>E. T.</Forenames>
+      <Text>(2ndLieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

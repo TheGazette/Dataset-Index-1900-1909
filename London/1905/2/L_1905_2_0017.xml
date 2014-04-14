@@ -30,8 +30,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Title>St.</Title>
-      <Forenames>J. W.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>W.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
@@ -125,6 +125,14 @@
       <Forenames>R. A.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>3156</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carrara-Rivers</Key>
+      <Forenames>A. L.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>3248</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -765,8 +773,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>H. O</Forenames>
-      <Text>'H. (temporary half-pay)</Text>
+      <Forenames>H. O'H</Forenames>
+      <Text>. (temporary half-pay)</Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,8 +1094,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>F. G.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>F. G. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,8 +1231,8 @@
     <MainItem>
       <Key>Ashe</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>

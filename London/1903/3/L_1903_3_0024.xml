@@ -593,8 +593,8 @@
     <MainItem>
       <Key>Goldie</Key>
       <Title>Lieut.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (antedated)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,8 +793,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. L. (Lieut.) .. ..</Text>
+      <Forenames>E. St. L</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,8 +804,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. L. (antedated)</Text>
+      <Forenames>E. St. L</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>5787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,8 +833,8 @@
     <MainItem>
       <Key>Burke</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M. A. (resigned)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M. A. (resigned)</Text>
       <PageNumber>4355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,6 +1051,15 @@
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Cordes</Key>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(resigned) .. '</Text>
+      <PageNumber>5418</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Johnston</Key>
       <Forenames>H. J.</Forenames>
       <Text>'(-Lieut.-Col. and to command)</Text>
@@ -1186,7 +1195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corry</Key>
-      <Text>Smith, Lieut. G. C. (seconded)</Text>
+      <Forenames>Smith</Forenames>
+      <Text>, Lieut. G. C. (seconded)</Text>
       <PageNumber>4192</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Forenames>H. De C.</Forenames>
+      <Forenames>H. De C</Forenames>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,15 +117,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Alton</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alton</Key>
-      <Text>W. W. (antedated)</Text>
+      <Forenames>W. W.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>8197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Treglohan</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,8 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>W. T.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>W. T. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +999,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>W. N. (Lieut.)</Text>
+      <Forenames>W. N.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwood</Key>
-      <Text>C (Assist. Paymaster)</Text>
+      <Forenames>C</Forenames>
+      <Text>(Assist. Paymaster)</Text>
       <PageNumber>7030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>6370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,7 +1453,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matsou</Key>
-      <Text>Maj. C G. .. .. ..</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>G. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -305,7 +305,9 @@
       <Key>Buxton</Key>
       <Title>Col. Sir</Title>
       <Forenames>T. V.</Forenames>
-      <Text>, Bart, (resigns Hon. Colonelcy) .. .</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lance</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>' A. L. (resigned) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -780,7 +782,9 @@
       <Key>Tomlinson</Key>
       <Title>Sir</Title>
       <Forenames>W. E. M.</Forenames>
-      <Text>, Bart..;</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,9 +858,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince of</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Text>of</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -54,6 +54,14 @@
   <SubSectionTitle>Hampshire</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Vitrei</Key>
+      <Forenames>P. T. D.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>4943</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Jelley</Key>
       <Forenames>B. F.</Forenames>
       <Text>(Adj.) ..</Text>
@@ -82,7 +90,9 @@
       <Key>Grant</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +504,9 @@
       <Key>Bingham</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +539,9 @@
   <SubSectionTitle>London Cable</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, J. J. F. (Maj.)</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>J. J. F.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>

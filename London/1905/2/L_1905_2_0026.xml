@@ -112,7 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>. H. J. F. (2nd Lieut.)</Text>
+      <Forenames>H. J. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Way</Key>
-      <Text>.Capt.B. I. (retired)</Text>
+      <Title>Capt.</Title>
+      <Forenames>B. I.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>.E. V. (Adj.)</Text>
+      <Forenames>E. V.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gascoigne</Key>
-      <Text>. C. C. O. (Capt.)</Text>
+      <Forenames>C. C. O.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,6 +1142,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>lst Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Title>Surg.</Title>
+      <Text>-Capt. W. (resigned)</Text>
+      <PageNumber>3944</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macimyre</Key>

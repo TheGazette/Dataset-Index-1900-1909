@@ -264,7 +264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>C. F. (Capt.)</Text>
+      <Forenames>C. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,9 +775,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, O. C. (Adj.)</Text>
+      <Key>Du Port</Key>
+      <Forenames>O. C.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>9755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,8 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lecky</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. (Lieut.-Col.)</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>

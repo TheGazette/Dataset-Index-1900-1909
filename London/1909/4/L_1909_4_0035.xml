@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under; . Watsons' (Plaistow)</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under; . Watsons' (Plaistow)</Text>
       <PageNumber>8876</PageNumber>
       <PageNumber>8877</PageNumber>
     </MainItem>
@@ -114,7 +116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, Ordinary General Meeting</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, Ordinary General Meeting</Text>
       <PageNumber>7297</PageNumber>
       <PageNumber>8052</PageNumber>
     </MainItem>
@@ -124,8 +127,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Extra</Forenames>
-      <Text>. ordinary General Meeting</Text>
+      <Title>Extra.</Title>
+      <Text>ordinary General Meeting</Text>
       <PageNumber>8395</PageNumber>
       <PageNumber>9535</PageNumber>
     </MainItem>
@@ -180,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending: 2nd October, 1909</Text>
+      <Text>average price for the week ending: 2nd October, 1909</Text>
       <PageNumber>7374</PageNumber>
     </MainItem>
     <SubItem>
@@ -302,7 +305,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crescens</Key>
-      <Text>(Matabele) Mines and Land Company, reduction of capital</Text>
+      <Title>(Matabele)</Title>
+      <Forenames>Mines</Forenames>
+      <Text>and Land Company, reduction of capital</Text>
       <PageNumber>9800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +406,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mello Brazilian Rubber Company</Forenames>
+      <Key>De Mello</Key>
+      <Forenames>Brazilian Rubber Company</Forenames>
       <Text>, notice of winding up .,</Text>
       <PageNumber>9918</PageNumber>
     </MainItem>
@@ -502,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Exchequer</Key>
-      <Text>, receipts into and payments out of, between lsl: April, 1909, and : 30th September, 1909</Text>
+      <Text>receipts into and payments out of, between lsl: April, 1909, and : 30th September, 1909</Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
     <SubItem>

@@ -57,8 +57,8 @@
     <MainItem>
       <Key>Bellairs</Key>
       <Title>Lieut.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de M. (resigned)</Text>
+      <Forenames>A. de M</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>8560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,8 +72,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, T. (Qrmr.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>T.</Forenames>
+      <Text>(Qrmr.)</Text>
       <PageNumber>8561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +197,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>N. R.</Forenames>
-      <Text>, Bart. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
     <SubSectionTitle>Colonels</SubSectionTitle>
@@ -610,8 +613,8 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. J. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. J. T.</Forenames>
       <PageNumber>7483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,8 +844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Title>Col. St.</Title>
-      <Forenames>J. M. Goldney</Forenames>
+      <Title>Col. St. J.</Title>
+      <Forenames>M. Goldney</Forenames>
       <Text>, Col. T: H. .. Grant,' Col. J: .. Keighley, Col. C. -M. .. Kellie, Lieut.-Col. E. C. Montgomery, Lieut.-Col. J. Spencer, Col. T. E. .. Strahan, Lieufc.-Gen. C. Trotter, Lieut.-Col. R..F. Welch, Col. F. G.T....</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>

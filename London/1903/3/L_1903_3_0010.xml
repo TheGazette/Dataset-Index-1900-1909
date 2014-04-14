@@ -58,7 +58,9 @@
       <Key>Wright</Key>
       <Title>Capt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +180,9 @@
     <MainItem>
       <Key>Apperley</Key>
       <Forenames>N. W.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +206,9 @@
     <MainItem>
       <Key>Arnold</Key>
       <Forenames>A.</Forenames>
-      <Text>, Knighted .. .. ..</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +232,9 @@
     <MainItem>
       <Key>Budworth</Key>
       <Title>Capt. and Brev.</Title>
-      <Text>-Maj. C. E. D., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4589</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -79,8 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coghlan</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greer</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'B. (Lieut.)</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>. ST. H</Text>
+      <Text>ST. H</Text>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Forenames>A. M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. M. St. C</Forenames>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,6 +931,13 @@
       <Key>Davis</Key>
       <Forenames>J. S. C</Forenames>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>E. E.</Forenames>
+      <PageNumber>9148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1434,9 +1440,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Kaltenbrunnen</Forenames>
-      <Text>, R. R</Text>
+      <Key>Von Kaltenbrunnen</Key>
+      <Forenames>R. R.</Forenames>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>

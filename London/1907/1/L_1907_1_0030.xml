@@ -199,7 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>. Sub-Lieut. A. H. (retired list)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. A. H. (retired list)</Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radclilfe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. B. (retired list)</Text>
       <PageNumber>256</PageNumber>
     </MainItem>
@@ -738,6 +739,7 @@
         <PageNumber>___ ___</PageNumber>
         <PageNumber>1171</PageNumber>
         <PageNumber>ibid.</PageNumber>
+        <Honour>Bart</Honour>
         <PageNumber>___ ___ ___</PageNumber>
         <PageNumber>___ ___</PageNumber>
         <PageNumber>___ ___</PageNumber>

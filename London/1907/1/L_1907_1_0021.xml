@@ -145,7 +145,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. J. S. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -377,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. A. W. S. (Lieut.)</Text>
+      <Forenames>A. W. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunch</Key>
-      <Text>. H. W. (2nd Lieut.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Otler</Key>
-      <Text>.R. C. (Hon. Lieut.-Col.)</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>38</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,8 +987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>IAnson</Key>
-      <Forenames>C. J.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>C. J. de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>

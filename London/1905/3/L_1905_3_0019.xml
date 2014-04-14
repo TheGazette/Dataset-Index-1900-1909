@@ -95,7 +95,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>H. J. N.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>BarrellVW</Key>
-      <Text>H. (Capt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6062</PageNumber>
     </MainItem>
   </ItemGroup>

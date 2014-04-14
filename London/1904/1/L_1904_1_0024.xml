@@ -43,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HaworlhjRev</Key>
-      <Text>H. (Acting Chap.) ..</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Acting Chap.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,8 +84,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Capt.) ' .. .. '</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Capt.) ' .. .. '</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +180,9 @@
     <MainItem>
       <Key>Bowring</Key>
       <Forenames>F. A.</Forenames>
-      <Text>(Lieut.) .. .. ___ ___ Clerk, Lieut.-Col. and Hon. Col. Sir G. D., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Text>P. H. (Lieut.)</Text>
+      <Forenames>P. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +470,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Luke</Key>
-      <Text>Lieut. F. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>

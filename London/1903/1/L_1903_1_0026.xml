@@ -51,7 +51,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Madocks</Key>
-      <Text>. Capt. and Brev. Maj. H. J. (retired)</Text>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,8 +730,8 @@
     <MainItem>
       <Key>Denny</Key>
       <Title>Capt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C. (seconded)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,8 +828,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lieut. H. M. (resigned)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. M.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,8 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Title>Capt.</Title>
-      <Text>de V. (antedated)</Text>
+      <Title>Capt. de V. (antedated)</Title>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sneath</Key>
-      <Text>.G. A. (Lieut.). .. ' V</Text>
+      <Forenames>G. A.</Forenames>
+      <Text>(Lieut.). .. ' V</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson-Featne</Key>
-      <Text>.vstonehaugh, S. A. (Hon. Lieut.-Col.) Ill Trevor, Lieut. M. (resigned)</Text>
+      <Text>vstonehaugh, S. A. (Hon. Lieut.-Col.) Ill Trevor, Lieut. M. (resigned)</Text>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,8 +1346,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Maj. and Brevet-Lieut.-Col. C.-R.M. (retired).. , '.. ..._</Text>
+      <Key>O'Brien</Key>
+      <Title>Maj. and Brevet-Lieut.-Col.</Title>
+      <Forenames>C.</Forenames>
+      <Text>-R.M. (retired).. , '.. ..._</Text>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>

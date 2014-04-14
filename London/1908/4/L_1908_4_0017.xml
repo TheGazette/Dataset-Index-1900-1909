@@ -290,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graeme</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Brevet Col. F. J. (retired)</Text>
       <PageNumber>9559</PageNumber>
     </MainItem>
@@ -428,8 +428,8 @@
     <MainItem>
       <Key>Lardner-Clarke</Key>
       <Title>Lieut.-Col. and Brevet Col.</Title>
-      <Forenames>J.</Forenames>
-      <Text>de W. (retired)</Text>
+      <Forenames>J. de W</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>9559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,8 +519,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kinealy, Capt. J. (retired)</Text>
+      <Key>O'Kinealy</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +623,8 @@
     <MainItem>
       <Key>Shaw</Key>
       <Title>Lieut.</Title>
-      <Forenames>J. F.</Forenames>
-      <Text>de F. (seconded)</Text>
+      <Forenames>J. F. de F</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>7470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,8 +809,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. L.</Forenames>
-      <Text>de M. (Capt.)</Text>
+      <Forenames>W. L. de M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>9292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1046,9 @@
     <MainItem>
       <Key>Thompson</Key>
       <Forenames>S</Forenames>
-      <Text>_r T. E. L., Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1323,9 @@
       <Key>Agnew</Key>
       <Title>Capt. Sir</Title>
       <Forenames>A. N.</Forenames>
-      <Text>, Bart.(resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,7 +1490,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. G. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

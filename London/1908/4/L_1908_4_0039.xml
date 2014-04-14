@@ -437,7 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beswick</Key>
-      <Text>W. (2nd Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +996,9 @@
       <Key>Waldie-Griffith</Key>
       <Title>Sir</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, Bart., (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1658,9 @@
       <Key>Mackworth</Key>
       <Title>Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8038</PageNumber>
     </MainItem>
   </ItemGroup>

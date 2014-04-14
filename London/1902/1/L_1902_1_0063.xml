@@ -286,6 +286,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>W.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>1736</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Disraeli</Key>
       <Forenames>C. R</Forenames>
       <Text>, (Lieut.)</Text>
@@ -347,6 +355,15 @@
       <Forenames>C. A.</Forenames>
       <Text>(Capt,)</Text>
       <PageNumber>4123</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>850</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -427,7 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curry</Key>
-      <Text>W. J. (2nd Lieut.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +665,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>P. C</Forenames>
-      <Text>, Bart. (Hon. Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +765,9 @@
       <Key>Shelley</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart. (Hon. Col.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +778,9 @@
       </Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +830,9 @@
       <Key>Wrey</Key>
       <Title>Capt. Sir</Title>
       <Forenames>B. R. S.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +961,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart, (super. Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>389</PageNumber>
     </MainItem>
   </ItemGroup>

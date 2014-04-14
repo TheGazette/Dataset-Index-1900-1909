@@ -38,7 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinidad</Key>
-      <Text>M. A. Graillet, VieeConsul for France at</Text>
+      <Forenames>M. A. Graillet</Forenames>
+      <Text>, VieeConsul for France at</Text>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,8 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vancouver</Key>
-      <Forenames>H. A. L. D.</Forenames>
-      <Text>de Montrouge, Consul forFrance at</Text>
+      <Forenames>H. A. L. D. de Montrouge</Forenames>
+      <Text>, Consul forFrance at</Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,14 +229,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Villanueva</Key>
-      <Text>Senor C. Consul-General ' at London for Venezuela .-</Text>
+      <Forenames>Senor C. Consul-General</Forenames>
+      <Text>' at London for Venezuela .-</Text>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Munthe</Forenames>
+      <Key>Von Munthe</Key>
       <Text>af Morgenstierne,C. F. J., Consul at Newcastle-upon-Tyne for Norway</Text>
       <PageNumber>4075</PageNumber>
     </MainItem>
@@ -277,8 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wavertree</Key>
-      <Title>St.</Title>
-      <Forenames>Bridget</Forenames>
+      <Forenames>St. Bridget</Forenames>
       <Text>constituted a separate district for spiritual purposes</Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
@@ -412,7 +412,9 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>North Riding</Forenames>
-      <Text>, Lieutenant and Custos Rotulorum of: Beil, Sir 'J. H., Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +549,9 @@
       <Key>Adam</Key>
       <Title>Maj.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +576,9 @@
     <MainItem>
       <Key>Afsar-ud-Daula</Key>
       <Forenames>Bahadur</Forenames>
-      <Text>, Nawab, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +637,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ao</Key>
-      <Text>^ama R., Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +648,9 @@
       <Key>Apps</Key>
       <Title>Engr. Commr.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,14 +658,18 @@
     <MainItem>
       <Key>Ardron</Key>
       <Forenames>J.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashburn</Key>
-      <Text>r, C.ipt L. F., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +677,9 @@
     <MainItem>
       <Key>Athelstan</Key>
       <Forenames>Johnson</Forenames>
-      <Text>, W., Member Fifth Class Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +687,9 @@
     <MainItem>
       <Key>Aziz-ud-din</Key>
       <Forenames>M.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +697,9 @@
     <MainItem>
       <Key>Baeque</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, Royal Victorian Order. Hon. Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +707,9 @@
     <MainItem>
       <Key>Bailey</Key>
       <Forenames>W.F.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +718,9 @@
       <Key>Bakas</Key>
       <Title>Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +736,9 @@
     <MainItem>
       <Key>Bainber</Key>
       <Forenames>H. K.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +746,9 @@
     <MainItem>
       <Key>Barclay</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +764,9 @@
     <MainItem>
       <Key>Barnier</Key>
       <Forenames>E</Forenames>
-      <Text>T., Royal Victorian Order, Hon. Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +775,9 @@
       <Key>Barton</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>G.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +785,9 @@
     <MainItem>
       <Key>Bayley</Key>
       <Forenames>C. B.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +796,9 @@
       <Key>Berates</Key>
       <Title>Lieut.</Title>
       <Forenames>D.</Forenames>
-      <Text>, Hon. Member Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +806,9 @@
     <MainItem>
       <Key>Beg</Key>
       <Forenames>Sirdar Bahadur</Forenames>
-      <Text>, Major M. K., Royal Victorian Order, Fifth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +817,9 @@
       <Key>Bell</Key>
       <Title>Sir</Title>
       <Forenames>T. H</Forenames>
-      <Text>, Bart, Lieutenant and Custus R itulorum of the North Riding of Yorkshire</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +827,9 @@
     <MainItem>
       <Key>Belliirs</Key>
       <Forenames>H.</Forenames>
-      <Text>d.-v., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +855,9 @@
       <Key>Beresford</Key>
       <Title>Adml. Lord</Title>
       <Forenames>C. W. D.</Forenames>
-      <Text>, Knight Grand Cross, Royal Victorian Order .. .,</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2875</PageNumber>
     </MainItem>
   </ItemGroup>

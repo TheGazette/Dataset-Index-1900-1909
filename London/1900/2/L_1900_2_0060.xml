@@ -120,8 +120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>L. G.</Forenames>
-      <Text>de E. (2nd Lieut.)</Text>
+      <Forenames>L. G. de E</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,8 +896,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M. (2nd Lieut.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +916,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>(2ndLieut.)</Title>
-      <Text>T.D. (seconded)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,8 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,15 +1143,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, J. de C. Lieut.-Col</Text>
+      <Key>O'Grady</Key>
+      <Forenames>J. de C</Forenames>
+      <Text>. Lieut.-Col</Text>
       <PageNumber>4124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,8 +1249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>M. H. C. De C. De B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>M. H. C. De C</Forenames>
+      <Text>. De B. (2nd Lieut.)</Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,8 +1408,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, C. J. (Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>C. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,16 +1433,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Forenames>C. H. B. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>C. H. B. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5896</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>E. T. E. Di C.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>E. T. E. Di C. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4792</PageNumber>
     </MainItem>
   </ItemGroup>

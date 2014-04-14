@@ -162,8 +162,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>L. A.</Forenames>
-      <Text>de V. (resigned)</Text>
+      <Forenames>L. A. de V</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>2112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockell</Key>
-      <Text>.C. L. (Lieut.)</Text>
+      <Forenames>C. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,9 @@
       <Key>Crossley</Key>
       <Title>Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart. (Comdt. and temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,6 +599,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>T. L.</Forenames>
+      <Text>(Comdt. and temporary Lieut.-Col.)</Text>
+      <PageNumber>3637</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Motte, E. B. (Lieut.)</Text>
       <PageNumber>2196</PageNumber>
@@ -603,8 +614,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Las Casasj</Forenames>
+      <Key>De Las</Key>
+      <Forenames>Casasj</Forenames>
       <Text>Lieut. M. (resigned)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
@@ -627,10 +638,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Eougemont</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Comdt. and local Lieut.-Col.)</Text>
+      <PageNumber>4184</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Detpard</Key>
       <Forenames>C. B.</Forenames>
       <Text>(Lieut.) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -656,7 +684,9 @@
       <Key>Dickson-Poynder</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +1021,9 @@
       <Key>Fowler</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,8 +1816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>

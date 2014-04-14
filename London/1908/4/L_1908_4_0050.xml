@@ -75,8 +75,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lord (2nd Lieut.) .. ..</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lord (2nd Lieut.)</Title>
+      <Text>.. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden, Lord (Capt.)</Text>
+      <Forenames>de Walden</Forenames>
+      <Text>, Lord (Capt.)</Text>
       <PageNumber>9184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +319,9 @@
       <Key>Stuart</Key>
       <Title>Sir</Title>
       <Forenames>S. H. L.</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +593,9 @@
       <Key>Williams-Wynn</Key>
       <Title>Sir</Title>
       <Forenames>H. L. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Annaly</Key>
-      <Text>Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>8280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,8 +981,8 @@
     <MainItem>
       <Key>Beauclerk</Key>
       <Title>Lord</Title>
-      <Forenames>O.</Forenames>
-      <Text>de V. (Maj.) ..</Text>
+      <Forenames>O. de V</Forenames>
+      <Text>. (Maj.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1022,9 @@
       <Key>Bromley-Wilson</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

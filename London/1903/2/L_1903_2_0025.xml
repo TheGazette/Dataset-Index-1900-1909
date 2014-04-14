@@ -211,8 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,8 +429,8 @@
     <MainItem>
       <Key>Hughes</Key>
       <Title>Capt.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +767,9 @@
       <Key>Grierson</Key>
       <Title>Capt. Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +903,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gowan, R. W. (Maj.)</Text>
+      <Key>O'Gowan</Key>
+      <Forenames>R. W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,8 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredenniek</Key>
-      <Forenames>J. A. St</Forenames>
-      <Text>. L. (Lieut.) ..</Text>
+      <Forenames>J. A. St. L</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,8 +1323,8 @@
     <MainItem>
       <Key>Richardson-Griffiths</Key>
       <Title>Maj.</Title>
-      <Forenames>C.</Forenames>
-      <Text>du P. (retired pay)</Text>
+      <Forenames>C. du P</Forenames>
+      <Text>. (retired pay)</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>

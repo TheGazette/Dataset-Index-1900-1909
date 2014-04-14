@@ -63,7 +63,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>de Wend-Fenton, W. R. (2nd Lieut.)</Text>
+      <Forenames>de Wend-Fenton</Forenames>
+      <Text>, W. R. (2nd Lieut.)</Text>
       <PageNumber>2482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>Mackenzie, E. N. (Lieut.)</Text>
+      <Forenames>Mackenzie</Forenames>
+      <Text>, E. N. (Lieut.)</Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,8 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seeker</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +720,9 @@
       <Key>Vincent</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>C. E. H.</Forenames>
-      <Text>, Bart, (Hon. Col.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +733,9 @@
       </Key>
       <Title>Lieut.-Col. Comdt. and Hon. Col. Sir</Title>
       <Forenames>C. E. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,8 +1079,8 @@
     <MainItem>
       <Key>Beauclerk</Key>
       <Title>Lord</Title>
-      <Forenames>O.</Forenames>
-      <Text>de Y. (Maj.)</Text>
+      <Forenames>O. de Y</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>

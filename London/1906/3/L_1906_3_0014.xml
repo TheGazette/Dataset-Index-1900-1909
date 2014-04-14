@@ -60,36 +60,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut.-Col. E. F. (retired)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6182</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, 1&gt;. M. (Lieut.-Col.)</Text>
+      <Key>O'Callaghan</Key>
+      <Text>1&gt;. M. (Lieut.-Col.)</Text>
       <PageNumber>5459</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. De C. (Lieut.)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. De C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, J. J. (Lieut.)</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M. (Lieut.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,9 +822,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, H. De B. (Col.)</Text>
+      <Key>De Lisle</Key>
+      <Forenames>H. De B</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>5870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaeson</Key>
-      <Text>.M. G. (Col.)</Text>
+      <Forenames>M. G.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,9 +1061,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Doiiop</Forenames>
-      <Text>, S. B. (Col.)</Text>
+      <Key>Von Doiiop</Key>
+      <Forenames>S. B.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,9 +1102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Albemarle</Key>
-      <Title>Col.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of (resigned)</Text>
+      <Title>Col. The Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>6409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,8 +1128,8 @@
     <MainItem>
       <Key>Barter</Key>
       <Title>Col.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. L. (half-pay)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>6115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,8 +1236,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. C. (correction)</Text>
+      <Forenames>C. St. C</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>6407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,8 +1443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henrv</Key>
-      <Title>Col. St.</Title>
-      <Forenames>G. C.</Forenames>
+      <Title>Col. St. G.</Title>
+      <Forenames>C.</Forenames>
       <Text>(local rank of Brig.-Gen.)</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
@@ -1643,8 +1648,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Lieut.-Col. J. deC. (retired)</Text>
+      <Key>O'Grady</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>deC. (retired)</Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -36,8 +36,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritchard</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. G. D. '(Col. . Commandant) .. .;</Text>
+      <Title>Lieut-Gen.</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>'(Col. . Commandant) .. .;</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +87,9 @@
     <MainItem>
       <Key>Sidgwick</Key>
       <Forenames>C.</Forenames>
-      <Text>R.D. (Hon.Lieut.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>2061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,9 +152,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Hugel</Forenames>
-      <Text>, N. G. (Maj.)</Text>
+      <Key>Von Hugel</Key>
+      <Forenames>N. G.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,8 +277,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>. Oughterson, Lieut. G. H. (resigned)</Text>
+      <Forenames>Oughterson</Forenames>
+      <Text>, Lieut. G. H. (resigned)</Text>
       <PageNumber>1133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +608,9 @@
       <Key>Wiseman</Key>
       <Title>Sir</Title>
       <Forenames>W. G. E.</Forenames>
-      <Text>, Bart.:(Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. (Capt.) .. .,</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (Capt.) .. .,</Text>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +763,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mid-Ulster</Key>
-      <Text>. Browne, W. (Maj.)</Text>
+      <Forenames>Browne</Forenames>
+      <Text>, W. (Maj.)</Text>
       <PageNumber>1858</PageNumber>
     </MainItem>
   </ItemGroup>

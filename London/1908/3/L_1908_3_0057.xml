@@ -178,7 +178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritchie</Key>
-      <Text>. D. R</Text>
+      <Forenames>D. R</Forenames>
       <PageNumber>6301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +283,9 @@
       <Key>Chaytor</Key>
       <Title>Sir</Title>
       <Forenames>W. C</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,6 +493,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>M. J</Forenames>
+      <Text>, C</Text>
+      <PageNumber>6522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Everard</Key>
       <Forenames>R. H. B.</Forenames>
       <Text>.. .. ..</Text>
@@ -677,8 +687,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renouf</Key>
-      <Forenames>E.</Forenames>
-      <Text>de F</Text>
+      <Forenames>E. de F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whelan</Key>
-      <Text>.J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1349,7 +1358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleets</Key>
-      <Text>. Sammels, F. E</Text>
+      <Forenames>Sammels</Forenames>
+      <Text>, F. E</Text>
       <PageNumber>5423</PageNumber>
     </MainItem>
     <SubItem>

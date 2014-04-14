@@ -185,8 +185,9 @@
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, St. A. O.</Text>
+      <Key>St. John</Key>
+      <Title>St. A.</Title>
+      <Forenames>O.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,10 +621,9 @@
       <Forenames>H .</Forenames>
       <PageNumber>8267</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Fleet Surgeons</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Fleet Surgeons</SubSectionTitle>
     <SubItem>
+      <Text>Fleet Surgeons.</Text>
       <PageNumber>8195</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -656,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>W. G. K. (antedated)</Text>
+      <Forenames>W. G. K.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>8194</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -143,7 +143,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 190S, notices under : La Compania de Obras Publicas Del Rio De La Plata</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 190S, notices under : La Compania de Obras Publicas Del Rio De La Plata</Text>
       <PageNumber>62</PageNumber>
       <PageNumber>64</PageNumber>
     </MainItem>
@@ -396,6 +398,7 @@
       <PageNumber>598</PageNumber>
       <PageNumber>1255</PageNumber>
     </SubItem>
+    <CategoryTitle>Midland Counties Junction</CategoryTitle>
     <SubItem>
       <Text>
         <PageNumber>339</PageNumber>

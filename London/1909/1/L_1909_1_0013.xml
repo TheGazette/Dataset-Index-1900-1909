@@ -406,6 +406,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Sautoy</Key>
+      <Forenames>I. M. L</Forenames>
+      <PageNumber>396</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Esden</Key>
       <Forenames>A. M</Forenames>
       <PageNumber>831</PageNumber>
@@ -607,7 +614,9 @@
       <Key>Prescott</Key>
       <Title>Capt. Sir</Title>
       <Forenames>G. L. L. B.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1156,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>T. E. K.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>. P. (Adj.)</Text>
+      <Forenames>P.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>945</PageNumber>
     </MainItem>
   </ItemGroup>

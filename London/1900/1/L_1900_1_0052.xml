@@ -35,8 +35,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Lieut.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,8 +1220,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur-Sheil, J. F. A. (2nd Lieut.) ,</Text>
+      <Key>St. Maur-Sheil</Key>
+      <Forenames>J. F. A.</Forenames>
+      <Text>(2nd Lieut.) ,</Text>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1371,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrice</Key>
-      <Text>E. W. (Capt,)</Text>
+      <Forenames>E. W.</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,7 +1742,9 @@
       <Key>Colleton</Key>
       <Title>Sir</Title>
       <Forenames>R. A. W.</Forenames>
-      <Text>, Bart. (Lieut.-Col, )</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1887,8 +1891,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>G. L. St</Forenames>
-      <Text>. A. (2nd Lieut.)</Text>
+      <Forenames>G. L. St. A</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,8 +1985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1716</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -195,8 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>LAnson</Key>
-      <Forenames>C. J.</Forenames>
-      <Text>de V. (2nd Lieut.) ..</Text>
+      <Forenames>C. J. de V</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,8 +697,9 @@
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, C. D. (2nd Lieut.)</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>C. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1003,9 @@
       <Key>Seymour</Key>
       <Title>Sir</Title>
       <Forenames>A. V. F.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,8 +1177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartford</Key>
-      <Forenames>H. J. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>H. J. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>

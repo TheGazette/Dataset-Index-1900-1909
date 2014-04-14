@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolliffe</Key>
-      <Text>. A. E. (Maj.)</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lupton</Key>
-      <Text>. A. M. (2nd Lieut.)</Text>
+      <Forenames>A. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCusker</Key>
-      <Text>. C. H. (2nd Lieut.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,14 +182,15 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.-Master, G-. (2nd Lieut.)</Text>
+      <Text>-Master, G-. (2nd Lieut.)</Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>. W.J. (2nd Lieut.)</Text>
+      <Forenames>W.J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>. B. L. (2nd Lieut.) ..</Text>
+      <Forenames>B. L.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shackleford</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. N. (resigned)</Text>
       <PageNumber>234</PageNumber>
     </MainItem>
@@ -572,7 +577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. A. M. (Hon. Col.) .. ..</Text>
+      <Forenames>A. M.</Forenames>
+      <Text>(Hon. Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>. A. W. (2nd Lieut.)</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ro</Key>
-      <Text>.oi's, K. S. (2nd Lieut.)</Text>
+      <Text>oi's, K. S. (2nd Lieut.)</Text>
       <PageNumber>1027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southam</Key>
-      <Text>. H. R. H. (Lieut.-Col. and Hon. Col.)</Text>
+      <Forenames>H. R. H.</Forenames>
+      <Text>(Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Th</Key>
-      <Text>.un.on, J. (Adj.)</Text>
+      <Text>un.on, J. (Adj.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>

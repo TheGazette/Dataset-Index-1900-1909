@@ -38,7 +38,9 @@
       <Key>Clarke</Key>
       <Title>Capt.</Title>
       <Forenames>C. H. G. M.</Forenames>
-      <Text>, Aide-deCauip toGen. Sir C. M. Clarke, Bart,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Gen</Forenames>
-      <Text>;-Si* CiM.j Bart., Gen. on the Staff to command the Troops in Malta, &amp;c</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +422,9 @@
       <Key>Rawlinson</Key>
       <Title>Maj. and Bray. Col. Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bart., Assist. Adj.-Gen. at HeadQuarters and Col. .. .. .-</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +472,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, Capt. and Brev.-Majl G: Si, Assist. Military Secretary and Aidede-Camp' to Lieut. Gen. Lor*d Gronfell</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Capt. and Brev.</Title>
+      <Text>-Majl G: Si, Assist. Military Secretary and Aidede-Camp' to Lieut. Gen. Lor*d Gronfell</Text>
       <PageNumber>2527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atthill</Key>
-      <Text>.-A. W. M. (Gapt.) . .. .-</Text>
+      <Text>-A. W. M. (Gapt.) . .. .-</Text>
       <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elwis</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: (Hon. Col.)' J. C. (resigned)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>

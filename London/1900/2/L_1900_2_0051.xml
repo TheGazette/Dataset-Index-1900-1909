@@ -111,8 +111,8 @@
     <MainItem>
       <Key>Sladen</Key>
       <Title>Maj.</Title>
-      <Forenames>E. S. St</Forenames>
-      <Text>. B. (seconded)</Text>
+      <Forenames>E. S. St. B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,6 +125,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>hit Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>H. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>4280</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Koop</Key>
@@ -386,7 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haywood</Key>
-      <Text>J. R. I. (Surg.-Capt.)</Text>
+      <Forenames>J. R. I.</Forenames>
+      <Text>(Surg.-Capt.)</Text>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,8 +1057,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, P. E. (2nd Lieut.)</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1078,9 @@
     <MainItem>
       <Key>Reynolds</Key>
       <Forenames>T.</Forenames>
-      <Text>G.C. (Maj.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,6 +1531,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Domballe</Key>
+      <Forenames>G. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4950</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Foord</Key>
       <Forenames>W. P. S.</Forenames>
       <Text>(Lieut.) .. ..</Text>
@@ -1559,8 +1579,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, H. M. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>H. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>

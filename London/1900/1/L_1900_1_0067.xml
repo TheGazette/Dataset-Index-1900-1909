@@ -640,8 +640,8 @@
     <MainItem>
       <Key>Barclay</Key>
       <Title>Lieut.</Title>
-      <Forenames>L. G.</Forenames>
-      <Text>de E. (seconded)</Text>
+      <Forenames>L. G. de E</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,8 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>JefEeries</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,8 +1326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malone</Key>
-      <Forenames>E. O</Forenames>
-      <Text>'C. V. H. V. (2nd Lieut.)</Text>
+      <Forenames>E. O'C</Forenames>
+      <Text>. V. H. V. (2nd Lieut.)</Text>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,8 +1356,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Capt. and Brev. Maj. T. E. (seconded)</Text>
+      <Key>O'Leary</Key>
+      <Title>Capt. and Brev. Maj.</Title>
+      <Forenames>T. E.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,8 +1534,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, C. H. D. (Capt.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>C. H. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,7 +1761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolf</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry H. G. (seconded)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
@@ -1863,8 +1866,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, T. (Qrmr.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>T.</Forenames>
+      <Text>(Qrmr.)</Text>
       <PageNumber>1713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1955,8 +1959,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, Capt. M. O. (resigned and Hon. Maj.)</Text>
+      <Key>O'Conor</Key>
+      <Title>Capt.</Title>
+      <Forenames>M. O.</Forenames>
+      <Text>(resigned and Hon. Maj.)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>

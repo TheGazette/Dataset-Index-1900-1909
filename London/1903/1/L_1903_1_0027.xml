@@ -225,7 +225,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Text>;2nd Lieut. G-., C.B. (seconded)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,8 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wvllie</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon! Col. A. K. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Text>and Hon! Col. A. K. (retired)</Text>
       <PageNumber>1697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Symg</Key>
-      <Text>. Capt. and Instr. of Musketry J. E. (resigned)</Text>
+      <Title>Capt. and Instr.</Title>
+      <Text>of Musketry J. E. (resigned)</Text>
       <PageNumber>114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +557,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Text>. S. W. P. (Hon; Capt.)</Text>
+      <Forenames>S. W. P.</Forenames>
+      <Text>(Hon; Capt.)</Text>
       <PageNumber>239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powys</Key>
-      <Text>.Lybbe, R. B; (Lieut.)..</Text>
+      <Forenames>Lybbe</Forenames>
+      <Text>, R. B; (Lieut.)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,14 +1046,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscomhej</Key>
-      <Text>.Capt. F. W. (resigned) -0</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>(resigned) -0</Text>
       <PageNumber>422</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill,-Lieut. H. R. (resigned) ... .</Text>
+      <Key>O'Neill</Key>
+      <Text>-Lieut. H. R. (resigned) ... .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Commings</Key>
-      <Text>. P. R! C. (Lieut.)</Text>
+      <Forenames>P. R</Forenames>
+      <Text>! C. (Lieut.)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -465,6 +465,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Calry</Key>
+      <Forenames>V. A. M. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>386</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douglas</Key>
       <Title>Or.</Title>
       <Forenames>S. A.</Forenames>
@@ -902,7 +910,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, j. (super.)</Text>
       <PageNumber>2427</PageNumber>
     </MainItem>
@@ -995,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, L. H. (super.)</Text>
       <PageNumber>2427</PageNumber>
     </MainItem>
@@ -1206,6 +1214,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Hon. Lieut.)</Text>
+      <PageNumber>3256</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Farish</Key>
       <Forenames>R. V.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1232,8 +1248,8 @@
     <MainItem>
       <Key>Fitzgerald</Key>
       <Title>Lieut.</Title>
-      <Forenames>L.</Forenames>
-      <Text>de V. (seconded)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,8 +1451,8 @@
     <MainItem>
       <Key>King</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. A. (seconded)</Text>
+      <Forenames>J. St. A</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1461,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>J. St. A</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>R. de C. (Capt.)</Text>
+      <Forenames>R. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1509,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>Lieut. J. M. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,8 +1553,8 @@
     <MainItem>
       <Key>Metbuen</Key>
       <Title>Capt.</Title>
-      <Forenames>C. O</Forenames>
-      <Text>'B. H. (seconded)</Text>
+      <Forenames>C. O'B</Forenames>
+      <Text>. H. (seconded)</Text>
       <PageNumber>228</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -74,9 +74,9 @@
   <SubSectionTitle>(Quetn's Own lioyal Regiment.) Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, Baron (2nd Lieut.)</Text>
+      <Key>De Forest</Key>
+      <Forenames>Baron</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +596,9 @@
       <Key>Poore</Key>
       <Title>Sir</Title>
       <Forenames>K.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rimington</Key>
-      <Text>P. W. .. .. ...</Text>
+      <Forenames>P. W.</Forenames>
+      <Text>.. .. ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,8 +1231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de P</Text>
+      <Forenames>H. E. de P</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,8 +1281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walse</Key>
-      <Title>St.</Title>
-      <Forenames>A. B</Forenames>
+      <Title>St. A.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>J. M</Text>
+      <Forenames>J. M.</Forenames>
       <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>

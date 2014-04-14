@@ -118,8 +118,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Crippin</Key>
-      <Text>. H. W. (2nd Lieut.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6448</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>H. S.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6875</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>H. S.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>6961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -183,8 +200,8 @@
     <MainItem>
       <Key>Gorton</Key>
       <Title>Maj.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>. P. R. B. (Lieut.)</Text>
+      <Forenames>P. R. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1297,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercromby</Key>
-      <Text>SirG. W., Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,8 +1355,8 @@
     <MainItem>
       <Key>Saumarez</Key>
       <Title>Hon.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. V. B. (2nd Lieut.)</Text>
+      <Forenames>J. St. V</Forenames>
+      <Text>. B. (2nd Lieut.)</Text>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1383,9 @@
       <Key>Child</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>

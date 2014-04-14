@@ -503,7 +503,9 @@
       <Key>Treves</Key>
       <Title>Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +990,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,8 +1261,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Title>Pre.</Title>
+      <Key>Du Pre</Key>
       <Forenames>W. B.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>9374</PageNumber>
@@ -1324,8 +1327,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lord (Lieut.)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lord (Lieut.)</Title>
       <PageNumber>7756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +1732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidwell</Key>
-      <Text>E. P. (Capt. and Hon. Maj.)</Text>
+      <Forenames>E. P.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
       <PageNumber>9374</PageNumber>
     </MainItem>
   </ItemGroup>

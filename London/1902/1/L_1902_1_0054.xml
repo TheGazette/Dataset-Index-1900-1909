@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, P. S. (seconded)</Text>
       <PageNumber>228</PageNumber>
     </MainItem>
@@ -131,7 +131,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>Capt. and Brer. Maj. F. C. (seconded)</Text>
+      <Title>Capt. and Brer. Maj.</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,8 +255,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Forenames>G. E. St</Forenames>
-      <Text>. C. (2nd Lieut.) .. Twisletou-Wykeham-Fiennes, J. T. (Lieut.)</Text>
+      <Forenames>G. E. St. C</Forenames>
+      <Text>. (2nd Lieut.) .. Twisletou-Wykeham-Fiennes, J. T. (Lieut.)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>L.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>L. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,16 +626,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. G. (Temporary Grylls, A. R. (Hon. Lieut.)</Text>
+      <Forenames>E. C. St. G</Forenames>
+      <Text>. (Temporary Grylls, A. R. (Hon. Lieut.)</Text>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Headlcy</Key>
-      <Title>2nd Lieut. St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>2nd Lieut. St. J.</Title>
+      <Forenames>B.</Forenames>
       <Text>(resigned) 3180 Kingston, Lieut. A. (seconded)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
@@ -654,8 +656,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col.T. H. Mivart, E. St. G. (2nd Lieut.)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>T. H. Mivart</Forenames>
+      <Text>, E. St. G. (2nd Lieut.)</Text>
       <PageNumber>785</PageNumber>
     </MainItem>
     <SubItem>
@@ -688,8 +691,8 @@
     <MainItem>
       <Key>Stockwell</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>E. C. St</Forenames>
-      <Text>. G. Woodfull, 2nd Lieut. G. (seconded)</Text>
+      <Forenames>E. C. St. G</Forenames>
+      <Text>. Woodfull, 2nd Lieut. G. (seconded)</Text>
       <PageNumber>4119</PageNumber>
     </MainItem>
   </ItemGroup>

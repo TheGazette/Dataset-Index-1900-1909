@@ -90,9 +90,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Yeulle Ltd</Forenames>
-      <Text>., notice of winding up 6880,,</Text>
+      <Key>De Yeulle</Key>
+      <Title>Ltd.</Title>
+      <Text>, notice of winding up 6880,,</Text>
       <PageNumber>6961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +107,8 @@
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>. Earley, A. H., and Co., reduction .of capital</Text>
+      <Forenames>Earley</Forenames>
+      <Text>, A. H., and Co., reduction .of capital</Text>
       <PageNumber>7882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +125,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>

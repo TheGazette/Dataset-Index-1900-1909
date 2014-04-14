@@ -463,8 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Forenames>B.</Forenames>
-      <Text>van G. (2nd Lieut.)</Text>
+      <Forenames>B. van G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,9 +684,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, Bev. C. F. (Acting Chap.)</Text>
+      <Key>De Salis</Key>
+      <Title>Bev.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(Acting Chap.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

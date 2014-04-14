@@ -7,7 +7,9 @@
       <Key>Alexander</Key>
       <Title>Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>.-McLean, J. B. (Lieut.-Col. and to command)</Text>
+      <Text>-McLean, J. B. (Lieut.-Col. and to command)</Text>
       <PageNumber>7116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. (resigned)</Text>
       <PageNumber>8454</PageNumber>
     </MainItem>
@@ -765,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, K..J. W. (resigned) '</Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
@@ -958,7 +960,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scraise</Key>
-      <Text>.Dickins, S.-W. (Lieut.-Col.)</Text>
+      <Forenames>Dickins</Forenames>
+      <Text>, S.-W. (Lieut.-Col.)</Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>. A. A. (2nd Lieut.)</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7265</PageNumber>
     </MainItem>
   </ItemGroup>

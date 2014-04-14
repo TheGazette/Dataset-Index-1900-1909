@@ -76,6 +76,14 @@
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>H. St. M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
+      <PageNumber>310</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Elers</Key>
       <Forenames>R. C.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -308,8 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walters</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (Capt.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,8 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiltoughby-Osborne</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V. (Adj.)</Text>
+      <Forenames>A. de V</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,6 +461,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>The Welsh Regiment</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>R. M.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>928</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Derry</Key>
@@ -685,7 +701,9 @@
       <Key>Dick-Cmvyngham</Key>
       <Title>Sir</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +714,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, Bart, (resigned) .. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +1008,9 @@
       <Key>Cuyler</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1019,9 @@
       <Key>Cuyley</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart, (correction)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,9 +1279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. E. C. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,8 +1306,8 @@
     <MainItem>
       <Key>Stephens-Townshend</Key>
       <Title>Capt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de B. F. T. (resigned)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. F. T. (resigned)</Text>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -433,7 +433,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>W. M. A.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +477,9 @@
     <MainItem>
       <Key>Ballantyne</Key>
       <Forenames>H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +488,9 @@
       <Key>Barclay</Key>
       <Title>Col.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, Commander Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +499,9 @@
       <Key>Barker</Key>
       <Title>Col.</Title>
       <Forenames>F. W. J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +510,9 @@
       <Key>Batt</Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +528,9 @@
     <MainItem>
       <Key>Beck</Key>
       <Forenames>S.</Forenames>
-      <Text>, Bon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +538,9 @@
     <MainItem>
       <Key>Betlietl</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +549,9 @@
       <Key>Biggs</Key>
       <Title>Professor</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, Knighted ..</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +592,10 @@
       <Key>Boulton</Key>
       <Title>Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +603,9 @@
     <MainItem>
       <Key>Boyce</Key>
       <Forenames>R.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +622,9 @@
       <Key>Brassey</Key>
       <Title>Lady</Title>
       <Forenames>I. M.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,14 +635,17 @@
       </Key>
       <Title>Hon.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem Brauo, Capt. A., Hon. Fifth Class,</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bristol</Key>
-      <Text>. Most Hon. Marchioness of,</Text>
+      <Forenames>Most</Forenames>
+      <Text>Hon. Marchioness of,</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +680,9 @@
       <Key>Byers</Key>
       <Title>Professor</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +725,9 @@
     <MainItem>
       <Key>Cawley</Key>
       <Forenames>F.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +744,9 @@
       <Key>Champion</Key>
       <Title>Capt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +754,9 @@
     <MainItem>
       <Key>Channing</Key>
       <Forenames>F. A.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +764,9 @@
     <MainItem>
       <Key>Clegg</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +782,9 @@
     <MainItem>
       <Key>Coke</Key>
       <Title>Col., Visct.</Title>
-      <Text>, Knight Commander, ^ Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +792,9 @@
     <MainItem>
       <Key>Colebrooke</Key>
       <Forenames>Baron</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +803,9 @@
       <Key>Courtney</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +814,9 @@
       <Key>Cresswell</Key>
       <Title>Col.</Title>
       <Forenames>G. F. A.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +840,9 @@
     <MainItem>
       <Key>dEpinay</Key>
       <Forenames>C. A. P.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +850,9 @@
     <MainItem>
       <Key>Desborough</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +895,9 @@
       <Key>Dnrr</Key>
       <Title>Col.</Title>
       <Forenames>K.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,16 +906,19 @@
       <Key>Elwes</Key>
       <Title>Maj.</Title>
       <Forenames>A. H. S.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7553</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Esher</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>Viscountess</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Rt. Hon. Viscountess</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +927,9 @@
       <Key>Evan-Thomas</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, R.N., Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +954,9 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +965,9 @@
       <Key>Fripp</Key>
       <Title>Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +992,9 @@
       <Key>Gordon</Key>
       <Title>Maj.</Title>
       <Forenames>D. F.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +1003,9 @@
       <Key>Goschon</Key>
       <Title>Hon.</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +1014,9 @@
       <Key>Gough-Calthorpe</Key>
       <Title>Capt.</Title>
       <Forenames>S. A.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7108</PageNumber>
     </MainItem>
     <SubItem>

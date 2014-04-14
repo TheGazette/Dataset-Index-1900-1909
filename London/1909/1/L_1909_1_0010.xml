@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Miehelet</Key>
       <Forenames>E. H. P</Forenames>
-      <Text>:, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Minte</Key>
       <Forenames>C. J. H.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +72,9 @@
     <MainItem>
       <Key>Muller</Key>
       <Forenames>O. H.</Forenames>
-      <Text>, Hon. Fourth ClaBS, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +110,9 @@
       </Key>
       <Title>Or., Hon.</Title>
       <Forenames>Fifth Class</Forenames>
-      <Text>, Royal Victorian Order .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,14 +130,17 @@
       <Key>Nugent</Key>
       <Title>Lieut.-Col. Or.</Title>
       <Forenames>C</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, P. E., H.M.'s Consul General at Yunnanf u</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>, H.M.'s Consul General at Yunnanf u</Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +168,9 @@
       <Key>Ostertag</Key>
       <Title>Maj.</Title>
       <Forenames>R. F. W.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +219,9 @@
       <Key>Prussia</Key>
       <Title>H.R.H. Prince</Title>
       <Forenames>Adalbert</Forenames>
-      <Text>of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +254,9 @@
     <MainItem>
       <Key>Reicke</Key>
       <Forenames>G. G. P.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +272,9 @@
     <MainItem>
       <Key>Richards</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, Knight Commander of the Star of India Rieger, R., Hon. Fifth ClaBS, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +282,9 @@
     <MainItem>
       <Key>Rollfing</Key>
       <Forenames>J.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +317,9 @@
     <MainItem>
       <Key>Sassoon</Key>
       <Forenames>J. E.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +328,9 @@
       <Key>Scobell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +338,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +348,9 @@
     <MainItem>
       <Key>Seibels</Key>
       <Forenames>W.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +358,9 @@
     <MainItem>
       <Key>Seiler</Key>
       <Forenames>G. E. E.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +384,9 @@
     <MainItem>
       <Key>Sennewald</Key>
       <Forenames>G. R.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +394,9 @@
     <MainItem>
       <Key>Seymour</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,9 +523,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toulmin</Key>
-      <Title>Or.</Title>
-      <Forenames>O</Forenames>
-      <Text>'B., H.M.'s Consul at Shiraz</Text>
+      <Title>Or. O'B.</Title>
+      <Text>, H.M.'s Consul at Shiraz</Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +532,9 @@
     <MainItem>
       <Key>Trevelyan</Key>
       <Forenames>E. J.</Forenames>
-      <Text>, Knighted .. ..</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +577,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Below</Forenames>
-      <Text>, H.E. Lieut.-Gen., Hon. Knight Grand CrosB, Royal Victorian Order.. .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +589,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Bulow</Forenames>
-      <Text>, H.E. Gen. C. W. P., Hon. Knight Grand Cross, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +601,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Esebeck</Forenames>
-      <Text>, Baron, Hon. Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +614,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Baron</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +626,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Goerne</Forenames>
-      <Text>, Capt. W., Hon. Fourth Class, Royal Victorian Order ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +638,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harder</Forenames>
-      <Text>, Capt. O., Hon. Fourth ClaBS, Royal Victorian Order ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +650,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Livonius</Forenames>
-      <Text>, Lieut. E., Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +662,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Pogrell</Forenames>
-      <Text>, Lieut. H. W., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +674,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Schenck</Forenames>
-      <Text>, H.E. Lieut.-Gen. D. C. H. Hon., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +686,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Stumm</Forenames>
-      <Text>, Capt. F., Hon. Fourth ClasB, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +698,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Tschirschky</Forenames>
-      <Text>und Bogendorff, Maj. H. W., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +710,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Usedom</Forenames>
-      <Text>, H.E. Vice-Adm. G., Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +722,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Zedlitz</Forenames>
-      <Text>und Leipe, Major Baron, Hon. Commander, Royal Victorian Order..</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +732,9 @@
     <MainItem>
       <Key>Wasmund</Key>
       <Forenames>H. A. C. H.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +742,9 @@
     <MainItem>
       <Key>Weigand</Key>
       <Forenames>P.</Forenames>
-      <Text>, Hon. Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +761,9 @@
       <Key>Widenmann</Key>
       <Title>Commander</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +867,9 @@
         <KeyDitto>— ___</KeyDitto>
       </Key>
       <Forenames>Eulenhurg</Forenames>
-      <Text>, Lieut. Count W., Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +879,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Innhausen</Forenames>
-      <Text>und Knyphausen, Lieut. Baron, Hon. Fourth Class, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,8 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>D. De M. S.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>D. De M</Forenames>
+      <Text>. S. (2nd Lieut.)</Text>
       <PageNumber>480</PageNumber>
     </MainItem>
   </ItemGroup>

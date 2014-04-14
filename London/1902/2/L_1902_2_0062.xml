@@ -42,8 +42,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey-Kelly</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. H</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. H</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sime</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>7215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +557,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Howell</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>5603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,8 +822,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ternan</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. B</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. B.</Forenames>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,8 +847,8 @@
     <MainItem>
       <Key>Barrow</Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S., Aide-de-Camp to the C.I.C</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>., Aide-de-Camp to the C.I.C</Text>
       <PageNumber>5609</PageNumber>
       <PageNumber>7912</PageNumber>
     </MainItem>
@@ -1425,8 +1426,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Capt. H.</Text>
+      <Key>O'Donnell</Key>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,8 +1487,8 @@
     <MainItem>
       <Key>Thomas</Key>
       <Title>Capt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. G...</Text>
+      <Forenames>A. St. G</Forenames>
+      <Text>...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,9 +1536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Title>Brev.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. P. H. N.</Text>
+      <Title>Brev. Lieut-Col.</Title>
+      <Forenames>P. H. N.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

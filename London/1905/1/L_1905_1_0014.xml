@@ -595,8 +595,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clutterbuck</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. R. (Lieut.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. R. (Lieut.)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,6 +671,15 @@
       <Forenames>M. H.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>940</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1210,8 +1219,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M. J. K. (Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M. J. K.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,8 +1229,8 @@
     <MainItem>
       <Key>Owen</Key>
       <Title>Brev. Col.</Title>
-      <Forenames>H. O</Forenames>
-      <Text>'B. (retired pay).,</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>. (retired pay).,</Text>
       <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,7 +1383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>A. J. (Capt.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,7 +1499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>W. F. (2nd Lieut.)</Text>
+      <Forenames>W. F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1641,8 +1653,8 @@
     <MainItem>
       <Key>Cruikshank</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1896,8 +1908,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>St.</Title>
-      <Forenames>L. M.</Forenames>
+      <Title>St. L.</Title>
+      <Forenames>M.</Forenames>
       <Text>(Adj.)</Text>
       <PageNumber>26</PageNumber>
     </MainItem>
@@ -1954,8 +1966,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. (Qrmr. and Hon. Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,7 +1991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritchard</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: E. W. H. (seconded)</Text>
       <PageNumber>844</PageNumber>
     </MainItem>

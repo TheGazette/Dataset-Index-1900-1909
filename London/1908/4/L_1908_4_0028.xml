@@ -132,7 +132,9 @@
       <Key>Broadbent</Key>
       <Title>Sir</Title>
       <Forenames>J. F. H.</Forenames>
-      <Text>, Bart.(Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>A. (Maj.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>D. Gr. (Capt.)</Text>
+      <Forenames>D. Gr</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>8041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caton</Key>
-      <Text>E. (Hon. Col.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>7558</PageNumber>
     </MainItem>
     <SubItem>
@@ -449,7 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Text>A. K. (Lieut.-Col.)</Text>
+      <Forenames>A. K.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>8042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +466,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. W.</Forenames>
-      <Text>Bart., (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,6 +863,14 @@
       <Forenames>L. P.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>8043</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Segundo</Key>
+      <Forenames>C. S.</Forenames>
+      <Text>(Capt. and Hon. Surg.-Maj.)</Text>
+      <PageNumber>9188</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1675,8 +1691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>F.</Forenames>
-      <Text>de H. (Lieut.-Col.)</Text>
+      <Forenames>F. de H</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>9189</PageNumber>
     </MainItem>
   </ItemGroup>

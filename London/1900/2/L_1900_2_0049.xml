@@ -235,14 +235,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Copland</Key>
-      <Text>Capt. W. S. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>C. A. (Lieut.)</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartwell</Key>
-      <Text>B. C. D. A. (2nd Lieut.)</Text>
+      <Forenames>B. C. D. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,8 +353,8 @@
     <MainItem>
       <Key>Weldon</Key>
       <Title>Lieut.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de W. (seconded)</Text>
+      <Forenames>B. de W</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>7387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +735,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J. (antedated)</Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
@@ -779,8 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouillot</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T. (Lieut.)</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>A.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>A. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,8 +1041,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, H. J. J. P. (2nd Lieut.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>H. J. J. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,8 +1067,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de St. P. (Lieut.)</Text>
+      <Forenames>C. H. de St</Forenames>
+      <Text>. P. (Lieut.)</Text>
       <PageNumber>7821</PageNumber>
     </MainItem>
   </ItemGroup>

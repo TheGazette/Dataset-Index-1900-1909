@@ -27,6 +27,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Instr. of Musketry)</Text>
+      <PageNumber>3570</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Encombe</Key>
       <Title>Lieut. Viscount (seconded)</Title>
       <PageNumber>3074</PageNumber>
@@ -887,6 +895,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pentheny-O'Kelly</Key>
+      <Forenames>E. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3813</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>2041</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Elkington</Key>
       <Forenames>W. E. M.</Forenames>
       <Text>(Lieut.)</Text>
@@ -912,8 +936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V. (Lieut.) .. ..</Text>
+      <Forenames>L.de V</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,7 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinriott</Key>
-      <Text>H. C, (2nd Lieut.)</Text>
+      <Forenames>H. C</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,6 +1729,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Crps</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(super.).,</Text>
+      <PageNumber>2348</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Orton</Key>
       <Forenames>J</Forenames>
       <Text>, (Surg.-Lieut.)</Text>
@@ -1852,8 +1886,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>L. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>

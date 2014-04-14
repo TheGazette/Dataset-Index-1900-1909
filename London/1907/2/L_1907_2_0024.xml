@@ -10,7 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>T. W, (Lieut.)</Text>
+      <Forenames>T. W</Forenames>
+      <Text>, (Lieut.)</Text>
       <PageNumber>8531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,6 +70,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>2nd Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. F. W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>2998</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Cadet Corps attached to 2nd Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -126,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>G. H. M. (2nd Lieut.)</Text>
+      <Forenames>G. H. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulwer</Key>
-      <Text>E. A. E. (Hon. Lieut.-Col.)</Text>
+      <Forenames>E. A. E.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>2416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1236,9 @@
       <Key>Cuyler</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarver</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! F. F. (temporary halfpay)</Text>
       <PageNumber>2273</PageNumber>
     </MainItem>

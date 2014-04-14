@@ -29,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnett</Key>
-      <Text>P. F. (Lieut.)</Text>
+      <Forenames>P. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +647,9 @@
       <Key>Hay</Key>
       <Title>Sir</Title>
       <Forenames>D. E.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,8 +1144,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, L. S. (temporary Gspt.)</Text>
       <PageNumber>1261</PageNumber>
     </MainItem>
@@ -1271,8 +1274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de B. (Capt.)</Text>
+      <Forenames>W. H. de B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,8 +1370,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, Capt. L. S. (super.)</Text>
       <PageNumber>1529</PageNumber>
     </MainItem>
@@ -1725,7 +1728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry C. A. (seconded)</Text>
       <PageNumber>432</PageNumber>
     </MainItem>

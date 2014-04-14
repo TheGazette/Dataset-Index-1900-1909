@@ -451,8 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>L. G.</Forenames>
-      <Text>de R. (temporary Lieut.)</Text>
+      <Forenames>L. G. de R</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,9 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Title>Col.</Title>
-      <Forenames>O</Forenames>
-      <Text>'M. (local rank of Maj.Gen. in China)</Text>
+      <Title>Col. O'M. (local rank of Maj.Gen. in China)</Title>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,6 +925,14 @@
       <Forenames>A. R.</Forenames>
       <Text>(temporary Lieut.)</Text>
       <PageNumber>6858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>U. G. C.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1008,9 +1014,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Lieut.-Col. and Brev. Col. W. G. (retired)</Text>
+      <Key>Du Boulay</Key>
+      <Title>Lieut.-Col. and Brev. Col.</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,8 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>St.</Title>
-      <Forenames>G. C.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>C.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
@@ -1351,16 +1358,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Haly</Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'G. (local rank of Maj.' Gen. in Canada)</Text>
+      <Forenames>R. H. O'G</Forenames>
+      <Text>. (local rank of Maj.' Gen. in Canada)</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C. (local rank of Lieut.Col., South Africa)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (local rank of Lieut.Col., South Africa)</Text>
       <PageNumber>5262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,8 +1431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Forenames>R. B.</Forenames>
-      <Text>de B. (temporary Lieut.)</Text>
+      <Forenames>R. B. de B</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>4136</PageNumber>
     </MainItem>
   </ItemGroup>

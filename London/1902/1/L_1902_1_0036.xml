@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark-Kennedy</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. W. L. (correction)</Text>
       <PageNumber>2602</PageNumber>
     </MainItem>
@@ -485,7 +485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crocker</Key>
-      <Text>J. (Hon. Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Lieut.)</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +546,9 @@
       <Key>Crossley</Key>
       <Title>Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart, (Hon. Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,9 +737,81 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
+      <PageNumber>7</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>A.</Forenames>
+      <Text>. C. (Lieut.)</Text>
+      <PageNumber>1883</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Freville</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Hon. Lieut.)</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>las Casas, M. (Hon. Lieut.)</Text>
       <PageNumber>5</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>E. S.</Forenames>
+      <Text>(Qrmr. and temporary Lieut.)</Text>
+      <PageNumber>3091</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pree</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>452</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Forenames>J. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1733</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rougemont</Key>
+      <Title>Temporary Lieut.</Title>
+      <Text>-Col C. H. (relinquishes command)</Text>
+      <PageNumber>1537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (Lieut.)</Text>
+      <PageNumber>1729</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>H. P.</Forenames>
+      <Text>(Hon. Lieut.)</Text>
+      <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -777,7 +852,9 @@
       <Key>Dickson-Poyuder</Key>
       <Title>Lieut.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Hon. Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,9 +977,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D. (Second in Command and temporary Maj.)</Text>
+      <Key>Du Pree</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(Second in Command and temporary Maj.)</Text>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>J. I. (Hon. Lieut.-Col.)</Text>
+      <Forenames>J. I.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,8 +1714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (Capt.)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1864,8 +1942,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J. (Hon. Lieut.)</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. (Hon. Lieut.)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>

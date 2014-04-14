@@ -154,8 +154,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P. J. (Surg.-Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>(Surg.-Lieut.)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,8 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mosgrove</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. P. (provisional rank of Capt.)</Text>
+      <Forenames>B. St. P</Forenames>
+      <Text>. (provisional rank of Capt.)</Text>
       <PageNumber>2018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Text>C. B. (Col.)</Text>
+      <Forenames>C. B.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,8 +754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L. (Col.)</Text>
+      <Forenames>W. St. L</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>F. H. R. (Col.)</Text>
+      <Forenames>F. H. R.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairbrother</Key>
-      <Text>W. T. (Col.)</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,8 +970,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKerrell</Key>
-      <Forenames>A.</Forenames>
-      <Text>de S. (Col.) .. ..</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>. (Col.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,14 +1002,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>J. S. (Col.)</Text>
+      <Forenames>J. S.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. D. J. (Col.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. D. J.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1553,9 @@
       <Key>Harrisou</Key>
       <Title>Lieut.-Col. and Brev. Col.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, C.B. (retired) '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>

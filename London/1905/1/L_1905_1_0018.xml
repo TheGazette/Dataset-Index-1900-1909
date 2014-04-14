@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, a. P. (resigned)</Text>
       <PageNumber>2278</PageNumber>
     </MainItem>
@@ -117,7 +117,9 @@
       <Key>Clark</Key>
       <Title>Sir.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, Bart. (Lieut.-Col and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,8 +580,8 @@
     <MainItem>
       <Key>Stapleton</Key>
       <Title>Capt.</Title>
-      <Forenames>A. P. St</Forenames>
-      <Text>. C. (resigned)</Text>
+      <Forenames>A. P. St. C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,8 +1268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretton</Key>
-      <Forenames>A. L.</Forenames>
-      <Text>de C. (2nd Lieut.)</Text>
+      <Forenames>A. L. de C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>

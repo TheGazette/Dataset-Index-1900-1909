@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plumer</Key>
-      <Text>C. G. M</Text>
+      <Forenames>C. G. M</Forenames>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whytehead</Key>
-      <Text>H. R. A. Transfers, to Unemployed umerary ' ' List. '. Cuningham. Maj.-Gen. C. A. ,</Text>
+      <Forenames>H. R. A. Transfers</Forenames>
+      <Text>, to Unemployed umerary ' ' List. '. Cuningham. Maj.-Gen. C. A. ,</Text>
       <PageNumber>942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>(correction). ..... .</Text>
+      <Title>(correction)</Title>
+      <Text>. ..... .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deputy</Key>
-      <Text>Assistant AdjutantGenerals District. Blore, Capt. and Brev. Maj. H. R</Text>
+      <Forenames>Assistant AdjutantGenerals District</Forenames>
+      <Text>. Blore, Capt. and Brev. Maj. H. R</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,6 +550,15 @@
   <SubCategoryTitle>BUCKINGHAMSHIRE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Title>Maj.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>1794</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douglas-Pennant</Key>
       <Title>Hon.</Title>
       <Forenames>B. S.</Forenames>
@@ -576,7 +588,9 @@
       <Key>Cuyler</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart. (Adj/)' .. .;</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>

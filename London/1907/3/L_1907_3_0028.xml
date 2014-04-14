@@ -150,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennison</Key>
-      <Text>J.T</Text>
+      <Forenames>J.T</Forenames>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dibben</Key>
-      <Text>A.D..H</Text>
+      <Forenames>A.D.</Forenames>
+      <Text>.H</Text>
       <PageNumber>5297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,8 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Llewellvn</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. .</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. .</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cave-Browne</Key>
-      <Text>Cave,H..-M. ..</Text>
+      <Forenames>Cave</Forenames>
+      <Text>,H..-M. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -87,6 +87,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>O. W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5539</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>G. H. C.</Forenames>
+      <Text>(Maj. and Hon. Lieut.-Col.)</Text>
+      <PageNumber>6223</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lafontaine</Key>
+      <Forenames>A. E. C. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5323</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
+      <PageNumber>6223</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Donnistoun</Key>
       <Forenames>A. H. O.</Forenames>
       <Text>(Capt.)</Text>
@@ -98,6 +130,22 @@
       <Key>Derineton</Key>
       <Forenames>W. E.</Forenames>
       <Text>(Capt.)</Text>
+      <PageNumber>5536</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>C. F.</Forenames>
+      <Text>de la F. (Lieut.)</Text>
+      <PageNumber>5901</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,8 +364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>H. M. O</Forenames>
-      <Text>'C. (Capt.)</Text>
+      <Forenames>H. M. O'C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Text>.W.C. (Lieut.-Col.)</Text>
+      <Forenames>W.C.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1067,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloster</Key>
-      <Text>.T. (Lieut.-Col. and Hon. Col.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Lieut.-Col. and Hon. Col.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gompertz</Key>
-      <Text>. A. W. B. (2nd Lieut.)</Text>
+      <Forenames>A. W. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1493,9 @@
       <Key>Gunter</Key>
       <Title>Sir</Title>
       <Forenames>R. B. N.</Forenames>
-      <Text>, Bart. (Maj. and Hon. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1828,7 +1881,9 @@
       <Key>Havelock-Allan</Key>
       <Title>Sir</Title>
       <Forenames>H. S. M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2003,7 +2058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepburn</Key>
-      <Text>. G. F. (Lieut.)</Text>
+      <Forenames>G. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>

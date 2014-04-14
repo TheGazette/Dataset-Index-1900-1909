@@ -232,8 +232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. B. (Lieut.)</Text>
+      <Forenames>C. St. B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,8 +248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spackman</Key>
-      <Title>St.</Title>
-      <Forenames>J. G.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>G.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2758</PageNumber>
     </MainItem>
@@ -486,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Forenames>O. T. O</Forenames>
-      <Text>'K. (Capt.)</Text>
+      <Forenames>O. T. O'K</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>WeBtropp</Key>
-      <Text>F. M. (Capt.)</Text>
+      <Forenames>F. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +902,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, H. P. C. (Capt.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>H. P. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,8 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Forenames>B.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>B. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,8 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Title>St.</Title>
-      <Forenames>J. W.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>W.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2202</PageNumber>
     </MainItem>
@@ -1222,8 +1224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashe</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,6 +1700,14 @@
       <Forenames>M. R.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>307</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cetto</Key>
+      <Forenames>V. B. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

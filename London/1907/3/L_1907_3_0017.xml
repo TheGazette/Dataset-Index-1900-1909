@@ -129,7 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbins</Key>
-      <Text>W. A. (Lieut.)</Text>
+      <Forenames>W. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: A. J. M. (resigned)</Text>
       <PageNumber>6154</PageNumber>
     </MainItem>
@@ -853,7 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>LeMay</Key>
-      <Text>T. D. (Capt.)</Text>
+      <Forenames>T. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1048,9 @@
       <Key>Ferguson</Key>
       <Title>Lieut.-Col. and Brevet Col. Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart, (half-pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>

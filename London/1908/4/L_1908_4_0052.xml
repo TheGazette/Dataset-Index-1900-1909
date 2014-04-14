@@ -138,8 +138,7 @@
     <MainItem>
       <Key>Fraser</Key>
       <Title>Maj.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>8047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +180,7 @@
     <MainItem>
       <Key>Solbe</Key>
       <Title>Maj.</Title>
-      <Forenames>C. E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. E. de L</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>J. B. .. .. .. ..</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillmon</Key>
-      <Text>J. C...</Text>
+      <Forenames>J. C.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +525,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>D. O</Forenames>
-      <Text>'C.</Text>
+      <Forenames>D. O'C</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>Lieut W. G.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>W. G.</Forenames>
       <Text>(resigned.) .. Colmer, 2nd Lieut. G. J. (resigned)</Text>
       <PageNumber>7481</PageNumber>
     </MainItem>

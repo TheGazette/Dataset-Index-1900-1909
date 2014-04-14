@@ -281,7 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Austen</Key>
-      <Text>. E.J. .. .. .. ..</Text>
+      <Forenames>E.J.</Forenames>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loder-Svmonds</Key>
-      <Text>. F. P</Text>
+      <Forenames>F. P.</Forenames>
       <PageNumber>32</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +835,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey-Smith</Key>
-      <Text>. J. E.</Text>
+      <Forenames>J. E.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairlie</Key>
-      <Forenames>Lieut J.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J.</Forenames>
       <Text>(temporary halfpay)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
@@ -229,8 +230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myburgh</Key>
-      <Forenames>C.</Forenames>
-      <Text>de F. (Capt.)</Text>
+      <Forenames>C. de F</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,8 +248,8 @@
     <MainItem>
       <Key>Tucker</Key>
       <Title>Lieut.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. Or. (seconded)</Text>
+      <Forenames>F. St. Or</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +304,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R.D. (Capt.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mander</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, fi. (seconded)</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
@@ -868,8 +871,8 @@
     <MainItem>
       <Key>Skinner</Key>
       <Title>Lieut.-Col. and Brevet Col.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. D. (half-pay)</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,9 +1086,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>(Capt.) .. ..</Text>
+      <PageNumber>ibid</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Jervis</Key>
-      <Forenames>E.</Forenames>
-      <Text>de R. (Maj.) , .. ..</Text>
+      <Forenames>E. de R</Forenames>
+      <Text>. (Maj.) , .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

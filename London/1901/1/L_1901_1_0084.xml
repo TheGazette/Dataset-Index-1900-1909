@@ -309,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buntine</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; R. M. M., 2nd Volunteer Battalion, the Royal Scots Fusiliers</Text>
       <PageNumber>1946</PageNumber>
     </MainItem>
@@ -493,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakefield</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. W., 2nd (Westmoreland) Volunteer Battalion, the ___ ___ Border Regiment .. . ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
@@ -520,8 +520,8 @@
     <MainItem>
       <Key>Findlay</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>de La T. dA., lafr Volunteer Battalion, the Eoyal Sussex Regiment .. .. .. ..</Text>
+      <Forenames>W. H. de La T.</Forenames>
+      <Text>dA., lafr Volunteer Battalion, the Eoyal Sussex Regiment .. .. .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. P. J., 2nd Volunteer Battalion, the Welsh Eegiment ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
@@ -816,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. W., lst Volunteer Battalion, the Prince of Wales's (North Staffordshire Regiment) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -861,7 +861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLean</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. L., lst Cheshire</Text>
       <PageNumber>2533</PageNumber>
     </MainItem>
@@ -914,7 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Witts</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. F. B., 2nd Volunteer Battalion, the Gloucestershire Regiment .. .. . ,. —</Text>
       <PageNumber>__</PageNumber>
     </MainItem>
@@ -993,7 +993,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendry</Key>
-      <Text>. Capt. and Hon. Maj. P. W., 5th (Glasgow Highland) Volunteer Battalion, the Highland Light In-, fantry .. ,. .. .. .,</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>P. W.</Forenames>
+      <Text>, 5th (Glasgow Highland) Volunteer Battalion, the Highland Light In-, fantry .. ,. .. .. .,</Text>
       <PageNumber>__</PageNumber>
     </MainItem>
   </ItemGroup>

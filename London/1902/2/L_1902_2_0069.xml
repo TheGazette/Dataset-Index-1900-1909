@@ -10,8 +10,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Rev. T.B</Text>
+      <Key>O'Reilly</Key>
+      <Title>Rev.</Title>
+      <Forenames>T.B</Forenames>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M.S. Terpsichore .. .. J Medal for Ashanti, 1900, and the Gambia, 1901—not to be awarded ..</Text>
+      <Forenames>M.S. Terpsichore</Forenames>
+      <Text>.. .. J Medal for Ashanti, 1900, and the Gambia, 1901—not to be awarded ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,8 +196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H. G. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>H. G. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>7241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +205,9 @@
     <MainItem>
       <Key>Pease</Key>
       <Title>Maj.</Title>
-      <Text>L.T. (absorbed into Establishment)</Text>
+      <Text>
+        <Honour>L.T.</Honour>
+      </Text>
       <PageNumber>5631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>W. T.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>W. T. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,8 +808,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Ste.</Title>
+      <Key>De Ste</Key>
       <Forenames>Croix</Forenames>
       <Text>, Lieut. P. (retired list)</Text>
       <PageNumber>4414</PageNumber>

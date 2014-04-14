@@ -148,8 +148,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, W. A. E. (Lieut.-Col.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. A. E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,6 +346,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Straubenzee</Key>
+      <Title>Maj.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>6548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wade</Key>
       <Title>Maj.</Title>
       <Forenames>J. M.</Forenames>
@@ -421,8 +431,8 @@
     <MainItem>
       <Key>Webber</Key>
       <Title>Capt.</Title>
-      <Forenames>O. T. O</Forenames>
-      <Text>'K. (antedated)</Text>
+      <Forenames>O. T. O'K</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,16 +480,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotbam</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. L. (Lieut.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. L. (Lieut.)</Text>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>E.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>E. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,9 +547,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Domenico</Forenames>
-      <Text>, J. M. O. (Capt.)</Text>
+      <Key>De Domenico</Key>
+      <Forenames>J. M. O.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,8 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>E. H. O</Forenames>
-      <Text>'D. (Lieut.)</Text>
+      <Forenames>E. H. O'D</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,8 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Forenames>E.</Forenames>
-      <Text>de B. (Lieut.) .. ..</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Title>St.</Title>
-      <Forenames>J. W.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>W.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>6036</PageNumber>
     </MainItem>
@@ -1126,8 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashe</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (Lieut.) .. ,</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (Lieut.) .. ,</Text>
       <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,6 +1431,14 @@
     <MainItem>
       <Key>ACourt</Key>
       <Forenames>C. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4790</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cetto</Key>
+      <Forenames>V. B. A.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>4790</PageNumber>
     </MainItem>

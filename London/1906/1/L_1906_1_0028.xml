@@ -400,8 +400,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, 0. J. (Adj.)</Text>
+      <Key>O'Sullivan</Key>
+      <Text>0. J. (Adj.)</Text>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. Lieut.-Col. and Brer. Col. A. H. (half-pay)</Text>
+      <Title>Lieut.-Col. and Brer. Col.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +870,9 @@
     <MainItem>
       <Key>Cuninghame</Key>
       <Forenames>Capt</Forenames>
-      <Text>: Sir T. A. A. M., Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +936,8 @@
     <MainItem>
       <Key>Maude</Key>
       <Title>Maj.</Title>
-      <Forenames>F. S.</Forenames>
-      <Text>de M. (half-pay)</Text>
+      <Forenames>F. S. de M</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,8 +1060,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'B. (Lieut.-Col. and to command)</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>. (Lieut.-Col. and to command)</Text>
       <PageNumber>953</PageNumber>
     </MainItem>
   </ItemGroup>

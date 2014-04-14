@@ -203,7 +203,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lvgon</Key>
-      <Text>. Hon. H. (2nd Lieut.) ..</Text>
+      <Title>Hon.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,8 +392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Title>St.</Title>
-      <Forenames>J. M.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>M.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
@@ -531,9 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Title>St. J. (2nd Lieut.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,8 +687,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. Earl of (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>6528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +988,9 @@
       <Key>Grev</Key>
       <Title>Sir</Title>
       <Forenames>H. F</Forenames>
-      <Text>:, Bart. (Lieut.-Col.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gutch</Key>
-      <Text>.W. (Lieut.) .. ..</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

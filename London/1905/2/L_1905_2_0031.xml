@@ -142,7 +142,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>B. B. M.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,8 +479,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan-Westropp, Lieut.-Col. and Hon. Col. G. .. .. ..</Text>
+      <Key>O'Callaghan-Westropp</Key>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>G.</Forenames>
+      <Text>.. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +525,9 @@
       <Key>Havelock-Allan</Key>
       <Title>Sir</Title>
       <Forenames>H. S. M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +581,9 @@
       <Key>Maryon-Wilson</Key>
       <Title>Sir</Title>
       <Forenames>S. P. M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +652,9 @@
       <Key>Armytage</Key>
       <Title>Sir</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, Bart. .. .,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,8 +717,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, M. H. C</Text>
+      <Key>St. Clair</Key>
+      <Forenames>M. H. C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

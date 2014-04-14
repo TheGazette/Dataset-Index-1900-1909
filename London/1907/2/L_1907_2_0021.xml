@@ -533,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunkett</Key>
-      <Text>E. A. (Capt.) .. ..</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>R. B. F. S. (2nd Lieut.)</Text>
+      <Forenames>R. B. F. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,8 +1275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (Maj.)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>2416</PageNumber>
     </MainItem>
   </ItemGroup>

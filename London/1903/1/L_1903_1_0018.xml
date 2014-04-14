@@ -317,7 +317,9 @@
     <MainItem>
       <Key>Pyninn</Key>
       <Forenames>W.</Forenames>
-      <Text>A.E. (Capt,)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>1507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savile</Key>
-      <Text>.JW. H. B. (Lieut.)</Text>
+      <Text>JW. H. B. (Lieut.)</Text>
       <PageNumber>470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>.R. S. (2nd Lieut.)</Text>
+      <Forenames>R. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Text>.E. (2nd Lieut.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>

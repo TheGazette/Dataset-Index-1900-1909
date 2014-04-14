@@ -154,6 +154,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>H. F. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>32</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Pratt</Key>
       <Title>Capt.</Title>
       <Forenames>P. G.</Forenames>
@@ -856,7 +864,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>.D. C. (2nd Lieut.)</Text>
+      <Forenames>D. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>

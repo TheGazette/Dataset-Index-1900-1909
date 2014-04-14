@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908, notices under Tagore Estates</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908, notices under Tagore Estates</Text>
       <PageNumber>4083</PageNumber>
     </MainItem>
     <SubItem>
@@ -155,7 +157,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Companies</Key>
-      <Text>(Consolidation) Act, 1908 notices under Watson and Barlow</Text>
+      <Title>(Consolidation)</Title>
+      <Forenames>Act</Forenames>
+      <Text>, 1908 notices under Watson and Barlow</Text>
       <PageNumber>3330</PageNumber>
     </MainItem>
     <SubItem>
@@ -172,6 +176,7 @@
       <Text>
         <PageNumber>4704</PageNumber>
         <PageNumber>3232</PageNumber>
+        <CategoryTitle>Western Counties Manufacturing</CategoryTitle>
       </Text>
       <PageNumber>3904</PageNumber>
     </SubItem>
@@ -274,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corn</Key>
-      <Text>, average price for the week ending: 3rd April, 1909</Text>
+      <Text>average price for the week ending: 3rd April, 1909</Text>
       <PageNumber>2729</PageNumber>
     </MainItem>
     <SubItem>
@@ -389,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowans</Key>
-      <Text>(reduction of capital)</Text>
+      <Title>(reduction of capital)</Title>
       <PageNumber>2832</PageNumber>
     </MainItem>
   </ItemGroup>

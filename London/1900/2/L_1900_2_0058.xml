@@ -259,8 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forth</Key>
-      <Forenames>N. B.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>N. B. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +734,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. L. (Lieut.) .. ..</Text>
+      <Forenames>O. St. L</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,8 +1587,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. J. A. C. (Capt.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. J. A. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,8 +1613,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boughey</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. H. (half-pay)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>4124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1792,8 +1794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>C. De G.</Forenames>
-      <Text>(Lieut.) .. ..</Text>
+      <Forenames>C. De G</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

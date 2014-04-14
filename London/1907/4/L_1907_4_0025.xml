@@ -7,7 +7,9 @@
       <Key>Vane</Key>
       <Title>Sir</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +131,9 @@
       <Key>Warrender</Key>
       <Title>Capt. Sir.</Title>
       <Forenames>G. J. S.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,14 +147,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Berwickshire</Key>
-      <Text>. Hay, P. S</Text>
+      <Forenames>Hay</Forenames>
+      <Text>, P. S</Text>
       <PageNumber>6748</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Darbiahire</Key>
-      <Text>Lieut.-Col. C. H</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C. H.</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +196,9 @@
       <Key>Bilsland</Key>
       <Title>Hon. Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +336,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, M. P</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>M. P</Forenames>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyne</Key>
-      <Text>W. O</Text>
+      <Forenames>W. O</Forenames>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,6 +508,13 @@
       <Key>Darke</Key>
       <Text>; R. B</Text>
       <PageNumber>6667</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>R. V.</Forenames>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1006,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leycester</Key>
-      <Text>W. R. .. .. ..</Text>
+      <Forenames>W. R.</Forenames>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,8 +1116,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, F. P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>F. P.</Forenames>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pound</Key>
-      <Text>R. R. J</Text>
+      <Forenames>R. R. J</Forenames>
       <PageNumber>8982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ussher</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>9105</PageNumber>
     </MainItem>
   </ItemGroup>

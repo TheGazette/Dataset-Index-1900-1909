@@ -12,8 +12,8 @@
     <MainItem>
       <Key>Hiokie</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>M. D.</Forenames>
-      <Text>de T. (resigned) .. ..</Text>
+      <Forenames>M. D. de T</Forenames>
+      <Text>. (resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +70,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnott</Key>
-      <Text>Capt. A. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,8 +298,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, F. T. (Lieut.) .. '</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>F. T.</Forenames>
+      <Text>(Lieut.) .. '</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,8 +361,8 @@
     <MainItem>
       <Key>Foljambe</Key>
       <Title>Capt. Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de B. S. (seconded)</Text>
+      <Forenames>A. W. de B</Forenames>
+      <Text>. S. (seconded)</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +499,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Bole</Key>
-      <Text>H. E. (2nd Lieut.)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2115</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ugarte</Key>
+      <Forenames>A. L. H.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -544,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>E. R. B. (Lieut.)</Text>
+      <Forenames>E. R. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. B. (resigned)'</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
@@ -817,7 +830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>C. E. L. (Capt.)</Text>
+      <Forenames>C. E. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,49 +1004,56 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. !the King j</Text>
+      <Forenames>M.</Forenames>
+      <Text>!the King j</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. the King</Text>
+      <Forenames>M.</Forenames>
+      <Text>the King</Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. the King</Text>
+      <Forenames>M.</Forenames>
+      <Text>the King</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. the King</Text>
+      <Forenames>M.</Forenames>
+      <Text>the King</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. the King</Text>
+      <Forenames>M.</Forenames>
+      <Text>the King</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. the King</Text>
+      <Forenames>M.</Forenames>
+      <Text>the King</Text>
       <PageNumber>3039</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M. the King</Text>
+      <Forenames>M.</Forenames>
+      <Text>the King</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>

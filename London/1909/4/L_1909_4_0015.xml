@@ -37,7 +37,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stisted</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;-Col. and Brevet Col. C. H. (retired) ..'</Text>
       <PageNumber>8936</PageNumber>
     </MainItem>
@@ -149,6 +149,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lafontaine</Key>
+      <Forenames>A. E. C. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>9416</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>May</Key>
       <Forenames>C. D.</Forenames>
       <Text>(Lieut.) .. .. .;</Text>
@@ -212,9 +220,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gex</Forenames>
-      <Text>, F. J. (Lieut-Col.)</Text>
+      <Key>De Gex</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Lieut-Col.)</Text>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,8 +601,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. Sir C. (Col.)</Text>
+      <Title>Lieut-Gen. Sir</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>8554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,6 +873,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Blaquiere</Key>
+      <Title>Hon.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8106</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Foster</Key>
       <Forenames>T. B. G.</Forenames>
       <Text>(Lieut.) ... ,</Text>
@@ -930,8 +948,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, L. (2nd Lieut.)</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Forenames>L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,8 +1259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>E. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>9328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jtiusbridger</Key>
-      <Text>G.-S. W. (Lieut.) '</Text>
+      <Forenames>G.</Forenames>
+      <Text>-S. W. (Lieut.) '</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1468,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Title>Lieut.-Col. and Brevet Col.</Title>
-      <Text>.Sir J. P., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,6 +1514,13 @@
       <Forenames>E. C.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>9517</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Moulin</Key>
+      <Text>, F. L. (2nd Lieut:)</Text>
+      <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

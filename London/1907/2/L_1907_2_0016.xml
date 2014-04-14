@@ -529,8 +529,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. K. H. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. K. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebrington</Key>
-      <Text>Viscount (2nd Lieut.)</Text>
+      <Title>Viscount (2nd Lieut.)</Title>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,8 +711,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>R. R.</Forenames>
-      <Text>de C. (Lieut.)</Text>
+      <Forenames>R. R. de C</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,6 +750,15 @@
       <Forenames>O. K.</Forenames>
       <Text>(Adj.)</Text>
       <PageNumber>4253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Tboren</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. A.de S</Forenames>
+      <Text>. (resigned)</Text>
+      <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -919,7 +929,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>Maj. S. L. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Forenames>S. L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>

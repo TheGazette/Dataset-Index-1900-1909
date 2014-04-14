@@ -268,7 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Text>.A. H. (Lieut.)</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,8 +582,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Jolm-MMmay, C. B. (Maj.)</Text>
+      <Key>St. Jolm-MMmay</Key>
+      <Forenames>C. B.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +601,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: 'W. D. (correction)</Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
@@ -848,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Text>. J. L. (Lieut.-Col.)</Text>
+      <Forenames>J. L.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Text>.J. (Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wotton</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; E. (resigned)</Text>
       <PageNumber>5465</PageNumber>
     </MainItem>

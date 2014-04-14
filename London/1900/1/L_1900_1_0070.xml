@@ -430,8 +430,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. J. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. J. T</Forenames>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,8 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Codrington</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. de B</Forenames>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,14 +828,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>E. G</Text>
+      <Forenames>E. G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kaye</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,8 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eennick</Key>
-      <Forenames>E. W.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. W. de C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

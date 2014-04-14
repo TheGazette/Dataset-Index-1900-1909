@@ -47,8 +47,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. L. (Hon. Lieut.-Col.)</Text>
+      <Forenames>R. St. L</Forenames>
+      <Text>. (Hon. Lieut.-Col.)</Text>
       <PageNumber>4390</PageNumber>
       <PageNumber>4391</PageNumber>
     </MainItem>
@@ -357,8 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collard</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulteel</Key>
-      <Text>E. W .</Text>
+      <Forenames>E. W .</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>M. L</Text>
+      <Forenames>M. L .</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Llewellyn</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,8 +835,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, F. P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>F. P</Forenames>
       <PageNumber>3650</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -181,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fieldin</Key>
-      <Text>., H. C</Text>
+      <Text>, H. C</Text>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,8 +495,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dounell, Lieut.-Col. A. C, Asst.Adj.-Gen</Text>
+      <Key>O'Dounell</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>A. C</Forenames>
+      <Text>, Asst.Adj.-Gen</Text>
       <PageNumber>8813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>., Lieut.-Col. and Brevet Col. F., Asst.-Adj.-Gen. for Musketry .. .. .. .. ..</Text>
+      <Text>, Lieut.-Col. and Brevet Col. F., Asst.-Adj.-Gen. for Musketry .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Annesley</Key>
-      <Text>. Maj. -T. H. A</Text>
+      <Title>Maj.</Title>
+      <Text>-T. H. A</Text>
       <PageNumber>7634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +899,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Betired</Key>
-      <Text>. Boyd, H. W.B</Text>
+      <Forenames>Boyd</Forenames>
+      <Text>, H. W.B</Text>
       <PageNumber>7634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,8 +1251,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. R</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. R</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

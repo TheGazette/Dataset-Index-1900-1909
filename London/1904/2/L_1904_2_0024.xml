@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creen</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry R, (services dispensed with)</Text>
       <PageNumber>2116</PageNumber>
     </MainItem>
@@ -158,8 +158,8 @@
     <MainItem>
       <Key>Prideau</Key>
       <Title>Capt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +484,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Billing</Key>
-      <Text>Lieut. H. S. (retired)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,8 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quicke</Key>
-      <Forenames>E. O. St</Forenames>
-      <Text>. C. G. (2nd Lieut.)</Text>
+      <Forenames>E. O. St. C</Forenames>
+      <Text>. G. (2nd Lieut.)</Text>
       <PageNumber>3267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,9 +705,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruyther</Forenames>
-      <Text>, Maj. C. M. (retired)</Text>
+      <Key>De Gruyther</Key>
+      <Title>Maj.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +834,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>G. C. (2nd Lieut.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -20,8 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>M.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>M. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,9 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Porb</Forenames>
-      <Text>, Capt. O. C. (Instructor)</Text>
+      <Key>Du Porb</Key>
+      <Title>Capt.</Title>
+      <Forenames>O. C.</Forenames>
+      <Text>(Instructor)</Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,8 +964,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Braddell</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'D. (Lieut.-Col.)</Text>
+      <Forenames>M. O'D</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,8 +1556,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D.V. (Lieut.-Col.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D.V.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1581,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallant</Key>
-      <Text>S. L. (Lieut.)</Text>
+      <Forenames>S. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1248</PageNumber>
     </MainItem>
   </ItemGroup>

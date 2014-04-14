@@ -695,6 +695,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pinna</Key>
+      <Forenames>H. A. E.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>5754</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
@@ -903,8 +911,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. W. J. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>8444</PageNumber>
     </MainItem>
   </ItemGroup>

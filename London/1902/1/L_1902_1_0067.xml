@@ -481,7 +481,9 @@
       <Key>Dickson-Poynder</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,8 +1127,7 @@
     <MainItem>
       <Key>Egerton</Key>
       <Title>Hon.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de T</Text>
+      <Forenames>A. de T</Forenames>
       <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>

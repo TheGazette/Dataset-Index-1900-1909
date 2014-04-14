@@ -243,8 +243,8 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>W. M. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,8 +470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>G. E. Du P.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>G. E. Du P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,8 +594,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, F. H. P. (2nd Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>F. H. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,8 +1027,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>R. S. De W.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>R. S. De W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,8 +1309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Forenames>A. D. St</Forenames>
-      <Text>. G. (2nd Lieut.) ..</Text>
+      <Forenames>A. D. St. G</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,16 +1589,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Doucet</Key>
-      <Forenames>L. C. A.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>L. C. A. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Brev. Col. W. G. (half-pay)</Text>
+      <Key>Du Boulay</Key>
+      <Title>Brev. Col.</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1730,8 +1732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Brev. Col. St.</Title>
-      <Forenames>G. C.</Forenames>
+      <Title>Brev. Col. St. G.</Title>
+      <Forenames>C.</Forenames>
       <Text>(half-pay)</Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
@@ -1748,8 +1750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>D.</Forenames>
-      <Text>de H. (2nd Lieut.)</Text>
+      <Forenames>D. de H</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,8 +1760,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de H. (Lieut-Col.)</Text>
+      <Forenames>H. de H</Forenames>
+      <Text>. (Lieut-Col.)</Text>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,8 +1786,8 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Title>Maj.</Title>
-      <Forenames>J. E. O</Forenames>
-      <Text>'H. (antedated)</Text>
+      <Forenames>J. E. O'H</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>6518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2041,16 +2043,16 @@
     <MainItem>
       <Key>Luard</Key>
       <Title>Maj.</Title>
-      <Forenames>W.</Forenames>
-      <Text>du C. (antedated)</Text>
+      <Forenames>W. du C</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>6548</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2146,15 +2148,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P. B. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8757</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. V. M. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. V. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>

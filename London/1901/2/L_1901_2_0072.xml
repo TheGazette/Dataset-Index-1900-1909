@@ -19,8 +19,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, G. H. (Capt..)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Capt..)</Text>
       <PageNumber>8644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. W. (resigned)</Text>
       <PageNumber>6104</PageNumber>
     </MainItem>
@@ -841,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>.H. H. (Maj.)</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,8 +1156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B. ff. (2nd Lieut.)</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>. ff. (2nd Lieut.)</Text>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>

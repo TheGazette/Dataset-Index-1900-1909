@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. E. (seconded)</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
@@ -282,8 +282,9 @@
   <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, P. T. (Instr. of Musketry)</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>P. T.</Forenames>
+      <Text>(Instr. of Musketry)</Text>
       <PageNumber>4811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +335,9 @@
       <Key>Eardley-Wilmot</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,6 +501,15 @@
       <Text>(temporary half-pay)</Text>
       <PageNumber>5226</PageNumber>
       <PageNumber>5841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>H. J. T.</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1122,8 +1134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L... .. .. ——</Text>
+      <Forenames>C. de L</Forenames>
+      <Text>... .. .. ——</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

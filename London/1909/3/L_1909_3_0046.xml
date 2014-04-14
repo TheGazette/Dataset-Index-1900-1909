@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
-      <Text>,.Arthur, and Sons</Text>
+      <Text>.Arthur, and Sons</Text>
       <PageNumber>5411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>,. John, and Sons</Text>
+      <Text>. John, and Sons</Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,8 +143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finkc</Key>
-      <Forenames>Wm</Forenames>
-      <Text>., and Co</Text>
+      <Title>Wm.</Title>
+      <Text>, and Co</Text>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Forenames>Daniel</Forenames>
+      <Title>Daniel .</Title>
       <PageNumber>6911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsworthy</Key>
-      <Forenames>Vo</Forenames>
-      <Text>.ysey, and Melhuish</Text>
+      <Title>Vo.</Title>
+      <Text>ysey, and Melhuish</Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwood</Key>
-      <Forenames>Drs</Forenames>
-      <Text>., and Stokers</Text>
+      <Title>Drs.</Title>
+      <Text>, and Stokers</Text>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,8 +430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guard</Key>
-      <Forenames>Sidney</Forenames>
-      <Text>.. .. .. . ,</Text>
+      <Title>Sidney .</Title>
+      <Text>. .. .. . ,</Text>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanbury</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkey</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaton</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>7076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +878,7 @@
       <Key>
         <KeyDitto>___ ___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>Goddard</Forenames>
+      <Title>Goddard .</Title>
       <PageNumber>7153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Judson</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1012,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidson</Key>
-      <Text>. John, and Co</Text>
+      <Forenames>John</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1055,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lister</Forenames>
+      <Title>Lister .</Title>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinneir</Key>
-      <Text>, f-now, and Fry</Text>
+      <Text>f-now, and Fry</Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lethbridge</Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Text>, Lord, and Co</Text>
+      <Title>Lord</Title>
+      <Text>, and Co</Text>
       <PageNumber>6833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1381,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Rubinstein</Forenames>
+      <Title>Rubinstein .</Title>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1422,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Simpson</Forenames>
+      <Title>Simpson .</Title>
       <PageNumber>5852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,8 +1810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poate</Key>
-      <Title>Mrs. and Miss</Title>
-      <Forenames>Smith</Forenames>
+      <Title>Mrs. and Miss Smith .</Title>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1823,7 +1824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollitt</Key>
-      <Text>, A , and Co</Text>
+      <Forenames>A</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>6911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,14 +1904,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pugh</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Q</Key>
-      <Text>.uelch, Henry C, and Co</Text>
+      <Text>uelch, Henry C, and Co</Text>
       <PageNumber>6552</PageNumber>
     </MainItem>
   </ItemGroup>

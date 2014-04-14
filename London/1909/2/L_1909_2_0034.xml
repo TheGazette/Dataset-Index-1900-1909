@@ -468,8 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manduit</Key>
-      <Forenames>F. R. M. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>F. R. M. C. de R</Forenames>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. J. de B</Forenames>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Forenames>F. De B.</Forenames>
-      <Text>.. Henderson, M. H</Text>
+      <Forenames>F. De B</Forenames>
+      <Text>. .. Henderson, M. H</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norie</Key>
-      <Text>F. H</Text>
+      <Forenames>F. H</Forenames>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +888,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Text>R. W...</Text>
+      <Forenames>R. W.</Forenames>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +936,7 @@
       <PageNumber>3659</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>L. G. M</Text>
+      <Text>L. G. M.</Text>
       <PageNumber>4773</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1659,7 +1658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulliken</Key>
-      <Text>E. M '..</Text>
+      <Forenames>E. M</Forenames>
+      <Text>'..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

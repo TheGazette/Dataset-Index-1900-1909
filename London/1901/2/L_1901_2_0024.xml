@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Hermann</Key>
       <Forenames>C</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +85,9 @@
       <Key>Hoeber</Key>
       <Title>Dr.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Hon. Commander of . the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +121,9 @@
     <MainItem>
       <Key>Holm</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +183,9 @@
       <Key>Howard</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>H. R. L.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +330,9 @@
       <Key>Jerome</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>H</Forenames>
-      <Text>, J. W., Companion of the Bath '</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +377,9 @@
       <Key>Johnstone</Key>
       <Title>Hon.</Title>
       <Forenames>A.</Forenames>
-      <Text>,Commander of the Royal Victorian Order ;</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +440,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Just</Key>
-      <Text>ran, Copt. H. F., Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +485,9 @@
       <Key>Kennedy</Key>
       <Title>Private</Title>
       <Forenames>C</Forenames>
-      <Text>, Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +529,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyser</Key>
-      <Text>. Miss A., Royal Red Cross Decoration conferred on</Text>
+      <Title>Miss</Title>
+      <Forenames>A.</Forenames>
+      <Text>, Royal Red Cross Decoration conferred on</Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +566,9 @@
       <Key>Kinloch</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>D. A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +602,9 @@
       <Key>Knollys</Key>
       <Title>Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class .. '</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +620,9 @@
     <MainItem>
       <Key>Krohn</Key>
       <Forenames>S. R.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +630,9 @@
     <MainItem>
       <Key>Kruger</Key>
       <Forenames>F.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +669,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>, Member of the Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +687,9 @@
     <MainItem>
       <Key>Lambton</Key>
       <Forenames>Commodore</Forenames>
-      <Text>Hon. H., Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +731,9 @@
       <Key>Legge</Key>
       <Title>Maj.</Title>
       <Forenames>Norton</Forenames>
-      <Text>, Companion of the Bath (since killei in action)</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +742,9 @@
       <Key>Leinhaus</Key>
       <Title>Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, Hon. Member of the Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +816,9 @@
       <Key>Lousrida</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>F. P.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +853,9 @@
       <Key>Lucas</Key>
       <Title>Col.</Title>
       <Forenames>A. G. L.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class .. .-</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +866,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +876,9 @@
     <MainItem>
       <Key>Ludwig</Key>
       <Forenames>F.</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +942,9 @@
       <Key>Mackenzie</Key>
       <Title>Maj.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, Member of the Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +987,9 @@
       <Key>McCalmont</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>H. L. B</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +1007,9 @@
       <Key>McComh</Key>
       <Title>Brev. Col.</Title>
       <Forenames>R</Forenames>
-      <Text>, B., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1044,9 @@
     <MainItem>
       <Key>Madsen</Key>
       <Forenames>H.</Forenames>
-      <Text>, Royal Victorian Order, Fifth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,14 +1054,16 @@
     <MainItem>
       <Key>Magill</Key>
       <Title>Surg.</Title>
-      <Text>-Lieut.-Col. J., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.H. Maharao Sir Kesri Singh Bahadur of Sirohi in Rajputana, Knight Grand Commander of the Order of the Indian Empire</Text>
+      <Text>H. Maharao Sir Kesri Singh Bahadur of Sirohi in Rajputana, Knight Grand Commander of the Order of the Indian Empire</Text>
       <PageNumber>7287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1072,9 @@
       <Key>Mahon</Key>
       <Title>Col.</Title>
       <Forenames>B. T.</Forenames>
-      <Text>,Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1091,9 @@
     <MainItem>
       <Key>Maltzahn</Key>
       <Forenames>Baron</Forenames>
-      <Text>von, Royal Victorian Order, Fourth Class (Hon.)</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1118,9 @@
       <Key>Martin</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1197,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Meyrich</Key>
-      <Text>Lieut.-Col. F-.-C, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1207,9 @@
     <MainItem>
       <Key>Michael</Key>
       <Forenames>Michaelowitch</Forenames>
-      <Text>of Russia, H.I.H. the/ Grand Duke, Honorary Knight Grand Cross of the Royal Victorian Order .. ..' ..'</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>

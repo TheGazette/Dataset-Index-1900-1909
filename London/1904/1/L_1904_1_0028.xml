@@ -129,7 +129,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: W. (resigned)</Text>
       <PageNumber>1096</PageNumber>
     </MainItem>
@@ -405,7 +405,9 @@
       <Key>Abercromby</Key>
       <Title>Sir</Title>
       <Forenames>G.</Forenames>
-      <Text>' W., Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,8 +863,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. E. (Maj.)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>1948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,8 +913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>M. H. C. De C. De B.</Forenames>
-      <Text>(Lieut.-Super.)</Text>
+      <Forenames>M. H. C. De C</Forenames>
+      <Text>. De B. (Lieut.-Super.)</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1123,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1624</PageNumber>
     </MainItem>
   </ItemGroup>

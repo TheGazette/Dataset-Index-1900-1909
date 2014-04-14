@@ -272,8 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. A.</Forenames>
-      <Text>de Vic (2nd Lieut.)</Text>
+      <Forenames>L. A. de Vic</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +283,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>L. A.</Forenames>
-      <Text>de V. (seconded)</Text>
+      <Forenames>L. A. de V</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,8 +324,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Las Casas</Forenames>
+      <Key>De Las</Key>
+      <Forenames>Casas</Forenames>
       <Text>, Capt. M. (seconded)</Text>
       <PageNumber>1080</PageNumber>
     </MainItem>
@@ -385,8 +385,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, G. H. (Lieut.)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +404,8 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>M.'s acceptance of voluntary offer for service abroad</Text>
+      <Forenames>M.</Forenames>
+      <Text>'s acceptance of voluntary offer for service abroad</Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +478,9 @@
       <Key>Lees</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart, (seconded) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,6 +706,14 @@
   <SubCategoryTitle>FIFESHIRE</SubCategoryTitle>
   <SectionTitle>Volunteer Corps</SectionTitle>
   <SectionTitle>Light Horse, lst</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pree</Key>
+      <Forenames>C. G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3572</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
@@ -1168,7 +1180,9 @@
     <MainItem>
       <Key>Van-Notten-</Key>
       <Forenames>Pole</Forenames>
-      <Text>, Sir C. P., Bart, (reappointed Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>

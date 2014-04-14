@@ -22,8 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramus</Key>
-      <Forenames>B. E.</Forenames>
-      <Text>de N. (2nd Lieut.)</Text>
+      <Forenames>B. E. de N</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,9 +394,10 @@
   <SubSectionTitle>Southern Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Lieut. H. H. (resigned)</Text>
+      <Key>Du Boulay</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>

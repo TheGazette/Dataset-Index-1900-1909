@@ -88,6 +88,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bertodano</Key>
+      <Forenames>F. B</Forenames>
+      <PageNumber>2551</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>A. F</Forenames>
+      <PageNumber>2552</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dyer</Key>
       <Forenames>H. R.</Forenames>
       <PageNumber>2551</PageNumber>
@@ -313,8 +327,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, C. H. P</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>C. H. P</Forenames>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Forenames>R. B.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. B. de B</Forenames>
       <PageNumber>3149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1458,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. J. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,15 +1522,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. T. A. (temporary Maj.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. T. A.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. P. (Lieut.-Col.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>

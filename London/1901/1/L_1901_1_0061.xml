@@ -52,7 +52,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Philippi</Key>
-      <Forenames>Lieut-Col</Forenames>
+      <Title>Lieut-</Title>
+      <Forenames>Col</Forenames>
       <Text>and Hon. Col. T. E. (resigned)</Text>
       <PageNumber>1356</PageNumber>
     </MainItem>
@@ -301,8 +302,8 @@
     <MainItem>
       <Key>Shortt</Key>
       <Title>Capt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de S. (seconded)</Text>
+      <Forenames>F. de S</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,9 +702,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Trafford</Forenames>
-      <Text>, 2nd Lieut. A. F. (cancellation)</Text>
+      <Key>De Trafford</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. F.</Forenames>
+      <Text>(cancellation)</Text>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,8 +1002,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur-Sheil, J. F. A. (Lieut.)</Text>
+      <Key>St. Maur-Sheil</Key>
+      <Forenames>J. F. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glynn</Key>
-      <Text>.R. M..O. (Maj.)</Text>
+      <Forenames>R. M.</Forenames>
+      <Text>.O. (Maj.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1788,9 @@
     <MainItem>
       <Key>Webber</Key>
       <Forenames>A.</Forenames>
-      <Text>O.M. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>

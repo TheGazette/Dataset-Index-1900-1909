@@ -96,7 +96,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bahamas</Key>
-      <Text>(Inagua) Sisal Plantation, meeting of debenture holders</Text>
+      <Title>(Inagua)</Title>
+      <Forenames>Sisal Plantation</Forenames>
+      <Text>, meeting of debenture holders</Text>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,6 +293,10 @@
       <PageNumber>1331</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Charing Cross Bank</Text>
+      <PageNumber>1333</PageNumber>
+    </SubItem>
+    <SubItem>
       <Text>
         <PageNumber>1331</PageNumber>
       </Text>
@@ -298,6 +304,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <PageNumber>ibid.</PageNumber>
         <PageNumber>1333</PageNumber>
         <PageNumber>ibid.</PageNumber>
       </Text>

@@ -240,8 +240,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, B. F. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>B. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +867,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertzberg</Key>
-      <Text>. Acting Chaplain Rev. A. M. (resigned) .. .. ..</Text>
+      <Title>Acting</Title>
+      <Forenames>Chaplain</Forenames>
+      <Text>Rev. A. M. (resigned) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1062,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craufurd</Key>
-      <Text>. J. Gr. (Lieut.)</Text>
+      <Forenames>J. Gr</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,8 +1121,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowle</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. T.E. (half-pay list)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>T.E.</Forenames>
+      <Text>(half-pay list)</Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>

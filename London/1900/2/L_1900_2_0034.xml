@@ -101,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>J. M. (Lieut.) .. ..</Text>
+      <Forenames>J. M.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,15 +152,17 @@
       <Key>Levinge</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6030</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>H. C. St</Forenames>
-      <Text>. L. (2nd Lieut.)</Text>
+      <Forenames>H. C. St. L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,8 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadleir-Jackson</Key>
-      <Forenames>L. W. De V.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>L. W. De V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloane-Stanley</Key>
-      <Text>C. V. (Capt.)</Text>
+      <Forenames>C. V.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,9 +822,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Crespigny</Forenames>
-      <Text>, C. Y. C. (2nd Lieut.)</Text>
+      <Key>De Crespigny</Key>
+      <Forenames>C. Y. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +976,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Terriere</Key>
-      <Forenames>F. L.</Forenames>
-      <Text>de S. (Capt,)</Text>
+      <Forenames>F. L. de S</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>

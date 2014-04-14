@@ -539,7 +539,9 @@
       <Key>Porter</Key>
       <Title>Capt. and Hon. Maj. Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +675,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dore</Key>
-      <Text>. Lieut. E. J. G. (correction)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>E. J. G.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>3162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,6 +1036,13 @@
       <Forenames>O. G. S.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3603</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clifford</Key>
+      <Title>2nd Lieut. Lord (resigned)</Title>
+      <PageNumber>3159</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

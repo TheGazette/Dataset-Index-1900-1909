@@ -484,9 +484,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bertodano</Forenames>
-      <Text>, F. R, (Capt.)</Text>
+      <Key>De Bertodano</Key>
+      <Forenames>F. R</Forenames>
+      <Text>, (Capt.)</Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +690,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lieut. C. H. P. (seconded)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. H. P.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daviess</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. L. (2nd Lieut.)</Text>
+      <Forenames>O. St. L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry B. L. (resigned) .. .. .,</Text>
       <PageNumber>2767</PageNumber>
     </MainItem>

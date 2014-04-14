@@ -655,8 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harman</Key>
-      <Forenames>F.</Forenames>
-      <Text>de W. (2nd Lieut.)</Text>
+      <Forenames>F. de W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,8 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prioleau</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,6 +1552,14 @@
       <Forenames>W. A.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghtori</Key>
+      <Forenames>V.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

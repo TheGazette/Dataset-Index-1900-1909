@@ -104,9 +104,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vitre</Forenames>
-      <Text>, D. F. D. (Capt.)</Text>
+      <Key>De Vitre</Key>
+      <Forenames>D. F. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +422,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>. C. E. (Lieut.-Col.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>6231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,8 +565,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. G. (Capt.</Text>
+      <Forenames>E. C. St. G</Forenames>
+      <Text>. (Capt.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,8 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Isaacson</Key>
-      <Forenames>P.</Forenames>
-      <Text>de St. Q. (2nd Lieut.)</Text>
+      <Forenames>P. de St</Forenames>
+      <Text>. Q. (2nd Lieut.)</Text>
       <PageNumber>6232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>. C. M. (Capt. and Hon. Maj.)</Text>
+      <Forenames>C. M.</Forenames>
+      <Text>(Capt. and Hon. Maj.)</Text>
       <PageNumber>6952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Archbutt</Key>
-      <Text>. W. H. (Capt.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

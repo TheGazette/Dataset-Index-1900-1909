@@ -227,7 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>J. (2nd Lieut.) .. .. .</Text>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.) .. .. .</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,8 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Title>St.</Title>
-      <Forenames>J. M.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>M.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2587</PageNumber>
     </MainItem>
@@ -863,7 +864,9 @@
       <Key>Brunner</Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bart. .. .,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +971,9 @@
       <Key>Milne</Key>
       <Title>Sir</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,8 +1015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,8 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chands</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>du C</Text>
+      <Forenames>W. H. du C</Forenames>
       <PageNumber>2766</PageNumber>
     </MainItem>
   </ItemGroup>

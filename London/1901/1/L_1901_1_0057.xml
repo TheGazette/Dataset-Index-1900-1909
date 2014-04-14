@@ -546,6 +546,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Andrade</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>, jun. (2nd Lieut.)</Text>
+      <PageNumber>2297</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hancock</Key>
       <Forenames>H. T.</Forenames>
       <Text>(2nd Lieut.) .. ..</Text>
@@ -1315,7 +1323,9 @@
       <Key>Kemp</Key>
       <Title>Maj. and Hon. Lieut.-Col. Sir</Title>
       <Forenames>K. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,8 +1340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eose</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. (2nd Lieut.)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,6 +1392,14 @@
       <Forenames>G. E. C.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2530</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>C. F. G. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1472,8 +1490,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, C. (Capt.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1665,6 +1684,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Hoghton</Key>
+      <Forenames>V.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>87</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Herapath</Key>
       <Title>Maj.</Title>
       <Forenames>E.</Forenames>
@@ -1769,8 +1796,8 @@
     <MainItem>
       <Key>Fox</Key>
       <Title>Lieut.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. V. (retired)</Text>
+      <Forenames>J. St. V</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>1235</PageNumber>
     </MainItem>
   </ItemGroup>

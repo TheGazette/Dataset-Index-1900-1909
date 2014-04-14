@@ -19,8 +19,8 @@
   <SubSectionTitle>Assistant Commissaries</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W</Forenames>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. F. L. (2nd Lieut.)</Text>
+      <Forenames>F. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,9 @@
       <Key>Cotter</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,8 +561,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B. ff. (Capt.)</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>. ff. (Capt.)</Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,15 +571,17 @@
       <Key>Filmer</Key>
       <Title>Sir</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. V. (2nd Lieut.)</Text>
+      <Forenames>G. St. V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,6 +752,15 @@
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Eresby</Key>
+      <Title>Lord</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Hon. Lieut.)</Text>
+      <PageNumber>660</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Foster</Key>
       <Forenames>G. B.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -801,6 +815,15 @@
   </ItemGroup>
   <SubSectionTitle>2nd County of London ( Westminster Dragoons)</SubSectionTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Walden</Key>
+      <Title>Lord</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>661</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>3rd County of London {Sharpshooters)</SubSectionTitle>
   <SubSectionTitle>Imperial Yeomanry</SubSectionTitle>
   <ItemGroup>

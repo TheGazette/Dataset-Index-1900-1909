@@ -215,8 +215,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lieut. C. H. P. (antedated)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. H. P.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,8 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S. (Maj.)</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>, Colonel-in-Chief</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The, Colonel-in-Chief</Text>
       <PageNumber>2693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,8 +650,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V. (Lieut.)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,8 +762,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, G. J. (Capt.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>G. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,6 +822,15 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>2nd Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Title>Lieut.</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3368</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hawkcsworth</Key>

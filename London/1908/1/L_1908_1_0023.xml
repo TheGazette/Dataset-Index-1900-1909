@@ -193,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maule</Key>
-      <Text>W. J. (Lieut.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +271,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wight</Key>
-      <Text>Lieut. R. H. D. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R. H. D.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V. (2nd Lieut.)</Text>
+      <Forenames>A. de V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +801,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce-Serocold</Key>
-      <Text>O. (Hon. Col.)</Text>
+      <Forenames>O.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>2265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,8 +1186,8 @@
     <MainItem>
       <Key>Furber</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H. A.</Forenames>
-      <Text>de F. (resigned)</Text>
+      <Forenames>H. A. de F</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>

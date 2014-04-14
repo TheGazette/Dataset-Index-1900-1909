@@ -518,8 +518,8 @@
     <MainItem>
       <Key>Wilkins</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (seconded)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eglington</Key>
-      <Title>Acting</Title>
+      <Title>Acting-</Title>
       <Forenames>Chaplain Rer</Forenames>
       <Text>. A. (resigned) .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
@@ -860,7 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slacke</Key>
-      <Text>R. C. (Capt.)</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

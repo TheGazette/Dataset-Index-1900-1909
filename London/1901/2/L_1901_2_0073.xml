@@ -434,6 +434,17 @@
   <SubSectionTitle>. . Lancashire Hussars</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafford</Key>
+      <Title>Sir</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
+      <PageNumber>5877</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dixon</Key>
       <Text>' W. G: (Vet.-Lieut.)</Text>
       <PageNumber>7050</PageNumber>
@@ -954,7 +965,9 @@
       <Key>Sheffield</Key>
       <Title>Sir</Title>
       <Forenames>B. G. D</Forenames>
-      <Text>;, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +983,8 @@
     <MainItem>
       <Key>Willougbby</Key>
       <Title>Lord</Title>
-      <Text>de Eresby (Capt.)</Text>
+      <Forenames>de Eresby</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +993,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>de Eresby, Lord (Maj.)</Text>
+      <Forenames>de Eresby</Forenames>
+      <Text>, Lord (Maj.)</Text>
       <PageNumber>6647</PageNumber>
     </MainItem>
   </ItemGroup>

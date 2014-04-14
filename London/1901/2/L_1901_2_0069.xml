@@ -109,8 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battine</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bredin</Key>
-      <Text>.A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>6439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>A.</Forenames>
-      <Text>de S ..</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamier</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. Or Cheyne, A. Y</Text>
+      <Forenames>W. St. Or Cheyne</Forenames>
+      <Text>, A. Y</Text>
       <PageNumber>8095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,8 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudgeon</Key>
-      <Forenames>R.</Forenames>
-      <Text>de S. .. .. ..</Text>
+      <Forenames>R.de S</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faunce</Key>
-      <Forenames>A. De L.</Forenames>
+      <Forenames>A. De L</Forenames>
       <PageNumber>8919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,8 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>V.</Forenames>
-      <Text>de V</Text>
+      <Forenames>V. de V</Forenames>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1488,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. J ..</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. J .</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,8 +1505,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, C. A. E</Text>
+      <Key>O'Meara</Key>
+      <Forenames>C. A. E.</Forenames>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,8 +1526,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, CM</Text>
+      <Key>O'Reilly</Key>
+      <Text>CM</Text>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,8 +1713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>H. R.</Forenames>
-      <Text>von D</Text>
+      <Forenames>H. R. von D</Forenames>
       <PageNumber>8919</PageNumber>
     </MainItem>
   </ItemGroup>

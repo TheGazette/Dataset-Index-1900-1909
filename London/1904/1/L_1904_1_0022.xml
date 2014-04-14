@@ -90,8 +90,8 @@
     <MainItem>
       <Key>Best</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>J. U. De G.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>J. U. De G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +208,9 @@
       <Key>Mahon</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,9 @@
       <Key>Frankland</Key>
       <Title>Capt. Sir</Title>
       <Forenames>F. W</Forenames>
-      <Text>; F. G., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmerson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry H. H. (resigned)</Text>
       <PageNumber>1445</PageNumber>
     </MainItem>
@@ -1301,8 +1305,8 @@
     <MainItem>
       <Key>Shortt</Key>
       <Title>Capt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de S. (retired)</Text>
+      <Forenames>F. de S</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>

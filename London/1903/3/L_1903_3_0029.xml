@@ -71,7 +71,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evatt</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,8 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norie</Key>
-      <Forenames>C. E.</Forenames>
-      <Text>de M. ..</Text>
+      <Forenames>C. E. de M</Forenames>
+      <Text>. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>T. S</Text>
+      <Forenames>T. S</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +204,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>de Wilton, A. W</Text>
+      <Forenames>de Wilton</Forenames>
+      <Text>, A. W</Text>
       <PageNumber>5671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrne</Key>
-      <Text>E. G. J ibid. .Channer, B. G</Text>
+      <Forenames>E. G. J</Forenames>
+      <Text>ibid. .Channer, B. G</Text>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>G. B. St</Forenames>
-      <Text>. P. ibid-. Chaldecotf, O. A.</Text>
+      <Forenames>G. B. St. P</Forenames>
+      <Text>. ibid-. Chaldecotf, O. A.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,8 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>E. C.</Forenames>
-      <Text>de R.</Text>
+      <Forenames>E. C. de R</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ralston</Key>
-      <Text>W. H</Text>
+      <Forenames>W. H.</Forenames>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +990,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>E.</Forenames>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,8 +1135,9 @@
   <SubSectionTitle>Reserve of Officers</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. S. S. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. S. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,9 +1481,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, A. ..</Text>
+      <Key>De Silva</Key>
+      <Forenames>A.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,8 +1547,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neal, G. S.</Text>
+      <Key>O'Neal</Key>
+      <Forenames>G. S.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -39,6 +39,14 @@
   <SectionTitle>The Northumberland Fusiliers</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>5961</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Foster</Key>
       <Forenames>O. B.</Forenames>
       <Text>(Lieut.)</Text>
@@ -885,7 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallock</Key>
-      <Text>T. R. (Capt.)</Text>
+      <Forenames>T. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grist</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. G. (absorbed into Establishment)</Text>
       <PageNumber>5755</PageNumber>
     </MainItem>
@@ -1452,7 +1461,9 @@
       <Key>Bedingfeld</Key>
       <Title>Sir</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8592</PageNumber>
     </MainItem>
   </ItemGroup>

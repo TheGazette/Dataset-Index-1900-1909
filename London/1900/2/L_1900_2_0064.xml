@@ -9,8 +9,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W. F..</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W. F.</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eates</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +625,9 @@
       <Key>Sinclair</Key>
       <Title>Sir</Title>
       <Forenames>J. R. G.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,8 +1059,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, 2nd .Lieut.. Sir T. C, Bart. (resigned)</Text>
+      <Key>O'Brien</Key>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8218</PageNumber>
     </MainItem>
   </ItemGroup>

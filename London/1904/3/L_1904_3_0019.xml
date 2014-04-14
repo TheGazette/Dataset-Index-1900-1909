@@ -664,8 +664,8 @@
     <MainItem>
       <Key>Cock</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>A. H. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>A. H. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,8 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce-Kingsmill</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. (Hon. Maj.)</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. (Hon. Maj.)</Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,8 +867,8 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. (correction)</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>6134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,8 +991,8 @@
     <MainItem>
       <Key>Tandy</Key>
       <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>J. O</Forenames>
-      <Text>'B. (resigned)</Text>
+      <Forenames>J. O'B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1000,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowe</Key>
-      <Text>Capt. F. J. W. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. J. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4911</PageNumber>
     </MainItem>
   </ItemGroup>

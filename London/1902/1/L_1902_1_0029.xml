@@ -645,8 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>W. M. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,8 +973,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Title>St.</Title>
-      <Forenames>J. R.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>R.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1323,8 +1323,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, W. L. (2nd Lieut.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,8 +1408,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de H. (Capt.)</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,8 +1419,8 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de H. (seconded)</Text>
+      <Forenames>E. de H</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>

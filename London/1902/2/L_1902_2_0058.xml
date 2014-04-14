@@ -371,7 +371,9 @@
       <Key>Munro</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart. (Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1132,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A. M. (2nd Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmot-Sitwell</Key>
-      <Text>D. (Capt.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1240,9 @@
       <Key>Power</Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bart, (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rivett-Carnac</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. G. (resigned)</Text>
       <PageNumber>6744</PageNumber>
     </MainItem>
@@ -1454,7 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martyr</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. F. (absorbed into Establishment)</Text>
       <PageNumber>5755</PageNumber>
     </MainItem>
@@ -1492,6 +1498,14 @@
       <Forenames>H. A.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>6277</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>R. M.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

@@ -22,7 +22,9 @@
       <Key>Walter</Key>
       <Title>Capt. and Hon. Maj.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, Extra Aide-de-Camp to Brevet Col.. Sir H. E. McCallum, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>W. H. (Inspr., 2nd Class, and Hon. Capt.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(Inspr., 2nd Class, and Hon. Capt.)</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +756,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bousfield</Key>
-      <Text>L. (Capt.)</Text>
+      <Forenames>L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,8 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Forenames>C. P. O</Forenames>
-      <Text>'B. (Lieut.)</Text>
+      <Forenames>C. P. O'B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,8 +908,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>R. F. O</Forenames>
-      <Text>'T. (Lieut.)</Text>
+      <Forenames>R. F. O'T</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,16 +1228,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Xing</Key>
-      <Forenames>R. De V.</Forenames>
-      <Text>(Lieut.) .. ..</Text>
+      <Forenames>R. De V</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Langrishe</Key>
-      <Forenames>J.</Forenames>
-      <Text>du P. (Lieut.)</Text>
+      <Forenames>J. du P</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,8 +1356,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. D. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,8 +1372,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, W. R. (Lieut.) .. ..</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>W. R.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -66,7 +66,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Text>Lieut. G. R. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,6 +516,14 @@
       <Forenames>W.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>5542</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Someren</Key>
+      <Forenames>E. L.</Forenames>
+      <Text>(Capt.) ..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>6th Battalion</SubSectionTitle>
@@ -977,7 +987,9 @@
       <Key>McMahon</Key>
       <Title>Capt. and Brev. Maj. Sir</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +998,9 @@
       <Key>Price</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>F. C. R.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>

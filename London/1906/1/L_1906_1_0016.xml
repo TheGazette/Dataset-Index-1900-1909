@@ -316,7 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Text>. W. (Liaut*) .. .. ..</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Liaut*) .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bftlckwell</Key>
-      <Text>. T.' S:(Lieut.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>' S:(Lieut.)</Text>
       <PageNumber>1138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. (Lieut.) ..</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. P. (Maj.)</Text>
+      <Forenames>P.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,22 +892,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, A. D. (Lieut.) f ..</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>A. D.</Forenames>
+      <Text>(Lieut.) f ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. De C. (Lieut:)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. De C</Forenames>
+      <Text>. (Lieut:)</Text>
       <PageNumber>1188</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill,' E. M: (Lieut.)</Text>
+      <Key>O'Neill</Key>
+      <Text>' E. M: (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>.G. W. (Lieut.) ..</Text>
+      <Forenames>G. W.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1349,8 +1355,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, R. A. (Lieut.)</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>R. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>.Capt.' 0. T. D. (secbnded)</Text>
+      <Title>Capt.</Title>
+      <Text>' 0. T. D. (secbnded)</Text>
       <PageNumber>192</PageNumber>
     </MainItem>
   </ItemGroup>

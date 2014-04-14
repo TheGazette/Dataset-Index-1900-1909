@@ -28,6 +28,14 @@
   <SubSectionTitle>. . 4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>H. V. B.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>7945</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Haines</Key>
       <Forenames>L. E.</Forenames>
       <Text>(Instr. of Musketry)</Text>
@@ -376,8 +384,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, A. A. (Capt.)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>A. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HeleyJ</Key>
-      <Text>. W: (2nd Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: (2nd Lieut.)</Text>
       <PageNumber>7947</PageNumber>
     </MainItem>
   </ItemGroup>

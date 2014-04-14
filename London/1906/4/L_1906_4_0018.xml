@@ -42,6 +42,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Clermont</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. C</Forenames>
+      <Text>* (resigned)</Text>
+      <PageNumber>8973</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hitchcock</Key>
       <Title>Capt.</Title>
       <Forenames>H. W. G. B.</Forenames>
@@ -175,8 +184,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, R. (2ud Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>R.</Forenames>
+      <Text>(2ud Lieut.)</Text>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keller</Key>
-      <Text>. .Lieut.-Col. and Hon. Col. A. L. (resigned)</Text>
+      <Text>.Lieut.-Col. and Hon. Col. A. L. (resigned)</Text>
       <PageNumber>8975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,8 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepean</Key>
-      <Forenames>L. P. St</Forenames>
-      <Text>. V. (Capt.)</Text>
+      <Forenames>L. P. St. V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whalley</Key>
-      <Text>.J. L. (Lieut.)</Text>
+      <Forenames>J. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +747,8 @@
     <MainItem>
       <Key>Wake</Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. A. (resigned)</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>

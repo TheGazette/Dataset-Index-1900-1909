@@ -37,6 +37,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>T. C.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
@@ -582,7 +590,9 @@
       <Key>Kemp</Key>
       <Title>Sir</Title>
       <Forenames>K. H.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,8 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jervis</Key>
-      <Title>Hon. St.</Title>
-      <Forenames>L. H.</Forenames>
+      <Title>Hon. St. L.</Title>
+      <Forenames>H.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
@@ -661,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gille</Key>
-      <Text>.tt, Lieut. C. D. (resigned)</Text>
+      <Text>tt, Lieut. C. D. (resigned)</Text>
       <PageNumber>8453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +935,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>. Lieut. A., jun. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A.</Forenames>
+      <Text>, jun. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windeatt</Key>
-      <Text>. J. (C»pt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(C»pt.)</Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Bonsall</Key>
-      <Forenames>Lieut J. C.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. C.</Forenames>
       <Text>(resigned) ,</Text>
       <PageNumber>7478</PageNumber>
     </MainItem>

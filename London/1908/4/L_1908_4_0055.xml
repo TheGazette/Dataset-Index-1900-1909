@@ -281,14 +281,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>J. B</Text>
+      <Forenames>J. B</Forenames>
       <PageNumber>9027</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>B</Text>
+      <Forenames>B .</Forenames>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colley</Key>
-      <Text>P. H. (Capt.)</Text>
+      <Forenames>P. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,8 +436,8 @@
     <MainItem>
       <Key>Roche</Key>
       <Title>Col.</Title>
-      <Forenames>Commandant T. H.</Forenames>
-      <Text>de M. (retired list and Hon. Maj.-Gen.)</Text>
+      <Forenames>Commandant T. H. de M</Forenames>
+      <Text>. (retired list and Hon. Maj.-Gen.)</Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>

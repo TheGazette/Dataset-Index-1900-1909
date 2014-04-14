@@ -464,8 +464,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Capt. C. E.. J. G. (absorbed into Establishment)</Text>
+      <Key>O'Malley</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>. J. G. (absorbed into Establishment)</Text>
       <PageNumber>5755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>A. R. (2nd Lieut.)</Text>
+      <Forenames>A. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +727,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>Lieut.-Col. E. W. (half-pay)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>6196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Text>H. C. (2nd Lieut.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6653</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -146,8 +146,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. G. A. (removed on appointment to Staff)</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(removed on appointment to Staff)</Text>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,8 +183,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (antedated)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>8757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,8 +264,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. H. S. (Lieut.-Col. and to command)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. H. S.</Forenames>
+      <Text>(Lieut.-Col. and to command)</Text>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>W. B. St</Forenames>
-      <Text>. G. (Lieut.) ..</Text>
+      <Forenames>W. B. St. G</Forenames>
+      <Text>. (Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,8 +390,8 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>W. B. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>W. B. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,8 +552,8 @@
     <MainItem>
       <Key>Foljambe</Key>
       <Title>Hon.</Title>
-      <Forenames>A. W.</Forenames>
-      <Text>de B. S. (Capt.)</Text>
+      <Forenames>A. W. de B</Forenames>
+      <Text>. S. (Capt.)</Text>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +619,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowndes</Key>
-      <Text>Maj. A. H. W. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. H. W.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>4512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,9 +749,9 @@
   <SectionTitle>6th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bidder</Forenames>
-      <Text>, E. R. (2nd Lieut.)</Text>
+      <Key>De Bidder</Key>
+      <Forenames>E. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,8 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellairs</Key>
-      <Forenames>A.</Forenames>
-      <Text>de M. (2nd Lieut.)</Text>
+      <Forenames>A. de M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,8 +1149,8 @@
     <MainItem>
       <Key>French</Key>
       <Title>Lieut.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,8 +1614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Forenames>F. S.</Forenames>
-      <Text>de M. (Capt.)</Text>
+      <Forenames>F. S. de M</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Michell</Key>
-      <Text>J. C. (Capt.)</Text>
+      <Forenames>J. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -86,7 +86,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies-Evans</Key>
-      <Text>. H. (Capt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,6 +105,14 @@
       <Forenames>H. H.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>4557</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>E. S.</Forenames>
+      <Text>(Adj.)</Text>
+      <PageNumber>5133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -317,7 +326,9 @@
       <Key>Crossley</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, Bart. (Lieut.-Col. and to command) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,16 +343,16 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>A. T. St</Forenames>
-      <Text>. J. (Maj.)</Text>
+      <Forenames>A. T. St. J</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (Lieut.)</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>

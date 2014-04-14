@@ -28,14 +28,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldingham</Key>
-      <Text>, 0. S. (2nd Lieut.)</Text>
+      <Text>0. S. (2nd Lieut.)</Text>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>HieltB</Key>
-      <Text>, J-. S. (2nd Lieut.)</Text>
+      <Text>J-. S. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +76,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohsiow</Key>
-      <Text>,.G. T. (Col. 2nd Comdt.)</Text>
+      <Text>.G. T. (Col. 2nd Comdt.)</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slaney</Key>
-      <Text>,.C. W. (Hon. Maj.)</Text>
+      <Text>.C. W. (Hon. Maj.)</Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deed</Key>
-      <Text>, Lieut. IS. S. (retired list)</Text>
+      <Title>Lieut.</Title>
+      <Text>IS. S. (retired list)</Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +230,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>5297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,14 +293,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Oodsal</Key>
-      <Text>,-A. E. (Sub-Lieut.) ..</Text>
+      <Text>-A. E. (Sub-Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>, -N. L. (Assist.-Paymr.)</Text>
+      <Text>-N. L. (Assist.-Paymr.)</Text>
       <PageNumber>5376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, F: W. (Engineer)</Text>
+      <Forenames>F</Forenames>
+      <Text>: W. (Engineer)</Text>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, E: A. (Lieut.)</Text>
+      <Forenames>E</Forenames>
+      <Text>: A. (Lieut.)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,14 +419,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>, S; C. (Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>; C. (Lieut.)</Text>
       <PageNumber>4630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pierson</Key>
-      <Text>, A.E. (Engineer)</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +685,6 @@
       <PageNumber>5468</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Acetylene</Key>
@@ -785,7 +790,7 @@
       <PageNumber>4733</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Colnbrook, High-street, messuages, tenements, &amp;c. (Hoplrinson v. Richardson) .. ,</Text>
+      <Text>Colnbrook, High-street, messuages, tenements, &amp;c. (Hoplrinson v. Richardson) .. ,.</Text>
       <PageNumber>5653</PageNumber>
     </SubItem>
     <SubItem>

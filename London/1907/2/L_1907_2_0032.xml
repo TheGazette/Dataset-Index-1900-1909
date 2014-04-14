@@ -23,7 +23,9 @@
       <Key>Greenall</Key>
       <Title>Sir</Title>
       <Forenames>G.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +33,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>Maj.-Gen. J.T</Text>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>J.T.</Forenames>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bnggs</Key>
-      <Text>O.J</Text>
+      <Forenames>O.J</Forenames>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +218,9 @@
       <Key>Brownrigg</Key>
       <Title>Sir</Title>
       <Forenames>D. E. B.</Forenames>
-      <Text>, Bart. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,8 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Forenames>A.</Forenames>
-      <Text>de K. L.</Text>
+      <Forenames>A. de K</Forenames>
+      <Text>. L.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frrer</Key>
-      <Text>O. H ..</Text>
+      <Forenames>O. H .</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,8 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chance</Key>
-      <Forenames>H.</Forenames>
-      <Text>de P</Text>
+      <Forenames>H. de P</Forenames>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,6 +1022,13 @@
       <Key>Churchill</Key>
       <Forenames>K. B. M.</Forenames>
       <PageNumber>2733</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>F. P. C.</Forenames>
+      <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -2,6 +2,14 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="060" pageID="https://www.thegazette.co.uk/id/London/index/year/1902/volume/1/page/060" pagePDF="https://www.thegazette.co.uk/London/index/year/1902/volume/1/page/060" pageRDF="https://www.thegazette.co.uk/London/index/year/1902/volume/1/page/060?view=linked-data" type="index" volume="1" year="1902">
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>230</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
@@ -242,7 +250,9 @@
       <Key>Cuninghame</Key>
       <Title>Sir</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +334,9 @@
       <Key>Grogan</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. I. B.</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +593,9 @@
       <Key>Wilmot</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,8 +1176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (Lieut.) '</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (Lieut.) '</Text>
       <PageNumber>1813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,8 +1261,8 @@
     <MainItem>
       <Key>Grogan</Key>
       <Title>Capt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,7 +1607,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. W. (seconded)</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
@@ -1783,8 +1797,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Oonnell, G. B</Text>
+      <Key>O'Oonnell</Key>
+      <Forenames>G. B</Forenames>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>

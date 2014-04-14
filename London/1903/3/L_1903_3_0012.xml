@@ -21,7 +21,9 @@
       <Key>Wray</Key>
       <Title>Maj.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Title>Capt.</Title>
-      <Text>, W. D., Victoria Cross conferred on</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +49,9 @@
     <MainItem>
       <Key>Wynyard</Key>
       <Title>Lieut.-Col.</Title>
-      <Text>, R., Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +533,9 @@
     <MainItem>
       <Key>Montagu</Key>
       <Forenames>Douglas-Scott</Forenames>
-      <Text>, Col. Lord H. A, Aide-de-Camp to Gen. Sir C. M. Clarke, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,8 +583,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. A. R., Assist. Adj.-Gen. and Col</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>, Assist. Adj.-Gen. and Col</Text>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>

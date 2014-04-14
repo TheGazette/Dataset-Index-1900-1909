@@ -49,7 +49,9 @@
       <Key>Wedderburn</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,9 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Title>St. J. (2nd Lieut.)</Title>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,8 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shelley</Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'K. (2nd Lieut.)</Text>
+      <Forenames>J. P. O'K</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,6 +349,13 @@
       <Key>Dalgliesh</Key>
       <Forenames>R.</Forenames>
       <PageNumber>832</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>E. M. P.</Forenames>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Peebles-shire</SubSectionTitle>
@@ -460,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgeman</Key>
-      <Text>. F. C. B</Text>
+      <Forenames>F. C. B</Forenames>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +499,9 @@
       <Key>Voore</Key>
       <Title>Sir</Title>
       <Forenames>B.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +593,9 @@
       <Key>Sawle</Key>
       <Title>Sir</Title>
       <Forenames>C. J. G.</Forenames>
-      <Text>. Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foot</Key>
-      <Forenames>C. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>C. R. de C</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,8 +768,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooker</Key>
-      <Forenames>F. G. St</Forenames>
-      <Text>. G.</Text>
+      <Forenames>F. G. St. G</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

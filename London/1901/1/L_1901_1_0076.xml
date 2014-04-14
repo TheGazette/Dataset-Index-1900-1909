@@ -42,8 +42,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. H. H</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. H. H</Text>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,8 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. M. A</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>M. A.</Forenames>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>S. O'B</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,8 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ha-g</Key>
-      <Forenames>P.</Forenames>
-      <Text>de H. (retired)</Text>
+      <Forenames>P. de H</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +465,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, A. J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>A. J.</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patch</Key>
-      <Text>.A.T.L</Text>
+      <Forenames>A.T.L</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodgers</Key>
-      <Text>. J. W</Text>
+      <Forenames>J. W.</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,9 +530,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Geyzel</Forenames>
-      <Text>, J. L</Text>
+      <Key>Van Geyzel</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +692,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Condon</Key>
-      <Text>de V. .,</Text>
+      <Title>de V.</Title>
+      <Text>.,</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,8 +790,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, E. J «</Text>
+      <Key>O'Meara</Key>
+      <Forenames>E. J</Forenames>
+      <Text>«</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,8 +1097,17 @@
   <SubSectionTitle>Personal Staff of the Viceroy</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Aide-de-Camp)</Text>
+      <PageNumber>2116</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Portman</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon G. B. (Aidede-Camp)</Text>
       <PageNumber>2715</PageNumber>
     </MainItem>

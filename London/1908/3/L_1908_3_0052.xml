@@ -367,7 +367,9 @@
       <Key>Campbell-Orde</Key>
       <Title>Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +654,9 @@
       <Key>Ross</Key>
       <Title>Sir</Title>
       <Forenames>C. H. A. F.</Forenames>
-      <Text>, Bart (Super. Maj.) . .</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,8 +671,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seeker</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J. (Lieut.) .. ..</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,7 +1492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collis</Key>
-      <Text>. R. H. (Maj.)</Text>
+      <Forenames>R. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6222</PageNumber>
     </MainItem>
   </ItemGroup>

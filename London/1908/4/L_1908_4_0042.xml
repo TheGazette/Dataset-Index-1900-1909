@@ -504,8 +504,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundee</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord Provost of (Hon. Col.) .. '</Text>
+      <Title>The Lord</Title>
+      <Forenames>Provost</Forenames>
+      <Text>of (Hon. Col.) .. '</Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,8 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Surg.-Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Surg.-Lieut.)</Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,8 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bammingeu</Key>
-      <Forenames>L. A. G. L. A. F.</Forenames>
-      <Text>von P. (Hon. Col.) .. Be tallack-Moloney, H. B. (Lient.) .. Boss, C. D. (Lieut.) Savage, E. J. K. (Maj.)</Text>
+      <Forenames>L. A. G. L. A. F. von P</Forenames>
+      <Text>. (Hon. Col.) .. Be tallack-Moloney, H. B. (Lient.) .. Boss, C. D. (Lieut.) Savage, E. J. K. (Maj.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

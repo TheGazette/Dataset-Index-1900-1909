@@ -172,6 +172,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. C.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3102</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Surtees</Key>
       <Title>Capt.</Title>
       <Forenames>H. S. B.</Forenames>
@@ -643,7 +651,9 @@
       <Key>Lowther</Key>
       <Title>Sir</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,8 +792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spain</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>King of (Col..inChief)</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The King of (Col..inChief)</Text>
       <PageNumber>4105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,8 +1328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. M. (Adj.)</Text>
+      <Forenames>C. St. M</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>3155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,8 +1446,8 @@
     <MainItem>
       <Key>Maule</Key>
       <Title>Capl. and Brev. Maj.</Title>
-      <Forenames>H. N. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>H. N. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,8 +1470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevinson</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. A. B. L. (Maj.)</Text>
+      <Forenames>T. St. A</Forenames>
+      <Text>. B. L. (Maj.)</Text>
       <PageNumber>3518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,8 +1485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'D. (Lieut.)</Text>
+      <Forenames>R. H. O'D</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>

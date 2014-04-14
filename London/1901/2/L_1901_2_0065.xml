@@ -320,7 +320,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>.Maj. W. J. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>6648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +765,7 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, D. G..(antedated)</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
@@ -1008,7 +1010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: P. R. (resigned)</Text>
       <PageNumber>6174</PageNumber>
     </MainItem>
@@ -1060,7 +1062,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruden</Key>
-      <Text>.G. (Hon. Col.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1265,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: H. M: V. (antedated).:</Text>
       <PageNumber>6169</PageNumber>
     </MainItem>

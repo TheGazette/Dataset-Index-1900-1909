@@ -439,8 +439,10 @@
   <SubSectionTitle>3rd Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, 2nd Lieut. F. L. (resigned)</Text>
+      <Key>O'Donoghue</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>F. L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,8 +806,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, C. D. (Lieut.)</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>C. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1125,9 @@
       <Key>Knowles</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>L.</Forenames>
-      <Text>, Bart. (Lieut.-Col. Commandant)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,8 +1249,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Surg.Col. W. (resigned)</Text>
+      <Title>Lieut-Col. and Hon. Surg.</Title>
+      <Text>Col. W. (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -677,7 +677,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,8 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce-Kingsmill</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de K. (Division al Adj.)</Text>
+      <Forenames>J. C. de K</Forenames>
+      <Text>. (Division al Adj.)</Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +970,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevallier</Key>
-      <Forenames>F. E.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>F. E. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Lieut,)..</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Lieut,)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,8 +1220,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Piro.</Title>
+      <Key>De Piro</Key>
       <Forenames>G. M.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>3968</PageNumber>
@@ -1227,9 +1228,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, Capt. C. (seconded)</Text>
+      <Key>De Sausmarez</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,8 +1287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S. (Divisional Adj.)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Divisional Adj.)</Text>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2152,7 +2154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucy</Key>
-      <Text>R. S. (2nd Lieut.)</Text>
+      <Forenames>R. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>

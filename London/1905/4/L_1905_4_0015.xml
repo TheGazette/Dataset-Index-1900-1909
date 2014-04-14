@@ -12,8 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Bret. Col. R. S. (correction) .. [</Text>
+      <Title>Lieut-Col. and Bret. Col.</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>(correction) .. [</Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryrie</Key>
-      <Title>Or.</Title>
-      <Text>de L. .. .. ..</Text>
+      <Title>Or. de L.</Title>
+      <Text>.. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,9 +776,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vitre</Forenames>
-      <Text>, Capt. D. F. D. .. ..</Text>
+      <Key>De Vitre</Key>
+      <Title>Capt.</Title>
+      <Forenames>D. F. D.</Forenames>
+      <Text>.. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,8 +864,8 @@
     <MainItem>
       <Key>Marshall</Key>
       <Title>Maj. and Hon. Lieut.-Col.</Title>
-      <Forenames>J. J.</Forenames>
-      <Text>de Z. (correction)</Text>
+      <Forenames>J. J. de Z</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1034,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Copinger</Key>
-      <Text>M.M. A. (resigned)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9088</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -885,6 +885,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>L. N.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>7644</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Egerton</Key>
       <Forenames>L. E. W.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -973,7 +981,9 @@
       <Key>Pauncefort-Duncombe</Key>
       <Title>Sir</Title>
       <Forenames>E. P. D.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies-Cooke</Key>
-      <Text>P. T. (Maj.) ..</Text>
+      <Forenames>P. T.</Forenames>
+      <Text>(Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (2nd Lieut.) ..</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1229,9 @@
       <Key>Brocklehurst</Key>
       <Title>Sir</Title>
       <Forenames>P. L.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,14 +1513,17 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (2nd Lieut.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maiir, R. H. (Capt.) .. ...</Text>
+      <Key>St. Maiir</Key>
+      <Forenames>R. H.</Forenames>
+      <Text>(Capt.) .. ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1732,7 +1748,9 @@
       <Key>Wrey</Key>
       <Title>Sir</Title>
       <Forenames>B. R. S.</Forenames>
-      <Text>, Bart. (Maj. and Hon. Lieut.-Col.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

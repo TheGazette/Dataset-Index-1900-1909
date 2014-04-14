@@ -135,7 +135,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. A. J. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -425,8 +425,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, 2nd Lieut. A. M. (seconded)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. M.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,9 +563,9 @@
   <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, R. E. G. (2nd Lieut.),</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>R. E. G.</Forenames>
+      <Text>(2nd Lieut.),</Text>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,8 +667,9 @@
   <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, F. T. (Capt.)</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>F. T.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,8 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blacker</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (Capt.) Coekburn, Lieut.-Col. and Brev.-Col. G. (retired)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (Capt.) Coekburn, Lieut.-Col. and Brev.-Col. G. (retired)</Text>
       <PageNumber>7014</PageNumber>
     </MainItem>
   </ItemGroup>

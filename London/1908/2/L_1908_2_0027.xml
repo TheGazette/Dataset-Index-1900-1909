@@ -44,7 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearse</Key>
-      <Forenames>Lieut J. P. B.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. P. B.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
@@ -307,7 +308,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. E. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -985,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Capt. Hon. C. H. M. (seconded)</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, Capt. Hon. C. H. M. (seconded)</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1172,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Col. P. W. M. (resigned) * .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>

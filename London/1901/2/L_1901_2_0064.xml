@@ -43,8 +43,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pntron</Key>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5670</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deakin</Key>
-      <Text>. F. F. (Capt.)</Text>
+      <Forenames>F. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,8 +113,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>N. B.</Forenames>
-      <Text>de L. (antedated)</Text>
+      <Forenames>N. B. de L</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +138,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HastingSjG</Key>
-      <Text>. F. (2nd Lieut.)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,8 +265,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, A. E. (2nd Lieut.)</Text>
+      <Key>O'Meara</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +671,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garside</Key>
-      <Text>. E. (Capt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +729,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pierce</Key>
-      <Text>. Capt. and Hon. Maj. E. (re signed)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(re signed)</Text>
       <PageNumber>7656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Levett</Key>
-      <Text>. W. M. (Hon. Maj.)</Text>
+      <Forenames>W. M.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>7398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,8 +1132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blunt</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,8 +1143,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (antedated)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,8 +1360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>R. W. L. De B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>R. W. L. De B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, S. R. (super.)</Text>
       <PageNumber>6648</PageNumber>
     </MainItem>
@@ -1650,7 +1665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowers</Key>
-      <Text>. A. H. M. (Lieut.)</Text>
+      <Forenames>A. H. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1770,8 +1786,8 @@
     <MainItem>
       <Key>Moore</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. Du P. H.</Forenames>
-      <Text>(seconded)</Text>
+      <Forenames>E. Du P</Forenames>
+      <Text>. H. (seconded)</Text>
       <PageNumber>5591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,8 +1796,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. Du P. H.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>E. Du P</Forenames>
+      <Text>. H. (Capt.)</Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1857,7 +1873,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H..F. (antedated)</Text>
       <PageNumber>5691</PageNumber>
       <PageNumber>6169</PageNumber>

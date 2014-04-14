@@ -364,7 +364,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Hon. Col. P. N. (retired) .. .. ;. .;</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -563,7 +563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnup</Key>
-      <Text>E. C. (Lieut.)</Text>
+      <Forenames>E. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,8 +769,8 @@
     <MainItem>
       <Key>Glyn</Key>
       <Title>Capt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (retired)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1052,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>F. M. S.</Forenames>
-      <Text>, Bart. (Lieut.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

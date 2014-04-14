@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. G. F. (seconded)</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
@@ -515,8 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mairis</Key>
-      <Forenames>B. De M.</Forenames>
-      <Text>(Adj.)</Text>
+      <Forenames>B. De M</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>1940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,8 +1025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S. (Capt.)</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,9 +1334,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Brockdorff</Forenames>
-      <Text>, E. (Lieut.) .. ..</Text>
+      <Key>Von Brockdorff</Key>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,8 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prevost</Key>
-      <Forenames>E. W.</Forenames>
-      <Text>de T</Text>
+      <Forenames>E. W. de T</Forenames>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,7 +1873,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selby</Key>
-      <Text>.B. H. (2nd Lieut.)</Text>
+      <Forenames>B. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>

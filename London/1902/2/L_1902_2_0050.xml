@@ -513,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Uoyd</Key>
-      <Text>G. W. D. B. (Capt.)</Text>
+      <Forenames>G. W. D. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +807,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>O. H. M. (Lieut.)</Text>
+      <Forenames>O. H. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,9 +952,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, B. W.-S. (Maj.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>B. W.</Forenames>
+      <Text>-S. (Maj.)</Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1390,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7098</PageNumber>
     </MainItem>
   </ItemGroup>

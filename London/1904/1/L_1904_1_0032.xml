@@ -281,7 +281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>E. G. K. P. (Lieut.-Col.)</Text>
+      <Forenames>E. G. K. P.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>1449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,8 +485,8 @@
     <MainItem>
       <Key>Laffan</Key>
       <Title>Rev.</Title>
-      <Forenames>R. S.</Forenames>
-      <Text>de C. (Acting Chap.)</Text>
+      <Forenames>R. S. de C</Forenames>
+      <Text>. (Acting Chap.)</Text>
       <PageNumber>1624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +621,9 @@
       <Key>Fitz-Herbert</Key>
       <Title>Hon. Chap. Rev. Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +727,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>Super. Maj. and Hon. Lieut.-Col. W. D. (resigned)</Text>
+      <Title>Super. Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>183</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -43,8 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A. (2nd Lieut.)</Text>
+      <Forenames>J. St. A</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,8 +839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neale</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. J. B. (2nd Lieut.)</Text>
+      <Forenames>E. C. St. J</Forenames>
+      <Text>. B. (2nd Lieut.)</Text>
       <PageNumber>1765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,22 +905,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, B. (2nd Lieut.)</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2438</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J. F. W. (2nd Lieut.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J. F. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. M. (2nd Lieut.)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,8 +1445,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, O. (2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>O.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,8 +1562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>A. F.</Forenames>
-      <Text>de T. (2nd Lieut.)</Text>
+      <Forenames>A. F. de T</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>

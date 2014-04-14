@@ -6,7 +6,9 @@
       <Key>Gore</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>.SL G. C, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,16 +107,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tallance</Key>
-      <Forenames>V.</Forenames>
-      <Text>de E. M. (2nd Lieut.)..'</Text>
+      <Forenames>V. de E</Forenames>
+      <Text>. M. (2nd Lieut.)..'</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lifctle</Key>
-      <Text>M. O. (half-pay)</Text>
+      <Forenames>M. O.</Forenames>
+      <Text>(half-pay)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,8 +815,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C. (Capt.)!./</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>. (Capt.)!./</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,17 +938,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bowbel</Forenames>
-      <Text>, Lieut. B. A. (resigned)</Text>
+      <Key>De Bowbel</Key>
+      <Title>Lieut.</Title>
+      <Forenames>B. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, Capt. H. D. (seconded)</Text>
+      <Key>De Pree</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,8 +1280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmillan</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,8 +1363,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, 0. A. G. (Lieut.) ...</Text>
+      <Key>O'Malley</Key>
+      <Text>0. A. G. (Lieut.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,8 +1457,8 @@
     <MainItem>
       <Key>Eadcliffe</Key>
       <Title>Capt.</Title>
-      <Forenames>P.</Forenames>
-      <Text>de B. (seconded)</Text>
+      <Forenames>P. de B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>

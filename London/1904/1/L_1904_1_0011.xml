@@ -408,7 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Powlett</Key>
-      <Text>Col. T. C. O. (halfway)</Text>
+      <Title>Col.</Title>
+      <Forenames>T. C. O.</Forenames>
+      <Text>(halfway)</Text>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,15 +915,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. E. (Capt.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paee</Key>
-      <Text>C. S. 12nd Lieut.)</Text>
+      <Forenames>C. S.</Forenames>
+      <Text>12nd Lieut.)</Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>

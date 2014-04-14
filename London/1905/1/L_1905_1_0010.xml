@@ -60,7 +60,9 @@
     <MainItem>
       <Key>Stevens</Key>
       <Forenames>J. N.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,9 @@
       <Key>Tower</Key>
       <Title>Rev.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Fourth ClAss, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +124,10 @@
       <Key>Treves</Key>
       <Title>Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, Bart., Knight Grand Cross, Royal Victorian Order ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +135,9 @@
     <MainItem>
       <Key>Tzokow</Key>
       <Forenames>D.</Forenames>
-      <Text>, Hon. Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,6 +155,60 @@
       <Forenames>E. R. E.</Forenames>
       <Text>, H.M.'s Consul at Funchal</Text>
       <PageNumber>2015</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Arnim</Key>
+      <Title>Capt.</Title>
+      <Forenames>O.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>2180</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Bruning</Key>
+      <Title>Lieut.</Title>
+      <Forenames>R.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Keszycks</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>H.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Lucken</Key>
+      <Title>Lieut.</Title>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Schmettow</Key>
+      <Forenames>Count</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -252,8 +315,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>St.</Title>
-      <Forenames>J. V.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>V.</Forenames>
       <Text>(2nd Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
@@ -292,8 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>418</PageNumber>
     </MainItem>
@@ -363,7 +426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>H. C. (2nd Lieut.) .. ..</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>G. (2nd Lieut.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,8 +982,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Maj. and Brev. .Lieut.-Col. G. F. W., Brig.-Maj., Royal Artillery</Text>
+      <Key>St. John</Key>
+      <Title>Maj. and Brev.</Title>
+      <Text>.Lieut.-Col. G. F. W., Brig.-Maj., Royal Artillery</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,8 +1064,8 @@
     <MainItem>
       <Key>Cruikshank</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Assist. Inspector)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Assist. Inspector)</Text>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1170,9 @@
       <Key>Filmer</Key>
       <Title>Sir</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2102</PageNumber>
     </MainItem>
   </ItemGroup>

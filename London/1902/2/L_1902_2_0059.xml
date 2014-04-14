@@ -147,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malone</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'C. V. H. V. (Lieut.)</Text>
+      <Forenames>R. O'C</Forenames>
+      <Text>. V. H. V. (Lieut.)</Text>
       <PageNumber>6080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +171,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. E. (Capt.)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,8 +384,8 @@
     <MainItem>
       <Key>French</Key>
       <Title>Lieut.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (absorbed into Establishment)</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (absorbed into Establishment)</Text>
       <PageNumber>6350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,6 +447,15 @@
       <Forenames>H. J. N.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>5814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Title>Hon.</Title>
+      <Forenames>M. W. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6654</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -535,8 +545,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Lieut.-Col. J. de C. (half-pay)</Text>
+      <Key>O'Grady</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J. de C</Forenames>
+      <Text>. (half-pay)</Text>
       <PageNumber>4512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +647,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwjer</Key>
-      <Forenames>H. M. O</Forenames>
-      <Text>'C. (2nd Lieut.)</Text>
+      <Forenames>H. M. O'C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>7538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +866,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>J., jun. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>, jun. (2nd Lieut.)</Text>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>W: W. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>: W. (Lieut.)</Text>
       <PageNumber>4745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>H. S. (2nd Lieut.)</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6654</PageNumber>
     </MainItem>
   </ItemGroup>

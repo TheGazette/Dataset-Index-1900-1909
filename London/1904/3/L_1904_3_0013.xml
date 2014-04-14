@@ -104,8 +104,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Visct., Assist. Director for Imperial Yeomanry Services</Text>
+      <Title>Lieut-Col. Visct., Assist.</Title>
+      <Forenames>Director</Forenames>
+      <Text>for Imperial Yeomanry Services</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! Lord H. C, Aide-deCamp to Right Hon. Viscount Milner</Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
@@ -355,9 +356,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Title>Maj. and Brev.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. L. A. M., Deputy-Assist. Qrmr.Gen. at Head-Quarters</Text>
+      <Title>Maj. and Brev. Lieut-Col.</Title>
+      <Forenames>L. A. M.</Forenames>
+      <Text>, Deputy-Assist. Qrmr.Gen. at Head-Quarters</Text>
       <PageNumber>5844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bearne</Key>
-      <Text>L. C. (Lieut.)</Text>
+      <Forenames>L. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +696,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosse</Key>
-      <Text>Capt. W. C. (seconded) ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowie</Key>
-      <Text>S. C. (Lieut.)</Text>
+      <Forenames>S. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>

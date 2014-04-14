@@ -131,8 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. J. A. C. (Capt.) ..</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. J. A. C.</Forenames>
+      <Text>(Capt.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,8 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>W.</Forenames>
-      <Text>de G. (Lieut.) .. ..</Text>
+      <Forenames>W. de G</Forenames>
+      <Text>. (Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,8 +642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>SwanBon</Key>
-      <Forenames>D. A. St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>D. A. St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>6232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>. F. S. (2nd Lieut.) .. ..</Text>
+      <Forenames>F. S.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1462,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>. Sir G. A.. Bart. (Lieut.-Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,7 +1711,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>. T., junr. (Capt.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>, junr. (Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

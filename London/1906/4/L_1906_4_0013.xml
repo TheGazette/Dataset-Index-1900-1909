@@ -345,7 +345,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and local Capt. W. (correction)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
@@ -604,7 +604,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willey</Key>
-      <Text>.Surg.-Maj. CH</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. CH</Text>
       <PageNumber>7480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,8 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCreery</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. O'C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +846,9 @@
       <Key>Crofton</Key>
       <Title>Sir</Title>
       <Forenames>M. G.</Forenames>
-      <Text>,' Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,8 +990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>W. H. J. St</Forenames>
-      <Text>. L. (Lieut.) ,</Text>
+      <Forenames>W. H. J. St. L</Forenames>
+      <Text>. (Lieut.) ,</Text>
       <PageNumber>8300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,6 +1090,14 @@
       <Forenames>T. A.</Forenames>
       <Text>(Col.)</Text>
       <PageNumber>7111</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>L. A. de S</Forenames>
+      <Text>. (Lieut.)</Text>
+      <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

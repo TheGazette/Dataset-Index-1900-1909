@@ -29,8 +29,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. (2nd Lieut, super.) ..'</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut, super.) ..'</Text>
       <PageNumber>5122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malyon</Key>
-      <Text>T. E. (Capt.)</Text>
+      <Forenames>T. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,9 @@
       <Key>Cuyler</Key>
       <Title>Maj. Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +381,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. E. G. H. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>E. G. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>

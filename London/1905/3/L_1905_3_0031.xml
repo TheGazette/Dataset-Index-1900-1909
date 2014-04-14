@@ -80,7 +80,9 @@
       <Key>Lambert</Key>
       <Title>Maj. Sir</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, Bart, (permitted to assume the surname of Grey)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +293,9 @@
       <Key>Fitzwygram</Key>
       <Title>Sir</Title>
       <Forenames>F. L. F.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,15 +389,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. C. P. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. C. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, J. M. W. (2nd Lieut.)</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>J. M. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4634</PageNumber>
     </MainItem>
   </ItemGroup>

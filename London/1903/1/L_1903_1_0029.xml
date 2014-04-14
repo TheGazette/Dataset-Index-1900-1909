@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>. W. F. (Maj.)</Text>
+      <Forenames>W. F.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +540,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>. Lieut. C. B. (seconded) ..</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>(seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,6 +751,14 @@
       <Title>Super.</Title>
       <Text>-Lieut. A. L. (resigned)</Text>
       <PageNumber>930</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crcspigny</Key>
+      <Forenames>G. H. C. H.</Forenames>
+      <Text>(Maj.) ..</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1097,8 +1108,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, J. W. (Adj.)</Text>
+      <Key>O'Dowda</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,8 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furbcr</Key>
-      <Forenames>H. A.</Forenames>
-      <Text>de F. (2nd Lieut.)</Text>
+      <Forenames>H. A. de F</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>

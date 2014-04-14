@@ -168,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, Capt. C. (seconded)</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, Capt. C. (seconded)</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,9 +413,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Goldsmidt</Forenames>
-      <Text>, G. (Lieut.)</Text>
+      <Key>De Goldsmidt</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sulivan</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. and Brev. Col. G. D. F. (retired pay)</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
@@ -1185,8 +1186,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>C. De B. G.</Forenames>
-      <Text>(correction)</Text>
+      <Forenames>C. De B</Forenames>
+      <Text>. G. (correction)</Text>
       <PageNumber>1147</PageNumber>
     </MainItem>
   </ItemGroup>

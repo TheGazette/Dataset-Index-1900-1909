@@ -137,8 +137,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Lieut. L. T., lst West Riding of Yorkshire (Sheffield)</Text>
+      <Key>O'Shea</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. T.</Forenames>
+      <Text>, lst West Riding of Yorkshire (Sheffield)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Africa</Key>
-      <Text>.-— ___ Carus, Capt. E. L., lst Volunteer Battalion the EaBt Lancashire Regiment</Text>
+      <Text>-— ___ Carus, Capt. E. L., lst Volunteer Battalion the EaBt Lancashire Regiment</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +529,9 @@
       <Key>Orde</Key>
       <Title>Sir</Title>
       <Forenames>A. J. C</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyser</Key>
-      <Text>.C.E</Text>
+      <Forenames>C.E.</Forenames>
       <PageNumber>3468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +594,9 @@
       <Key>Dalrymple</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +848,9 @@
       <Key>Grey</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2625</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -101,8 +101,8 @@
     <MainItem>
       <Key>Colvile</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de P. (resigned) .. .. .. ..</Text>
+      <Forenames>G. de P</Forenames>
+      <Text>. (resigned) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,9 +233,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Title>Maj. and Brevet</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. F. E. G. (retired)</Text>
+      <Title>Maj. and Brevet LieutCol.</Title>
+      <Forenames>F. E. G.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,16 +283,16 @@
     <MainItem>
       <Key>Taylor</Key>
       <Title>Maj.</Title>
-      <Forenames>G. P. Du P.</Forenames>
-      <Text>(retired)</Text>
+      <Forenames>G. P. Du P</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>5983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Neck</Forenames>
-      <Text>, P. (2nd Lieut.)</Text>
+      <Key>Van Neck</Key>
+      <Forenames>P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,6 +629,13 @@
   <SubSectionTitle>6th Volunteer Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Spiganovi</Key>
+      <Text>:z, 2nd Lieut. A. J. (resigned)</Text>
+      <PageNumber>6306</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Falcon</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
@@ -782,8 +789,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, Acting Chaplain Rev. H. W. L. Resigned) .. ..</Text>
+      <Key>O'Rorke</Key>
+      <Title>Acting</Title>
+      <Forenames>Chaplain</Forenames>
+      <Text>Rev. H. W. L. Resigned) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +861,8 @@
     <MainItem>
       <Key>Irving</Key>
       <Title>Capt.</Title>
-      <Forenames>H. De R.</Forenames>
-      <Text>(resigned)</Text>
+      <Forenames>H. De R</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>

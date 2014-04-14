@@ -156,7 +156,9 @@
       <Key>Codrington</Key>
       <Title>Capt. and Brer. Maj. Sir</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,8 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clowes</Key>
-      <Forenames>W.St</Forenames>
-      <Text>. J. (Capt:) '</Text>
+      <Forenames>W.St. J</Forenames>
+      <Text>. (Capt:) '</Text>
       <PageNumber>1516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gearle</Key>
-      <Text>.E. W. (Lieut.)</Text>
+      <Forenames>E. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,9 +736,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D. (Capt.)</Text>
+      <Key>De Pree</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,8 +1052,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Adjt.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Adjt.)</Text>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,8 +1495,8 @@
     <MainItem>
       <Key>Bland</Key>
       <Title>Capt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. C. (seconded)</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,8 +1675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S. (Capt.)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>

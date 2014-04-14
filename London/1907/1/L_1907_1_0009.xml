@@ -277,8 +277,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, J. M. W. (2nd Lieut.) ..</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>J. M. W.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +309,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, G. S. W. (2nd Lieut.)</Text>
+      <Key>St. George</Key>
+      <Forenames>G. S. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Koe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>-Col. anrl Brevet Col. F. W. B., Asst. Director of Supplies and Transport, and Col</Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
@@ -766,7 +768,9 @@
       <Key>Rawlinson</Key>
       <Title>Col. Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bart., Brig.-Gen. to commandan Infantry Brigade and temporary Brig.-Gen</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,8 +833,8 @@
     <MainItem>
       <Key>Taylor</Key>
       <Title>Maj. Sir</Title>
-      <Forenames>J. L. H. Du P.</Forenames>
-      <Text>, Brig.-Maj. of a Volunteer Infantry Brigade</Text>
+      <Forenames>J. L. H. Du P</Forenames>
+      <Text>., Brig.-Maj. of a Volunteer Infantry Brigade</Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corfield</Key>
-      <Text>. F. A. (Lieut.)</Text>
+      <Forenames>F. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1147,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McComb</Key>
-      <Text>. 2nd Lieut. A. W. E. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. W. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>

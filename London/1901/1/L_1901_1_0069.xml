@@ -246,7 +246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Storr</Key>
-      <Text>.H. (Adj.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>3462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,9 +673,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. H. (seconded)</Text>
       <PageNumber>2292</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Title>Lieut.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -969,7 +979,9 @@
       <Key>Price</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,8 +1031,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, E. G. (2nd Lieut.)</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Margetts</Key>
-      <Text>. F. B. H. (2nd Lieut.)</Text>
+      <Forenames>F. B. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylde</Key>
-      <Text>.C. R. (Lieut.) ..</Text>
+      <Forenames>C. R.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,9 +1499,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Crespigny</Forenames>
-      <Text>, C. V. C. (2nd Lieut.)</Text>
+      <Key>De Crespigny</Key>
+      <Forenames>C. V. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,7 +1869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. W. K. (Lieut.)</Text>
+      <Forenames>W. K.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -388,7 +388,9 @@
     <MainItem>
       <Key>Kitson</Key>
       <Title>Hon.Col.</Title>
-      <Text>SirJ.,Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +895,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Text>. W. J. (Lieut) .. ..</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Lieut) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +914,9 @@
       <Key>Sitwell</Key>
       <Title>Sir</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Bart., (Lieut-Col. and to command)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hensoh</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. J. R. (resigned)</Text>
       <PageNumber>8537</PageNumber>
     </MainItem>

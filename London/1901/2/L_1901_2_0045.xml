@@ -305,9 +305,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wczele</Forenames>
-      <Text>, Count D. B. M. (Hon. Maj.)</Text>
+      <Key>De Wczele</Key>
+      <Forenames>Count D. B. M.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>8643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Packe</Key>
-      <Text>. Lieut. W.V (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W.V</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>5129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +629,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonaparte</Key>
-      <Text>.Wyse, L. W. (Hon. Maj.)</Text>
+      <Forenames>Wyse</Forenames>
+      <Text>, L. W. (Hon. Maj.)</Text>
       <PageNumber>8984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darley</Key>
-      <Text>.H. A. C. (CaDt.)</Text>
+      <Forenames>H. A. C.</Forenames>
+      <Text>(CaDt.)</Text>
       <PageNumber>6646</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -48,7 +48,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Latham</Key>
-      <Text>. Lieut. J. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +181,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherriff</Key>
-      <Text>. Lieut. M. G. S. (resigned and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>M. G. S.</Forenames>
+      <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,6 +419,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rougemont</Key>
+      <Title>Maj.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>, Krig.-Maj</Text>
+      <PageNumber>1219</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dorward</Key>
       <Title>Col. Sir</Title>
       <Forenames>A. R. F.</Forenames>
@@ -619,8 +632,8 @@
     <MainItem>
       <Key>Hughes</Key>
       <Title>Cxpt.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. J., Aide-deCamp to Right Hon. Earl of Minto</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>., Aide-deCamp to Right Hon. Earl of Minto</Text>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +642,9 @@
       <Key>Keane</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart., Aide-deCamp to Sir H. A. Blake</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +732,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>. Lieut.-Col. C. B., Assist. lnspr.-Gen. of Fortifications at Head-Quarters</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>, Assist. lnspr.-Gen. of Fortifications at Head-Quarters</Text>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +805,8 @@
     <MainItem>
       <Key>Pratt</Key>
       <Title>Capt. and Brev. Maj.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G., Deputy-Assist. Adj.-Gen</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>., Deputy-Assist. Adj.-Gen</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,8 +821,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Col. J. L. C, Deputy JudgeAdvocate</Text>
+      <Key>St. Clair</Key>
+      <Title>Col.</Title>
+      <Forenames>J. L. C</Forenames>
+      <Text>, Deputy JudgeAdvocate</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lieut</Key>
-      <Text>.-General on the Staff to Command the Forces in South Africa : Lyttelton, Lieut.-Gen. Hon. N. G</Text>
+      <Text>-General on the Staff to Command the Forces in South Africa : Lyttelton, Lieut.-Gen. Hon. N. G</Text>
       <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>

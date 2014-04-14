@@ -1061,15 +1061,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. W. (Lieut.-Col. and to command)</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. W.</Forenames>
+      <Text>(Lieut.-Col. and to command)</Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, 2nd Lieut. F. F. (resigned)</Text>
+      <Key>O'Halloran</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>F. F.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1506</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>.-saut, Maj. W. U. .. .. ..</Text>
+      <Text>-saut, Maj. W. U. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>.H. G. L. (2nd Lieut.)</Text>
+      <Forenames>H. G. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +570,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. De U P. (retained as Deputy-Asst. Adj.-Gen.)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>H. De U P.</Forenames>
+      <Text>(retained as Deputy-Asst. Adj.-Gen.)</Text>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Forenames>Lieut R. O.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>R. O.</Forenames>
       <Text>(Ordnance Officer, 4th Claw)</Text>
       <PageNumber>4643</PageNumber>
     </MainItem>

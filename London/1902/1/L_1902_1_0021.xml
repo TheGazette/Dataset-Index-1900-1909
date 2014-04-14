@@ -83,7 +83,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benett-Stanford</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. M. (resigned)</Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
@@ -93,7 +93,9 @@
       <Key>Blois</Key>
       <Title>Sir</Title>
       <Forenames>R. B. M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,8 +226,8 @@
     <MainItem>
       <Key>Helbert</Key>
       <Title>Capt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de C. (removed)</Text>
+      <Forenames>F. de C</Forenames>
+      <Text>. (removed)</Text>
       <PageNumber>2694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,8 +504,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. L. S. (Col. to command the 27th Regimental District)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>L. S.</Forenames>
+      <Text>(Col. to command the 27th Regimental District)</Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Text>C. D. (Adjt.)</Text>
+      <Forenames>C. D.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>3014</PageNumber>
     </MainItem>
   </ItemGroup>

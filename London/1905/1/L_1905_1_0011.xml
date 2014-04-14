@@ -260,9 +260,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, Capt. O. C. ..</Text>
+      <Key>Du Port</Key>
+      <Title>Capt.</Title>
+      <Forenames>O. C.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,6 +505,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Smidt</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>(Ordnance Officer, 4th Class)</Text>
+      <PageNumber>1281</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Findlay</Key>
       <Title>Assist.</Title>
       <Forenames>Commissary</Forenames>
@@ -672,8 +682,10 @@
   <SubSectionTitle>Ordnance Committee</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Maj.-Gen. D. D. T., President</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>D. D. T.</Forenames>
+      <Text>, President</Text>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbon</Key>
-      <Text>T. H. (Lieut.)</Text>
+      <Forenames>T. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,15 +1220,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Maughan</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>J. St. A</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maydon</Key>
-      <Text>W. G. (Lieut.)</Text>
+      <Forenames>W. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,15 +1276,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. W. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, C. J. (Capt.)</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>C. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,8 +1459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scanlan</Key>
-      <Forenames>A. De C.</Forenames>
-      <Text>(Lieut.-Col.)</Text>
+      <Forenames>A. De C</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>

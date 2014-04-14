@@ -114,8 +114,8 @@
     <MainItem>
       <Key>White</Key>
       <Title>Capt.</Title>
-      <Forenames>A. V. St</Forenames>
-      <Text>. J., the Sutfolk Artillery (Eastern Division) .. :.</Text>
+      <Forenames>A. V. St. J</Forenames>
+      <Text>., the Sutfolk Artillery (Eastern Division) .. :.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,8 +194,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scolt</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. D , 3rd Battalion, the fioyal Welsh Fusiliers .. ..</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>D</Forenames>
+      <Text>, 3rd Battalion, the fioyal Welsh Fusiliers .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. N. N., 6th Battalion, the Royal Fusiliers (City of London Regiment)</Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
@@ -313,7 +314,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashfordby-Trenchard</Key>
-      <Text>. Capt. G. A., 5th Battalion, the Royal Irish Regiment</Text>
+      <Title>Capt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>, 5th Battalion, the Royal Irish Regiment</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. C, 6th Battalion, the Manchester Regiment-.. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -528,8 +531,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore-Ruthven</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. P. J. L., -4th -Battalion, the Highland Light Infantry .. .. .. ..</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>P. J. L.</Forenames>
+      <Text>, -4th -Battalion, the Highland Light Infantry .. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

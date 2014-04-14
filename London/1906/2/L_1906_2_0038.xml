@@ -179,7 +179,9 @@
       <Key>Cheetham</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>J.</Forenames>
-      <Text>M.C. (resigned)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +190,9 @@
       <Key>Hermon-Hodge</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,9 +458,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, 2nd Lieut. Baron (resigned)</Text>
+      <Key>De Forest</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Baron</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +588,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. J. (resigned) .. .. ... ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -876,7 +881,9 @@
       <Key>Farquhar</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -309,6 +309,14 @@
   <SectionTitle>Fifeshire and Forfarshire</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Pree</Key>
+      <Forenames>C. G.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>9184</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gilmour</Key>
       <Forenames>J.</Forenames>
       <Text>, junr. (Maj.)</Text>
@@ -514,7 +522,9 @@
       <Key>Price</Key>
       <Title>Sir</Title>
       <Forenames>F. C. R.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B.ff. (Capt.)</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>.ff. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,17 +710,17 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. L. O</Forenames>
-      <Text>'B. A.ff. (2nd Lieut.)</Text>
+      <Title>St. J.</Title>
+      <Forenames>L. O'B</Forenames>
+      <Text>. A.ff. (2nd Lieut.)</Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, F. J. (Adj.)</Text>
+      <Key>Du Pre</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +919,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,6 +1285,14 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>(Maj.)</Title>
+      <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend-Fenton</Key>
+      <Forenames>W. B.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

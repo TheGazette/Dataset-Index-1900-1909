@@ -395,7 +395,9 @@
       <Key>Herbert</Key>
       <Title>Sir</Title>
       <Forenames>I. J. C</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,8 +1352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>

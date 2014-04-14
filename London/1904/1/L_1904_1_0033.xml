@@ -128,7 +128,9 @@
       <Key>Agnew</Key>
       <Title>Sir</Title>
       <Forenames>A. N.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +147,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>M. J. M.</Forenames>
-      <Text>, Bart...</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,8 +194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palliser</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. B</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. B</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>O. De B.</Forenames>
+      <Forenames>O. De B</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,8 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ornmanney</Key>
-      <Forenames>E. D. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>E. D. St. A</Forenames>
       <PageNumber>25</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>G. B</Text>
+      <Forenames>G. B.</Forenames>
       <PageNumber>26</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +784,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>KG.</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

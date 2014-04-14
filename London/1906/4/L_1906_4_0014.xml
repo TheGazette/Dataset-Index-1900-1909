@@ -267,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Forenames>Lieut W. K. P.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>W. K. P.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>6628</PageNumber>
     </MainItem>
@@ -391,7 +392,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut J</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J</Forenames>
       <Text>! M. (resigned)</Text>
       <PageNumber>8300</PageNumber>
     </MainItem>
@@ -448,8 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowther</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,23 +482,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. V. M. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. V. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Brevet Col. W. H. (retired pay)</Text>
+      <Key>O'Neill</Key>
+      <Title>Brevet Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L. (2nd Lieut.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L. (2nd Lieut.)</Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>

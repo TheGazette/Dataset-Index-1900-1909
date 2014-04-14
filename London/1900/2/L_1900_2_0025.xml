@@ -74,8 +74,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, Capt. G. S, resumes appointment of Aide-de-Camp to Gen. Sir F. W. Greufell</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. S</Forenames>
+      <Text>, resumes appointment of Aide-de-Camp to Gen. Sir F. W. Greufell</Text>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +238,9 @@
       <Key>Weldon</Key>
       <Title>Maj. Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, Bart., resumes the appointment of Aide-de-Camp to Field-MarshalRight Hon. Viscount Wolseley</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,8 +250,8 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de W., Temporary Staff Capt</Text>
+      <Forenames>B. de W</Forenames>
+      <Text>., Temporary Staff Capt</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,8 +276,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. Sir G. S., Gen. on the Staff to command the Troops at Gibraltar, with the local rank of Gen</Text>
+      <Title>Lieut-Gen. Sir</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>, Gen. on the Staff to command the Troops at Gibraltar, with the local rank of Gen</Text>
       <PageNumber>4363</PageNumber>
     </MainItem>
   </ItemGroup>

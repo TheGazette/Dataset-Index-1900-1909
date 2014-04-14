@@ -443,8 +443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +686,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, N. G. (antedated)</Text>
       <PageNumber>3383</PageNumber>
     </MainItem>
@@ -779,8 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Forenames>A. De V.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>A. De V</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,8 +805,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'G. (2nd Lieut.)</Text>
+      <Forenames>I. O'G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,8 +1003,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M. A. (2nd Lieut.) ..</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M. A. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,8 +1656,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, A. A. (Capt.)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>A. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1813</PageNumber>
     </MainItem>
   </ItemGroup>

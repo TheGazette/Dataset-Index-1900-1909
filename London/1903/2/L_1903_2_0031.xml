@@ -147,7 +147,9 @@
       </Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, Bart, (retired) .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>GiVm</Key>
-      <Text>.our, A. (2nd Lieut.)</Text>
+      <Text>our, A. (2nd Lieut.)</Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,8 +395,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. C. H. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. C. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,8 +641,9 @@
   <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, F. T. (2hd Lieut. Supy.)</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>F. T.</Forenames>
+      <Text>(2hd Lieut. Supy.)</Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,6 +777,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Ugarte</Key>
+      <Forenames>A. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Russell</Key>
       <Forenames>C.</Forenames>
       <Text>(Lieut.)</Text>
@@ -782,7 +794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Unett</Key>
-      <Text>.J. A. (Adj.)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>3716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>. M. S. M. (Adj.)</Text>
+      <Forenames>M. S. M.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,8 +960,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Egeiton</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. R. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,8 +1054,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Lieut.-Col. J. tie C. (halfpay)</Text>
+      <Key>O'Grady</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>tie C. (halfpay)</Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfe</Key>
-      <Text>.E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>

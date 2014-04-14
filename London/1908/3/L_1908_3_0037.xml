@@ -523,8 +523,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Levan, Lord (Hon. Col.)</Text>
+      <Key>St. Levan</Key>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>7031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +754,9 @@
       <Key>Simeon</Key>
       <Title>Sir</Title>
       <Forenames>B.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chandler</Key>
-      <Text>. A. L. (2nd Lieut.)</Text>
+      <Forenames>A. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>. W. B. (Adj.)</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>6149</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -247,7 +247,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. T.</Forenames>
-      <Text>(Lieut.) Hutchinson, E. M. (Lieut.) .. Karslake, Capt. H. (seconded) Keane, Sir J., Bart. (Adj.) .. Kevill-1 iavies, G. R. (Lieut.) Kincaid-Smith, K. J. (Capt.) Lee, K. W. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'D. (2nd Lieut.) ..</Text>
+      <Forenames>C. O'D</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,8 +1289,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor. P. B. (Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>118</PageNumber>
     </MainItem>
   </ItemGroup>

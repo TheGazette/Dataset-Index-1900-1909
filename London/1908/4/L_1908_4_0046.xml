@@ -1003,6 +1003,14 @@
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
+      <Key>de Lafontaine</Key>
+      <Forenames>H. P. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>7651</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duncan-Teape</Key>
       <Forenames>H. J. T.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1603,8 +1611,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Title>Or.</Title>
-      <Text>de M. G. (Lieut.)..</Text>
+      <Title>Or. de M.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(Lieut.)..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1627,7 +1636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Labouchere</Key>
-      <Text>F. A. (Capt.)</Text>
+      <Forenames>F. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

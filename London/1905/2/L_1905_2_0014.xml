@@ -58,8 +58,8 @@
     <MainItem>
       <Key>Traill</Key>
       <Title>Lieut.</Title>
-      <Forenames>H. E. O</Forenames>
-      <Text>'B., Remount Officer</Text>
+      <Forenames>H. E. O'B</Forenames>
+      <Text>., Remount Officer</Text>
       <PageNumber>2975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>.irnett, Lieut. G. E. (Assist. Inspector)</Text>
+      <Text>irnett, Lieut. G. E. (Assist. Inspector)</Text>
       <PageNumber>2547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,9 @@
       <Key>Moon</Key>
       <Title>Capt. Sir</Title>
       <Forenames>F. S. G.</Forenames>
-      <Text>, Bart. (removed)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,6 +418,14 @@
       <Forenames>T. S.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Forenames>A. G. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -622,8 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M. (Lieut.)</Text>
+      <Forenames>H. de M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,8 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>G. R. S.</Forenames>
+      <Title>Capt. St. G.</Title>
+      <Forenames>R. S.</Forenames>
       <Text>(Chief Instructor)</Text>
       <PageNumber>3157</PageNumber>
     </MainItem>
@@ -1193,8 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>J. J.</Forenames>
-      <Text>de Z. (Surg.-Lieut.Col.)</Text>
+      <Forenames>J. J. de Z</Forenames>
+      <Text>. (Surg.-Lieut.Col.)</Text>
       <PageNumber>4033</PageNumber>
     </MainItem>
   </ItemGroup>

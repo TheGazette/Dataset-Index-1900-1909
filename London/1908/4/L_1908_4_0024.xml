@@ -224,7 +224,9 @@
     <MainItem>
       <Key>Meister</Key>
       <Title>Lieut.</Title>
-      <Text>G.C. ..</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +488,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, R. A. (Lieut.) .. ..</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>R. A.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +567,9 @@
       <Key>Barrington</Key>
       <Title>Sir</Title>
       <Forenames>C. B. B.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +595,9 @@
       <Key>Bruce</Key>
       <Title>Sir</Title>
       <Forenames>H. J. L.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,6 +608,14 @@
       <Forenames>A. J. C. Colquhoun</Forenames>
       <Text>of (Hon. Col.)</Text>
       <PageNumber>9031</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>H. F. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -633,7 +648,9 @@
       <Key>Norwood</Key>
       <Title>Sir</Title>
       <Forenames>D. B.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,16 +683,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Hassell</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B. (Maj.)</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hills-Johnes</Key>
-      <Forenames>Lieut-Gen</Forenames>
-      <Text>. Sir J. (Hon. Col.)</Text>
+      <Title>Lieut-Gen. Sir</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +779,9 @@
       <Key>Ogilvy</Key>
       <Title>Sir</Title>
       <Forenames>B. H. A.</Forenames>
-      <Text>, Bart. ( Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +846,9 @@
       <Key>Stirling</Key>
       <Title>Sir</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,8 +1247,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>E. De L.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>E. De L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1372,9 @@
       <Key>Brickman</Key>
       <Title>Sir</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1468,9 @@
       <Key>Buller</Key>
       <Title>Sir</Title>
       <Forenames>M. E.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,9 +1661,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Denny</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>8409</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>H. V. B.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>7311</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>G. E.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1651,8 +1693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duberly</Key>
-      <Forenames>A. J. St</Forenames>
-      <Text>. B. (2nd Lieut.)</Text>
+      <Forenames>A. J. St. B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1675,7 +1717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncombe</Key>
-      <Text>G. A. (Hon. Col.)</Text>
+      <Forenames>G. A.</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deedes</Key>
-      <Text>H. W. (Lieut.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1783,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunraven</Key>
-      <Text>and Mountearl, Bt. Hon. W. T. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,7 +1824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairtlough</Key>
-      <Text>F; H. (Hon. Col.)</Text>
+      <Forenames>F</Forenames>
+      <Text>; H. (Hon. Col.)</Text>
       <PageNumber>9032</PageNumber>
     </MainItem>
   </ItemGroup>

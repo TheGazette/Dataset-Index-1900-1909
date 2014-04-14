@@ -266,8 +266,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, L. T. (2nd Lieut.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>L. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +635,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, J. J. F. (Lieut.)</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>J. J. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,8 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimley</Key>
-      <Text>F. C. (2nd Lieut.)</Text>
+      <Forenames>F. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Instr. of Musketry J. H. (seconded)</Text>
       <PageNumber>432</PageNumber>
     </MainItem>
@@ -1336,6 +1339,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. R. C.</Forenames>
+      <Text>(2nd Lient.)</Text>
+      <PageNumber>288</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dennistoun</Key>
       <Forenames>I. O.</Forenames>
       <Text>(2nd Lieut.);</Text>
@@ -1387,8 +1398,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hattbn</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Col. V. (half. pay)</Text>
+      <Title>Lieut-Col. and Col.</Title>
+      <Forenames>V.</Forenames>
+      <Text>(half. pay)</Text>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>

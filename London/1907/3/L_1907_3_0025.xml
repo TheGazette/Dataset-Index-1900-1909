@@ -233,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lakin</Key>
-      <Text>J. H.F</Text>
+      <Forenames>J. H.F</Forenames>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,8 +571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>A. C. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. C. E. St. G</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1033,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, L.J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>L.J</Forenames>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>

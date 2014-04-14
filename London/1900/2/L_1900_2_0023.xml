@@ -29,7 +29,9 @@
       <Key>Gordon</Key>
       <Title>Capt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +200,9 @@
       <Key>Hood</Key>
       <Title>Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, Bart., Vice-Chamberlain of H.M.B Household</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +210,9 @@
     <MainItem>
       <Key>Hopetoun</Key>
       <Title>Earl</Title>
-      <Text>of, Knight Grand Cross of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +237,9 @@
       <Key>Hunt</Key>
       <Title>Lieut.</Title>
       <Forenames>G. P. E.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,8 +259,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>V.</Forenames>
-      <Text>de V., H.M.'s Vi»e-</Text>
+      <Forenames>V. de V</Forenames>
+      <Text>., H.M.'s Vi»e-</Text>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +356,9 @@
       <Key>Kirby</Key>
       <Title>Corpl.</Title>
       <Forenames>F.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +399,9 @@
     <MainItem>
       <Key>Lawson</Key>
       <Forenames>A. T.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +492,9 @@
       <Key>Lowther-Crofton</Key>
       <Title>Lieut.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +503,9 @@
       <Key>Lunham</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +559,9 @@
     <MainItem>
       <Key>McDonnell</Key>
       <Forenames>R. J.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +570,9 @@
       <Key>McKay</Key>
       <Title>Corpl.</Title>
       <Forenames>F.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4944</PageNumber>
       <PageNumber>5111</PageNumber>
     </MainItem>
@@ -562,7 +582,9 @@
       <Key>Mackenzie</Key>
       <Title>Lieut.</Title>
       <Forenames>C</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +611,9 @@
       <Key>Mocmillan</Key>
       <Title>Surg.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, Companion of the Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +639,9 @@
       <Key>Mansel-Jones</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +650,9 @@
       <Key>Marchant</Key>
       <Title>Maj.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +661,9 @@
       <Key>Martineau</Key>
       <Title>Sergt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>. Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +688,9 @@
       <Key>Meiklejohn</Key>
       <Title>Capl.</Title>
       <Forenames>M. F. M.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +707,9 @@
       <Key>Milbanke</Key>
       <Title>Capt. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart., Victoria . Cross</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +718,9 @@
       <Key>Milner</Key>
       <Title>Sir</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, Bart., a Privy Councillor</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +778,9 @@
     <MainItem>
       <Key>Muther</Key>
       <Forenames>M.</Forenames>
-      <Text>, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +830,9 @@
       <Key>Norwood</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>J.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,8 +855,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, W. E., Third Secretary in H.M.B Diplomatic Service .. ..</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>W. E.</Forenames>
+      <Text>, Third Secretary in H.M.B Diplomatic Service .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +866,9 @@
       <Key>Parsons</Key>
       <Title>Lieut.</Title>
       <Forenames>F. N.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +918,9 @@
     <MainItem>
       <Key>Pile</Key>
       <Forenames>Right</Forenames>
-      <Text>Hon. T. D., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +954,9 @@
       <Key>Prothero</Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, Companion of the Bath .. .. ..„</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +980,9 @@
     <MainItem>
       <Key>Ramsden</Key>
       <Forenames>Trooper H. E.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +991,9 @@
       <Key>ReuBS</Key>
       <Title>H.S.H. Prince, Honorary</Title>
       <Forenames>Knight Grand Cross</Forenames>
-      <Text>of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +1002,9 @@
       <Key>Richardson</Key>
       <Title>Sergt.</Title>
       <Forenames>A. H. L.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +1021,9 @@
     <MainItem>
       <Key>Ridley</Key>
       <Forenames>Right</Forenames>
-      <Text>Hon. Sir M. W., Bart., created Viscount and Baron Ridley</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1039,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Title>Sergt.</Title>
-      <Text>-Maj. (now Qrmr. and Hon. Lieut.) W., Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1058,9 @@
     <MainItem>
       <Key>Rose</Key>
       <Forenames>E.</Forenames>
-      <Text>, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1109,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Schr</Key>
-      <Text>&amp;dcr, Sir J. H. W., Bart., Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1147,9 @@
       <Key>Serra</Key>
       <Title>Capt.</Title>
       <Forenames>Luigi</Forenames>
-      <Text>, Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,9 +1158,10 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Honorary</Title>
-      <Forenames>Com-</Forenames>
-      <Text>mander of the Royal Victorian Order (correction)</Text>
+      <Title>Honorary Com-</Title>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1186,9 @@
       <Key>Shaul</Key>
       <Title>Corpl.</Title>
       <Forenames>J.</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1224,9 @@
       <Key>Stephen</Key>
       <Title>Sir</Title>
       <Forenames>A. C</Forenames>
-      <Text>, Knight Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>

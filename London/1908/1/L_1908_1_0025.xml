@@ -84,7 +84,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>W. H. (Capt.) -</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(Capt.) -</Text>
       <PageNumber>899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>W. (Capt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +636,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. C. P. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. C. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,6 +1033,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The Prince of Wales's Leinster Regiment (Royal Canadians)</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Staopoole</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(2ndLieut.)</Text>
+      <PageNumber>1208</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>

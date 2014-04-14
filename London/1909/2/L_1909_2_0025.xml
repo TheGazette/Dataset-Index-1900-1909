@@ -62,7 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>J. (Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +103,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, VV. P. (Capt.)</Text>
+      <Key>O'Meara</Key>
+      <Text>VV. P. (Capt.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,8 +469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steadman</Key>
-      <Forenames>S. E. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>S. E. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>P. J. S. (Lieut.)</Text>
+      <Forenames>P. J. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,8 +1568,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>W. R.</Forenames>
-      <Text>de H. (resigned)</Text>
+      <Forenames>W. R. de H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1944,7 +1946,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyilin-Taylor</Key>
-      <Text>G. (iion. Col.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(iion. Col.)</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>

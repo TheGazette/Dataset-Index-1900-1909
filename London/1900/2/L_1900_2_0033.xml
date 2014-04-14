@@ -361,9 +361,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Goldsmidt</Forenames>
-      <Text>, G. (2nd Lieut.)</Text>
+      <Key>De Goldsmidt</Key>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hesketh</Key>
-      <Text>T. E. (2nd Lieut.)</Text>
+      <Forenames>T. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,9 @@
     <MainItem>
       <Key>Arathoon</Key>
       <Forenames>J.</Forenames>
-      <Text>D.L. (2ndLieut.)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>5115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,8 +944,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. M. (2nd Lieut.)</Text>
+      <Forenames>O. St. M</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1222,9 @@
       <Key>Burrell</Key>
       <Title>Sir</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,8 +1241,8 @@
     <MainItem>
       <Key>Gore</Key>
       <Title>Sir</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. G. C. (Lieut.).. ..</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. C. (Lieut.).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

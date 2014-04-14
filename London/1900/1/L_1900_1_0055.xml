@@ -188,8 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hovell</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. (Maj.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myburgh</Key>
-      <Forenames>C.</Forenames>
-      <Text>de F. (2nd Lieut.)</Text>
+      <Forenames>C. de F</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,8 +296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>R. A. De B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>R. A. De B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +571,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucknall</Key>
-      <Text>Capt. W. B; (super.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. B</Forenames>
+      <Text>; (super.)</Text>
       <PageNumber>2348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,8 +1396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de Q. (2nd Lieut.)</Text>
+      <Forenames>R. S. de Q</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,8 +1471,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, A. E. (Lieut.) ..--</Text>
+      <Key>O'Meara</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(Lieut.) ..--</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,8 +1645,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. G. D. (Lieut.) ,</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(Lieut.) ,</Text>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,8 +1662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>R. A. De B.</Forenames>
-      <Text>(2ud Lieut.)</Text>
+      <Forenames>R. A. De B</Forenames>
+      <Text>. (2ud Lieut.)</Text>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>

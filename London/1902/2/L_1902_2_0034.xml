@@ -90,8 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>C. E. St</Forenames>
-      <Text>. J. (Adj.)</Text>
+      <Forenames>C. E. St. J</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,8 +134,8 @@
     <MainItem>
       <Key>Beauclerk</Key>
       <Title>Capt. Lord</Title>
-      <Forenames>O.</Forenames>
-      <Text>de V. (resigned)</Text>
+      <Forenames>O. de V</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +304,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quiatin, Capt. E. S. (resigned)</Text>
+      <Key>St. Quiatin</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hext</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. T. B. (seconded)</Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
@@ -908,7 +910,9 @@
     <MainItem>
       <Key>Jervis-White-</Key>
       <Forenames>Jervis</Forenames>
-      <Text>, Sir J. H., Bart. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +975,9 @@
       <Key>Larcom</Key>
       <Title>Sirr.</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,8 +1089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maule</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. J. (Adj.)</Text>
+      <Forenames>H. N. St. J</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>5098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,9 +1303,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A; W. (2nd Lieut.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A</Forenames>
+      <Text>; W. (2nd Lieut.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,6 +1493,15 @@
       <Forenames>F. A.</Forenames>
       <Text>(Lieut.-Col.)</Text>
       <PageNumber>6345</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laveleye</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E. R. E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1682,7 +1697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. M. (seconded)</Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
@@ -1717,8 +1732,8 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Capt.</Title>
-      <Forenames>W. M. St</Forenames>
-      <Text>. Q. (seconded)</Text>
+      <Forenames>W. M. St. Q</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>7938</PageNumber>
     </MainItem>
   </ItemGroup>

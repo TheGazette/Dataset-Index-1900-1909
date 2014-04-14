@@ -603,7 +603,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. D. (resigned)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
@@ -630,7 +630,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. A. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -648,7 +648,7 @@
       <Key>
         <KeyDitto>— ___ -</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Capt. A. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -860,7 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Forenames>Acting-Chaplain</Forenames>
+      <Title>Acting-</Title>
+      <Forenames>Chaplain</Forenames>
       <Text>Rev. Canon A. H. (resigned)</Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
@@ -873,6 +874,15 @@
       <Forenames>R. P.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>7838</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laru</Key>
+      <Title>Qrmr. and Hon. Lieut.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>8550</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>lst Devonshire and Somersetshire</SectionTitle>
@@ -997,8 +1007,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut. F. E. (resigned) ..</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(resigned) ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

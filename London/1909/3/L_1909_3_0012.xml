@@ -101,8 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Forenames>J. A. O</Forenames>
-      <Text>'B., (Capt,)</Text>
+      <Forenames>J. A. O'B</Forenames>
+      <Text>., (Capt,)</Text>
       <PageNumber>6450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,9 @@
       <Key>Williams-Drummond</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bart., (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,29 +1178,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, A. D. (Capt.)</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>A. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. P. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6449</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. de C. (Capt.)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M. (Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

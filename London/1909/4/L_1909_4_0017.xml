@@ -68,8 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowman</Key>
-      <Forenames>P. A. St</Forenames>
-      <Text>. G. (2nd Lieut.) ..</Text>
+      <Forenames>P. A. St. G</Forenames>
+      <Text>. (2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,9 +154,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Stieglitz</Forenames>
-      <Text>, F. L.(Lieut.)</Text>
+      <Key>Von Stieglitz</Key>
+      <Forenames>F. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Critehley-Salmonson</Key>
-      <Text>A. C. B. (Lieut.)</Text>
+      <Forenames>A. C. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radclyffe</Key>
-      <Text>C. E. (Lieut.Cpl;).. '</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Lieut.Cpl;).. '</Text>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>R. de C. (2nd Lieut.) ... '</Text>
+      <Forenames>R. de C</Forenames>
+      <Text>. (2nd Lieut.) ... '</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +797,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>W.H; L. (Lieut.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>H; L. (Lieut.)</Text>
       <PageNumber>9418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,8 +818,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Honovan, R. A. (Capt.)</Text>
+      <Key>O'Honovan</Key>
+      <Forenames>R. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,8 +1026,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. A. G.(Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. A. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,8 +1369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>B. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
   </ItemGroup>

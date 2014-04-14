@@ -333,7 +333,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>G.M. C.</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Snee</Key>
-      <Text>.M. .. . ..</Text>
+      <Forenames>M.</Forenames>
+      <Text>.. . ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,8 +726,8 @@
     <MainItem>
       <Key>Egerton</Key>
       <Title>Hon.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de T. (Hon. Lieut.Col.) .. .. .. .. ..</Text>
+      <Forenames>A. de T</Forenames>
+      <Text>. (Hon. Lieut.Col.) .. .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +790,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Brocklehurst</Key>
-      <Text>.Sir P. L., Bart., (2nd .</Text>
+      <Title>Sir</Title>
+      <Forenames>P. L.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>_ .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sr</Key>
-      <Text>. Maur, R..H. (Capt.)</Text>
+      <Forenames>Maur</Forenames>
+      <Text>, R..H. (Capt.)</Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +910,9 @@
       <Key>Gilmour</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +921,9 @@
       <Key>
         <KeyDitto>___ —: ___ ___</KeyDitto>
       </Key>
-      <Text>~ ___ Sir J., Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>

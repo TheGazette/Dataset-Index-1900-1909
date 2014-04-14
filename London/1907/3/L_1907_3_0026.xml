@@ -62,7 +62,9 @@
     <MainItem>
       <Key>Leigh</Key>
       <Title>Maj. and Hon. Lieut.</Title>
-      <Text>-Col.O.M. (resigned)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>6293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunynghame</Key>
-      <Forenames>P. J.</Forenames>
-      <Text>de M. (Lieut.)</Text>
+      <Forenames>P. J. de M</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>G. (Vet-Lieut.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(Vet-Lieut.)</Text>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>

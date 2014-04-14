@@ -579,9 +579,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gcx</Forenames>
-      <Text>, B. C. (Capt.)</Text>
+      <Key>De Gcx</Key>
+      <Forenames>B. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spoor</Key>
-      <Text>.er, A. H. (Lieut.)</Text>
+      <Text>er, A. H. (Lieut.)</Text>
       <PageNumber>5670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,7 +1198,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collings</Key>
-      <Text>.Maj. A. W. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1663,7 +1665,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>*. A. F. (seconded)</Text>
       <PageNumber>8641</PageNumber>
     </MainItem>

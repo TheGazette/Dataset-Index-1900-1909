@@ -1344,7 +1344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerrison</Key>
-      <Forenames>Lieut R. O.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>R. O.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
@@ -1440,7 +1441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langford</Key>
-      <Forenames>Lieut C.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
@@ -1966,7 +1968,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonnell</Key>
-      <Text>. Lieut. W. b\ (resigned) '</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W.</Forenames>
+      <Text>b\ (resigned) '</Text>
       <PageNumber>5589</PageNumber>
     </MainItem>
   </ItemGroup>

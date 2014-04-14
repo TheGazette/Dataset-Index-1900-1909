@@ -18,8 +18,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. E. (Maj.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Riselly</Key>
-      <Text>.S. (Capt.)</Text>
+      <Forenames>S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +428,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Vincent-Ryan, E. W. (Maj.)</Text>
+      <Key>St. Vincent-Ryan</Key>
+      <Forenames>E. W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clement</Key>
-      <Text>. S. R. (Capt.)</Text>
+      <Forenames>S. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1501,9 @@
       <Key>Cayzer</Key>
       <Title>Sir</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1544,8 +1550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coghlan</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (2nd Lieut.) '</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (2nd Lieut.) '</Text>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,6 +1654,14 @@
       <Forenames>J. E.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2500</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>H. V. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

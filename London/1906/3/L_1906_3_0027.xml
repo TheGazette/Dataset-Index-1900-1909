@@ -194,8 +194,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. ... .. .. ibid.</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>... .. .. ibid.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deputy-Commissary</Key>
-      <Text>. Cann, C</Text>
+      <Forenames>Cann</Forenames>
+      <Text>, C</Text>
       <PageNumber>4892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>General</Key>
-      <Text>. Stair, Maj. and Hon. Lieut.-Col. J. H. N. G. H. (resigned)</Text>
+      <Forenames>Stair</Forenames>
+      <Text>, Maj. and Hon. Lieut.-Col. J. H. N. G. H. (resigned)</Text>
       <PageNumber>5873</PageNumber>
     </MainItem>
     <SubItem>
@@ -300,6 +303,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bart</Honour>
         <PageNumber>5344</PageNumber>
         <SubCategoryTitle>DEVONSHIRE</SubCategoryTitle>
       </Text>

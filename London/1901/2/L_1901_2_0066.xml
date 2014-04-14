@@ -201,8 +201,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M. (2nd Lieut.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,8 +634,8 @@
     <MainItem>
       <Key>Wickham</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. T. E. Di C.</Forenames>
-      <Text>de B. (eeconded) ,. ,. .. ,</Text>
+      <Forenames>E. T. E. Di C. de B</Forenames>
+      <Text>. (eeconded) ,. ,. .. ,</Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,8 +669,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cbeape</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
     <KeyDitto>___</KeyDitto>
@@ -818,7 +819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Medlicott</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. F. C. (seconded)</Text>
       <PageNumber>5671</PageNumber>
     </MainItem>
@@ -1273,7 +1274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>.Kearney, Lieut. T. F. (antedated)</Text>
+      <Forenames>Kearney</Forenames>
+      <Text>, Lieut. T. F. (antedated)</Text>
       <PageNumber>6399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,6 +1427,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5877</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hamilton</Key>
       <Forenames>H. K.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1500,6 +1510,14 @@
       </Key>
       <Title>(Hon. Maj.)</Title>
       <PageNumber>8841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>L. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5259</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1592,7 +1610,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, J. C. (antedated)</Text>
       <PageNumber>616</PageNumber>
     </MainItem>

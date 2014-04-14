@@ -47,7 +47,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gen</Key>
-      <Text>H.R.H. the Prince of Wales to be Colonel-in-Chief of the following Regiments: — ___ 18th Tiwara Lancers</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of Wales to be Colonel-in-Chief of the following Regiments: — ___ 18th Tiwara Lancers</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
     <SubItem>
@@ -744,8 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>G. R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. R. de H</Forenames>
       <PageNumber>2335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>W</Text>
+      <Forenames>W .</Forenames>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,8 +1187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>R. W.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. W. de C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L. .. ., ..</Text>
+      <Forenames>B. de L</Forenames>
+      <Text>. .. ., ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

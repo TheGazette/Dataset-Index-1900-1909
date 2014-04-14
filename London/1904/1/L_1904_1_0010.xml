@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bintelen</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adj. E., Boyal Victorian iOrder, Hon. Fifth Class</Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
@@ -132,7 +132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>S., Second Assistant Judge of . H.M.'s Court at Zanzibar</Text>
+      <Forenames>S.</Forenames>
+      <Text>, Second Assistant Judge of . H.M.'s Court at Zanzibar</Text>
       <PageNumber>1615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,11 +154,82 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Bilfinger</Key>
+      <Forenames>Baron</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>1013</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Drachenthal</Key>
+      <Forenames>Sub-</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>-.</KeyDitto>
       </Key>
       <Title>Glass.</Title>
       <PageNumber>1013</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Grillhausen</Key>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Hadeln</Key>
+      <Forenames>Baron H.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Livonius</Key>
+      <Title>Maj.</Title>
+      <Forenames>L.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>1945</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Reischach</Key>
+      <Forenames>Baron</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>1013</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Tilly</Key>
+      <Title>Col.</Title>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -203,7 +275,9 @@
     <MainItem>
       <Key>Weid</Key>
       <Forenames>H. S. H.</Forenames>
-      <Text>, Hereditary Prince of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +293,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Title>Maj.</Title>
-      <Text>-Geh. A. H. W., Knight Commander, Royal Victorian Order'</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +314,9 @@
     <MainItem>
       <Key>Winiker</Key>
       <Forenames>Count O.</Forenames>
-      <Text>, Royal Victorian Order, Hon. Fourth Class. '</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,6 +449,14 @@
       <Forenames>G. P.</Forenames>
       <Text>, Aide-de-Camp, . to Maj.-Gen. Sir B. M. Hamilton</Text>
       <PageNumber>409</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rougement</Key>
+      <Title>Maj</Title>
+      <Text>; C. H.DeputyAssist. Adj. Gen</Text>
+      <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

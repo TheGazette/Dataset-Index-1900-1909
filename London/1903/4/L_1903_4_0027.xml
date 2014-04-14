@@ -199,16 +199,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mcagher,-F. T. (ind Lieut.)</Text>
+      <Key>O'Mcagher</Key>
+      <Text>-F. T. (ind Lieut.)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>R. H. St</Forenames>
-      <Text>. G. C. (Capt.)</Text>
+      <Forenames>R. H. St. G</Forenames>
+      <Text>. C. (Capt.)</Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, N. S. (resigned)</Text>
       <PageNumber>6090</PageNumber>
     </MainItem>
@@ -757,7 +757,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FrazeiyG</Key>
-      <Text>S...</Text>
+      <Forenames>S.</Forenames>
+      <Text>..</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>GossettC</Key>
-      <Text>B...</Text>
+      <Forenames>B.</Forenames>
+      <Text>..</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

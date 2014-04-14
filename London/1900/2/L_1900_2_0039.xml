@@ -507,9 +507,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, M. A. (2nd Lieut.) .. ..</Text>
+      <Key>De Forest</Key>
+      <Forenames>M. A.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,8 +804,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>W. J.</Forenames>
-      <Text>de E. (resigned)</Text>
+      <Forenames>W. J. de E</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +844,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. E. (Lieut.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,6 +961,14 @@
   </ItemGroup>
   <SectionTitle>Wicklow</SectionTitle>
   <SubSectionTitle>Southern Division</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>5323</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1174,8 +1183,8 @@
   <SubSectionTitle>Eastern Division</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Warr</Forenames>
+      <Key>De La</Key>
+      <Forenames>Warr</Forenames>
       <Text>, Earl (re-appointed Capt.)</Text>
       <PageNumber>5769</PageNumber>
     </MainItem>
@@ -1217,8 +1226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramus</Key>
-      <Forenames>B. E.</Forenames>
-      <Text>de N. (Lieut.) .. .,</Text>
+      <Forenames>B. E. de N</Forenames>
+      <Text>. (Lieut.) .. .,</Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gor</Key>
-      <Text>.lon, 2nd Lieut. J. L. (resigned)</Text>
+      <Text>lon, 2nd Lieut. J. L. (resigned)</Text>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,6 +177,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Goldsmidt</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>7395</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fernie</Key>
       <Forenames>R.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -224,8 +233,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. K. H. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. K. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,6 +368,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>4th Dragoon Guards</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiart</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6049</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deprez</Key>
@@ -510,8 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. M. (Lieull</Text>
+      <Forenames>O. St. M</Forenames>
+      <Text>. (Lieull</Text>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,8 +539,8 @@
         <KeyDitto>—— ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Forenames>O. St</Forenames>
-      <Text>. M. (antedated)</Text>
+      <Forenames>O. St. M</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>7650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandbach</Key>
-      <Text>. H. H. (Lieut.)</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,8 +1394,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. G. D. (2nd Lieut.) ..</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

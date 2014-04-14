@@ -118,7 +118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>J. W. (Capt.)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +195,9 @@
       <Key>Clark</Key>
       <Title>Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,6 +607,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>H. J. T.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4701</PageNumber>
+      <PageNumber>5298</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Forwood</Key>
       <Forenames>T. B.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -655,8 +667,8 @@
     <MainItem>
       <Key>Irving</Key>
       <Title>Capt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de R. (correction)</Text>
+      <Forenames>H. de R</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>4632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,6 +712,14 @@
       <Forenames>C. T. S.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>5620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Calry</Key>
+      <Forenames>V. A. M. C.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -954,11 +974,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>Lieut. W. A. P. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. A. P.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>2nd Volunteer Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Title>Super. Capt.</Title>
+      <Forenames>A. P.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>4632</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1090,6 +1121,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Clermont</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fenn</Key>
       <Forenames>A. A.</Forenames>
       <Text>(2nd Lieut.) .. ..</Text>
@@ -1187,7 +1226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Case</Key>
-      <Forenames>Lieut J. M.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>J. M.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>6475</PageNumber>
     </MainItem>

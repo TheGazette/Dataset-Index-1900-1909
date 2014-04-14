@@ -20,8 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, H. C:</Text>
+      <Key>St. John</Key>
+      <Forenames>H. C</Forenames>
+      <Text>:</Text>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,9 @@
       <Key>Culme-Seymour</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,8 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. .. .. ..</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. .. .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +624,9 @@
       <Key>Cust</Key>
       <Title>Sir</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, Bart. {</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,8 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>3837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1312,9 @@
       <Key>Culme-Seymour</Key>
       <Title>Admiral Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1357,9 @@
       <Key>Chichester</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bart. .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

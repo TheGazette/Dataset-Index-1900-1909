@@ -296,8 +296,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. J. St</Forenames>
-      <Text>. J. (Adj.)</Text>
+      <Forenames>W. J. St. J</Forenames>
+      <Text>. (Adj.)</Text>
       <PageNumber>6325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +358,9 @@
     <MainItem>
       <Key>Richardson</Key>
       <Title>2nd Lieut.</Title>
-      <Text>SirE. A. S., Bart, (cancellation)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalglish</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de G. (Lieut.)</Text>
+      <Forenames>C. A. de G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>T. (2nd Lieut.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,8 +989,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Forenames>A. M. St</Forenames>
-      <Text>. C. (2nd Lieut, extra super.)</Text>
+      <Forenames>A. M. St. C</Forenames>
+      <Text>. (2nd Lieut, extra super.)</Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,9 +1223,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Foster</Key>
-      <Forenames>V. Le</Forenames>
-      <Text>TX. (Lieut.)</Text>
+      <Key>de Falbe</Key>
+      <Forenames>C. F. G. W.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>B. S.</Forenames>
+      <Text>(Maj.) Foster, V. Le TX. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

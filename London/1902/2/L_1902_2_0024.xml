@@ -135,6 +135,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Col.</Title>
+      <Text>TJ. G. C, Assist. Inspector of Remounts</Text>
+      <PageNumber>8681</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickson</Key>
       <Title>Col.</Title>
       <Forenames>E. T.</Forenames>
@@ -145,7 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>Willan, Brer. Col. H. B., to be Assist. Inspector of Remounts</Text>
+      <Forenames>Willan</Forenames>
+      <Text>, Brer. Col. H. B., to be Assist. Inspector of Remounts</Text>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,8 +432,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepburne</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. R. G. W., Col. to command the Royal Artillery, Madras Command, and Temporary Brig.-Gen</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>R. G. W.</Forenames>
+      <Text>, Col. to command the Royal Artillery, Madras Command, and Temporary Brig.-Gen</Text>
       <PageNumber>4969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,8 +470,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. Sir H. A. W., Bart., to be Assist. Adj.Gen., and Col</Text>
+      <Title>Lieut-Col. and Brev. Col. Sir</Title>
+      <Forenames>H. A. W.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +485,9 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>H. A. W.</Forenames>
-      <Text>, Bart, (correction)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +559,9 @@
       <Key>Leighton</Key>
       <Title>Capt. Sir</Title>
       <Forenames>B. B. M.</Forenames>
-      <Text>, Bart,, extra Aide-de-Camp .. .-</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,8 +657,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Main</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brev. Col. T. R., Col. on the Staff for Royal Engineers, and Col</Text>
+      <Title>Lieut-Col. and Brev. Col.</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>, Col. on the Staff for Royal Engineers, and Col</Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,8 +722,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. C. T. E., Col. on the Staff to command Troops in Mauritius, and Local Brig.-Gen</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>C. T. E.</Forenames>
+      <Text>, Col. on the Staff to command Troops in Mauritius, and Local Brig.-Gen</Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +759,8 @@
     <MainItem>
       <Key>Morton</Key>
       <Title>Maj.-Gen. Sir</Title>
-      <Forenames>G.</Forenames>
-      <Text>de C, Maj.Gen. to command the 7tli Division 3rd Army Corps .. .. .. j.&lt;</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>, Maj.Gen. to command the 7tli Division 3rd Army Corps .. .. .. j.&lt;</Text>
       <PageNumber>69</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +802,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Col. (Temporary MaiGen.) D. D. T., Maj.-Gen. on the Staff to command the Royal Artillery at Malta .. .. .. (!</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Col. (Temporary MaiGen.)</Title>
+      <Forenames>D. D. T.</Forenames>
+      <Text>, Maj.-Gen. on the Staff to command the Royal Artillery at Malta .. .. .. (!</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>

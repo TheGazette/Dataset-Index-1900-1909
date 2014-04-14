@@ -299,8 +299,8 @@
     <MainItem>
       <Key>Nepean</Key>
       <Title>Lieut.</Title>
-      <Forenames>L. P. St</Forenames>
-      <Text>. V. (resigned)..</Text>
+      <Forenames>L. P. St. V</Forenames>
+      <Text>. (resigned)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,29 +380,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Lieut. J. (resigned and Hon. Lieut.)</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Capt. G. J. (resigned and Hon. Capt,)</Text>
+      <Key>O'Connell</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. J.</Forenames>
+      <Text>(resigned and Hon. Capt,)</Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Lieut. B. (resigned and Hon. Lieut.)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Lieut.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(resigned and Hon. Lieut.)</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Lieut. J. F. W. (resigned and Hon. Lieut.).:</Text>
+      <Key>O'Hara</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. F. W.</Forenames>
+      <Text>(resigned and Hon. Lieut.).:</Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,8 +425,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lieut.-Col. W. H. (to command)</Text>
+      <Key>O'Neill</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(to command)</Text>
       <PageNumber>4511</PageNumber>
     </MainItem>
   </ItemGroup>

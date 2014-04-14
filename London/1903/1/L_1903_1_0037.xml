@@ -214,8 +214,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eorbes</Key>
-      <Forenames>Super</Forenames>
-      <Text>. Maj. (Hon. Lieut.-Col.) J. S. (resigned)'</Text>
+      <Title>Super. Maj. (Hon. Lieut.-Col.)</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(resigned)'</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>, Earl of (Lieut.-Col. and to command) . . .. .. ..</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.-Col. and to command) . . .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +345,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheape</Key>
-      <Text>, Lieut. (Hon. Capt.) H. A. (resigned) .. . '</Text>
+      <Title>Lieut. (Hon. Capt.)</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(resigned) .. . '</Text>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,14 +365,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Beresford-Peirse</Key>
-      <Text>, Lieut. (Hon; Maj.) H. B. de la P. (resigned)</Text>
+      <Title>Lieut. (Hon; Maj.)</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>de la P. (resigned)</Text>
       <PageNumber>470</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Lord (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Lord (resigned)</Title>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +445,9 @@
       <Key>Montgomery</Key>
       <Title>Sir</Title>
       <Forenames>B.T. G.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>3177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,14 +675,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, S ,</Text>
+      <Forenames>S</Forenames>
+      <Text>,</Text>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Izat</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,6 +734,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bartolome</Key>
+      <Text>CM...</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dick</Key>
       <Forenames>J. D</Forenames>
       <PageNumber>___</PageNumber>
@@ -766,7 +781,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwliitt</Key>
-      <Text>, E, ST.</Text>
+      <Forenames>E</Forenames>
+      <Text>, ST.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,6 +911,14 @@
       <Forenames>H.</Forenames>
       <Text>.. .,</Text>
       <PageNumber>530</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ste</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, P</Text>
+      <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1001,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collinge</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,8 +1149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Forenames>D.</Forenames>
-      <Text>de C. A</Text>
+      <Forenames>D. de C</Forenames>
+      <Text>. A</Text>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tindal</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>.TI</Text>
+      <Text>TI</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheelwright</Key>
-      <Text>, ST.</Text>
+      <Text>ST.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

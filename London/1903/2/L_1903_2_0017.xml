@@ -333,8 +333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. Y. R. (Capt.)</Text>
+      <Forenames>N. St. Y</Forenames>
+      <Text>. R. (Capt.)</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,8 +543,8 @@
     <MainItem>
       <Key>Dickinson</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. H. E.</Forenames>
-      <Text>de B. (temporary half-pay)</Text>
+      <Forenames>W. H. E. de B</Forenames>
+      <Text>. (temporary half-pay)</Text>
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +712,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, A. (Riding-Master and Hon. Lieut.)</Text>
+      <Key>St. George</Key>
+      <Forenames>A.</Forenames>
+      <Text>(Riding-Master and Hon. Lieut.)</Text>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,9 +1061,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, Capt. C. (seconded)</Text>
+      <Key>De Sausmarez</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,8 +1105,8 @@
     <MainItem>
       <Key>Dudley</Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S. (seconded) ..</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (seconded) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Text>. J. T. C. (Capt.)</Text>
+      <Forenames>J. T. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>

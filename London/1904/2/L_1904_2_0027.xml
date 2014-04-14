@@ -65,7 +65,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vassall</Key>
-      <Text>Lieut. P. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>P. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J. L. (seconded)</Text>
       <PageNumber>4036</PageNumber>
     </MainItem>
@@ -254,8 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>R. A. De B.</Forenames>
-      <Text>(Capt.)</Text>
+      <Forenames>R. A. De B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +408,8 @@
     <MainItem>
       <Key>Wilding</Key>
       <Title>Rev.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Acting Chap.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Acting Chap.)</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,8 +425,8 @@
     <MainItem>
       <Key>Mansergh</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>P. St</Forenames>
-      <Text>. G. (seconded)</Text>
+      <Forenames>P. St. G</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +510,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackwood</Key>
-      <Text>Lieut. F. E. (seconded).,</Text>
+      <Title>Lieut.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(seconded).,</Text>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +540,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. G. Mc. (antedated)</Text>
       <PageNumber>3551</PageNumber>
     </MainItem>
@@ -544,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creaghe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. A. W. (antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -585,16 +589,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Forenames>A. De V.</Forenames>
-      <Text>(Lieut;)</Text>
+      <Forenames>A. De V</Forenames>
+      <Text>. (Lieut;)</Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'G. (Lieut.)</Text>
+      <Forenames>I. O'G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1088,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidgey</Key>
-      <Text>W. (Capt.) .. ..</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,8 +1236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>J. H.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>J. H. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,8 +1247,8 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>J. H.</Forenames>
-      <Text>de B. (resigned)</Text>
+      <Forenames>J. H. de B</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>

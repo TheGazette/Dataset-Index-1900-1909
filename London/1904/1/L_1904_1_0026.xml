@@ -346,7 +346,9 @@
       <Key>Kent</Key>
       <Title>Capt.</Title>
       <Forenames>T. W. S.</Forenames>
-      <Text>(seconded) Oldham, Lieut. G. C. (cashiered) Raymond, M. C. (2nd Lieut.) Robinson, Sir F. V. L., Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +365,10 @@
     <MainItem>
       <Key>Brooke</Key>
       <Title>Sir</Title>
-      <Forenames>A. R.</Forenames>
-      <Text>de C, Bart. (Hon. Maj.) £</Text>
+      <Forenames>A. R. de C</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrott</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. N. B. (resigned)</Text>
       <PageNumber>31</PageNumber>
     </MainItem>

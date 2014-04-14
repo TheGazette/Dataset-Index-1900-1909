@@ -474,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baeon</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, C. R. K. (seconded)</Text>
       <PageNumber>4965</PageNumber>
     </MainItem>
@@ -678,8 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkins</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>8511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,8 +973,8 @@
     <MainItem>
       <Key>Harmer</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>S. St</Forenames>
-      <Text>. A. (resigned)</Text>
+      <Forenames>S. St. A</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>5754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiehe</Key>
-      <Forenames>J. A. Von W.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>J. A. Von W</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,8 +1147,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lieut. C. H. P. (temporary half-pay) .. .. .. ..</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. H. P.</Forenames>
+      <Text>(temporary half-pay) .. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

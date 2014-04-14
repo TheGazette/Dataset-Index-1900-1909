@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,16 +131,9 @@
       <PageNumber>2631</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Counties Insurance Company</Forenames>
-      <Text>, notice of winding up</Text>
-      <PageNumber>2379</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>
+    <KeyDitto>___ ___ ___ ___</KeyDitto>
+  </CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Electricity</Key>
@@ -188,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Exchequer</Key>
-      <Text>, receipts into and payments out of, between : let April and 31st December</Text>
+      <Text>receipts into and payments out of, between : let April and 31st December</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
     <SubItem>

@@ -169,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meikle</Key>
-      <Text>.john, Capt. M. F. M., General Staff Officer, 3rd Grade, at Headquarters .. ,</Text>
+      <Text>john, Capt. M. F. M., General Staff Officer, 3rd Grade, at Headquarters .. ,</Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Hill, Maj. G. H., Governor and Commander-in-Chief of Barbados, Sclater, Maj.-Gen. H. C, to command a Division</Text>
+      <Forenames>Hill</Forenames>
+      <Text>, Maj. G. H., Governor and Commander-in-Chief of Barbados, Sclater, Maj.-Gen. H. C, to command a Division</Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,8 +506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Isaacson</Key>
-      <Forenames>C.</Forenames>
-      <Text>de S. (Capt.)</Text>
+      <Forenames>C. de S</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,16 +714,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, O. C. (2nd Lieut.).. ..</Text>
+      <Key>St. John</Key>
+      <Forenames>O. C.</Forenames>
+      <Text>(2nd Lieut.).. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>C. L. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +870,7 @@
     <MainItem>
       <Key>Boone</Key>
       <Title>Capt.</Title>
-      <Forenames>C. F.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. F. de B</Forenames>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,8 +894,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Capt. F. R. P. (2nd Asst. Instructor)</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. R. P.</Forenames>
+      <Text>(2nd Asst. Instructor)</Text>
       <PageNumber>2350</PageNumber>
     </MainItem>
   </ItemGroup>

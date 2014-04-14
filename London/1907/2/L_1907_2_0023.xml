@@ -106,8 +106,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fell</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Brevet Col. R. B. (half-pay) ..</Text>
+      <Title>Lieut-Col. and Brevet Col.</Title>
+      <Forenames>R. B.</Forenames>
+      <Text>(half-pay) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>J. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,8 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Veasey</Key>
-      <Text>C. L. (Capt.)</Text>
+      <Forenames>C. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Breul</Key>
-      <Text>F. A. (Adj.)</Text>
+      <Forenames>F. A.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>3195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Badham</Key>
-      <Text>J. F. (Adj.)</Text>
+      <Forenames>J. F.</Forenames>
+      <Text>(Adj.)</Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +592,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>2nd Lieut. A. C. (seconded)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1092,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>Capt. W. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,8 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Forenames>N.</Forenames>
-      <Text>de F. (Capt.)</Text>
+      <Forenames>N. de F</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>late, C. A. J. S. (Capt.)</Text>
+      <Title>late</Title>
+      <Text>, C. A. J. S. (Capt.)</Text>
       <PageNumber>3831</PageNumber>
     </MainItem>
   </ItemGroup>

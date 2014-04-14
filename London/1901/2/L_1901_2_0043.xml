@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madock</Key>
-      <Text>.*, W. E. N. (Capt.)</Text>
+      <Text>*, W. E. N. (Capt.)</Text>
       <PageNumber>8561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,15 +138,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Capt. C. L. (correetion)</Text>
+      <Key>O'Malley</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(correetion)</Text>
       <PageNumber>4402</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. H. (Lieut.-Col.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. H.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boss</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, A. C. (seconded)</Text>
       <PageNumber>6897</PageNumber>
     </MainItem>
@@ -1486,8 +1489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Forenames>H. C. St</Forenames>
-      <Text>. G. (Maj.)</Text>
+      <Forenames>H. C. St. G</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,8 +1506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>Capt. St.</Title>
-      <Forenames>L. M.</Forenames>
+      <Title>Capt. St. L.</Title>
+      <Forenames>M.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
@@ -1928,7 +1931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>. J. C. (Maj.)</Text>
+      <Forenames>J. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1983,8 +1987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W. (2nd Lient.)</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>. (2nd Lient.)</Text>
       <PageNumber>6669</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -34,8 +34,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, H., (Lieut..Col.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>H.</Forenames>
+      <Text>, (Lieut..Col.)</Text>
       <PageNumber>1318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>NewtonKing</Key>
-      <Text>F. J. (Hon. Lieut.-Col.)</Text>
+      <Forenames>F. J.</Forenames>
+      <Text>(Hon. Lieut.-Col.)</Text>
       <PageNumber>570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,6 +1203,14 @@
       <Forenames>E.</Forenames>
       <Text>. J. (retired)</Text>
       <PageNumber>2363</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pentheny-O'Kelly</Key>
+      <Forenames>E. J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

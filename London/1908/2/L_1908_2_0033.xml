@@ -279,8 +279,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, P. W. .. ' .. ..</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>P. W.</Forenames>
+      <Text>.. ' .. ..</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,14 +614,15 @@
   <ItemGroup>
     <MainItem>
       <Key>MacWatters</Key>
-      <Text>. M. R. C</Text>
+      <Forenames>M. R. C.</Forenames>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. S .. ..</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. S .</Forenames>
+      <Text>. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Folliott</Key>
-      <Text>.E. .. .. ., ..</Text>
+      <Forenames>E.</Forenames>
+      <Text>.. .. ., ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +975,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Huggins</Key>
-      <Text>.W. M</Text>
+      <Forenames>W. M</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>

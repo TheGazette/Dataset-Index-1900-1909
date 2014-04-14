@@ -151,7 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Text>.E. J. (Capt.)</Text>
+      <Forenames>E. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +224,9 @@
     <MainItem>
       <Key>Milbome-Swinnerton-</Key>
       <Forenames>Pilkingtbn</Forenames>
-      <Text>, Sir T. E., Bart. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neave</Key>
-      <Text>.C. A. (Capt.)</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,29 +861,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. H. S. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. H. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, C. D. (Capt.)</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>C. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carrol, F. W. G. (Capt.)</Text>
+      <Key>O'Carrol</Key>
+      <Forenames>F. W. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, T. S. (Maj.)</Text>
+      <Key>O'Dell</Key>
+      <Forenames>T. S.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,8 +901,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. W. (Lieut.-Col and Hon. Col.)</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. W.</Forenames>
+      <Text>(Lieut.-Col and Hon. Col.)</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,15 +931,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, F. T. (Capt.)</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>F. T.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. E. (Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +973,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. B. (Maj.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. B.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1013,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G. L. (Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkyn</Key>
-      <Text>. H. G. (Capt.)</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,8 +1531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powney</Key>
-      <Forenames>C. Du P. P.</Forenames>
-      <Text>(Maj. and Hon. Lieut.-Col.)</Text>
+      <Forenames>C. Du P</Forenames>
+      <Text>. P. (Maj. and Hon. Lieut.-Col.)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,8 +1651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quieke</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. C. (2nd.Lieut.)</Text>
+      <Forenames>E. C. St. C</Forenames>
+      <Text>. (2nd.Lieut.)</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1753,7 +1767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawles</Key>
-      <Text>. H. O. L. (Lieut.)</Text>
+      <Forenames>H. O. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1947,8 +1962,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. H. St</Forenames>
-      <Text>. C. C. (Capt.)</Text>
+      <Forenames>R. H. St. C</Forenames>
+      <Text>. C. (Capt.)</Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2011,7 +2026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rouse</Key>
-      <Text>. €r. C. M. (Capt.)</Text>
+      <Text>€r. C. M. (Capt.)</Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>

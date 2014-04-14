@@ -319,7 +319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halse</Key>
-      <Text>.A. H. (Maj.)</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,8 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lonsdale</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. Earl of (absorbed into Establishment)</Text>
+      <Title>Lieut-Col. and Hon. Col. Earl</Title>
+      <Text>of (absorbed into Establishment)</Text>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +543,9 @@
       <Key>Fowler</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poore</Key>
-      <Text>. R. A: (Capt.)</Text>
+      <Forenames>R. A</Forenames>
+      <Text>: (Capt.)</Text>
       <PageNumber>5511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +695,9 @@
       <Key>Lambert</Key>
       <Title>Sir</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, Bart. (Maj.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +831,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>C.H. (Maj.) .. .. ..</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -57,7 +57,9 @@
       <Key>Arthur</Key>
       <Title>Lieut. Sir Gr.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bart, (re| signed and Hon. Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,6 +808,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>E. M. P.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>3978</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Jacques</Key>
       <Title>Surg.</Title>
       <Text>-Maj. J. T. (resigned)</Text>
@@ -1007,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. C. P. (seconded)</Text>
       <PageNumber>1890</PageNumber>
     </MainItem>
@@ -1108,7 +1118,9 @@
       <Key>Stuart</Key>
       <Title>Sir</Title>
       <Forenames>S. H. L.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1186,9 @@
       <Key>Baillie</Key>
       <Title>Sir</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>

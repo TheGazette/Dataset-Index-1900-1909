@@ -426,7 +426,9 @@
       <Key>Barlow</Key>
       <Title>Sir</Title>
       <Forenames>H. W. W.</Forenames>
-      <Text>, Bart. (Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +541,9 @@
       <Key>Wood</Key>
       <Title>Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>Winder, F. F. (local rank of Lieut, with King's African Rifles)</Text>
+      <Forenames>Winder</Forenames>
+      <Text>, F. F. (local rank of Lieut, with King's African Rifles)</Text>
       <PageNumber>9660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,9 +773,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, H. J. (Col.)</Text>
+      <Key>Du Cane</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,8 +1115,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. C. (local rank of Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(local rank of Capt.)</Text>
       <PageNumber>9660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,8 +1374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. (Col.)</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>

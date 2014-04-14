@@ -280,7 +280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulding</Key>
-      <Text>T. (Lieut.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>L. S. F. De R.</Forenames>
-      <Text>(Capt. and Hon. Maj.)</Text>
+      <Forenames>L. S. F. De R</Forenames>
+      <Text>. (Capt. and Hon. Maj.)</Text>
       <PageNumber>9375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +440,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +708,9 @@
       <Key>Salomans</Key>
       <Title>Sir</Title>
       <Forenames>D. L. G. S.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>A. (Lieut.) ..</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
